@@ -4,7 +4,7 @@ Mapping data and code sharing practices among Q1 sport science journals over the
 
 ## Repository Structure
 
-`data/`: Contains the data used in the analyses. See the data README for more details.
+`data/`: Contains the data used in the analyses. Currently empty.
 
 `scripts/`: Contains all R scripts used for data processing and analysis in numbered order. See the script README for more details.
 
