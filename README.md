@@ -1,5 +1,7 @@
 # Data and Code Availability in Sports Science
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22096682.svg)](https://doi.org/10.5281/zenodo.22096682)
+
 Mapping data and code sharing practices among Q1 sport science journals over the past ten years.
 
 ## Repository Structure
