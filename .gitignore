@@ -4,3 +4,10 @@
 .httr-oauth
 .DS_Store
 .quarto
+lit
+paper
+data/prevdata
+data/pilot/all
+data/pilot/imported
+data/pilot/studies
+data/pilot/zotero
