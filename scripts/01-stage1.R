@@ -5,27 +5,23 @@
 
 # load packages
 library(readr)
+library(binom)
 
 # expected sample size
 i <- 10 # number of years
-k <- 30 # number of journals 
-n_per_ik <- 250 # number of articles per journal per year
+k <- 25 # number of journals 
+n_per_ik <- 175 # number of articles per journal per year
 drop <- 0.2 # assumed exclusion rate
 N <- i * k * n_per_ik * (1-drop) # expected total sample size
 N
-#> 60000
+#> 35000
 
-# precision estimation
-# assuming a data sharing percentage of 1% across 60000 studies
-b <- binom.confint(0.01*60000, 60000, methods = "ac")
-b$upper - b$lower # 95% confidence interval width
-#> 0.0016
-
-# precision estimation for error rates (verification set)
-# assuming an error rate of 1%
-err <- binom.confint(0.01*500, 500, methods = "ac")
-err$upper - err$lower # 95% confidence interval width
-#> 0.0203
+# expected time for manual download
+pa <- 0.25 # proportion of automatically retrieved studies
+t <- 16.5 # time per manual retrieval (in s)
+nr <- N * (1 - pa) # studies that need manual retrieval
+(nr * t) / (60 * 60)
+# 120 hours
 
 # data sharing in Borg et al. (2020) for only original articles
 # read data provided on GitHub 
