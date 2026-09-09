@@ -4,6 +4,8 @@
 
 Mapping data and code sharing practices among Q1 sport science journals over the past ten years.
 
+Read the preprint on MetaArXiv: <https://doi.org/10.31222/osf.io/et5fw_v1>
+
 ## Repository Structure
 
 `data/`: Contains the data used in the analyses. See the [data README](data/README.md) for details.
@@ -12,4 +14,4 @@ Mapping data and code sharing practices among Q1 sport science journals over the
 
 ## License
 
-This project uses a [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) license, which also applies to all data published in this repository. All code is additionally licensed under an [MIT license](https://github.com/smnnlt/data-code-sports/blob/main/LICENSE.md).
+This project uses a [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) license, which also applies to all data and texts published in this repository. All code is additionally licensed under an [MIT license](https://github.com/smnnlt/data-code-sports/blob/main/LICENSE.md).
