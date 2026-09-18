@@ -20,6 +20,7 @@ import_wos <- function(path) {
 d_import <- lapply(fl, import_wos)
 d <- purrr::list_rbind(d_import)
 nrow(d)
+#> 8192
 # matches total search results
 
 # rename column names
@@ -30,6 +31,19 @@ a <- data.frame(
   journal = d$SO,
   year = as.integer(d$PY)
 )
+
+# number of duplicates (by DOI matching)
+dd <- which(duplicated(a$doi, incomparables = NA))
+#> 2 duplicates
+dt <- which(duplicated(a$title, incomparables = NA))
+#> 2 (different) duplicates
+
+# inspect duplicates
+a[which(a$doi == a$doi[dd[[1]]]),]
+a[which(a$doi == a$doi[dd[[2]]]),]
+a[which(a$title == a$title[dt[[2]]]),]
+a[which(a$title == a$title[dt[[2]]]),]
+# 4 true duplicates
 
 # perform a random sample of 200 records 
 set.seed(4711)
