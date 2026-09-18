@@ -8,6 +8,7 @@ This folder contains the data used for the analyses in this project.
   - `pilot/manual.csv`: Manually extracted pilot data.
   - `pilot/sample.csv`: Random sample selected from the pilot search results.
   - `pilot/search/`: Raw pilot search-result exports.
+  - `scimago/raw/`: SCImago Journal Rank for the subject category "Sport Science" for the years 2017-2025
 
 ## Data dictionary
 
