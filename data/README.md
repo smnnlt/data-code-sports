@@ -4,11 +4,12 @@ This folder contains the data used for the analyses in this project.
 
 ## Directory structure
 
-  - `pilot/automated.csv`: Data extracted automatically with `metacheck`.
+  - `pilot/automated.csv`: Data extracted automatically (availability statements and analysis software).
   - `pilot/manual.csv`: Manually extracted pilot data.
+  - `pilot/repo_check.Rds`: Output of the `repo_check` module of `metacheck` for the pilot sample (detection and inspection of linked data/code repositories).
   - `pilot/sample.csv`: Random sample selected from the pilot search results.
   - `pilot/search/`: Raw pilot search-result exports.
-  - `scimago/raw/`: SCImago Journal Rank for the subject category "Sport Science" for the years 2017-2025
+  - `scimago/raw/`: SCImago Journal Rank for the subject category "Sports Science" for the years 2017-2025.
 
 ## Data dictionary
 
@@ -17,25 +18,33 @@ This folder contains the data used for the analyses in this project.
 | Column | Description |
 | --- | --- |
 | `""` | Row identifier. |
-| `id` | Filename-based identifier for the article full text (DOI without '/', or, if DOI is unavailable, first author name and year). |
-| `flag_statement` | Automated indicator that an availability statement or section was detected. |
-| `flag_repo` | Automated indicator that a data or code repository was mentioned. |
-| `spss`, `stata`, `jamovi`, `jasp`, `r`, `python`, `prism`, `excel`, `sas`, `lisrel`, `matlab`, `statistica`, `winbugs`, `bioestat`, `stan`, `pspp`, `medcalc` | Automated indicators for whether the named statistical software or programming language was detected in the article. |
+| `id` | Filename-based identifier for the article full text (DOI with '/' replaced by '+', or, if the DOI is unavailable, first author name and year). |
+| `flag_statement_data` | Automated indicator (`TRUE`/`FALSE`) that a data availability statement was detected. |
+| `flag_statement_code` | Automated indicator (`TRUE`/`FALSE`) that a code availability statement was detected. |
+| `statement_data_text` | Sentence(s) matched as data availability statement; multiple matches are separated by ` // `. `NA` if none. |
+| `statement_code_text` | Sentence(s) matched as code availability statement; multiple matches are separated by ` // `. `NA` if none. |
+| `spss`, `stata`, `jamovi`, `jasp`, `r`, `python`, `prism`, `excel`, `sas`, `lisrel`, `matlab`, `statistica`, `winbugs`, `bioestat`, `stan`, `pspp`, `medcalc` | Automated indicators (`TRUE`/`FALSE`) for whether the named statistical software or programming language was detected in the article. |
+| `software_text` | Sentence(s) in which software was detected; multiple matches are separated by ` // `. `NA` if no software was detected. |
 
 ### `pilot/manual.csv`
 
 | Column | Description |
 | --- | --- |
-| `id` | Filename-based identifier for the article full text (DOI without '/', or, if DOI is unavailable, first author name and year). |
-| `exclude` | Manual exclusion indicator. |
-| `data_statement` | Result of the manual assessment of the data availability statement. |
-| `data_available` | Manual indicator of whether data are available. |
-| `data_link` | Link to the available data. |
-| `code_statement` | Categorical result of the manual assessment of the code availability statement. |
-| `code_available` | Manual indicator of whether code is available. |
-| `code_link` | Link to the available code. |
-| `spss`, `stata`, `jamovi`, `jasp`, `r`, `python`, `prism`, `excel`, `sas`, `lisrel`, `matlab`, `statistica`, `winbugs`, `bioestat`, `stan`, `pspp`, `medcalc` | Indicators for whether the named statistical software or programming language is used in the article. |
-| `other` | Other software identified during manual extraction. |
+| `""` | Row identifier. |
+| `id` | Filename-based identifier for the article full text (DOI with '/' replaced by '+', or, if the DOI is unavailable, first author name and year). |
+| `exclude` | Manual exclusion indicator (`TRUE` = article excluded, e.g., not original quantitative research; `NA` = included). |
+| `data_statement` | Category of the data availability statement: `none` (no statement), `onrequest` (available on request), `repo` (shared in a repository), `online` (publicly available third-party data source), `supplement` (supplementary material), `withinarticle`/`withinstudy` (data reported within the article). |
+| `data_available` | Manual indicator of whether data are actually available (`TRUE`/`FALSE`; `NA` = not applicable, i.e., no data link or file provided). |
+| `data_link` | Link to the available data. Empty if none. |
+| `code_statement` | Category of the code availability statement: `none` (no statement), `repo` (shared in a repository). Empty if not coded. |
+| `code_available` | Manual indicator of whether code is actually available (`TRUE`/`FALSE`; `NA` = not applicable). |
+| `code_link` | Link to the available code. Empty if none. |
+| `spss`, `stata`, `jamovi`, `jasp`, `r`, `python`, `prism`, `excel`, `sas`, `lisrel`, `matlab`, `statistica`, `winbugs`, `bioestat`, `stan`, `pspp`, `medcalc` | Indicators (`TRUE`; `NA` = not used) for whether the named statistical software or programming language is used in the article. |
+| `other` | Other software identified during manual extraction (free text; multiple entries separated by `; `). |
+
+### `pilot/repo_check.Rds`
+
+R object of class `metacheck_module_output` created by `metacheck::module_run()` with the `repo_check` module. Load with `readRDS()`.
 
 ### `pilot/sample.csv`
 
