@@ -1,50 +1,59 @@
-#' Flag data availability statements and repository mention
+#' Flag data availability statements
 #'
 #' Detects whether an article contains a data or code availability statement
-#' and whether it mentions a data repository. Availability statements are
-#' identified either through a dedicated availability section (identified by the grobid import) or by searching
-#' for common phrases (e.g., "data availability", "code availability", or
-#' "available upon reasonable request"). Repository mentions are detected by
-#' searching for references to common repositories such as OSF, Zenodo,
-#' GitHub, Figshare, Dryad, Dataverse, and others.
+#' Availability statements are identified by searching for common phrases 
+#' (e.g., "data availability", "code availability", or "available upon 
+#' reasonable request").
 #'
 #' @param article An object with class "scivrs_paper", usually imported
 #'   by the metacheck package
 #'
-#' @return A data frame with one row and two logical columns:
+#' @return A data frame with one row and five columns:
 #' \describe{
-#'   \item{flag_statement}{`TRUE` if the article contains a data/code
-#'   availability statement or a dedicated availability section.}
-#'   \item{flag_repo}{`TRUE` if the article mentions a supported data
-#'   repository.}
+#'   \item{id}{The paper id}
+#'   \item{flag_statement_data}{`TRUE` if the article contains a data
+#'   availability statement}
+#'   \item{flag_statement_code}{`TRUE` if the article contains a code
+#'   availability statement}
+#'   \item{statement_data_text}{A string with the sentence that triggered the 
+#'    data availability statment flag. Multiple sentences are separated by " // ".}
+#'   \item{statement_data_code}{A string with the sentence that triggered the 
+#'    code availability statment flag. Multiple sentences are separated by " // ".}
 #' }
 #'
-flag_article <- function(article) {
-  # search for availability section in grobid import
+extract_statement <- function(article) {
   if (is.null(article$section)) article <- article[[1]] # get list item if needed
-  sec <- any(article$section$section_type == "availability")
-  # search for strings that indicate availability section
-  st <- sfind(
-    article, 
-    c("data availability", "code availability", 
-    "(on|by|upon)\\s+(reasonable\\s+)?request", 
-    "datasets?\\s+(?:is|are)?\\s*(?:not\\s+)?(?:publicly\\s+)?available", 
-    "available\\s+from\\s+(?:the\\s+)?(?:corresponding\\s+)?author"
-  ), 
-    search_header = TRUE
-  )
-  # search for strings that match data/code repository
-  repo <- sfind(
+  # get paper id
+  id <- article$paper_id
+  # search for strings that indicate data availability section
+  d_st <- sfind(
     article,
-    c("repositor", "archive", "\\bosf\\b", "osf\\.io",
-    "open science framework", "researchbox", "zenodo", "github", 
-    "figshare", "datadryad", "kaggle", "mendeley", "ukbiobank", 
-    "ukdataservice", "dataverse", "clinicalstudydatarequest", 
-    "ourworldindata")
+    c("^\\W*data\\s+(?:and\\s+\\w+\\s+)?availability",
+      "^\\W*availability\\s+of\\s+(?:the\\s+)?data",
+      "\\bdata(?:sets?)?\\b.{0,100}?\\b(?:on|upon|by)\\s+(?:reasonable\\s+)?request",
+      "\\bdata(?:sets?)?\\b.{0,100}?\\bavailable\\s+(?:from|by)\\s+(?:the\\s+)?(?:corresponding\\s+)?authors?",
+      "\\bdata(?:sets?)?\\b.{0,100}?\\bavailable\\s+(?:at|in|on|via)\\s+(?:the\\s+|an?\\s+)?(?:\\w+\\s+)?(?:repository|osf|zenodo|github|figshare|https?://)"
+    ),
+    search_header = TRUE,
+    perl = TRUE
+  )
+  # search for strings that indicate code availability section
+  c_st <- sfind(
+    article, 
+    c("code availability", 
+      "\\bcodes?\\b(?:\\s+[^.\\s]+){0,10}?\\s+(on|by|upon)\\s+(reasonable\\s+)?request\\b", 
+      "\\bcodes?\\b(?:\\s+[^.\\s]+){0,10}?\\s+available\\b", 
+      "\\bcodes?\\b(?:\\s+[^.\\s]+){0,10}?\\s+available\\s+from\\s+(?:the\\s+)?(?:corresponding\\s+|first\\s+|senior\\s+)?author"
+    ),
+    search_header = TRUE,
+    perl = TRUE
   )
   data.frame(
-    flag_statement = any(c(sec, st)),
-    flag_repo = repo
+    id = id,
+    flag_statement_data = d_st$detected,
+    flag_statement_code = c_st$detected,
+    statement_data_text = d_st$text,
+    statement_code_text = c_st$text
   )
 }
 
@@ -65,27 +74,41 @@ flag_article <- function(article) {
 #'   `stan`, `pspp`, and `medcalc`.
 #'
 extract_software <- function(article) {
+  if (is.null(article$section)) article <- article[[1]] # get list item if needed
+  # get paper id
+  id <- article$paper_id
+  # search for software mentions
+  spss <- sfind(article, c("\\bspss", "statistical package for the social sciences", "\\bpasw", "\\bamos"))
+  stata <- sfind(article, "\\bstata")
+  jamovi <- sfind(article, "\\bjamovi")
+  jasp <- sfind(article, "\\bjasp")
+  r1 <- sfind(article, c("(?<!-)\\bR(?=\\s(?!\\s*=))", "(?:in|software)\\s+R\\b"), ignore.case = FALSE, perl = TRUE)
+  r2 <- sfind(article, c("a language and environment for statistical computing", "rstudio", "\\br language"))
+  python <- sfind(article, c("python", "scipy"))
+  prism <- sfind(article, c("graph pad", "\\bprism\\b"))
+  excel <- sfind(article, "excel\\b")
+  sas <- sfind(article, "\\bsas\\b")
+  lisrel <- sfind(article, "lisrel")
+  matlab <- sfind(article, c("matlab", "mathworks"))
+  statistica <- sfind(article, "\\bstatistica\\b")
+  winbugs <- sfind(article, "winbugs")
+  bioestat <- sfind(article, "bioestat")
+  stan <- sfind(article, "\\bstan\\b")
+  pspp <- sfind(article, "\\bpspp")
+  medcalc <- sfind(article, "medcalc")
+  # get text sections
+  tx <- c(spss$text, stata$text, jamovi$text, jasp$text, r1$text, r2$text, python$text, prism$text, excel$text, sas$text,
+    lisrel$text, matlab$text, statistica$text, winbugs$text, bioestat$text, stan$text, pspp$text, medcalc$text)
+  tx_string <-  paste(tx[!is.na(tx)], collapse = " // ")
+  if(tx_string == "") tx_string <- NA
   data.frame(
-    spss = sfind(article, c("\\bspss", "statistical package for the social sciences", "\\bpasw", "\\bamos")),
-    stata = sfind(article, "\\bstata"),
-    jamovi = sfind(article, "\\bjamovi"),
-    jasp = sfind(article, "\\bjasp"),
-    r = any(
-          sfind(article, c("(?<!-)\\bR(?=\\s(?!\\s*=))", "(?:in|software)\\s+R\\b"), ignore.case = FALSE, perl = TRUE), 
-          sfind(article, c("a language and environment for statistical computing", "rstudio", "\\br language"))
-    ),
-    python = sfind(article, c("python", "scipy")),
-    prism = sfind(article, c("graph pad", "\\bprism\\b")),
-    excel = sfind(article, "excel\\b"),
-    sas = sfind(article, "\\bsas\\b"),
-    lisrel = sfind(article, "lisrel"),
-    matlab = sfind(article, c("matlab", "mathworks")),
-    statistica = sfind(article, "\\bstatistica\\b"),
-    winbugs = sfind(article, "winbugs"),
-    bioestat = sfind(article, "bioestat"),
-    stan = sfind(article, "\\bstan\\b"),
-    pspp = sfind(article, "\\bpspp"),
-    medcalc = sfind(article, "medcalc")
+    id = id,
+    spss = spss$detected, stata = stata$detected, jamovi = jamovi$detected, jasp = jasp$detected,
+    r = any(r1$detected, r2$detected), python = python$detected, prism = prism$detected, excel = excel$detected,
+    sas = sas$detected, lisrel = lisrel$detected, matlab = matlab$detected, statistica = statistica$detected,
+    winbugs = winbugs$detected, bioestat = bioestat$detected, stan = stan$detected, pspp = pspp$detected,
+    medcalc = medcalc$detected,
+    software_text = tx_string
   )
 }
 #' Helper function to find matches using metacheck::text_search()
@@ -102,5 +125,19 @@ extract_software <- function(article) {
 #' @return TRUE or FALSE, whether a match was found. 
 sfind <- function(article, string, ...) {
   t <- metacheck::text_search(paper = article, pattern = string, ...)
-  nrow(t) >= 1
+  if (nrow(t) == 0) {
+    detected = FALSE
+    text = NA
+  } else if (nrow(t) == 1) {
+    detected = TRUE
+    text = t$text
+  } else if (nrow(t) > 1) {
+    detected = TRUE
+    text = paste(t$text, collapse = " // ")
+  }
+  detected <- nrow(t) >= 1
+  data.frame(
+    detected = detected,
+    text = text
+  )
 }
