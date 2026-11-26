@@ -12,21 +12,25 @@ library(purrr)
 source("scripts/functions.R")
 
 # manually extracted items
-# total time for extracting data from 195 articles: 170 min
+# total time for extracting data from 200 articles: 175 min
 m <- read.csv("data/pilot/manual.csv")
-
 nrow(m)
 
 # automatically extract articles
 all <- list.files("data/pilot/all", full.names = TRUE)
-# metacheck::convert(all[1:119], save_path = "data/pilot/imported")
+# metacheck::convert(all, save_path = "data/pilot/imported", method = "grobid", api_url = "https://grobid.hti.ieis.tue.nl")
 # needed approx. 12 minutes to run on my machine
 
 au <- metacheck::read("data/pilot/imported")
-avl <- lapply(au, flag_article)
+avl <- lapply(au, extract_statement)
 software <- lapply(au, extract_software)
 # runtime both: 45s
 
-automated <- cbind(data.frame(id = list.files("data/pilot/all")), purrr::list_rbind(avl), purrr::list_rbind(software))
+automated <- merge(purrr::list_rbind(avl), purrr::list_rbind(software), by = "id", all = TRUE)
 write.csv(automated, "data/pilot/automated.csv")
 
+# run metacheck repo check
+#rc <- metacheck::module_run(au, "repo_check")
+# we need to remove the full text which is part of the metacheck object
+rc$paper <- NULL
+#saveRDS(rc, "data/pilot/repo_check.Rds")

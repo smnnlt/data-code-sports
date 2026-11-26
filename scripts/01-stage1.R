@@ -9,13 +9,6 @@ library(binom)
 library(purrr)
 library(tidyr)
 
-# expected time for manual download
-N <- 55000
-pa <- 0.25 # proportion of automatically retrieved studies
-t <- 16.5 # time per manual retrieval (in s)
-nr <- N * (1 - pa) # studies that need manual retrieval
-(nr * t) / (60 * 60)
-# 189 hours
 
 # data sharing in Borg et al. (2020) for only original articles
 # read data provided on GitHub 
