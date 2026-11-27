@@ -1,0 +1,2187 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S076515972600050X</prism:url><dc:identifier>doi:10.1016/j.scispo.2026.01.011</dc:identifier><eid>1-s2.0-S076515972600050X</eid><prism:doi>10.1016/j.scispo.2026.01.011</prism:doi><pii>S0765-1597(26)00050-X</pii><dc:title>Epidemiology of female artistic roller skating related injuries: A one season observational study </dc:title><prism:publicationName>Science &amp; Sports</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>07651597</prism:issn><prism:volume>41</prism:volume><prism:issueIdentifier>5-6</prism:issueIdentifier><prism:startingPage>448</prism:startingPage><prism:endingPage>452</prism:endingPage><prism:pageRange>448-452</prism:pageRange><prism:number>5-6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2026-08-31</prism:coverDate><prism:coverDisplayDate>August 2026</prism:coverDisplayDate><prism:copyright>© 2026 The Author(s). Published by Elsevier Masson SAS.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier Masson SAS.</prism:publisher><dc:creator>Quintana-Cepedal, M.</dc:creator><dc:creator>Cuervo, N.</dc:creator><dc:creator>Sanchez-Martinez, B.</dc:creator><dc:creator>Crespo, I.</dc:creator><dc:creator>del Valle, M.</dc:creator><dc:creator>Olmedillas, H.</dc:creator><dc:description>
+                  Objectives
+                  The aim of this study is to describe the epidemiological characteristics of artistic roller skating in female athletes.
+               
+                  Methods
+                  Artistic roller skaters participating in the national league of the Spanish Federation of Skating (n
+                     =152) were surveyed via an anonymous online questionnaire to screen for injury characteristics: incidence, location, tissue affected, and injury onset. Injury rates were compared using the incidence rate ratio.
+               
+                  Results
+                  There were 228 injuries (80% during training sessions) across 44,178hours of exposure, giving an overall injury incidence of 5.2/1,000hours. Incidence was significantly higher in competitions (741/1,000h) compared to training sessions (4.2/1,000h) (P
+                     &lt;0.001). Ninety-seven artistic roller skaters sustained an injury, accounting for an overall prevalence of 64%. The body areas with the higher number of injuries were the knee (n
+                     =33 [15%]), ankle (n
+                     =30 [13%], and wrist (n
+                     =25 [11%]).
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Spain (CRUE): Core Hybrid journals RAP 2025</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Female athletes</dcterms:subject><dcterms:subject>Incidence</dcterms:subject><dcterms:subject>Risk factors</dcterms:subject><dcterms:subject>Skating</dcterms:subject><dcterms:subject>Athlètes féminines</dcterms:subject><dcterms:subject>Incidence</dcterms:subject><dcterms:subject>Facteurs de risque</dcterms:subject><dcterms:subject>Patinage</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S076515972600050X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S076515972600050X" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="372" height="446" size="31046">https://api.elsevier.com/content/object/eid/1-s2.0-S076515972600050X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="137" height="164" size="8419">https://api.elsevier.com/content/object/eid/1-s2.0-S076515972600050X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1650" height="1978" size="342870">https://api.elsevier.com/content/object/eid/1-s2.0-S076515972600050X-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="46114">https://api.elsevier.com/content/object/eid/1-s2.0-S076515972600050X-si1.svg?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="Scalable Vector Graphics file" mimetype="image/svg+xml" size="35685">https://api.elsevier.com/content/object/eid/1-s2.0-S076515972600050X-si2.svg?httpAccept=%2A%2F%2A</object></objects><scopus-id>105037513942</scopus-id><scopus-eid>2-s2.0-105037513942</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/105037513942" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272250</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291695</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Science &amp; Sports</xocs:srctitle>
+      <xocs:normalized-srctitle>SCIENCESPORTS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20260501">2026-05-01</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20260501">2026-05-01</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20260720">2026-07-20</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20260720">2026-07-20</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2026-07-20T14:56:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S076515972600050X</xocs:eid>
+      <xocs:pii-formatted>S0765-1597(26)00050-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S076515972600050X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.scispo.2026.01.011</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0765159726X20044</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20260720">2026-07-20T14:44:53.444754Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20260801</xocs:date-search-begin>
+      <xocs:date-search-end>20260831</xocs:date-search-end>
+      <xocs:year-nav>2026</xocs:year-nav>
+      <xocs:indexeddate epoch="1777609479">2026-05-01T04:24:39.082652Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil altitemtitle articletitle auth authfirstini authfull authkeywords authlast nonengabst orcid primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0765-1597</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>07651597</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>SPCRUEHY25</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>41</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>41</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:iss-last>6</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 41, Issues 5–6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>8</xocs:sort-order>
+      <xocs:first-fp>448</xocs:first-fp>
+      <xocs:last-lp>452</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>448</xocs:first-page>
+         <xocs:last-page>452</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202608</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2026</xocs:cover-date-text>
+      <xocs:cover-date-start>2026-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2026-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2026</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2026 The Author(s). Published by Elsevier Masson SAS.</xocs:copyright-line>
+      <xocs:normalized-article-title>EPIDEMIOLOGYFEMALEARTISTICROLLERSKATINGRELATEDINJURIESAONESEASONOBSERVATIONALSTUDY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>QUINTANACEPEDAL</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>M</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Material and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Study design</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Participants</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Definitions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Statistical analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Study population</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Injury incidence, prevalence, and burden</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Injury location, tissue affected, and mode of onset</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Funding</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>VANMECHELEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>82</xocs:ref-first-fp>
+            <xocs:ref-last-lp>99</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0135">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>532</xocs:ref-first-fp>
+            <xocs:ref-last-lp>537</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0140">
+            <xocs:ref-normalized-surname>QUINTANACEPEDAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-last-lp>186</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0145">
+            <xocs:ref-normalized-surname>QUINTANACEPEDAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>70</xocs:ref-first-fp>
+            <xocs:ref-last-lp>75</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0150">
+            <xocs:ref-normalized-surname>BAHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>372</xocs:ref-first-fp>
+            <xocs:ref-last-lp>389</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0155">
+            <xocs:ref-normalized-surname>KERR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>870</xocs:ref-first-fp>
+            <xocs:ref-last-lp>878</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0160">
+            <xocs:ref-normalized-surname>THOMAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>96</xocs:ref-first-fp>
+            <xocs:ref-last-lp>121</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0165">
+            <xocs:ref-normalized-surname>VANDENBROUCKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>805</xocs:ref-first-fp>
+            <xocs:ref-last-lp>835</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0170">
+            <xocs:ref-normalized-surname>EKSTRAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1084</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1092</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0175">
+            <xocs:ref-normalized-surname>ARAGON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0180">
+            <xocs:ref-normalized-surname>DEPABLO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>442</xocs:ref-first-fp>
+            <xocs:ref-last-lp>448</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0185">
+            <xocs:ref-normalized-surname>QUINTANACEPEDAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0190">
+            <xocs:ref-normalized-surname>DESAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>459</xocs:ref-first-fp>
+            <xocs:ref-last-lp>467</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0195">
+            <xocs:ref-normalized-surname>CAINE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MEDICINESPORTSCIENCE</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>GYMNASTICSINJURIES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0200">
+            <xocs:ref-normalized-surname>AIELLO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>465</xocs:ref-first-fp>
+            <xocs:ref-last-lp>470</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0205">
+            <xocs:ref-normalized-surname>FERNANDEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0210">
+            <xocs:ref-normalized-surname>QUINTANACEPEDAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>137</xocs:ref-first-fp>
+            <xocs:ref-last-lp>151</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0215">
+            <xocs:ref-normalized-surname>LOPEZVALENCIANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>423</xocs:ref-first-fp>
+            <xocs:ref-last-lp>442</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0220">
+            <xocs:ref-normalized-surname>HALLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>128</xocs:ref-first-fp>
+            <xocs:ref-last-lp>136</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0225">
+            <xocs:ref-normalized-surname>AMUNDSEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0230">
+            <xocs:ref-normalized-surname>WHALAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>216</xocs:ref-first-fp>
+            <xocs:ref-last-lp>224</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0235">
+            <xocs:ref-normalized-surname>AKERLUND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1480</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1490</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0240">
+            <xocs:ref-normalized-surname>LINDBLOM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>83</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0245">
+            <xocs:ref-normalized-surname>WORNER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2302</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2308</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0250">
+            <xocs:ref-normalized-surname>ANDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e001606</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>QUINTANACEPEDALX2026X448</xocs:refkey3>
+         <xocs:refkey4lp>QUINTANACEPEDALX2026X448X452</xocs:refkey4lp>
+         <xocs:refkey4ai>QUINTANACEPEDALX2026X448XM</xocs:refkey4ai>
+         <xocs:refkey5>QUINTANACEPEDALX2026X448X452XM</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2026-04-13T13:18:58Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Spain (CRUE): Core Hybrid journals RAP 2025</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2027-07-20T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2027-07-20T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2026 The Author(s). Published by Elsevier Masson SAS.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0765-1597(26)00050-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S076515972600050X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S076515972600050X</xocs:eid>
+         <xocs:doi>10.1016/j.scispo.2026.01.011</xocs:doi>
+         <xocs:cid>272250</xocs:cid>
+         <xocs:timestamp>2026-07-20T14:11:10.88384Z</xocs:timestamp>
+         <xocs:cover-date-start>2026-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2026-08-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>SPCRUEHY25</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S076515972600050X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S076515972600050X/MAIN/application/pdf/f29dbe696b2e31f9e408cd86a477dd06/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1230006</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S076515972600050X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S076515972600050X/PREVIEW/image/png/db1a9feeca9df638dc214f26ac65b36c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>51905</xocs:filesize>
+                     <xocs:pixel-height>928</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S076515972600050X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S076515972600050X/gr1/DOWNSAMPLED/image/jpeg/297f34bc9dd35c38fbda6e25c4efabad/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31046</xocs:filesize>
+               <xocs:pixel-height>446</xocs:pixel-height>
+               <xocs:pixel-width>372</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S076515972600050X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S076515972600050X/gr1/THUMBNAIL/image/gif/70c071c70f69550f4978931db36fee16/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8419</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>137</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S076515972600050X-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S076515972600050X/HIGHRES/image/jpeg/95565cd11b8ecc1ebf06867695c40d72/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>342870</xocs:filesize>
+               <xocs:pixel-height>1978</xocs:pixel-height>
+               <xocs:pixel-width>1650</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S076515972600050X-si1.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S076515972600050X/STRIPIN/image/svg+xml/cddfb51bd958159d5e964c83d1c0f4db/si1.svg</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>46114</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S076515972600050X-si2.svg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S076515972600050X/STRIPIN/image/svg+xml/2ee3d9fbc1dd4f75c9298626113293f2/si2.svg</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.svg</xocs:filename>
+               <xocs:extension>svg</xocs:extension>
+               <xocs:filesize>35685</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.7" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SCISPO</jid>
+            <aid>4015</aid>
+            <ce:pii>S0765-1597(26)00050-X</ce:pii>
+            <ce:doi>10.1016/j.scispo.2026.01.011</ce:doi>
+            <ce:copyright type="other" year="2026">The Author(s)</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0035" view="all">Aggregated injury incidence. Data are reported as n/1,000<ce:hsp sp="0.25"/>hours (95% confidence interval).</ce:simple-para>
+               </ce:caption>
+               <ce:link id="lk005" xlink:type="simple" xlink:href="pii:S076515972600050X/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" locator="gr1"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0040" view="all">Injury definitions for tissue affected.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at1" role="short">Table 1</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Injury</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Definition</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Muscle/tendon</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Muscle injury, contusion, tendinopathy or tendon rupture</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Ligament</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Joint sprain including partial or complete ligament tears and joint capsule injuries</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Bone</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Fractures or bone stress injuries, including teeth injuries</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Nervous</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Including concussion and all forms of brain/spinal cord injuries, also peripheral nerve injuries</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Contusion</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Superficial tissue/skin injuries</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0045" view="all">Demographic characteristics.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at2" role="short">Table 2</ce:alt-text>
+               <tgroup cols="2">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Variable</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Total (<italic>n</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>152)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Age (years)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">15.2<hsp sp="0.25"/>±<hsp sp="0.25"/>5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Height (cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">156<hsp sp="0.25"/>±<hsp sp="0.25"/>17</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Body mass (kg)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">49<hsp sp="0.25"/>±<hsp sp="0.25"/>13</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Body mass index (kg/m<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">21<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="spar0050" view="all">Data is presented as mean and standard deviation.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0055" view="all">Injury incidence according to body region.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at3" role="short">Table 3</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Location</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>n</italic> (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Incidence (95% CI)*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">IRR (95% CI)**</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Head</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2 (0.9%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.04 (–)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.06 (0.01 to 0.25)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Trunk</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5 (2.2%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.11 (0.01 to 0.21)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.15 (0.06 to 0.38)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Back</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12 (5.2%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.27 (0.14 to 0.47)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.36 (0.18 to 0.7)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Shoulder</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6 (2.6%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.13 (0.05 to 0.29)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.18 (0.07 to 0.43)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Arm</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5 (2.2%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.11 (0.01 to 0.21)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.15 (0.06 to 0.38)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Elbow</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3 (1.3%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.07 (–)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.09 (0.03 to 0.3)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Forearm</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2 (0.9%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.04 (–)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.06 (0.01 to 0.25)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Wrist</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">25 (11%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.56 (0.36 to 0.83)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.75 (0.45 to 1.27)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hand/fingers</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7 (3%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.15 (0.06 to 0.32)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.21 (0.09 to 0.48)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hip/groin</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">15 (6.6%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.34 (0.19 to 0.56)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.45 (0.25 to 0.83)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Thigh</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">13 (5.7%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.29 (0.15 to 0.5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.39 (0.2 to 0.74)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Knee</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">33 (14.5%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.74 (0.51 to 1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Leg</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10 (4.4%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.22 (0.11 to 0.41)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.3 (0.15 to 0.61)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Ankle</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">30 (13.2%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.68 (0.45 to 0.96)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.9 (0.55 to 1.49)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Foot</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">13 (5.7%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.29 (0.15 to 0.5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.39 (0.2 to 0.74)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="spar0060" view="all">IRR: incidence rate ratio; *: confidence interval for injury incidence is reported when there was a minimum of 5 injuries in a certain area; **: reference group is the knee joint for IRR comparisons.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="doh0005">
+               <ce:textfn>Original article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Epidemiology of female artistic roller skating related injuries: A one season observational study</ce:title>
+            <ce:alt-title xml:lang="fr">Épidémiologie des blessures liées au patinage artistique à roulettes féminin : une étude observationnelle sur une saison</ce:alt-title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" orcid="0000-0003-2341-2967" author-id="S076515972600050X-ce22b9faca134f41248103296e250fbf">
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>Quintana-Cepedal</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0010" author-id="S076515972600050X-00a7a5b6d3c8f8478c9c3ca7ecc7ba92">
+                  <ce:given-name>N.</ce:given-name>
+                  <ce:surname>Cuervo</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015" author-id="S076515972600050X-8a06b6f678643c3f335cdec6a51e9067">
+                  <ce:given-name>B.</ce:given-name>
+                  <ce:surname>Sanchez-Martinez</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020" author-id="S076515972600050X-614842917e85da1115646abd8edbc84d">
+                  <ce:given-name>I.</ce:given-name>
+                  <ce:surname>Crespo</ce:surname>
+                  <ce:cross-ref id="crf0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0030" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0025" author-id="S076515972600050X-f0d9ead4dfd6b4254a4e1c910b96935c">
+                  <ce:given-name>M.</ce:given-name>
+                  <ce:surname>del Valle</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0040" refid="aff0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0030" orcid="0000-0003-4625-2759" author-id="S076515972600050X-bc83c04a972451fff852d0c18dd1f7cb">
+                  <ce:given-name>H.</ce:given-name>
+                  <ce:surname>Olmedillas</ce:surname>
+                  <ce:cross-ref id="crf0045" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0050" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0055" refid="cor0005">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S076515972600050X-e44185b24a2c34ced89c46fee71b6ac7">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Functional Biology, Universidad de Oviedo, Oviedo, Spain</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Functional Biology, Universidad de Oviedo</sa:organization>
+                     <sa:city>Oviedo</sa:city>
+                     <sa:country iso3166-1-alpha-3="ESP">Spain</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="npr0005">a Department of Functional Biology, Universidad de Oviedo, Oviedo, Spain</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S076515972600050X-c2128770165b4781e4764666abac4e45">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Asturian Research Group in Performance, Readaptation, Training, and Health (AstuRES), University of Oviedo, Oviedo, Spain</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Asturian Research Group in Performance, Readaptation, Training, and Health (AstuRES), University of Oviedo</sa:organization>
+                     <sa:city>Oviedo</sa:city>
+                     <sa:country iso3166-1-alpha-3="ESP">Spain</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="npr0010">b Asturian Research Group in Performance, Readaptation, Training, and Health (AstuRES), University of Oviedo, Oviedo, Spain</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S076515972600050X-19a6ad6ed955645ccf87992adb1b9ffd">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Education Sciences, University of Oviedo, Oviedo, Spain</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Education Sciences, University of Oviedo</sa:organization>
+                     <sa:city>Oviedo</sa:city>
+                     <sa:country iso3166-1-alpha-3="ESP">Spain</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="npr0015">c Department of Education Sciences, University of Oviedo, Oviedo, Spain</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0020" affiliation-id="S076515972600050X-f6c1ccb6db54caed892027864f468ba4">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Department of Cellular Morphology and Biology, University of Oviedo, Oviedo, Spain</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Cellular Morphology and Biology, University of Oviedo</sa:organization>
+                     <sa:city>Oviedo</sa:city>
+                     <sa:country iso3166-1-alpha-3="ESP">Spain</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="npr0020">d Department of Cellular Morphology and Biology, University of Oviedo, Oviedo, Spain</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="30" month="10" year="2025"/>
+            <ce:date-accepted day="18" month="1" year="2026"/>
+            <ce:abstract id="abs0010" class="author" view="all"><ce:abstract-sec id="abst0005" view="all">
+                  <ce:section-title id="sect0010">Objectives</ce:section-title>
+                  <ce:simple-para id="spar0005" view="all">The aim of this study is to describe the epidemiological characteristics of artistic roller skating in female athletes.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abst0010" view="all">
+                  <ce:section-title id="sect0015">Methods</ce:section-title>
+                  <ce:simple-para id="spar0010" view="all">Artistic roller skaters participating in the national league of the Spanish Federation of Skating (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>152) were surveyed via an anonymous online questionnaire to screen for injury characteristics: incidence, location, tissue affected, and injury onset. Injury rates were compared using the incidence rate ratio.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abst0015" role="results" view="all">
+                  <ce:section-title id="sect0020">Results</ce:section-title>
+                  <ce:simple-para id="spar0015" view="all">There were 228 injuries (80% during training sessions) across 44,178<ce:hsp sp="0.25"/>hours of exposure, giving an overall injury incidence of 5.2/1,000<ce:hsp sp="0.25"/>hours. Incidence was significantly higher in competitions (741/1,000<ce:hsp sp="0.25"/>h) compared to training sessions (4.2/1,000<ce:hsp sp="0.25"/>h) (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.001). Ninety-seven artistic roller skaters sustained an injury, accounting for an overall prevalence of 64%. The body areas with the higher number of injuries were the knee (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>33 [15%]), ankle (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>30 [13%], and wrist (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>25 [11%]).</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="abs0005" xml:lang="fr" class="author" view="all">
+               <ce:section-title id="sect0025">Résumé</ce:section-title>
+               <ce:abstract-sec id="abst0020" view="all">
+                  <ce:section-title id="sect0030">Objectifs</ce:section-title>
+                  <ce:simple-para id="spar0020" view="all">Le but de cette étude est de décrire les caractéristiques épidémiologiques des blessures liées au patinage artistique à roulettes chez les athlètes féminines.</ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec id="abst0025" view="all">
+                  <ce:section-title id="sect0035">Méthodes</ce:section-title>
+                  <ce:simple-para id="spar0025" view="all">Des patineuses artistiques à roulettes participant à la ligue nationale de la Fédération espagnole de patinage (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>152) ont été interrogées via un questionnaire en ligne anonyme afin de dépister les caractéristiques des blessures : l’incidence, la localisation, le tissu affecté et le moment de l’apparition de la blessure. Les taux de blessures ont été comparés en utilisant le taux d’incidence (<ce:italic>Incidence Rate Ratio</ce:italic>, IRR).</ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec id="abst0030" view="all">
+                  <ce:section-title id="sect0040">Résultats</ce:section-title>
+                  <ce:simple-para id="spar0030" view="all">Un total de 228 blessures (80 % survenues lors des sessions d’entraînement) a été recensé sur 44 178<ce:hsp sp="0.25"/>heures d’exposition, ce qui donne une incidence globale des blessures de 5,2/1000<ce:hsp sp="0.25"/>heures. L’incidence était significativement plus élevée en compétition (741/1000<ce:hsp sp="0.25"/>h) par rapport aux sessions d’entraînement (4,2/1000<ce:hsp sp="0.25"/>h) (<ce:italic>p</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0,001). Quatre-vingt-dix-sept patineuses artistiques à roulettes ont subi une blessure, ce qui représente une prévalence globale de 64 %. Les zones corporelles présentant le plus grand nombre de blessures étaient le genou (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>33 [15 %]), la cheville (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>30 [13 %]) et le poignet (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>25 [11 %]).</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0045">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Female athletes</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Incidence</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Risk factors</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Skating</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords id="kwd0010" class="keyword" xml:lang="fr" view="all">
+               <ce:section-title id="sect0050">Mots clés</ce:section-title>
+               <ce:keyword id="kw0025">
+                  <ce:text>Athlètes féminines</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>Incidence</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0035">
+                  <ce:text>Facteurs de risque</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0040">
+                  <ce:text>Patinage</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0055">Introduction</ce:section-title>
+                  <ce:para id="par0005" view="all">Artistic roller skating (ARS) is a sport that combines physical skills such as flexibility, power, and coordination, with artistic abilities. The high physical demands and extensive exposure hours in this discipline increase the risk of sport-related injuries. Collecting epidemiological data is the first step, preceding the identification of risk factors and the inclusion of preventative strategies in the sequence of injury prevention to reduce injury risk <ce:cross-ref id="crf0060" refid="bib0130">[1]</ce:cross-ref>.</ce:para>
+                  <ce:para id="par0010" view="all">The literature regarding this field in ARS is scarce. Data from ice figure skating suggest that the ankle and knee joints are the most injured body regions, representing 28 and 19% of all injuries, respectively. One in every two injuries affect either ligament or musculotendinous tissue <ce:cross-ref id="crf0065" refid="bib0135">[2]</ce:cross-ref>. The stress placed on skaters’ feet increases the risk of bone overuse injuries, which may lead to long lay-off periods and worse overall athlete health. Other skating sports such as inline speed skating or rink hockey, report the highest occurrence of lower limb injuries, with injury incidence ranging from 1.3 to 2.1 injuries per 1,000<ce:hsp sp="0.25"/>hours of exposure, which is significantly higher than for other body areas <ce:cross-refs id="crfs0005" refid="bib0140 bib0145">[3,4]</ce:cross-refs>. The disparity compared to upper body injuries may be explained by the frontal plane instability caused by the skate width, which places high stress on the stabilizing muscles and ligaments <ce:cross-ref id="crf0070" refid="bib0150">[5]</ce:cross-ref>. Injury characteristics are similar in gymnastics, where ankle injuries represent 18% of all injuries and ligament injuries are the most frequent tissue affected <ce:cross-ref id="crf0075" refid="bib0155">[6]</ce:cross-ref>. On the contrary, injury incidence ranges from 8.5 to 8.8 per 1000<ce:hsp sp="0.25"/>hours of exposure <ce:cross-ref id="crf0080" refid="bib0160">[7]</ce:cross-ref>. Given the similarities to other skating or artistic disciplines, it is expected that injuries in ARS align with the aforementioned sports.</ce:para>
+                  <ce:para id="par0015" view="all">It must be noted that extrapolating results from one sport to another should be done cautiously, since each discipline presents specific characteristics. The International Olympic Committee (IOC) recently released a consensus statement on recording and reporting of epidemiological sport data <ce:cross-ref id="crf0085" refid="bib0150">[5]</ce:cross-ref>, and none of the studies on injuries in figure skating adhere to this framework. Thus, based on the paucity in the data available around ARS, the aim of this study is to describe the epidemiological characteristics of artistic roller skating. Our specific objectives were to describe the type of injury (situation, tissue affected, onset) and anatomic location, while comparing injury rates.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0060">Material and methods</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0065">Study design</ce:section-title>
+                     <ce:para id="par0020" view="all">The reporting of the present cross-sectional study follows the STROBE (Strengthening the Reporting of Observational studies in Epidemiology) statement <ce:cross-ref id="crf0090" refid="bib0165">[8]</ce:cross-ref>. This epidemiological study consisted of a self-reported electronic questionnaire created to be filled by the participating athletes. It registered all training and competition-related injuries occurring during the past season (10 months) to retrospectively collect injury data. The questionnaire was designed by two researchers (NC and HO) experienced in ARS and in sports epidemiological studies, and no information that could identify participants was collected. Ethical approval was obtained from the corresponding institutional review board (code: 2024.390). All participants gave their consent to participate prior to the starting of data collection. Given the anonymity of the data collection form, no additional parental consent was deemed necessary by the local ethics committee when participants were underage. The principles of the Helsinki declaration were followed at all times.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0070">Participants</ce:section-title>
+                     <ce:para id="par0025" view="all">Female artistic roller skaters competing in the National League of the Spanish Federation of Skating (RFEP) were directly contacted by the second author (NC) via email or phone call during November–December 2023. To be considered for inclusion, the athlete had to be competing in the current season and needed to have a minimum of two-year experience in ARS. Injuries that happened during the previous season and forced the athlete to start preseason later than the rest of the participants were not considered <ce:cross-ref id="crf0095" refid="bib0140">[3]</ce:cross-ref>. Due to the unbalanced distribution of athletes by sex in this sport, we decided to include only female participants to obtain a representative sample of injuries.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0075">Definitions</ce:section-title>
+                     <ce:para id="par0030" view="all">An injury was defined as tissue damage or other disorder of normal physical function due to participation in sports, as a result of a rapid or repetitive transfer of kinetic energy <ce:cross-refs id="crfs0010" refid="bib0140 bib0150">[3,5]</ce:cross-refs>. All injuries had to cause absence from skating practice at least for one complete session, either competition or training (i.e., time-loss injury definition). Individual skating exposure was calculated by combining training (week training time (<ce:italic>h</ce:italic>)<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>Season duration (No. of exposure weeks) and competitive (No. of competitions<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>0.057<ce:hsp sp="0.25"/>
+                        <ce:italic>h</ce:italic>) exposure. Injury incidence and burden were calculated using the following formulas <ce:cross-ref id="crf0100" refid="bib0170">[9]</ce:cross-ref>.<ce:display>
+                           <ce:formula id="eq0005">
+                              <mml:math altimg="si1.svg">
+                                 <mml:mrow>
+                                    <mml:mi>I</mml:mi>
+                                    <mml:mi>n</mml:mi>
+                                    <mml:mi>j</mml:mi>
+                                    <mml:mi>u</mml:mi>
+                                    <mml:mi>r</mml:mi>
+                                    <mml:mi>y</mml:mi>
+                                    <mml:mtext> </mml:mtext>
+                                    <mml:mi>i</mml:mi>
+                                    <mml:mi>n</mml:mi>
+                                    <mml:mi>c</mml:mi>
+                                    <mml:mi>i</mml:mi>
+                                    <mml:mi>d</mml:mi>
+                                    <mml:mi>e</mml:mi>
+                                    <mml:mi>n</mml:mi>
+                                    <mml:mi>c</mml:mi>
+                                    <mml:mi>e</mml:mi>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfenced open="(" close=")">
+                                       <mml:mrow>
+                                          <mml:mfenced open="(" close=")">
+                                             <mml:mrow>
+                                                <mml:mfrac>
+                                                   <mml:mrow>
+                                                      <mml:mo>∑</mml:mo>
+                                                      <mml:mrow>
+                                                         <mml:mi>i</mml:mi>
+                                                         <mml:mi>n</mml:mi>
+                                                         <mml:mi>j</mml:mi>
+                                                         <mml:mi>u</mml:mi>
+                                                         <mml:mi>r</mml:mi>
+                                                         <mml:mi>i</mml:mi>
+                                                         <mml:mi>e</mml:mi>
+                                                         <mml:mi>s</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:mo>∑</mml:mo>
+                                                      <mml:mrow>
+                                                         <mml:mi>e</mml:mi>
+                                                         <mml:mi>x</mml:mi>
+                                                         <mml:mi>p</mml:mi>
+                                                         <mml:mi>o</mml:mi>
+                                                         <mml:mi>s</mml:mi>
+                                                         <mml:mi>u</mml:mi>
+                                                         <mml:mi>r</mml:mi>
+                                                         <mml:mi>e</mml:mi>
+                                                         <mml:mtext> </mml:mtext>
+                                                         <mml:mi>h</mml:mi>
+                                                         <mml:mi>o</mml:mi>
+                                                         <mml:mi>u</mml:mi>
+                                                         <mml:mi>r</mml:mi>
+                                                         <mml:mi>s</mml:mi>
+                                                      </mml:mrow>
+                                                   </mml:mrow>
+                                                </mml:mfrac>
+                                             </mml:mrow>
+                                          </mml:mfenced>
+                                          <mml:mo>×</mml:mo>
+                                          <mml:mn>1000</mml:mn>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="eq0010">
+                              <mml:math altimg="si2.svg">
+                                 <mml:mrow>
+                                    <mml:mtext>Injury burden</mml:mtext>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfenced open="(" close=")">
+                                       <mml:mrow>
+                                          <mml:mfenced open="(" close=")">
+                                             <mml:mrow>
+                                                <mml:mfrac>
+                                                   <mml:mrow>
+                                                      <mml:mo>∑</mml:mo>
+                                                      <mml:mrow>
+                                                         <mml:mtext>days</mml:mtext>
+                                                         <mml:mtext> </mml:mtext>
+                                                         <mml:mtext>lost</mml:mtext>
+                                                      </mml:mrow>
+                                                   </mml:mrow>
+                                                   <mml:mrow>
+                                                      <mml:mo>∑</mml:mo>
+                                                      <mml:mrow>
+                                                         <mml:mtext>exposure</mml:mtext>
+                                                         <mml:mtext> </mml:mtext>
+                                                         <mml:mtext>hours</mml:mtext>
+                                                      </mml:mrow>
+                                                   </mml:mrow>
+                                                </mml:mfrac>
+                                             </mml:mrow>
+                                          </mml:mfenced>
+                                          <mml:mo>×</mml:mo>
+                                          <mml:mn>1000</mml:mn>
+                                       </mml:mrow>
+                                    </mml:mfenced>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="par0035" view="all">Head/trunk injuries comprised those to the head, neck, chest, abdomen, spine, and back; upper limb injuries comprised those to the shoulder, arm, elbow, forearm, wrist, and hand; and lower limb injuries comprised those to the hip/groin, thigh, knee, leg, ankle, and foot. Gradual-onset injuries were defined as those occurring without a known trauma, whereas acute injuries were characterized by an identifiable cause. Definitions according to the International Olympic Committee for injuries per tissue affected are presented in <ce:cross-ref id="crf0105" refid="tbl0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0005"/> 
+                        <ce:cross-ref id="crf0110" refid="bib0150">[5]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sect0080">Statistical analysis</ce:section-title>
+                     <ce:para id="par0040" view="all">All statistical analyses were conducted in R (version 4.3.3) using the Positron integrated development environment (version 2025.08.0), with the epitools package <ce:cross-ref id="crf0115" refid="bib0175">[10]</ce:cross-ref>. Normality of continuous variables was checked using the Kolmogorov-Smirnov test and by visually inspecting histograms and Q-Q plots. Quantitative variables were presented as mean and standard deviation (SD), while categorical variables were presented as absolute (n) and relative frequencies (%). Training and competition incidence rates, injury incidence according to body area, and mode of onset were compared using the incidence rate ratios (IRRs). The IRR and corresponding 95% confidence intervals (CIs) were calculated using the epitab function with the Wald method, assuming a Poisson distribution that presumes injuries occur independently of each other <ce:cross-ref id="crf0120" refid="bib0180">[11]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0035" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0085">Results</ce:section-title>
+                  <ce:section id="sec0040" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sect0090">Study population</ce:section-title>
+                     <ce:para id="par0045" view="all">One hundred fifty-two artistic roller skaters completed the online form. Participants’ demographic characteristics can be found in <ce:cross-ref id="crf0125" refid="tbl0010">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0010"/>. Participants were exposed to 44,178<ce:hsp sp="0.25"/>h of artistic roller skating, of which 44,119<ce:hsp sp="0.25"/>h were dedicated to training and 59<ce:hsp sp="0.25"/>h were dedicated to competition.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0045" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sect0095">Injury incidence, prevalence, and burden</ce:section-title>
+                     <ce:para id="par0050" view="all">A total of 228 time-loss injuries were registered, of which 184 occurred during training sessions and 44 during competitions. Ninety-seven athletes sustained an injury during the season, accounting for an overall prevalence of 64%. Fifty-three (34.8%) participants suffered one injury, 28 (18.4%) suffered two injuries, seven (4.6%) suffered three injuries, and the rest sustained four to eight injuries (5%). The general incidence was 5.2 (95% CI: 4.5 to 5.8) injuries per 1,000<ce:hsp sp="0.25"/>h. Injury incidence for training sessions was 4.2 (95% CI: 3.5 to 4.8), while competition incidence was 741 (95% CI: 522 to 960). Injury incidence was significantly higher during competitions compared to training sessions (IRR<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>178.8, 95% CI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>128.7 to 248.4, <ce:italic>P</ce:italic>
+                        <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.001). The general injury burden was 89 per 1,000<ce:hsp sp="0.25"/>h, with 74.5 per 1,000<ce:hsp sp="0.25"/>h for training sessions and 11,081 per 1,000<ce:hsp sp="0.25"/>h for competitions (<ce:italic>P</ce:italic>
+                        <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.001).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0050" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="sect0100">Injury location, tissue affected, and mode of onset</ce:section-title>
+                     <ce:para id="par0055" view="all">Players reported injuries in all possible areas except the abdominal region. The body areas with the most number of injuries were the knee (33 [14.5%]), ankle (30 [13%]), and wrist (25 [11%]). Injuries affecting the lower limb were significantly more frequent than the head/trunk (IRR<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>14.14, 95% CI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>6.57 to 30.43, <ce:italic>P</ce:italic>
+                        <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.001) and upper limb (IRR<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.02, 95% CI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.43 to 2.84, <ce:italic>P</ce:italic>
+                        <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.001) injuries. Head/trunk and upper and lower limb incidences can be seen clustered in <ce:cross-ref id="crf0130" refid="fig0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig0005"/>. <ce:cross-ref id="crf0135" refid="tbl0015">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0015"/> presents frequence of each individual injured region along injury incidence and IRR, the reference body location was the knee.</ce:para>
+                     <ce:para id="par0060" view="all">Injury incidence was 0.7/1,000<ce:hsp sp="0.25"/>h (95% CI: 0.47 to 1) for musculotendinous injuries; 0.74 (95% CI: 0.51 to 1.04) for ligaments; 0.65 (95% CI: 0.43 to 0.94) for contusions; 0.36 (95% CI: 0.2 to 0.58) for bone; and 0.1 (95% CI: 0.03 to 0.26) for nerve injuries. Injury incidence was 2.3 (95% CI: 1.8 to 2.8) and 0.65 (95% CI: 0.44 to 0.94) for acute-onset and gradual-onset injuries, respectively (IRR<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3.51, 95% CI<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.32 to 5.31, <ce:italic>P</ce:italic>
+                        <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.001).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0055" role="discussion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0105">Discussion</ce:section-title>
+                  <ce:para id="par0065" view="all">This study describes the epidemiology of injuries that occurred in artistic roller skaters across one season. It represents the largest study sample of athletes from this discipline to date. The main findings were: (1) an overall injury incidence of 5.2 per 1,000<ce:hsp sp="0.25"/>h of exposure; (2) a significantly higher injury incidence in competitions (741/1,000<ce:hsp sp="0.25"/>h) compared to training sessions (4.2/1,000<ce:hsp sp="0.25"/>h); (3) a high incidence of ligament and muscle injuries (0.7/1,000<ce:hsp sp="0.25"/>h); and (4) the two most common injury sites were the knee (14%) and ankle (13%).</ce:para>
+                  <ce:para id="par0070" view="all">This is the first study presenting injury data in artistic roller skating according to the consensus statement on reporting epidemiological data from the International Olympic Committee <ce:cross-ref id="crf0140" refid="bib0150">[5]</ce:cross-ref>. Our participants show a higher overall injury incidence compared to other skating sports, such as rink hockey (4 to 4.5 injuries per 1,000<ce:hsp sp="0.25"/>hours) or inline speed skating (1.6 injuries per 1,000<ce:hsp sp="0.25"/>hours) <ce:cross-refs id="crfs0015" refid="bib0140 bib0145 bib0185">[3,4,12]</ce:cross-refs>. Unfortunately, injury incidence per 1000<ce:hsp sp="0.25"/>hours is not available in figure skating, and, to the authors’ knowledge, no prior ARS studies exist, making direct comparison impossible. The fact that artistic roller skaters suffer more injuries than hockey or speed skating athletes could be explained by the longer exposure hours to the sport. Athletes in artistic disciplines often train for extended periods of up to 30<ce:hsp sp="0.25"/>hours per week to master proper technique, increasing their risk of injury due to greater exposure to potentially harmful events, while weekly training in rink hockey or speed skating rarely exceeds 10<ce:hsp sp="0.25"/>hours. Compared to a different artistic sport such as gymnastics, our athletes had a lower overall injury incidence, with gymnasts experiencing up to 9 injuries per 1,000<ce:hsp sp="0.25"/>hours of exposure <ce:cross-ref id="crf0145" refid="bib0160">[7]</ce:cross-ref>. This higher rate in this sport may be due to the prevalence of upper body injuries, such as shoulder instability or wrist pathology, as well as a significant number of lower body injuries <ce:cross-refs id="crfs0020" refid="bib0190 bib0195">[13,14]</ce:cross-refs>. In contrast, ARS athletes primarily suffer from lower body injuries. Taken together, the evidence suggests that ARS has a moderate injury incidence rate compared with other artistic or skate-based sports. Apart from the general injury incidence, the comparison between training and competition injuries yielded significant differences in favour of the second (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.001). This difference is primarily due to the high number of injuries (<ce:italic>n</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>44) combined with low exposure time (59<ce:hsp sp="0.25"/>hours). Injury incidence is a compound rate, so both the number of injuries and exposure time should be taken into consideration, since less than 20% of injuries occurred during competition. It is important to note that the results may be biased due to the low exposure hours in competitive sessions. Therefore, it is recommended to interpret these findings with caution <ce:cross-ref id="crf0150" refid="bib0180">[11]</ce:cross-ref>.</ce:para>
+                  <ce:para id="par0075" view="all">Musculotendinous and ligament injuries displayed identical results (0.7/1,000<ce:hsp sp="0.25"/>h). Previous research in figure skaters have found large rates of ligament injuries (55%) <ce:cross-ref id="crf0155" refid="bib0135">[2]</ce:cross-ref>. Injuries affecting these structures are common in sports that require plyometric actions where the passive structures have to cope with large forces from the lower limb joints, however, rates presented in other skating sports show a higher incidence of muscle over ligament injuries <ce:cross-ref id="crf0160" refid="bib0145">[4]</ce:cross-ref>. This discrepancy could be explained by the higher speed reached by speed skaters and rink hockey players, since muscle injuries happen during actions that are closed to maximal velocity <ce:cross-ref id="crf0165" refid="bib0200">[15]</ce:cross-ref>, while submaximal speed may be sufficient to practise ARS without posing excessive strain on the muscle tissue <ce:cross-ref id="crf0170" refid="bib0205">[16]</ce:cross-ref>. A larger amount of ligament injuries have been presented in epidemiological data from female football, both adult and adolescents, where ligamentous knee and ankle injuries are amongst the most common injuries <ce:cross-refs id="crfs0025" refid="bib0210 bib0215">[17,18]</ce:cross-refs>. Our sample was formed by female athletes, which could be the cause why we have recorded this substantial amount of ligament injuries, epidemiological studies on female populations have shown a trend towards higher rates of ligament injuries over muscle injuries, although both types of injuries are common <ce:cross-refs id="crfs0030" refid="bib0220 bib0225">[19,20]</ce:cross-refs>. Given the propensity of female athletes to suffer from ligament injuries, it is essential to monitor for symptoms indicative of these injuries in order to prevent them before they occur <ce:cross-ref id="crf0175" refid="bib0230">[21]</ce:cross-ref>.</ce:para>
+                  <ce:para id="par0080" view="all">One in four injuries affected the ankle or knee joints, while there was also a high incidence of wrist injuries. Our rates are lower than previous figure skating data, which reported 28% of injuries affecting the ankle and 18% affecting the knee <ce:cross-ref id="crf0180" refid="bib0135">[2]</ce:cross-ref>. ARS is characterised by intermittent acceleration and jumping movements, landing from a pirouette could stress the soft tissues in these joints when braking the body's speed, or result in a loss of balance and falling, which may explain the high rate of wrist injuries as skaters try to avoid damaging other body areas. Knee and ankle injuries, although common, might be more severe, as ligamentous injuries in these areas require long recovery periods <ce:cross-ref id="crf0185" refid="bib0225">[20]</ce:cross-ref>. Including neuromuscular warm-up programmes could mitigate the risk of ankle and knee injuries, as shown in previous randomised controlled trials, although the effectiveness in artistic roller skating is yet to be determined <ce:cross-refs id="crfs0035" refid="bib0235 bib0240">[22,23]</ce:cross-refs>. Additionally, training of falling skills should be encouraged, as it could also reduce the number of injuries to the wrists <ce:cross-ref id="crf0190" refid="bib0145">[4]</ce:cross-ref>.</ce:para>
+                  <ce:para id="par0085" view="all">There are some limitations that should be acknowledged. First, a time-loss definition was used, which may have overlooked some minor issues that compromise performance without affecting participation. Due to the cross-sectional design, using questionnaires like the Oslo Sports Trauma Research Center (OSTRC) was not feasible and thus, non-time-loss injuries could not be captured. Second, injuries were self-reported, leading to missing data on certain fields due to limited access to medical professionals, such as affected tissue, which might have underestimated some incidence calculations. Third, some severe injuries may have been missed if they led to sport abandonment due to the study design, prospective studies could address this point in the future. Finally, due to the anonymity of the survey, it is unknown how many athletes received the survey <ce:cross-ref id="crf0195" refid="bib0245">[24]</ce:cross-ref>.</ce:para>
+                  <ce:para id="par0090" view="all">Certain strengths should also be stated. This is the first epidemiological study reporting ARS injury data. Sample size was large, providing a representative number of injuries for most body regions, making the injury incidence results reliable. The IOC terminology facilitated comparison with other sports that follow the same consensus statement on reporting of epidemiological data. Finally, the inclusion of data on female athletes is particularly significant, as their representation in sports research remains limited, underscoring the importance of addressing this gap <ce:cross-ref id="crf0200" refid="bib0250">[25]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0060" role="conclusion" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sect0110">Conclusion</ce:section-title>
+                  <ce:para id="par0095" view="all">Injury incidence in female artistic roller skating is moderate. A large number of injuries affect the lower limbs, with knee and ankle injuries being the most common. Injury incidence is higher in competitions compared to training sessions. Results from the present study represent the first step towards the design and implementation of preventative programmes. Efforts should focus on the lower body, since this area is at higher risk of sustaining artistic roller skating related injuries.</ce:para>
+               </ce:section>
+               <ce:section id="sec0065" role="funding" view="all">
+                  <ce:section-title id="sect0115">Funding</ce:section-title>
+                  <ce:para id="par0100" view="all">The authors report there is no funding associated with the work featured in this article.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0005" view="all">
+               <ce:section-title id="sect0120">Disclosure of interest</ce:section-title>
+               <ce:para id="par0105" view="all">The authors declare that they have no competing interest.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0125">Acknowledgements</ce:section-title>
+               <ce:para id="par0110" view="all">The authors would like to thank all participating athletes.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0130">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0015" view="all">
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Van Mechelen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Hlobil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.G.</ce:given-name>
+                                 <ce:surname>Kemper</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Incidence, severity, aetiology and prevention of sports injuries: a review of concepts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>82</sb:first-page>
+                              <sb:last-page>99</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0025">[1] Van Mechelen W, Hlobil H, Kemper HCG. Incidence, Severity, Aetiology and Prevention of Sports Injuries: A Review of Concepts. Sports Med 1992;14:82-99.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.T.</ce:given-name>
+                                 <ce:surname>Geminiani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.J.</ce:given-name>
+                                 <ce:surname>Micheli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epidemiology of figure skating injuries: a review of the literature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sports Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>532</sb:first-page>
+                              <sb:last-page>537</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0030">[2] Han JS, Geminiani ET, Micheli LJ. Epidemiology of Figure Skating Injuries: A Review of the Literature. Sports Health 2018;10:532-7.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0140">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Quintana-Cepedal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Rodríguez MÁ</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Nuño-Iglesias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Del Valle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Crespo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Olmedillas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Injury characteristics of young elite inline speed skaters: a one season retrospective study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                              <sb:last-page>186</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0035">[3] Quintana-Cepedal M, Rodríguez MÁ, Nuño-Iglesias N, Del Valle M, Crespo I, Olmedillas H. Injury characteristics of young elite inline speed skaters: A one season retrospective study. Phys Sports Med 2024;52:181-6.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0145">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Quintana-Cepedal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Rodríguez MÁ</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Crespo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Del Valle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Olmedillas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epidemiology of rink hockey-related injuries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sport Rehab</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>70</sb:first-page>
+                              <sb:last-page>75</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0040">[4] Quintana-Cepedal M, Rodríguez MÁ, Crespo I, Del Valle M, Olmedillas H. Epidemiology of Rink Hockey-Related Injuries. J Sport Rehab 2023;32:70-5.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0150">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bahr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Clarsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Derman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dvorak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Emery</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Finch</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>International Olympic Committee consensus statement: methods for recording and reporting of epidemiological data on injury and illness in sport 2020 (including STROBE Extension for Sport Injury and Illness Surveillance [STROBE-SIIS])</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Br J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>372</sb:first-page>
+                              <sb:last-page>389</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0045">[5] Bahr R, Clarsen B, Derman W, Dvorak J, Emery CA, Finch CF, et al. International Olympic Committee consensus statement: methods for recording and reporting of epidemiological data on injury and illness in sport 2020 (including STROBE Extension for Sport Injury and Illness Surveillance [STROBE-SIIS]). Br J Sports Med 2020;54:372-89.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0155">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Kerr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Hayden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Barr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Klossner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.P.</ce:given-name>
+                                 <ce:surname>Dompier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epidemiology of national collegiate athletic association women's gymnastics injuries, 2009–2010 through 2013–2014</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Athl Train</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>870</sb:first-page>
+                              <sb:last-page>878</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0050">[6] Kerr ZY, Hayden R, Barr M, Klossner DA, Dompier TP. Epidemiology of National Collegiate Athletic Association Women's Gymnastics Injuries, 2009–2010 Through 2013–2014. Journal of Athletic Training 2015;50:870-8.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0160">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Thomas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A systematic review of injuries in gymnastics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>96</sb:first-page>
+                              <sb:last-page>121</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0055">[7] Thomas RE, Thomas BC. A systematic review of injuries in gymnastics. The Physician and Sportsmedicine 2019;47:96-121.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0165">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Vandenbroucke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Von Elm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Altman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Gøtzsche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.D.</ce:given-name>
+                                 <ce:surname>Mulrow</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Pocock</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Strengthening the reporting of observational studies in epidemiology (STROBE): explanation and elaboration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Epidemiology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>805</sb:first-page>
+                              <sb:last-page>835</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0060">[8] Vandenbroucke JP, Von Elm E, Altman DG, Gøtzsche PC, Mulrow CD, Pocock SJ, et al. Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): Explanation and Elaboration. Epidemiology 2007;18:805-35.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0170">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ekstrand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Spreco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bengtsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bahr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Injury rates decreased in men's professional football: an 18-year prospective cohort study of almost 12,000 injuries sustained during 1.8 million hours of play</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Br J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1084</sb:first-page>
+                              <sb:last-page>1092</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0065">[9] Ekstrand J, Spreco A, Bengtsson H, Bahr R. Injury rates decreased in men's professional football: an 18-year prospective cohort study of almost 12 000 injuries sustained during 1.8 million hours of play. Br J Sports Med 2021;55:1084-92.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0175">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Aragon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Epitools: epidemiology tools</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>[0.5-10.1. citado 2025 oct 20. Available from: <ce:inter-ref id="intr0005" xlink:href="https://cran.r-project.org/package=epitools" xlink:type="simple">https://CRAN.R-project.org/package=epitools</ce:inter-ref>]</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="npr0070">[10] Aragon TJ. &lt;JT&gt;Epitools: Epidemiology Tools&lt;/JT&gt; 2004. 0.5-10.1. [citado 2025 oct 20]. Available from: ht tps: //CRAN.R-project.org/package=epitools.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0180">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>De Pablo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sugimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Arboix-Alio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Rodas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Casals</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Analysis of injuries during the 2019 Rink Hockey World Championship</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>442</sb:first-page>
+                              <sb:last-page>448</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0075">[11] De Pablo B, Sugimoto D, Arboix-Alio J, Rodas G, Casals M. Analysis of injuries during the 2019 Rink Hockey World Championship. The Physician and Sportsmedicine 2023;51:442-8.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0185">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Quintana-Cepedal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Roces-Vila</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Del Valle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Olmedillas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Epidemiology of injuries in elite female rink hockey players: a two season observational study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys Ther Sport</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                              <sb:last-page>12</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0080">[12] Quintana-Cepedal M, Roces-Vila I, Del Valle M, Olmedillas H. Epidemiology of injuries in elite female rink hockey players: A two season observational study. Physical Therapy in Sport 2024;67:7-12.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0190">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Desai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Vance</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Rosenwasser</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.S.</ce:given-name>
+                                 <ce:surname>Ahmad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Artistic gymnastics injuries; epidemiology, evaluation, and treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Am Acad Orthop Surg</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>459</sb:first-page>
+                              <sb:last-page>467</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0085">[13] Desai N, Vance DD, Rosenwasser MP, Ahmad CS. Artistic Gymnastics Injuries; Epidemiology, Evaluation, and Treatment. J Am Acad Orthop Surg 2019;27:459-67.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0195">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Caine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Nassar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Gymnastics injuries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>D.J.</ce:given-name>
+                                    <ce:surname>Caine</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>N.</ce:given-name>
+                                    <ce:surname>Maffulli</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Medicine and sport science</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>S. Karger AG</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                        <sb:comment>[citado 2024 ago 6. página 18–58.Available from: <ce:inter-ref id="intr0010" xlink:href="https://karger.com/books/book/2502/chapter/5739361" xlink:type="simple">https://karger.com/books/book/2502/chapter/5739361</ce:inter-ref>]</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="npr0090">[14] Caine DJ, Nassar L. &lt;CT&gt;Gymnastics Injuries&lt;/CT&gt;. In: Caine DJ, Maffulli N (Eds.), &lt;EBT&gt;Medicine and Sport Science&lt;/EBT&gt;. S. Karger AG. 2005. [citado 2024 ago 6]. página 18-58.Available from: htt ps:/ /karger.com/books/book/2502/chapter/5739361.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0200">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Aiello</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Di Claudio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fanchini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Impellizzeri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>McCall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Sharp</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Do non-contact injuries occur during high-speed running in elite football? Preliminary results from a novel GPS and video-based method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sci Med Sport</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>465</sb:first-page>
+                              <sb:last-page>470</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0095">[15] Aiello F, Di Claudio C, Fanchini M, Impellizzeri FM, McCall A, Sharp C, et al. Do non-contact injuries occur during high-speed running in elite football? Preliminary results from a novel GPS and video-based method. J Sci Med Sport 2023;26:465-70.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0205">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Fernández</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Varo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Carmona</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Reche</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantification of external load of elite rink hockey players in official matches</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sports Med Phys Fit</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>[citado 2024 ago 6. Available from: <ce:inter-ref id="intr0015" xlink:href="https://www.minervamedica.it/index2.php?show=R40Y2020N12A1520" xlink:type="simple">https://www.minervamedica.it/index2.php?show=R40Y2020N12A1520</ce:inter-ref>]</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="npr0100">[16] Fernández D, Varo F, Carmona G, Reche X. Quantification of external load of elite rink hockey players in official matches. J Sports Med Phys Fitness 2020;60. [citado 2024 ago 6]. Available from: ht tps:/ /ww w.minervamedica.it/index2.php?show=R40Y2020N12A1520.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0210">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Quintana-Cepedal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>López-Aguado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Fernández-Somoano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Rodríguez MÁ</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Del Valle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Olmedillas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Injury incidence and characteristics in adolescent female footballplayers: a systematic review with meta-analysis of prospectivestudies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>bs</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>137</sb:first-page>
+                              <sb:last-page>151</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0105">[17] Quintana-Cepedal M, López-Aguado I, Fernández-Somoano A, Rodríguez MÁ, Del Valle M, Olmedillas H. Injury incidence and characteristics in adolescent female footballplayers: A systematic review with meta-analysis of prospectivestudies. bs 2024;41:137-51.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0215">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>López-Valenciano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Raya-González</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Garcia-Gómez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Aparicio-Sarmiento</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Sainz De Baranda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>De Ste Croix</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Injury profile in women's football: a systematic review and meta-analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>423</sb:first-page>
+                              <sb:last-page>442</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0110">[18] López-Valenciano A, Raya-González J, Garcia-Gómez JA, Aparicio-Sarmiento A, Sainz De Baranda P, De Ste Croix M, et al. Injury Profile in Women's Football: A Systematic Review and Meta-Analysis. Sports Med 2021;51:423-42.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0220">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hallén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Tomás</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Ekstrand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bengtsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Van Den Steen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hägglund</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>UEFA Women's Elite Club Injury Study: a prospective study on 1,527 injuries over four consecutive seasons 2018/2019 to 2021/2022 reveals thigh muscle injuries to be most common and ACL injuries most burdensome</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Br J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>128</sb:first-page>
+                              <sb:last-page>136</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0115">[19] Hallén A, Tomás R, Ekstrand J, Bengtsson H, Van Den Steen E, Hägglund M, et al. UEFA Women's Elite Club Injury Study: a prospective study on 1527 injuries over four consecutive seasons 2018/2019 to 2021/2022 reveals thigh muscle injuries to be most common and ACL injuries most burdensome. Br J Sports Med 2024;58:128-36.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0225">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0225">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Amundsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Thorarinsdottir</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Clarsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.E.</ce:given-name>
+                                 <ce:surname>Andersen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Møller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bahr</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>#ReadyToPlay: health problems in women's football – a two-season prospective cohort study in the Norwegian premier league</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Br J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4</sb:first-page>
+                              <sb:last-page>10</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0120">[20] Amundsen R, Thorarinsdottir S, Clarsen B, Andersen TE, Møller M, Bahr R. #ReadyToPlay: health problems in women's football–a two-season prospective cohort study in the Norwegian premier league. Br J Sports Med 2024;58:4-10.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0230">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0230">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Whalan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Lovell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Sampson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Do niggles matter? – Increased injury risk following physical complaints in football (soccer)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci Med Football</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>216</sb:first-page>
+                              <sb:last-page>224</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0125">[21] Whalan M, Lovell R, Sampson JA. Do Niggles Matter? - Increased injury risk following physical complaints in football (soccer). Science and Medicine in Football 2020;4:216-24.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0235">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0235">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Åkerlund</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Waldén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sonesson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lindblom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hägglund</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High compliance with the injury prevention exercise programme Knee Control is associated with a greater injury preventive effect in male, but not in female, youth floorball players</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Knee Surg Sports Traumatol Arthrosc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1480</sb:first-page>
+                              <sb:last-page>1490</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0130">[22] Åkerlund I, Waldén M, Sonesson S, Lindblom H, Hägglund M. High compliance with the injury prevention exercise programme Knee Control is associated with a greater injury preventive effect in male, but not in female, youth floorball players. Knee Surg Sports Traumatol Arthrosc 2022;30:1480-90.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0240">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0240">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lindblom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sonesson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Torvaldsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Waldén</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hägglund</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Extended Knee Control programme lowers weekly hamstring, knee and ankle injury prevalence compared with an adductor strength programme or self-selected injury prevention exercises in adolescent and adult amateur football players: a two-armed cluster-randomised trial with an additional comparison arm</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Br J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>83</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0135">[23] Lindblom H, Sonesson S, Torvaldsson K, Waldén M, Hägglund M. Extended Knee Control programme lowers weekly hamstring, knee and ankle injury prevalence compared with an adductor strength programme or self-selected injury prevention exercises in adolescent and adult amateur football players: a two-armed cluster-randomised trial with an additional comparison arm. Br J Sports Med 2023;57:83-90.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0245">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0245">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Wörner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Thorborg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Eek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High prevalence of hip and groin problems in professional ice hockey players, regardless of playing position</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Knee Surg Sports Traumatol Arthrosc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2302</sb:first-page>
+                              <sb:last-page>2308</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0140">[24] Wörner T, Thorborg K, Eek F. High prevalence of hip and groin problems in professional ice hockey players, regardless of playing position. Knee Surg Sports Traumatol Arthrosc 2020;28:2302-8.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0250">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0250">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Verhagen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fagher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Edouard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rojas-Valverde</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Under-representation of women is alive and well in sport and exercise medicine: what it looks like and what we can do about it</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ Open Sport Exerc Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e001606</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0145">[25] Anderson N, Robinson DG, Verhagen E, Fagher K, Edouard P, Rojas-Valverde D, et al. Under-representation of women is alive and well in sport and exercise medicine: what it looks like and what we can do about it. BMJ Open Sport Exerc Med 2023;9:e001606.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">An examination of acute cross-over effects following unilateral low intensity concentric and eccentric exercise ☆</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-08-29">29 August 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct status="extracted">
+					<analytic>
+						<author>
+							<persName><forename type="first">William</forename><surname>Miller</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health, Exercise Science, and Recreation Management</orgName>
+								<orgName type="institution" key="instit1">The University of Mississippi</orgName>
+								<orgName type="institution" key="instit2">Neuromuscular Laboratory, University</orgName>
+								<address>
+									<region>MS</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sunggun</forename><surname>Jeon</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">School of Kinesiology</orgName>
+								<orgName type="institution" key="instit1">Oklahoma State University</orgName>
+								<orgName type="institution" key="instit2">Applied Health and Recreation</orgName>
+								<address>
+									<settlement>Stillwater</settlement>
+									<region>OK</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Xin</forename><surname>Ye</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Health, Exercise Science, and Recreation Management</orgName>
+								<orgName type="institution" key="instit1">The University of Mississippi</orgName>
+								<orgName type="institution" key="instit2">Neuromuscular Laboratory, University</orgName>
+								<address>
+									<region>MS</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Rehabilitation Sciences</orgName>
+								<orgName type="institution">University of Hartford</orgName>
+								<address>
+									<addrLine>West Hartford</addrLine>
+									<region>CT</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Health, Exercise Science, and Recreation Management</orgName>
+								<orgName type="institution" key="instit1">The University of Mississippi</orgName>
+								<orgName type="institution" key="instit2">Neuro- muscular Laboratory, University</orgName>
+								<address>
+									<postCode>38677</postCode>
+									<region>MS</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Rehabilitation Sciences</orgName>
+								<orgName type="institution">University of Hartford</orgName>
+								<address>
+									<addrLine>West Hartford</addrLine>
+									<postCode>06117</postCode>
+									<region>CT</region>
+									<country key="US">USA</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">An examination of acute cross-over effects following unilateral low intensity concentric and eccentric exercise ☆</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-08-29">29 August 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">2D6563165338B37535ADD8FA8C4C68B8</idno>
+					<idno type="DOI">10.1016/j.smhs.2020.08.002</idno>
+					<note type="submission">Received 13 June 2020; Received in revised form 19 August 2020; Accepted 20 August 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.9.0" ident="GROBID" when="2026-11-27T14:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0.9.0</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Contralateral Rate of force development Surface electromyography Muscle damage Submaximal</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>We compared the effects of low intensity concentric (CON) and eccentric (ECC) exercise on the force and neural responses of the dominant (exercised) elbow flexors (EFs), and studied if these conditions could induce cross-over effects to the contralateral (non-exercised) EFs. Fifteen subjects (8 males) completed all conditions (CON and ECC: 6 sets of low intensity exercise to failure; control: rest) in separate visits with a randomized order. Maximal isometric force and electromyography (EMG) of the dominant and contralateral EFs were assessed at pre, immediate-, 24-, and 48-h-post. Two-factor (condition and time) linear mixed-model analyses were performed to examine the force and EMG responses. Immediately post CON, contralateral EFs force was significantly (p ¼ 0.026) higher (12.41%) than control, but no cross-over effects regarding the neural responses were observed. Immediately post ECC, dominant EFs force was significantly lower in ECC, compared to CON (p ¼ 0.003) and control (p &lt; 0.001). This force remained depressed at 24-and 48-h post ECC, when compared to CON (p &lt; 0.001) and control (p &lt; 0.001). Our data suggests that submaximal unilateral exercises are not likely to impair contralateral muscle strength performance. Instead, concentric exercises may acutely improve muscle strength for the contralateral limb. However, this effect is not explained by changes in muscle excitation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Most daily tasks and sporting activities require concentric contractions to initiate movement, while eccentric contractions slow or resist movement. Additionally, concentric only exercise results in an insignificant level of exercise-induced muscle damage (EIMD), <ref type="bibr" target="#b0">1</ref> and the resulting short-term decrements in performance are likely attributable to neuromuscular fatigue. In contrast, unaccustomed eccentric exercise regularly results in EIMD and has been shown to result in low-frequency fatigue. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> The effects of EIMD are not fully understood but previous literature suggests it might be a result of damage to the physical structure of the muscle (e.g., myofibril disruption, alterations in the sarcomeres, etc.). <ref type="bibr" target="#b3">4</ref> The structural damage contributes to the sustained decrements in force, range of motion (ROM), <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> maximal rate of force development (RFD), <ref type="bibr" target="#b6">7</ref> persistent muscle soreness (i.e., delayed onset of muscle soreness), <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b7">8</ref> and changes in force steadiness. <ref type="bibr" target="#b8">9</ref> Therefore, it appears that eccentric exercise results in prolonged decreases in muscle function, while concentric exercise primarily contributes to neuromuscular fatigue only. <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> However, less is known about the alterations in muscle function after low intensity eccentric exercise and how it might affect the neuromuscular system differently than concentric exercise does. This is particularly important for athletic and general populations because the majority of athletic and daily tasks are performed in a submaximal (i.e., lower-intensity) manner.</p><p>Studies have attempted to determine the mechanistic and neural differences in force reduction after concentric and eccentric exercise, and the results obtained have been highly variable. Specific to the elbow flexors, there was greater force loss after eccentric exercise performed at 40% <ref type="bibr" target="#b8">9</ref> and 100% <ref type="bibr" target="#b12">13</ref> of maximal voluntary isometric contraction (MVIC) force; minimal force loss difference after 100% MVIC concentric and eccentric exercise <ref type="bibr" target="#b13">14</ref> ; and greater force loss after concentric exercise performed at 20% MVIC. <ref type="bibr" target="#b14">15</ref> In the knee extensors, there was greater force loss after concentric exercise performed maximally, <ref type="bibr" target="#b15">16,</ref><ref type="bibr" target="#b16">17</ref> and in the dorsiflexors there was greater force loss after maximal effort concentric exercise. <ref type="bibr" target="#b17">18</ref> The neural explanations are also conflicting, specifically electromyographic amplitude (EMGa), a measurement of the degree of muscle activation typically represented as the square root of the average power of the EMG signal for a given time period. For example, studies have demonstrated minimal changes in maximal EMGa after submaximal (i.e., 40% MVIC) and maximal concentric and eccentric exercise, respectively <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b11">12</ref> ; larger decreases in normalized EMGa after maximal eccentric exercise <ref type="bibr" target="#b13">14</ref> ; and similar decrements in normalized EMGa after maximal concentric and eccentric muscle exercise. <ref type="bibr" target="#b12">13</ref> The results of these studies have suggested that the loss in voluntary force after performing concentric and eccentric exercise may plausibly be attributed to a reduced capacity to maximally activate the muscle(s). If a loss of the voluntary force occurs after maximal concentric and eccentric exercise, then it would also be important to determine if a similar finding could be obtained when performing low intensity concentric and eccentric exercise.</p><p>A more interesting aspect of the effects of concentric and eccentric exercise, was the examination of the cross-over effects following concentric and/or eccentric exercise. Cross-over effects are defined as a decrement in force production of the non-exercised contralateral homologous muscle or group of muscles, after performing fatiguing exercise in the unilateral muscle(s). It is generally postulated that crossover effects are due to central fatigue, signified by reduced voluntary activation (i.e., insufficient motor cortical output and/or reduced responsiveness of the motoneuron pool). Previous research has demonstrated cross-over effects via reductions in voluntary activation, normalized EMGa, and maximal EMGa, after performing sustained MVICs in the contralateral (non-exercised) elbow flexors and knee extensors, respectively. <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b19">20</ref> However, less is still known about how concentric and eccentric exercise acutely affects the contralateral (non-exercised) elbow flexors, specifically at a low intensity. Given that most of the tasks performed daily are composed of low intensity concentric and eccentric movements, the examinations of these low intensity fatiguing movements may be of practical importance for ergonomic activities of daily living. Furthermore, intriguingly, research has not attempted to determine how the different types of contractions affect the contralateral (non-exercised) limb RFD, an important indicator for performance in sport and daily life. <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> Since there is suggestive evidence for cross-over effects being centrally driven then suffice it to say that RFD of the contralateral (non-exercised) limb could potentially be affected as well. This is plausible because it has been previously demonstrated that neural factors contribute greatly to rapid force production, especially during the early phase (i.e., &lt;100 ms). <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24</ref> If this were the case, then it would be important for researchers to understand the mechanisms for the reduction in contralateral RFD.</p><p>Therefore, we chose to investigate cross-over effects in the elbow flexors after performing low intensity concentric and eccentric exercise for the following reasons: 1) Previous studies have not directly compared the cross-over effects pertaining to RFD after concentric and eccentric fatiguing exercise; 2) To possibly provide evidence to health professionals (e.g., physical therapists, trainers) toward a better understanding of the potential mechanisms involved in the cross-over effects, by examining additional outcomes other than force; and 3) with the results of this study, we hope to provide a stepping stone toward development of future studies examining how EIMD may plausibly induce cross-over effects, specific to changes in RFD measures. On the basis of the aforementioned research we tested several hypotheses. Low intensity fatiguing eccentric exercise would result in, 1) greater cross-over effects (i.e., dominant to contralateral elbow flexor); 2) Larger reductions in the capability of producing maximal force, as well as 3) decrements in the neural factors (i.e., EMGa, EMG median frequency [MDF], rate of EMG rise [RER] and RFD; 4) Larger reductions in ROM and 5) increased muscle soreness (i.e., typically measured using the visual analogue scale [VAS], <ref type="bibr" target="#b24">25</ref> all of which are plausibly due to the established effects of EIMD (i.e., structural changes and tissue damage) and the neuromuscular burden associated with eccentric exercise. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b25">26</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental design</head><p>The experimental design is depicted in Fig. <ref type="figure" target="#fig_0">1</ref>. This study employed a randomized within-subject, counterbalanced, and controlled design. The foci were to examine the dominant elbow flexors, as well as the crossover effects to the nondominant (hereby referred to as contralateral) elbow flexors after completing a control, low intensity concentric, and low intensity eccentric exercise conditions. All subjects reported to the laboratory for ten separate visits, to complete the study. The first visit included a familiarization of the equipment and experimental procedures (i.e., concentric and eccentric movements and MVIC). The following visits were randomized to one of the following conditions: control, concentric, or eccentric exercise. Importantly, randomization and counterbalancing were employed using a condition randomizer, to mitigate the effects of one condition on another. Briefly, the concentric and eccentric conditions included performing six sets of repeated contractions to momentary failure; while the control condition required resting quietly. The MVIC force, EMGa, EMG MDF, RFD, and RER measurements were collected for the dominant and contralateral elbow flexors at baseline (pre), immediate-(post0), 24-(post24), and 48-h post (post48) for all conditions. In addition, indirect markers of EIMD (e.g., soreness via VAS and ROM) were collected for the dominant (exercised) elbow flexors at all the same time points. These variables have been commonly measured when examining the effects of concentric and eccentric exercise. Notably, a minimum rest period of two weeks was required to be between the post48 visit for any condition prior to the first visit of the next condition, regardless of the order in which they were completed. Moreover, all follow-up visits were scheduled to be performed within 2 h of the original exercise session to control for diurnal variations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Subjects</head><p>Prior to recruitment, a statistical power analysis was performed for sample size estimation using G*Power software (3.1.9.4; Heinrich Heine University, Dusseldorf, Germany) <ref type="bibr" target="#b26">27</ref> based on data from Ye et al. <ref type="bibr" target="#b12">13</ref> comparing differences between the contralateral and dominant elbow flexors after performing concentric and eccentric exercise. The effect size in this study was considered to be small using Cohen's criteria, <ref type="bibr" target="#b27">28</ref> with an alpha ¼ 0.05 and power ¼ 0.80. The results recommended a sample size of 12 thus, this study was adequately powered. Eight males (mean AE standard deviation [SD] ¼ age: 20.38 AE 1.30 years; height: 178.04 AE 6.39 cm; mass: 73.18 AE 8.67 kg) and seven females (mean AE SD ¼ age: 20.29 AE 1.98 years; height: 166.01 AE 8.38 cm; mass: 74.94 AE 14.71 kg) were recruited for the study. A pre-exercise health and exercise status questionnaire confirmed that all subjects were considered to be recreationally active but not resistance or aerobically trained. This was based on answering "no" to questions pertaining to regular involvement in resistance or aerobic training and answering "yes" to questions pertaining to participation in recreational activities. In addition, based on no report of any current or recent neuromuscular or musculoskeletal injury or disorder, all subjects were deemed eligible to participate. All subjects were instructed to maintain continuity in daily regimens of physical activity, sleep, and eating habits throughout the entirety of the study. Since caffeine has a known ergogenic benefit in reducing fatigue, <ref type="bibr" target="#b28">29,</ref><ref type="bibr" target="#b29">30</ref> as well as attenuating the delayed-onset of muscle soreness, <ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31</ref> subjects were instructed to not consume caffeine a minimum of 8 h prior to their scheduled visit. If caffeine was consumed in that time frame then subjects were rescheduled. Determination of caffeine consumption was based on the trust of the subjects, and to our knowledge all subjects complied. Moreover, subjects were not screened for consumption of other supplements or medications that may have a known ergogenic effect, as we only screened for medications that may increase the risk of an adverse reaction during fatiguing exercise. It is important to mention that, although our focus was to not examine sex differences, the inclusion of females in studies is imperative, in an effort to enhance the accuracy and generalizability of the outcome data. Additionally, we did not control for the menstrual cycle which will be addressed in our limitations. All experimental procedures in this project were in accordance with the ethical standards of 1964 Helsinki declaration and its later amendments or comparable ethical standards and were approved by the University's Institutional Review Board (IRB Protocol # 18-084). All subjects were informed of the benefits and risks of the investigation prior to signing an institutionally approved informed consent document to participate in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental conditions</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Concentric exercise condition</head><p>A researcher instructed the subjects to sit in an adjustable arm curl bench (CB-6 Adjustable Arm Curl Bench; Valor Fitness, Seminole, FL, USA) and to maintain an upright posture, allowing for adjustment of the 45 elbow pad to a comfortable and suitable position. Next, subjects were provided with verbal and visual instruction on how to perform the concentric exercise. This exercise condition consisted of elbow flexor shortening and was performed through a full ROM (i.e., begin at 0 [full extension] and end at ~140-150 [full flexion]). Subjects were first provided with a pencil (i.e., providing a visual stimulus) followed by a small external load (e.g., 5-pound dumbbell), and were instructed to perform a full ROM elbow flexion movement to a metronome. The metronome was set at a constant rhythm of 2-s up and 2-s down. When the subject reached full flexion, the researcher removed the object (e.g., pencil or dumbbell), subsequently allowing the subject to return to the full extension position without a load. Next, the load was then given back to the subject at the start position. Subjects were also instructed to complete the following: 1) Always maintain an upright posture and not allow the shoulder to move anteriorly, as this would provide a mechanical advantage; and 2) to keep the posterior aspect of the upper arm in contact with the 45 elbow pad at all times. Once deemed proficient in the movement by a researcher (i.e., able to strictly follow the metronome in a controlled manner) and the subjects verbalized their comfortability and readiness, familiarization was concluded. The exercise consisted of performing six sets of elbow flexor shortening contractions to momentary failure with 1 min of rest between each set. At the beginning of the visit subjects performed the maximal isometric elbow flexion assessment (i.e., MVIC) by maintaining a 90 elbow bend and pulling against an immovable apparatus. The load used was 25% of the MVIC force which was applied using a dumbbell. This load was chosen based on pilot testing in our laboratory and any load higher than 25% greatly reduced the ability to maintain cadence with the metronome. Momentary failure was determined under either of the several conditions: 1) A failed attempt at the beginning of the movement; 2) An attempt lasting longer than 2 s; or 3) changing the body position (e.g., rolling shoulder anteriorly or leaning backward) to provide a mechanical advantage. Lastly, a 2week minimum washout period was completed prior to performing the next experimental condition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eccentric exercise condition</head><p>This exercise condition consisted of elbow lengthening and was performed through a full ROM (i.e., begin at ~140-150 [full flexion]) and end at 0 [full extension]. During familiarization and exercise, when the subject reached full extension, the researcher removed the object (e.g., pencil or dumbbell), subsequently allowing the subject to return to the full flexion position without a load. Next, the load was then given back to the subject at the start position. The exercise consisted of performing six sets of elbow lengthening contractions to momentary failure with 1 min of rest between each set. At the beginning of the visit subjects performed the maximal isometric elbow flexion assessment (i.e., MVIC) by maintaining a 90 elbow bend and pulling against an immovable apparatus. The load used was 30% of isometric elbow flexion MVIC force which was applied using a dumbbell. This load was chosen based on pilot testing in our laboratory and any load higher than 30% greatly reduced the ability to maintain cadence with the metronome. That is, loads higher than 30% of MVIC were highly unstable, thereby disallowing proper control of the weight. The same guidelines for momentary failure during the concentric condition were used during the eccentric condition. Importantly, we believe both concentric and eccentric loads were sufficient, albeit different, based on our previous statements of the difficulty in performing at different loads, and especially since the sample being studied was considered to be untrained regarding resistance training. Additionally, subjects were instructed to halt contralateral limb movement during both conditions which was verified by visual observation of no movement and minimal to no EMG activity. Importantly, a 2-week minimum washout Subjects performed six sets of exercise to momentary failure with 25% and 30% of baseline maximal voluntary isometric contraction (MVIC) force during concentric and eccentric exercise bouts, respectively. The control condition did not perform exercise and subsequently rested quietly in a seated position. For the contralateral (nonexercised) elbow flexors among all conditions, the MVIC, electromyography amplitude (EMGa), EMG median frequency (EMG MDF), rate of force development (RFD) and rate of EMG rise (RER) from 0 to 50 ms and 0-100 ms were measured. For the dominant (exercised) elbow flexors among all conditions, the MVIC, RFD, range of motion (ROM), and muscle soreness (VAS) were measured. All measurements were completed at pre, post0, post24, and post48 time points. The contralateral elbow flexors were always assessed first for all follow-up assessments, followed by the dominant elbow flexors. A minimum rest period of two weeks was required to be between the post48 visit of any condition, prior to the first visit of the next condition, regardless of the order in which they were completed.</p><p>period was completed prior to performing the next experimental condition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Control condition</head><p>The control condition consisted of completing all pre and post measurements, as well as resting quietly in a seated position for 12min without performing any elbow flexor lengthening or shortening movements. The 12-min resting time was chosen based on the approximate time it took subjects to complete the six sets of elbow lengthening and elbow shortening to momentary failure combined with the 1-min rest in between each set. Similar to other conditions, a 2-week minimum washout period was completed prior to performing the next experimental condition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dependent variable measurements</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Isometric force testing</head><p>Subjects were first familiarized with the MVIC testing protocol utilizing a custom-built isometric station. Each subject was instructed to maintain a seated upright posture while placing the posterior aspect of the upper arm onto a square-shaped padded surface. A padded cuff was placed around the wrist and connected to one end of a tensiometer (Model SSM-AJ-500; Interface, Scottsdale, AZ, USA), with the other end of the tensiometer connected to a rigid constraint. Subsequently, subjects were instructed to obtain a 90 elbow angle which was standardized by the researcher using a protractor goniometer (EGM-422 -EMI 12"; Elite Medical Instruments, Fullerton, CA, USA). The warmup consisted of performing six to eight submaximal (i.e., 50% of perceived maximal effort) isometric contractions, followed by one to two brief maximal effort isometric contractions. Once subjects verbalized their comfortability and readiness for MVIC testing, familiarization was terminated. For all experimental conditions, each subject completed three repetitions of 5-s MVICs with 2 min of rest in between each. The researcher provided each subject with explicit instructions to "pull as fast as you can, then as hard as you can," and ensured each subject maintained 90 of elbow flexion and performed no countermovement prior to each MVIC. <ref type="bibr" target="#b21">22</ref> Visual and verbal feedback were provided to the subject during each MVIC. At baseline, both dominant and contralateral elbow flexors performed the testing in a randomized order. For all conditions, at the post0, post24, and post48 time points the contralateral elbow flexors always completed the testing first, followed by the dominant elbow flexors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Force acquisition and EMG signal processing</head><p>A 16-channel Bagnoli TM desktop EMG system (Delsys, Inc., Natick, MA, USA) sampled the force and EMG signals at 20 kHz. The force and EMG signals were subsequently handled offline using customized software (LabVIEW, National Instruments, Austin, TX). In accordance with the SENIAM project, skin was shaved to remove debris and hair and cleansed with an isopropyl alcohol swab before the placement of all sensors. <ref type="bibr" target="#b31">32</ref> Specifically, per SENIAM guidelines a bipolar surface EMG sensor (DE 2.1 Single Differential Surface EMG Sensor, 10-mm interelectrode distance; Delsys, Inc., Natick, MA, USA) was positioned on the belly of the muscle for both the dominant and contralateral elbow flexors. A reference sensor (5.08-cm diameter; Dermatrode HE-R, American Imex, Irvine, CA, USA) was positioned on the seventh cervical vertebrae. Electrode location was marked with permanent ink and subjects were instructed to not remove the ink prior to the post24 and post48 follow-up visits. The surface EMG signals were pre-amplified (gain: 1000), high-(20 Hz) and low-pass (450 Hz) filtered, and then smoothed with a 100-ms zero-shift moving root-mean-square (RMS). The MVIC force was determined by selecting the peak 1-s window within the plateau region of the 5-s contraction, then it was normalized as a percentage of the baseline MVIC value during that specific visit. The EMG amplitude (EMGa) (RMS of the selected EMG signal) and EMG MDF were determined by selecting the highest 500-ms window of the non-smoothed EMG signal collected during the MVIC, and subsequently normalized as a percentage of the baseline MVIC values for the specific visit. That is, the MVIC performed at baseline was utilized for normalization to all post-MVICs for each condition separately.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RFD and RER</head><p>The onset of force and EMG activity was quantified by visually selecting the baseline and peak 500-ms windows and determining the difference between the baseline-to-peak values. Based on the automated method proposed by Granacher et al. <ref type="bibr" target="#b32">33</ref> the onsets of force and EMG were the points at which the signals exceeded two percent of the baseline-to-peak value. The RFD was defined as the slope of the force/time curve (Δforce/Δtime) at time intervals of 0-50-ms (RFD 50 ), 0-100-ms (RFD 100 ), and 0-200-ms (RFD 200 ) from the onset of the contraction. Likewise, the rate of EMG rise (RER) was defined as the slope of the EMG signal (ΔEMG/Δtime) at time intervals of 0-50-ms (RER 50 ), 0-100-ms (RER 100 ), and 0-200-ms (RER 200 ) from the onset of the contraction. <ref type="bibr" target="#b22">23</ref> Both RFD and RER were collected for the contralateral elbow flexors while RFD was collected for the dominant elbow flexors only, for all conditions at the pre, post0, post24, and post48 time points.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Range of motion</head><p>A protractor goniometer (EGM-422 -EMI 12"; Elite Medical Instruments, Fullerton, CA, USA) was used to measure the fully relaxed angle (RANG), as well as the fully flexed angle (FANG) of the elbow joint. The measurement was performed by placing the center of the goniometer over the lateral epicondyle of the humerus, the stationary arm along the lateral midline of the humerus toward the acromion process, and the moving arm along the lateral midline of the radius toward the radial styloid process. Next, the RANG measurement was performed by instructing subjects to keep the limb relaxed. Subsequently subjects were instructed to actively fully flex in a comfortable manner (i.e., minimal contraction of the biceps brachii) to measure FANG. A minimum of two measurements (within 2 of each other) each for RANG and FANG were completed for all conditions, and at all time points. The elbow joint ROM was determined by calculating the difference between RANG and FANG, and then averaging the two similar values. ROM of the dominant elbow flexors was collected for all conditions at pre, post0, post24, and post48 time points.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Muscle soreness</head><p>The VAS <ref type="bibr" target="#b24">25</ref> consisting of a 100-mm line with "no soreness" and "unbearable pain" on the far left and right ends, respectively, was used to assess perceived pain for all conditions and at all time points. Subjects were instructed to actively flex and extend the exercised elbow joint several times, and then subjectively indicate their soreness by placing a vertical line on the 100-mm line. In addition, a researcher explained the difference between "fatigue" and "soreness" to the subject, to ensure the subjects understand the difference. Subsequently, a researcher verbally communicated and obtained confirmation from the subject about their understanding of the scale. The level of muscle soreness was determined by measuring the distance (in mm) to the vertical mark from the "no soreness" end (i.e., far left end) of the scale. Soreness of the dominant elbow flexors was collected for all conditions at pre, post0, post24, and post48 time points.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analyses</head><p>The normality was tested by generating descriptive statistics and through visual inspection of histograms and boxplots, and outliers were determined through examination of boxplots for all dependent variables. Outliers were cases with values between 1.5 and 3 times the interquartile range (i.e., beyond the low and high aspect of the whiskers), and extreme outliers were cases with values more than 3 times the interquartile range. If outliers were present the data was analyzed with and without the outliers to determine if the results changed. The formal analyses used a linear mixed-model to account for missing data, with two factors: con-dition (Control vs. Concentric vs. Eccentric) and time (pre vs. post0 vs. post24 vs. post48) as well as the condition Â time interaction as the independent variables, and MVIC, EMGa, EMG MDF, RFD, RER, ROM and muscle soreness (VAS), as the dependent variables. A compound symmetry covariance structure and restricted maximum likelihood estimation were used. Little's test was conducted to account for the data missing completely at random assumption. <ref type="bibr" target="#b33">34</ref> When appropriate, follow-up tests included one-way repeated measures ANOVAs and paired-sample t-tests with Bonferroni corrections, to compare each of the conditions at each of the time points. For each one-way repeated measures ANOVA, the sphericity assumption was tested using Mauchly's test. If sphericity was violated, Greenhouse-Geisser (G-G) adjusted F and degrees of freedom were applied. The absolute changes (Δ: post0-pre; post24-pre and post48-pre) for the elbow flexor ROM and VAS were calculated for further statistical analyses. Effect sizes (Partial eta-squared [η <ref type="bibr" target="#b1">2</ref> p ]) were computed to assess the treatment (Control vs. Concentric vs. Eccentric) and time (pre vs. post0 vs. post24 vs. post48) effects, and were categorized as small ¼ 0.01; medium ¼ 0.06; and large ¼ 0.14, as suggested by Cohen. <ref type="bibr" target="#b34">35</ref> In addition, effect sizes (Cohens d) along with the 95% confidence interval (CI) were computed to assess the treatment and time effects for any pairwise comparisons and were categorized as small ¼ 0.2; medium ¼ 0.5; and large ¼ 0.8. Independent samples t-tests were used to assess if any sex differences existed among subject characteristics (i.e., mass, height, age) and the exercise data. A paired samples t-test was used to assess if any differences existed among the number of repetitions completed between concentric and eccentric exercise conditions. The alpha was set to 0.05. Notably, based on our hypotheses, the dependent variables of EMGa, EMG MDF, and RER for the dominant elbow flexors were collected but not analyzed or presented in this study because they were not of specific interest. All statistical analyses were conducted using the statistical software package (IBM SPSS Statistics 25.0; IBM, Armonk, NY, USA).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Data are presented as mean AE standard deviation (SD) throughout the remainder of the text and tables and mean AE standard error (SE) in all the figures. Descriptive statistics demonstrated data were normally distributed however, outliers were present. Little's test of missing completely at random was not significant for MVIC, EMGa, EMG MDF, RFD, ROM, or VAS. Importantly, there were no significant main effects or condition Â time interactions for EMGa, EMG MDF, RFD, or RER for the contralateral elbow flexors. With regard to characteristics, males were significantly (p ¼ 0.008) taller than females, but no significant differences were observed for mass (p ¼ 0.779) or age (p ¼ 0.918). In Table <ref type="table" target="#tab_0">1</ref>, the exercise data are presented. The total repetitions completed across all six sets was significantly greater for the eccentric compared to concentric condition (p ¼ 0.014, d ¼ 0.83, 95% CI [0.08,1.58]). The total volume across all six sets was significantly greater for the eccentric compared to concentric condition (p ¼ 0.005, d ¼ 1.03, 95% CI [0.27,1.79]). However, total repetitions completed by males and females was not significantly different between the eccentric (p ¼ 0.748) and concentric (p ¼ 0.223) conditions, and the total volume was also not significantly different between the eccentric (p ¼ 0.053) and concentric (p ¼ 0.771) conditions (Table <ref type="table" target="#tab_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effects of exercise on the isometric force</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contralateral elbow flexors</head><p>The baseline values for all dependent variables across all conditions are presented in Table <ref type="table" target="#tab_1">2</ref>. Linear mixed model analyses indicated a significant condition Â time interaction, F(6151.25) ¼ 2.42, p ¼ 0.029, η 2 p ¼ 0.087, and main effects for time, F(2151.25) ¼ 4.96, p ¼ 0.008, η 2 p ¼ 0.062, but, no significant main effects for condition (p ¼ 0.112). The one-way repeated measures ANOVA revealed a significant time effect for the concentric condition, F(1.81,23.47) ¼ 4.44, G-G p ¼ 0.026, η 2 p ¼ 0.255, with significantly greater normalized MVIC force at the post0 compared to post24 time point (post0 vs. post24 ¼ 108.30 AE 16.73% vs. 96.81 AE 13.95%, p &lt; 0.001, d ¼ 0.75, 95% CI [0.01,1.49]). A significant condition effect for the post0 time point, F(2,28) ¼ 4.38, p ¼ 0.022, η 2 p ¼ 0.238 was observed, with significantly greater normalized MVIC force in the concentric compared to control condition (concentric vs. control ¼ 107.40 AE 16.55% vs. 94.99 AE 7.02%, p ¼ 0.026, d ¼ 1.05, 95% CI [0.28,1.81]) (Fig. <ref type="figure" target="#fig_2">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dominant elbow flexors</head><p>Linear mixed model analyses indicated a significant condition Â time interaction for normalized MVIC force, F(6151.28) ¼ 15.40, p &lt; 0.001, η 2 p ¼ 0.379. The one-way repeated measures ANOVA revealed a significant time effect for the concentric condition, F(1.85,24.08) ¼ 21.87, G-G p &lt; 0.001, η 2 p ¼ 0.627, with significantly greater normalized MVIC force at pre compared to post 0 (pre vs. post0 ¼ 100.00 AE 0.00% vs. 73.18 AE 14.60%, p &lt; 0.001, d ¼ 2.60, 95% CI [1.59,3.60]); post24 compared to post0 (post24 vs. post0 ¼ 95.94 AE 12.78% vs. 73.18 AE 14.60%, p ¼ 0.002, d ¼ 1.66, 95% CI [0.80,2.51]); and post48 compared to post0 (post48 vs. post0 ¼ 97.14 AE 9.22 vs. 73.18 AE 14.60%, p ¼ 0.001, d ¼ 1.96, 95% CI [1.06,2.86]). The one-way repeated measures ANOVA also revealed a significant time effect for the eccentric condition, F(3,42) ¼ 52.43, p &lt; 0.001, η 2 p ¼ 0.789, with significantly greater normalized MVIC force at pre compared to post0 (pre vs. post0 ¼ 100.00 AE 0.00% vs. 46.44 AE 19.47%, p &lt; 0.001, d ¼ 3.89, 95% CI [2.67,5.11]); post24 (pre vs. post24 ¼ 100.00 AE 0.00% vs. 58.46 AE 19.91%, p &lt; 0.001, d ¼ 2.95, 95% CI [1.92,3.99]); and post48 (pre vs. post48 ¼ 100.00 AE 0.00% vs. 61.49 AE 22.80%, p &lt; 0.001, d ¼ 2.39, 95% CI [1.45,3.33]). Significantly greater normalized MVIC  <ref type="figure" target="#fig_4">3</ref>; Table <ref type="table" target="#tab_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effects of exercise on the EMGa and EMG MDF</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Contralateral elbow flexors</head><p>For EMGa, linear mixed model analyses indicated no significant condition Â time interaction (p ¼ 0.932, main effects for time (p ¼ 0.105), or condition (p ¼ 0.116). For EMG MDF, there was no significant condition Â time interaction (p ¼ 0.288) main effects for time (p ¼ 0.508), or condition (p ¼ 0.594).   </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Effects of exercise on the RFD and RER</head><p>Contralateral elbow flexors For RFD 50 , linear mixed model analyses indicated no significant condition Â time interaction (p ¼ 0.475), main effects for time (p ¼ 0.666), or condition (p ¼ 0.458; Fig. <ref type="figure" target="#fig_5">4a</ref>). For RFD 100 , there was no significant condition Â time interaction (p ¼ 0.605), main effects for time (p ¼ 0.271), or condition (p ¼ 0.268; Fig. <ref type="figure" target="#fig_5">4b</ref>). For RFD 200 , there was no significant condition Â time interaction (p ¼ 0.299), main effects for time (p ¼ 0.311) but, the main effect for condition was approaching significance (p ¼ 0.051). For RER 50 , linear mixed model analyses indicated no significant condition Â time interaction (p ¼ 0.644), main effects for time (p ¼ 0.536), or condition (p ¼ 0.089). For RER 100 , there was no significant condition Â time interaction (p ¼ 0.568), main effects for time (p ¼ 0.442), or condition (p ¼ 0.087). For RER 200 , there was no significant condition Â time interaction (p ¼ 0.463), main effects for time (p ¼ 0.166), or condition (p ¼ 0.703).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dominant elbow flexors</head><p>For RFD 50 , linear mixed model analyses indicated a significant condition Â time interaction, F(6149.05) ¼ 4.27, p &lt; 0.001, η 2 p ¼ 0.147, main effects for time, F(3149.05) ¼ 6.69, p &lt; 0.001, η 2 p ¼ ¼ 0.119, and no significant main effect for condition but, it was approaching significance (p ¼ 0.055). The one-way repeated measures ANOVA revealed a significant time effect for the eccentric condition only, F(1.34,18.76) ¼ 6.63, G-G p ¼ 0.013, η 2 p ¼ 0.321, however, pairwise comparisons showed no significant differences between time points. The one-way repeated measures ANOVA revealed significant condition effects at pre, F( <ref type="formula">1.38,19.38</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Range of motion and muscle soreness</head><p>The ΔROM and ΔVAS values are presented in Table <ref type="table" target="#tab_2">3</ref>. For ΔROM, linear mixed model analyses indicated a significant condition Â time interaction, F(8,196) ¼ 3.05, p ¼ 0 0.003, η 2 p ¼ 0.111, main effects for time, F(4,196) ¼ 5.41, p &lt; 0.001, η 2 p ¼ 0.099, and condition, F(2,196) ¼ 5.68, p ¼ 0.004, η 2 p ¼ 0.055. The one-way repeated measures ANOVA revealed a significant time effect for the eccentric condition only, F(4,56) ¼ 18.51, p &lt; 0.001, η 2 p ¼ 0.569, with a significantly larger reduction in the ΔROM from post0-pre compared to post48-pre (post0pre vs. post48-pre ¼ À36.53 AE 21.40 vs. À21.47 AE 18.88, p ¼ 0.025, d ¼ À0.75, 95% CI [-1.49,-0.01]. No other significant differences were observed for the ΔROM. The one-way repeated measures ANOVA showed a significant condition effect for the ΔROM at the post0-pre time point, F(1.39,19.44) ¼ 30.34, G-G p &lt; 0 0.001, η 2 p ¼ 0.684, with a significantly larger reduction in the eccentric compared to control (p &lt; 0.001, d ¼ 2.34, 95% CI [1.41,3.28]); and a significantly larger reduction in the eccentric compared to concentric (p &lt; 0.001, d ¼ 1.88, 95% CI [1.02,2.74]) conditions. The one-way repeated measures ANOVA showed a significant condition effect for the ΔROM at the post48-pre time point, F(1.27,17.74) ¼ 22.28, G-G p &lt; 0.001, η 2 p ¼ 0.614, with a significantly larger reduction in the eccentric compared to control(p &lt; 0.001, d ¼ 1.24, 95% CI [0.47,2.02]); and a significantly larger reduction in eccentric compared to concentric (p &lt; 0.001, d ¼ 1.78, 95% CI [0.94,2.63]) conditions. However, the one-way repeated measures ANOVA showed no significant condition effect for the ΔROM at the post24-pre time point (p ¼ 0.429). For the ΔVAS, the linear mixed model analyses indicated a significant condition Â time interaction, F(8,196) ¼ 7.13, p &lt; 0.001, η 2 p ¼ 0.225, main effects for time, F(4,196) ¼ 26.52, p &lt; 0.001, η 2 p ¼ 0.351, and condition, F(2,196) ¼ 36.5, p &lt; 0.001, η 2 p ¼ 0.271. The one-way repeated measures ANOVA revealed a significant time effect for the control condition, F(1.05,12.56) ¼ 11.74, G-G p ¼ 0.004, η 2 p ¼ 0.495, with significantly greater ΔVAS in the post0pre compared to post24-pre (post0-pre vs. post24-pre ¼ 6.00 AE 7.43 vs. À0.62 AE 2.57, p ¼ 0.014, d ¼ 1.23, 95% CI [0.38,2.05]); and post0-pre compared to post48-pre (post0-pre vs. post48-pre ¼ 6.00 AE 7.43 vs. 0.23 AE 3.42, p ¼ 0.014, d ¼ 1.02, 95% CI [0.20,1.84]). The one-way repeated measures ANOVA revealed a significant time effect for the concentric condition, F(1.03,13.37) ¼ 22.15, G-G p &lt; 0.001, η 2 p ¼ 0.631, with significantly greater ΔVAS in the post0-pre compared to post24-pre (post0-pre vs. post24-pre ¼ 30.07 AE 23.19 vs. 2.14 AE 3.25, p ¼ 0.002, d ¼ 1.80, 95% CI [0.93,2.68]); post0-pre compared to post48-pre (post0-pre vs. post48-pre ¼ 30.07 AE 23.19 vs. À0.86 AE 2.21, p ¼ 0.001, d ¼ 1.88, 95% CI [0.99,2.78]); and post24-pre compared to post48-pre (post24-pre vs. post48-pre ¼ 2.14 AE 3.25 vs. 0.86 AE 2.21, p ¼ 0.016, d ¼ 1.08, 95% CI [0.29,1.87]). However, no significant time effect for the eccentric condition (p ¼ 0 0.359) was observed. The one-way repeated measures ANOVA revealed a significant condition effect in ΔVAS for the post0-pre, F(2,28) ¼ 8.55, G-G p ¼ 0.001, η 2 p ¼ 0.379; with significantly greater ΔVAS in the concentric compared to control (p ¼ 0.001, d ¼ 1.54, 95% CI [0.73,2.36]</p><p>) and the eccentric compared to control (p ¼ 0.007, d ¼ 1.21, 95% CI [0.43,1.99]), but no significant condition difference was observed between the concentric and eccentric conditions (p &gt; 0.999). The one-way repeated measures ANOVA revealed a significant condition effect in ΔVAS for the post24-pre, F(1.04,11.39) ¼ 22.91, G-G p &lt; 0.001, η 2 p ¼ 0.677, with significantly greater ΔVAS in the eccentric compared to control (p ¼ 0.001, d ¼ 2.06, 95% CI [1.07,3.06]) and eccentric compared to concentric (p ¼ 0.003, d ¼ 1.82, 95% CI [0.87,2.78]). The one-way repeated measures ANOVA revealed a significant condition effect in ΔVAS for the post48-pre time point, F(1.39,19.49) ¼ 62.74, p &lt; 0.001, η 2 p ¼ 0.817, with significantly greater in the eccentric compared to control (p &lt; 0.001, d ¼ 2.99, 95% CI [1.89,4.10]) and eccentric compared to concentric (p &lt; 0.001, d ¼ 2.88, 95% CI [1.80,3.96]).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Compared to concentric, the eccentric condition induced EMID, reflected by our results of the ROM and VAS which confirmed our hypotheses that eccentric condition would induce greater losses in ROM and increase muscle soreness. One of the aims of the study was to examine the potential cross-over phenomena from the dominant to contralateral elbow flexors after performing low intensity fatiguing concentric and eccentric exercise. Contrary to our first hypothesis, no cross-over effects to the contralateral elbow flexors were observed for the neural factors (i.e., EMGa, EMG MDF, RFD, RER) following eccentric exercise in the dominant elbow flexors. Interestingly, there was a crossover effect after performing concentric exercise, demonstrating augmented contralateral elbow flexor MVIC force. The findings related to MVIC force, ROM, and VAS were mostly expected given the known effects of fatigue and EIMD resulting from concentric and eccentric exercise, respectively. <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> This led to failing to reject our second hypothesis that eccentric compared to concentric exercise would incur greater decrements in force and neural factors. Therefore, we chose to focus the discussion on the following: the force augmentation of the contralateral elbow flexors after concentric exercise in the dominant elbow flexors; the greater MVIC force loss at the post0 time point after low intensity eccentric compared to concentric exercise; and the changes in RFD 50 and RFD 100 .</p><p>We wanted to expand upon the research and further investigate if cross-over effects existed after performing low intensity concentric and eccentric exercise to failure, because few studies have done so. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b14">15</ref> Our results demonstrated, minimal cross-over effects from the dominant to contralateral elbow flexors regarding force, while no cross-over effects for RFD were exhibited. An interesting phenomenon we found was that, contralateral (non-exercised) elbow flexor force was potentiated (12.4% increase) at the post0 time point after performing low intensity concentric exercise to failure (i.e., 6 sets to with 25% MVIC load). This is a novel finding with regard to the elbow flexors, but two separate studies demonstrated a similar potentiation effect in a separate muscle group (e.g., knee extensors) and with different exercise protocols. For example, Grabiner and Owings <ref type="bibr" target="#b15">16</ref> showed cross-over effects as a significant potentiation (11% increase) of contralateral (non-exercised) knee extensors force at the post0 time point after performing maximal eccentric exercise (i.e., 3 sets of 25 repetitions), and no cross-over effects were observed after maximal concentric exercise (i.e., 3 sets of 25 repetitions). Grabiner and Owings <ref type="bibr" target="#b15">16</ref> attributed the potentiation outcome toward a possible learning effect of the contralateral knee extensors. Specifically, a reduction in contralateral antagonistic knee flexors myoelectric activity may have occurred alone, or in combination with an increase in myoelectric activity of the contralateral agonist knee extensors. <ref type="bibr" target="#b15">16</ref> However, this mechanistic explanation was purely speculative at the time, as they did not measure EMG of the contralateral agonist or antagonist muscles. More recently, Ye et al. <ref type="bibr" target="#b35">36</ref> found significant cross-over effects to the contralateral knee extensors in women, with a potentiation in force of 2% after performing maximal isometric exercise (i.e., 6 sets of 30 s). The authors also found no interaction or main effects for EMGa in the contralateral knee extensors. They discussed the possibility of a reduction in voluntary activation from the central nervous system because the larger knee extensors muscle group requires greater neural drive. In turn, the fatigue accrued would affect the contralateral (non-exercised) knee extensors. <ref type="bibr" target="#b35">36</ref> However, unfortunately, both of the aforementioned studies found a similar result while using different exercise protocols which warrants further investigation into the mechanisms of the cross-over. Nevertheless, the potentiation effect in the lower body (specifically the knee extensors) is possible and the mechanisms are plausibly related to the central nervous system. Consequently, this brings about an interesting question as to whether or not the same mechanism plays a role in the upper body.</p><p>The current study performed low intensity eccentric and concentric only exercise in the elbow flexors and found no cross-over effects after eccentric exercise, but found an increase (8%) in force of the contralateral elbow flexors after concentric exercise. In the same contralateral elbow flexors, the EMGa and EMG MDF did not change. In contrast, Ye et al. <ref type="bibr" target="#b12">13</ref> also examined the elbow flexors after performing maximal (i.e., 6 sets of 10) isokinetic concentric and eccentric exercise and found decreased EMGa and force (7% and 4%, respectively with conditions combined) in the contralateral (non-exercised) elbow flexors. The authors attributed the decrease in myoelectric activity theoretically to potential changes in the central nervous system. That is, the exercise bout provoked a decrease in efferent voluntary output because of reduced supraspinal input to the motoneuron pool. <ref type="bibr" target="#b12">13</ref> More recently, Ye et al. <ref type="bibr" target="#b35">36</ref> examined the elbow flexors and found a cross-over effect of a decrease in force and EMGa (7% and 10%, respectively) in the contralateral (non-exercised) elbow flexors after performing maximal isometric exercise (i.e., 6 sets of 30 s). As evidenced by the reduction in EMGa, the authors explained the potential reason for the decrease in force being partially due to reduced neural drive (i.e., the inability to fully activate) to the contralateral (nonexercised) elbow flexors after fatiguing exercise in the opposing limb. Therefore, based on our results and the results of others, the theory of decreased efferent voluntary output is plausible. However, the results of the current study demonstrated no change in EMGa or EMG MDF, which may be due to the neural demand of low intensity concentric and eccentric not being high enough to elicit changes at the central nervous system level. However, this still does not explain why potentiation occurred. One of the theoretical bases of potentiation consists of enhanced central nervous system stimulation, potentially resulting in greater motor unit recruitment and subsequently force output. <ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b37">[38]</ref><ref type="bibr" target="#b38">[39]</ref> Thus, one could postulate if a task is highly demanding, such as concentric exercise to task failure, then the central nervous system may be stimulated to a point in which it could potentiate contralateral (non-exercised) muscle force. Of the investigations mentioned already, only one also found a lack of cross-over effects (in relation to force), but it was after eccentric exercise in the elbow flexors. <ref type="bibr" target="#b11">12</ref> Additionally, previously we discussed how Grabiner and Owings <ref type="bibr" target="#b15">16</ref> also saw potentiation, but in the knee extensors, and they attributed the possibly of potentiation to a reduction in co-contraction in knee flexors. Although we did not measure the elbow extensors, the theory of reduced co-contraction cannot be ruled out because it may have played a role in the increase in force of the contralateral elbow flexors. The occurrence of force augmentation but no other evidence of cross-over effects is equally perplexing and intriguing, and since our results demonstrated no change in EMGa or EMG MDF in the non-exercised elbow flexors, we believe the lower intensity is not enough to elicit changes in the nervous system. At the post0 time point after concentric and eccentric exercise the normalized MVIC force dropped 27% and 54%, respectively. These results contrast several previous studies specifically comparing concentric and eccentric exercise in the elbow flexors. For example, after concentric and eccentric exercise (i.e., six sets of ten maximal isokinetic contractions), the force losses were 17% and 21% 13 ; 26% and 25% 14 ; 25.9% and 25.5%, <ref type="bibr" target="#b39">40</ref> respectively. In addition, after performing concentric and eccentric exercise at 20% of MVIC, force dropped 10% and 14% respectively <ref type="bibr" target="#b14">15</ref> ; and force losses of 22% and 45% after performing low intensity concentric (i.e., ~8 kg) and eccentric (i.e., ~11 kg) exercise. <ref type="bibr" target="#b8">9</ref> There are a number of possibilities for the discrepancy in force loss after concentric and eccentric exercise between our study and others. Specifically, our experimental design used different loads and free-weights while others used isokinetic dynamometry <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> or other machine based equipment <ref type="bibr" target="#b14">15</ref> ; six sets to task failure were used in the current study, and others had subjects perform ten repetitions per set <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> or a very slow movement speed (i.e., 7-s concentric or eccentric contraction) to task failure (i.e., minimum of 120 repetitions). <ref type="bibr" target="#b14">15</ref> Based on the methodological differences it is difficult to extrapolate why low intensity concentric and eccentric exercise resulted in greater force loss. With that said, the data in Table <ref type="table" target="#tab_0">1</ref> provides some evidence for the differences. Specifically, even though the overall %MVIC was different between the concentric and eccentric conditions, the overall average load was not statistically significantly different (i.e., 6.5 vs. 8.5 kg for concentric and eccentric conditions, respectively). The biggest contribution to the differences between conditions may be the total average repetitions and total average volume; meaning, on average the eccentric condition performed ~68 more repetitions with an overall average volume of ~1510 kg compared to the concentric condition's ~751 kg. Since the eccentric condition completed nearly double the total work, it seems highly plausible that this is the reason for the greater force loss at post0; especially the exercise was designed to induce task failure for each set. The potential mechanisms behind the difference may be due to a different neural activation pattern between concentric and eccentric contractions. That is, previous research has demonstrated, that during eccentric contractions there is a lower need for motor unit recruitment (via surface EMG or single motor-unit analysis) to reach a specified force. This is because the force capacity of the muscle is greater when lengthened and does not have to overcome the specified force like concentric contractions. <ref type="bibr" target="#b40">41</ref> However, we measured the EMGa and EMG MDF and showed no difference, but we did not analyze single motor units. Therefore, we have provided indirect evidence of how eccentric and concentric exercise differ, with regard to total volume and repetitions, however, we cannot pinpoint the exact mechanism for the differences between low intensity concentric and eccentric exercise.</p><p>It has been detailed previously that intrinsic muscle properties and neural factors are major contributors to rapid force production, especially in the early contraction phase (&lt;100 ms). <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b40">41,</ref><ref type="bibr" target="#b41">42</ref> At this juncture in time we were likely measuring the effects of fatigue <ref type="bibr" target="#b42">43</ref> rather than EIMD therefore, this may be a reason why RFD 50 and RFD 100 were not statistically significantly different between the concentric and eccentric exercise conditions at the post0 time point for the dominant elbow flexors. Yet, at post0 RFD 50 and RFD 100 dropped 70% and 55%, respectively for the eccentric, and 34% and 41%, respectively for the concentric condition. Additionally, our study demonstrates indirect evidence for EIMD because RFD 50 and RFD 100 remained low at post24 (i.e., 65% and 41%, respectively) and post48 (i.e., 59% and 53%, respectively). In the concentric condition, the RFD 50 and RFD 100 at post24 (i.e., 19% and 11%, respectively) and post48 (i.e., 13% and 15%, respectively) had begun to recover. We cannot state conclusively if the decreases in RFD 50 or RFD 100 were due to centrally or peripherally mediated fatigue. This delayed ability to produce explosive force after eccentric exercise may plausibly be due to changes in the length-tension relationship, which consequently may change the force-velocity relationship. <ref type="bibr" target="#b9">10</ref> This encompasses stretching of the sarcomeres, subsequently requiring longer lengths to achieve tension in the damaged muscle. In turn, the excitation-contraction coupling process could be hindered causing fewer cross-bridges to form. As a result, a reduction in rapid force production might occur. <ref type="bibr" target="#b43">44</ref> Collectively, the differential RFD 50 and RFD 100 responses across time following concentric and eccentric exercise likely reflect the effects of muscular fatigue and EIMD, respectively.</p><p>This study is not without limitations. First, although we provide a rationale for the differing low-intensites between the concentric and eccentric protocols, the average volume was greater in the eccentric compared to concentric group, which may partially explain the differences in the results. Second, we did not measure or analyze single motor units or spinal or supraspinal excitability, and the measurement of these variables could provide a further explanation for the potentiation effect, as well as the differences in the total volume between conditions. In addition, our subjects were not screened for consumption of certain supplements or medications, which could have ergogenic effects to influence the exercise performance. We also did not control for oral contraceptive use and menstrual cycle fluctuations, and previous research has shown women to be more fatigue resistant during the ovulatory phase when consuming oral contraceptives. <ref type="bibr" target="#b44">45</ref> Regarding sex, examining a single sex (i.e., males or females only) may have provided a clearer picture of the effects of low-intensity concentric and eccentric exercise. Lastly, we did not measure the antagonist muscle of the dominant (exercised) limb which may also provide insight into the fatiguing differences based on co-contraction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Implications for sports medicine</head><p>An important concept demonstrated in this study that may be potentially advantageous to practitioners is that low intensity concentric exercise to failure resulted in an increase in the force of the contralateral (non-exercised) limb. This finding may be beneficial for developing potential rehabilitation strategies for individuals suffering from unilateral limb deficits/injuries. It is possible that these could train the upper limb to provide a stimulus to the contralateral upper limb that is affected. In addition, the submaximal training load makes this training modality suitable for the majority of the population. As practitioners are already aware of EIMD after performing maximal eccentric exercise, here we demonstrate how low intensity exercise may result in the same effect. The findings from this study showed large differences in muscular force with double the force loss after low intensity eccentric compared to concentric exercise. This is of particular importance to professionals in our field who train individuals using a lower intensity but with an overall higher volume because it may result in prolonged decrements in performance if not taken into consideration. It is also important for practitioners outside of sport because the majority of daily tasks are submaximal (i.e., lower intensity) in nature, where repeated low-tomedium intensity concentric and eccentric movements are performed. Daily life requires the repeated development of rapid force, whether it be during training or competition, performing recreational activities, or participating in activities of daily living.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In conclusion, the results from this study demonstrated a cross-over effect after concentric exercise with force being augmented at the post0 time point in the contralateral (non-exercised) elbow flexors. This force augmentation was also not linked to neural changes. There was a reduction in force and RFD after performing six sets of low intensity concentric and eccentric exercise to failure in the dominant elbow flexors. In addition, prolonged decrements in force and RFD were shown after the eccentric condition only, which was likely a result of EIMD. More research directly comparing the cross-over effects of low intensity concentric and eccentric exercise in the elbow flexors is warranted, and we suggest including specific outcomes measuring spinal and supraspinal excitability to attempt to determine the mechanisms for the cross-over.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Submission statement</head><p>Submission of an article implies that the work described has not been published previously, that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere including electronically in the same form, in English or in any other language, without the written consent of the copyright-holder.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig.1. Experimental protocol for this study. Subjects performed six sets of exercise to momentary failure with 25% and 30% of baseline maximal voluntary isometric contraction (MVIC) force during concentric and eccentric exercise bouts, respectively. The control condition did not perform exercise and subsequently rested quietly in a seated position. For the contralateral (nonexercised) elbow flexors among all conditions, the MVIC, electromyography amplitude (EMGa), EMG median frequency (EMG MDF), rate of force development (RFD) and rate of EMG rise (RER) from 0 to 50 ms and 0-100 ms were measured. For the dominant (exercised) elbow flexors among all conditions, the MVIC, RFD, range of motion (ROM), and muscle soreness (VAS) were measured. All measurements were completed at pre, post0, post24, and post48 time points. The contralateral elbow flexors were always assessed first for all follow-up assessments, followed by the dominant elbow flexors. A minimum rest period of two weeks was required to be between the post48 visit of any condition, prior to the first visit of the next condition, regardless of the order in which they were completed.</figDesc><graphic coords="3,37.59,55.67,369.83,167.58" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Dominant</head><figDesc>dominant (exercised) elbow flexor; Contralateralnondominant (nonexercised) elbow flexor; MVICmaximal voluntary isometric contraction; Nnewtons; EMGaelectromyography amplitude; μVmicrovolts; EMG MDFelectromyography median frequency; ppspulses per second; RFD 50,100,200rate of force development for the 0-50, 0-100, and 0-200 ms time windows; N s -1newtons per second; RER 50,100,200rate of electromyography rise for the 0-50, 0-100, and 0-200 ms time windows; μV s -1microvolts per second. Note. Based on the experimental procedures and equipment, no electromyography (i.e., RER 50,100,200 , EMGa, EMG MDF) data was collected for the dominant (exercised) elbow flexors for the concentric and eccentric conditions. *Data are presented as mean AE standard deviation.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. The time course of changes in the normalized force of the contralateral (non-exercised) elbow flexors for each condition. The y-axis denotes normalized force set to a percentage of the baseline maximal voluntary isometric contraction (MVIC). There was an augmentation in contralateral elbow flexor force immediately after the concentric exercise condition. a Significantly (p &lt; 0.05) different from the control condition Note. Error bars denote AE standard error.</figDesc><graphic coords="6,37.59,281.88,349.88,233.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>2 p 2 p</head><label>22</label><figDesc>) ¼ 4.52, G-G p ¼ 0.036, η 2 p ¼ 0.244; post0, F(1.22,17.03) ¼ 4.47, G-G p ¼ 0.043, η 2 p ¼ 0.242; post24, F(2,22) ¼ 5.29, p ¼ 0.013, η ¼ 0.325; but not post48 (p ¼ 0.092) time points. The pairwise comparisons for the pre and post0 time points showed no significant (p &gt; 0.05) differences between conditions. The pairwise comparisons for the post24 time point showed a significant difference, with the control being greater than the eccentric condition (control vs. eccentric ¼ 682.21 AE 599.75 N s -1 vs. 290.29 AE 272.14 N s -1 , p ¼ 0.028, d ¼ 0.84, 95% CI [0.01,1.66]) (Fig. 4a). For RFD 100 , linear mixed model analyses indicated a significant condition Â time interaction, F(6149.03) ¼ 3.76, p ¼ 0.002, η 2 p ¼ 0.131, main effects for time, F(3149.02) ¼ 9.58, p &lt; 0.001, η 2 p ¼ 0.162, and condition, F(2149.05) ¼ 11.16, p &lt; 0.001, η 2 p ¼ 0.130. The one-way repeated measures ANOVA showed significant time effects for the control, F(3,33) ¼ 6.70, p &lt; 0.001, η 2 p ¼ 0.378; eccentric, F(3,36) ¼ 7.72, p &lt; 0.001, η 2 p ¼ 0.392; and concentric, F(3,33) ¼ 3.66, p ¼ 0.022, η 2 p ¼ 0.250, conditions. The one-way repeated measures ANOVA revealed no significant condition effect for pre (p ¼ 0.975) but, significant condition effects for post0, F(2,24) ¼ 3.692, p ¼ 0.040, η 2 p ¼ 0.235; post24, F(2,20) ¼ 6.351, p ¼ 0.007, η 2 p ¼ 0.388; and post48, F(1.21,13.34) ¼ 8.944, G-G p ¼ 0.008, η ¼ 0.448, were observed. The pairwise comparisons for the post0 and post24 time points showed no significant (p &gt; 0.05) differences among conditions. For the post48 time point, there was a significant difference, with the control being greater than the eccentric condition (control vs. eccentric ¼ 559.23 AE 404.74 N s -1 vs. 266.45 AE 213.77 N s -1 , p ¼ 0.026, d ¼ 0.90, 95% CI [0.06,1.74]); and nearing significance, with the concentric being greater than the eccentric condition (p ¼ 0.050; Fig. 4b). For RFD 200 , linear mixed model analyses indicated no significant condition Â time interaction (p ¼ 0.299), main effects for time (p ¼ 0.311), or condition (p ¼ 0.051).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. The time course of changes in the normalized force of the dominant (exercised) elbow flexors for each condition. The y-axis denotes normalized force set to a percentage of the baseline maximal voluntary isometric contraction (MVIC). The MVIC force dropped immediately after the concentric and eccentric exercise conditions. After 24 and 48 h, the MVIC force returned near the pre value for the concentric condition but, remained depressed after the eccentric condition. a Significantly (p &lt; 0.05) different from the eccentric and concentric conditions. b Significantly (p &lt; 0.05) different from the eccentric condition Note. Error bars denote AE standard error.</figDesc><graphic coords="7,37.59,55.67,349.88,211.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. The time course of changes in the rate of force development (RFD) from 0 to 50-ms (RFD 50 ) (a) and 0-100-ms (RFD 100 ) (b) for the contralateral (CONTRA) (▪▪▪) (non-exercised) and dominant (DOM) (À) (exercised) elbow flexors for each condition. a Twenty-four hours after eccentric exercise, the dominant elbow flexors RFD 50 remained significantly reduced compared to the control. b Twenty-four-and 48-h after eccentric exercise, the dominant elbow flexors RFD 100 remained significantly reduced compared to the control. Forty-eight hours after eccentric exercise, the dominant elbow flexors RFD 100 remained significantly reduced compared to the concentric condition. There were no condition or time effects for RFD 50 or RFD 100 for the contralateral elbow flexors. a Significantly different from control for dominant elbow flexors b Significantly different from concentric for dominant elbow flexorsNote Error bars denote AE standard error.</figDesc><graphic coords="8,37.59,55.67,349.88,455.30" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Exercise values among the concentric and eccentric conditions*. ¼ 0.767, with significantly greater normalized MVIC force in the control compared to eccentric (control vs. eccentric ¼ 95.52 AE 8.00% vs. 46.44 AE 19.47%, p &lt; 0.001, d ¼ 3.30, 95% CI [2.20,4.40]) and concentric (control vs. concentric ¼ 95.52 AE 8.00% vs. 72.83 AE 14.14%, p &lt; 0.001, d ¼ 1.98, 95% ¼ 0.697, was observed, with significantly greater normalized MVIC force in the control compared to eccentric (control vs. eccentric ¼ 99.63 AE 9.08% vs. 58.16 AE 21.65%, p &lt; 0.001, d ¼ 2.50, 95% CI [1.43,3.57]); and concentric compared to eccentric (concentric vs. eccentric ¼ 95.18 AE 13.32% vs. 58.16 AE 21.65%, p &lt; 0.001, d ¼ 2.06, 95% CI [1.07,3.05]). A significant condition effect at post48, F(2,28) ¼ 29.335, p &lt; 0.001, η 2 p ¼ 0.677, was observed, with significantly greater normalized MVIC force in the control compared to eccentric (control vs. eccentric ¼ 97.27 AE 9.19% vs. 61.49 AE 22.80%, p &lt; 0.001, d ¼ 2.06, 95% CI [1.17,3.94]); and concentric compared to eccentric (concentric vs. eccentric ¼ 96.54 AE 9.18% vs. 61.49 AE 22.80%, p &lt; 0.001, d ¼ 2.02, 95% CI [1.14,2.90]) conditions (Fig.</figDesc><table><row><cell>Average repetitions per set</cell></row></table><note><p>#Significantly greater total repetitions were completed, p ¼ 0.014. ySignificantly greater volume was completed, p ¼ 0.005. Data are presented as mean AE standard deviation. force at post24 compared to post0 (post24 vs. post0 ¼ 58.46 AE 19.91% vs. 46.44 AE 19.47%, p ¼ 0.045, d ¼ 0.610, 95% CI [0.12,1.34]) and post48 compared to post0 (post48 vs. post0 ¼ 61.49 AE 22.80% vs. 46.44 AE 19.47%, p ¼ 0.001, d ¼ 0.71, 95% CI [0.03,1.45]), were also shown. The one-way repeated measures ANOVA showed a significant condition effect at post0, F(2,28) ¼ 46.15, p &lt; 0.001, η 2 p CI [1.10,2.85]); and concentric compared to eccentric conditions (concentric vs. eccentric ¼ 72.83 AE 14.14% vs. 46.44 AE 19.47%, p ¼ 0.003, d ¼ 1.55, 95% CI [0.73,2.37]). A significant condition effect at post24, F(2,22) ¼ 25.251, p &lt; 0.001, η 2 p</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Baseline (pre) values of dependent variables for the dominant and contralateral limbs among all three conditions*.</figDesc><table><row><cell>Condition</cell><cell>Control</cell><cell></cell><cell>Concentric</cell><cell></cell><cell>Eccentric</cell><cell></cell></row><row><cell>Limb</cell><cell>Dominant</cell><cell>Contralateral</cell><cell>Dominant</cell><cell>Contralateral</cell><cell>Dominant</cell><cell>Contralateral</cell></row><row><cell>Variable</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>MVIC (N)</cell><cell>247.30 AE 83.61</cell><cell>247.41 AE 82.72</cell><cell>236.14 AE 69.99</cell><cell>234.94 AE 72.40</cell><cell>259.97 AE 89.20</cell><cell>240.77 AE 73.45</cell></row><row><cell>EMGa (μV)</cell><cell>446.78 AE 343.57</cell><cell>404.44 AE 278.77</cell><cell>-</cell><cell>492.61 AE 336.91</cell><cell>-</cell><cell>413.43 AE 220.44</cell></row><row><cell>EMG MDF (pps)</cell><cell>82.95 AE 13.55</cell><cell>84.58 AE 25.03</cell><cell>-</cell><cell>76.31 AE 11.53</cell><cell>-</cell><cell>85.38 AE 22.52</cell></row><row><cell>RFD 50 (N s -1 )</cell><cell>551.00 AE 513.90</cell><cell>610.75 AE 703.17</cell><cell>473.91 AE 392.60</cell><cell>422.51 AE 294.51</cell><cell>827.40 AE 912.52</cell><cell>567.65 AE 662.22</cell></row><row><cell>RFD 100 (N s -1 )</cell><cell>649.83 AE 463.79</cell><cell>640.17 AE 585.83</cell><cell>663.85 AE 501.91</cell><cell>582.41 AE 361.02</cell><cell>751.29 AE 653.95</cell><cell>624.39 AE 501.23</cell></row><row><cell>RFD 200 (N s -1 )</cell><cell>627.96 AE 315.30</cell><cell>563.62 AE 336.76</cell><cell>579.68 AE 272.58</cell><cell>514.74 AE 237.70</cell><cell>629.51 AE 350.94</cell><cell>578.40 AE 305.82</cell></row><row><cell>RER 50 (μV s -1 )</cell><cell>1.47 AE 2.71</cell><cell>1.89 AE 2.42</cell><cell>-</cell><cell>1.33 AE 2.03</cell><cell>-</cell><cell>9.33 AE 1.25</cell></row><row><cell>RER 100 (μV s -1 )</cell><cell>1.38 AE 1.94</cell><cell>1.75 AE 2.74</cell><cell>-</cell><cell>1.24 AE 1.49</cell><cell>-</cell><cell>1.03 AE 1.07</cell></row><row><cell>RER 200 (μV s -1 )</cell><cell>1.01 AE 9.12</cell><cell>1.01 AE 1.01</cell><cell>-</cell><cell>1.02 AE 1.10</cell><cell>-</cell><cell>8.79 AE 6.25</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Change (Δ) in range of motion (ROM) and muscle soreness for the dominant (exercised) limb among the conditions*.</figDesc><table><row><cell></cell><cell>Range of motion (degrees )</cell><cell>Muscle soreness (mm)</cell></row><row><cell></cell><cell>Control</cell><cell>Control</cell></row><row><cell>ΔPost0-Pre</cell><cell>0.43 AE 6.29</cell><cell>5.20 AE 7.19</cell></row><row><cell>ΔPost24-Pre</cell><cell>À10.33 AE 39.76</cell><cell>À0.08 AE 1.78</cell></row><row><cell>ΔPost48-Pre</cell><cell>4.10 AE 6.11</cell><cell>0.20 AE 3.12</cell></row><row><cell></cell><cell>Concentric</cell><cell>Concentric</cell></row><row><cell>ΔPost0-Pre</cell><cell>À5.87 AE 8.72</cell><cell>31.27 AE 22.82y</cell></row><row><cell>ΔPost24-Pre</cell><cell>À5.93 AE 33.50</cell><cell>2.42 AE 3.45</cell></row><row><cell>ΔPost48-Pre</cell><cell>3.07 AE 4.76</cell><cell>0.47 AE 5.55</cell></row><row><cell></cell><cell>Eccentric</cell><cell>Eccentric</cell></row><row><cell>ΔPost0-Pre</cell><cell>À36.53 AE 21.40 #</cell><cell>27.67 AE 25.25</cell></row><row><cell>ΔPost24-Pre</cell><cell>À22.50 AE 27.47</cell><cell>29.50 AE 20.72z</cell></row><row><cell>ΔPost48-Pre</cell><cell>À21.47 AE 18.88 #</cell><cell>35.27 AE 15.40z</cell></row><row><cell cols="3">#Significantly larger decrease in ROM compared to control and concentric for</cell></row><row><cell cols="2">Post0-Pre and Post48-Pre.</cell><cell></cell></row><row><cell cols="3">ySignificantly greater soreness compared to control and eccentric for Post0-Pre.</cell></row><row><cell cols="3">zSignificantly greater soreness compared to control and concentric for Post24-Pre</cell></row><row><cell>and Post48-Pre.</cell><cell></cell><cell></cell></row><row><cell cols="3">Note. The elbow joint ROM (measured in degrees [ ] was determined by taking</cell></row><row><cell cols="3">the difference of the average RANG (resting angle) and FANG (flexed angle)</cell></row><row><cell cols="3">measurements. The muscle soreness was determined through the visual analogue</cell></row><row><cell cols="2">scale (measured in millimeters [mm]).</cell><cell></cell></row></table><note><p>*Data are presented as mean AE standard deviation.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>There were no conflicts of interest declared from authors for the completion of this project and manuscript.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Authors' contributions WMM, SJ, and XY contributed to the design of the work; WMM, SJ, and XY contributed to the acquisition, analysis, and interpretation of data; WMM, SJ, and XY contributed to the draft of the work and revised it critically for important intellectual content; WMM, SJ, XY approved the version to be submitted, and agreed to be accountable for all aspects of the work in ensuring that the questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical approval</head><p>All experimental procedures in this project were in accordance with the ethical standards of 1964 Helsinki declaration and its later amendments or comparable ethical standards and were approved by the University of Mississippi Institutional Review Board (IRB Protocol # 18-084).</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Residual muscular soreness as influenced by concentric, eccentric, and static contractions</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Talag</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/10671188.1973.10615226</idno>
+		<ptr target="https://doi.org/10.1080/10671188.1973.10615226" />
+	</analytic>
+	<monogr>
+		<title level="j">Res Q Am Assoc Health Phys Educ Recreat</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="458" to="469" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Talag TS. Residual muscular soreness as influenced by concentric, eccentric, and static contractions. Res Q Am Assoc Health Phys Educ Recreat. 1973;44(4):458-469. https://doi.org/10.1080/10671188.1973.10615226.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Associations between muscle soreness, damage, and fatigue</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Clarkson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Newham</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/978-1-4899-1016-5_35</idno>
+		<ptr target="https://doi.org/10.1007/978-1-4899-1016-5_35" />
+	</analytic>
+	<monogr>
+		<title level="j">Adv Exp Med Biol</title>
+		<imprint>
+			<biblScope unit="volume">384</biblScope>
+			<biblScope unit="page" from="457" to="469" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clarkson PM, Newham DJ. Associations between muscle soreness, damage, and fatigue. Adv Exp Med Biol. 1995;384:457-469. https://doi.org/10.1007/978-1-4899- 1016-5_35.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Low-frequency fatigue and neuromuscular performance after exercise-induced damage to elbow flexor muscles</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Dundon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cirillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Semmler</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/japplphysiol.01339.2007</idno>
+		<ptr target="https://doi.org/10.1152/japplphysiol.01339.2007" />
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1146" to="1155" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dundon JM, Cirillo J, Semmler JG. Low-frequency fatigue and neuromuscular performance after exercise-induced damage to elbow flexor muscles. J Appl Physiol. 2008;105(4):1146-1155. https://doi.org/10.1152/japplphysiol.01339.2007.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Mechanisms of exercise-induced muscle fibre injury</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Warren</surname></persName>
+		</author>
+		<idno type="DOI">10.2165/00007256-199112030-00004</idno>
+		<ptr target="https://doi.org/10.2165/00007256-199112030-00004" />
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="184" to="207" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Armstrong RB, Warren GL, Warren JA. Mechanisms of exercise-induced muscle fibre injury. Sports Med. 1991;12(3):184-207. https://doi.org/10.2165/00007256- 199112030-00004.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Stiffness and strength loss after intense eccentric exercise</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cleak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Eston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="267" to="272" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cleak M, Eston R. Stiffness and strength loss after intense eccentric exercise. Br J Sports Med. 1992;26(4):267-272.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Effects of cold water immersion on the symptoms of exerciseinduced muscle damage</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Eston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Peters</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/026404199366136</idno>
+		<ptr target="https://doi.org/10.1080/026404199366136" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="231" to="238" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Eston R, Peters D. Effects of cold water immersion on the symptoms of exercise- induced muscle damage. J Sports Sci. 1999;17(3):231-238. https://doi.org/10.1080/ 026404199366136.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Muscle function in men and women during maximal eccentric exercise</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hubal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Rubinstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Clarkson</surname></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0b013e31817392ec</idno>
+		<ptr target="https://doi.org/10.1519/JSC.0b013e31817392ec" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1332" to="1338" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hubal MJ, Rubinstein SR, Clarkson PM. Muscle function in men and women during maximal eccentric exercise. J Strength Condit Res. 2008;22(4):1332-1338. https:// doi.org/10.1519/JSC.0b013e31817392ec.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Skeletal muscle stiffness and pain following eccentric exercise of the elbow flexors</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Newham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Clarkson</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0304-3959(87)91079-7</idno>
+		<ptr target="https://doi.org/10.1016/0304-3959(87)91079-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Pain</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="233" to="242" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jones DA, Newham DJ, Clarkson PM. Skeletal muscle stiffness and pain following eccentric exercise of the elbow flexors. Pain. 1987;30(2):233-242. https://doi.org/ 10.1016/0304-3959(87)91079-7.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Eccentric exercise increases EMG amplitude and force fluctuations during submaximal contractions of elbow flexor muscles</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Semmler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Tucker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Allen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Proske</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/japplphysiol.01310.2006</idno>
+		<ptr target="https://doi.org/10.1152/japplphysiol.01310" />
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="979" to="989" />
+			<date type="published" when="2006">2007. 2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Semmler JG, Tucker KJ, Allen TJ, Proske U. Eccentric exercise increases EMG amplitude and force fluctuations during submaximal contractions of elbow flexor muscles. J Appl Physiol. 2007;103(3):979-989. https://doi.org/10.1152/ japplphysiol.01310.2006.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Muscle damage from eccentric exercise: mechanism, mechanical signs, adaptation and clinical applications</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Proske</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Morgan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">537</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="333" to="345" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Proske U, Morgan DL. Muscle damage from eccentric exercise: mechanism, mechanical signs, adaptation and clinical applications. J Physiol. 2001;537(2): 333-345.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Changes in central and peripheral neuromuscular fatigue indices after concentric versus eccentric contractions of the knee extensors</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Souron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nosaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jubeau</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00421-018-3816-0</idno>
+		<ptr target="https://doi.org/10.1007/s00421-018-3816-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="805" to="816" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Souron R, Nosaka K, Jubeau M. Changes in central and peripheral neuromuscular fatigue indices after concentric versus eccentric contractions of the knee extensors. Eur J Appl Physiol. 2018;118(4):805-816. https://doi.org/10.1007/s00421-018- 3816-0.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Matching different levels of isometric torque in elbow flexor muscles after eccentric exercise</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Weerakkody</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Percival</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Gregory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Proske</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00221-002-1341-0</idno>
+		<ptr target="https://doi.org/10.1007/s00221-002-1341-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Exp Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">149</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="141" to="150" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Weerakkody N, Percival P, Morgan DL, Gregory JE, Proske U. Matching different levels of isometric torque in elbow flexor muscles after eccentric exercise. Exp Brain Res. 2003;149(2):141-150. https://doi.org/10.1007/s00221-002-1341-0.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">An examination of the strength and electromyographic responses after concentric vs. eccentric exercise of the forearm flexors</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Defreitas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Wages</surname></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0000000000000251</idno>
+		<ptr target="https://doi.org/10.1519/JSC.0000000000000251" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1072" to="1080" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ye X, Beck TW, Defreitas JM, Wages NP. An examination of the strength and electromyographic responses after concentric vs. eccentric exercise of the forearm flexors. J Strength Condit Res. 2014;28(4):1072-1080. https://doi.org/10.1519/ JSC.0000000000000251.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Neural contributions to concentric vs. eccentric exercise-induced strength loss</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Kasishke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Stock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Defreitas</surname></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0b013e3182474296</idno>
+		<ptr target="https://doi.org/10.1519/JSC.0b013e3182474296" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="633" to="640" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beck TW, Kasishke PR, Stock MS, DeFreitas JM. Neural contributions to concentric vs. eccentric exercise-induced strength loss. J Strength Condit Res. 2012;26(3): 633-640. https://doi.org/10.1519/JSC.0b013e3182474296.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">A comparison of the effects of concentric versus eccentric exercise on force and position sense at the human elbow joint</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Brockett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Gregory</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Proske</surname></persName>
+		</author>
+		<idno type="DOI">10.5465/ambpp.2016.46</idno>
+		<ptr target="https://doi.org/10.5465/ambpp.2016.46" />
+	</analytic>
+	<monogr>
+		<title level="j">Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">771</biblScope>
+			<biblScope unit="page" from="251" to="258" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brockett C, Warren N, Gregory J, Morgan D, Proske U. A comparison of the effects of concentric versus eccentric exercise on force and position sense at the human elbow joint. Brain Res. 1997;771:251-258. https://doi.org/10.5465/ambpp.2016.46.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Effects of eccentrically and concentrically induced unilateral fatigue on the involved and uninvolved limbs</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Grabiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Owings</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1050-6411(98)00031-5</idno>
+		<ptr target="https://doi.org/10.1016/S1050-6411(98)00031-5" />
+	</analytic>
+	<monogr>
+		<title level="j">J Electromyogr Kinesiol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="185" to="189" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Grabiner MD, Owings TM. Effects of eccentrically and concentrically induced unilateral fatigue on the involved and uninvolved limbs. J Electromyogr Kinesiol. 1999;9(3):185-189. https://doi.org/10.1016/S1050-6411(98)00031-5.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Different neuromuscular recruitment patterns during eccentric, concentric and isometric contractions</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Clair</forename><surname>St</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Noakes</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S1050-6411(00)00031-6</idno>
+		<ptr target="https://doi.org/10.1016/S1050-6411(00" />
+	</analytic>
+	<monogr>
+		<title level="j">J Electromyogr Kinesiol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="31" to="36" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kay D, St Clair Gibson A, Mitchell MJ, Lambert MI, Noakes TD. Different neuromuscular recruitment patterns during eccentric, concentric and isometric contractions. J Electromyogr Kinesiol. 2000;10(6):425-431. https://doi.org/10.1016/ S1050-6411(00)00031-6.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Muscle fatigue during concentric and eccentric contractions</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Pasquet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carpentier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Duchateau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hainaut</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/1097-4598(200011)23:11&lt;1727::AID-MUS9&gt;3.0.CO;2-Y</idno>
+		<idno>AID-MUS9&gt;3.0.CO;2-Y</idno>
+		<ptr target="https://doi.org/10.1002/1097-4598" />
+	</analytic>
+	<monogr>
+		<title level="j">Muscle Nerve</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1727" to="1735" />
+			<date type="published" when="2000">2000. 200011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pasquet B, Carpentier A, Duchateau J, Hainaut K. Muscle fatigue during concentric and eccentric contractions. Muscle Nerve. 2000;23(11):1727-1735. https://doi.org/ 10.1002/1097-4598(200011)23:11&lt;1727::AID-MUS9&gt;3.0.CO;2-Y.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Central fatigue explains sex differences in muscle fatigue and contralateral cross-over effects of maximal contractions</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rattey</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00424-007-0243-1</idno>
+		<ptr target="https://doi.org/10.1007/s00424-007-0243-1" />
+	</analytic>
+	<monogr>
+		<title level="j">Pflugers Arch Eur J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">454</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="957" to="969" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Martin PG, Rattey J. Central fatigue explains sex differences in muscle fatigue and contralateral cross-over effects of maximal contractions. Pflugers Arch Eur J Physiol. 2007;454(6):957-969. https://doi.org/10.1007/s00424-007-0243-1.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The effect of a contralateral contraction on maximal voluntary activation and central fatigue in elbow flexor muscles</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Todd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">T</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Gandevia</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00221-003-1379-7</idno>
+		<ptr target="https://doi.org/10.1007/s00221-003-1379-7" />
+	</analytic>
+	<monogr>
+		<title level="j">Exp Brain Res</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="308" to="313" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Todd G, Petersen NT, Taylor JL, Gandevia SC. The effect of a contralateral contraction on maximal voluntary activation and central fatigue in elbow flexor muscles. Exp Brain Res. 2003;150(3):308-313. https://doi.org/10.1007/s00221- 003-1379-7.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The neurobiology of muscle fatigue: 15 years later</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Barry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Enoka</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/icb/icm047</idno>
+		<ptr target="https://doi.org/10.1093/icb/icm047" />
+	</analytic>
+	<monogr>
+		<title level="j">Integr Comp Biol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="465" to="473" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Barry BK, Enoka RM. The neurobiology of muscle fatigue: 15 years later. Integr Comp Biol. 2007;47(4):465-473. https://doi.org/10.1093/icb/icm047.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Rate of force development: physiological and methodological considerations</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Maffiuletti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aagaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Blazevich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Folland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Tillin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Duchateau</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00421-016-3346-6</idno>
+		<ptr target="https://doi.org/10.1007/s00421-016-3346-6" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1091" to="1116" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maffiuletti NA, Aagaard P, Blazevich AJ, Folland J, Tillin N, Duchateau J. Rate of force development: physiological and methodological considerations. Eur J Appl Physiol. 2016;116(6):1091-1116. https://doi.org/10.1007/s00421-016-3346-6.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Increased rate of force development and neural drive of human skeletal muscle following resistance training</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aagaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Simonsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Magnusson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dyhre-Poulsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/japplphysiol.00283.2002</idno>
+		<ptr target="https://doi.org/10.1152/japplphysiol.00283" />
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1318" to="1326" />
+			<date type="published" when="2002">2002. 2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aagaard P, Simonsen EB, Andersen JL, Magnusson P, Dyhre-Poulsen P. Increased rate of force development and neural drive of human skeletal muscle following resistance training. J Appl Physiol. 2002;93(4):1318-1326. https://doi.org/10.1152/ japplphysiol.00283.2002.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Influence of maximal muscle strength and intrinsic muscle contractile properties on contractile rate of force development</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aagaard</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00421-005-0070-z</idno>
+		<ptr target="https://doi.org/10.1007/s00421-005-0070-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="46" to="52" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Andersen LL, Aagaard P. Influence of maximal muscle strength and intrinsic muscle contractile properties on contractile rate of force development. Eur J Appl Physiol. 2006;96(1):46-52. https://doi.org/10.1007/s00421-005-0070-z.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Measurement of pain</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Huskisson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">7889</biblScope>
+			<biblScope unit="page" from="1127" to="1131" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Huskisson EC. Measurement of pain. The Lancet1. 1974;304(7889):1127-1131.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Physiological and neural adaptations to eccentric exercise: mechanisms and considerations for training</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hedayatpour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Falla</surname></persName>
+		</author>
+		<idno type="DOI">10.1155/2015/193741</idno>
+		<ptr target="https://doi.org/10.1155/2015/193741" />
+	</analytic>
+	<monogr>
+		<title level="j">BioMed Res Int</title>
+		<imprint>
+			<date type="published" when="2015">2015. 2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hedayatpour N, Falla D. Physiological and neural adaptations to eccentric exercise: mechanisms and considerations for training. BioMed Res Int. 2015;2015. https:// doi.org/10.1155/2015/193741.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Faul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Erdfelder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Lang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Buchner</surname></persName>
+		</author>
+		<idno type="DOI">10.1088/1755-1315/148/1/012022</idno>
+		<ptr target="https://doi.org/10.1088/1755-1315/148/1/012022" />
+	</analytic>
+	<monogr>
+		<title level="j">Behav Res Methods</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="191" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Faul F, Erdfelder E, Lang AG, Buchner AG. *Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behav Res Methods. 2007;39(2):175-191. https://doi.org/10.1088/1755-1315/148/1/012022.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Statistical Power Analysis for the Behavioral Sciences</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<ptr target="http://psycnet.apa.org/psycinfo/1987-98267-000" />
+	</analytic>
+	<monogr>
+		<title level="m">L. Erlbaum Associates; 1988</title>
+		<meeting><address><addrLine>Hillsdale, N.J.</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+	<note>second ed.</note>
+	<note type="raw_reference">Cohen J. Statistical Power Analysis for the Behavioral Sciences. second ed. Hillsdale, N.J.: L. Erlbaum Associates; 1988. http://psycnet.apa.org/psycinfo/1987-98267- 000.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Effects of caffeine on neuromuscular function</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Kalmar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cafarelli</surname></persName>
+		</author>
+		<ptr target="http://www.jap.org" />
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="801" to="808" />
+			<date type="published" when="1999-06-06">1999. June 6, 2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kalmar JM, Cafarelli E. Effects of caffeine on neuromuscular function. J Appl Physiol. 1999;87(2):801-808. http://www.jap.org. Accessed June 6, 2020.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Effects of caffeine and sex on muscle performance and delayed-onset muscle soreness after exercise-induced muscle damage: a double-blind randomized trial</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Chao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/japplphysiol.01108.2018</idno>
+		<ptr target="https://doi.org/10.1152/japplphysiol.01108.2018" />
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="798" to="805" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen HY, Chen YC, Tung K, Chao HH, Wang HS. Effects of caffeine and sex on muscle performance and delayed-onset muscle soreness after exercise-induced muscle damage: a double-blind randomized trial. J Appl Physiol. 2019;127(3):798-805. https://doi.org/10.1152/japplphysiol.01108.2018.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">The effect of caffeine ingestion on delayed onset of muscle soreness</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Hurley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Hatfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Riebe</surname></persName>
+		</author>
+		<idno type="DOI">10.1097/JSC.0000000000000227</idno>
+		<ptr target="https://doi.org/10.1097/JSC.0000000000000227" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="3101" to="3109" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hurley CF, Hatfield DL, Riebe D. The effect of caffeine ingestion on delayed onset of muscle soreness. J Strength Condit Res. 2013;27(11):3101-3109. https://doi.org/ 10.1097/JSC.0000000000000227.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">European recommendations for surface ElectroMyoGraphy results of the SENIAM project</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Hermens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Freriks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Merletti</surname></persName>
+		</author>
+		<ptr target="https://pdfs.semanticscholar.org/" />
+	</analytic>
+	<monogr>
+		<title level="j">Roessingh Res Dev</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="13" to="54" />
+			<date type="published" when="1999">1999. 1ab2/8b8afcb1216cab1b2f8da0de246 c3</date>
+		</imprint>
+	</monogr>
+	<note>d5ed6e8.pdf</note>
+	<note type="raw_reference">Hermens HJ, Freriks B, Merletti R, et al. European recommendations for surface ElectroMyoGraphy results of the SENIAM project. Roessingh Res Dev. 1999;8(2): 13-54. https://pdfs.semanticscholar.org/1ab2/8b8afcb1216cab1b2f8da0de246 c3d5ed6e8.pdf.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Resistance training and neuromuscular performance in seniors</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Granacher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gruber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gollhofer</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/s-0029-1224178</idno>
+		<ptr target="https://doi.org/10.1055/s-0029-1224178" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="652" to="657" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Granacher U, Gruber M, Gollhofer A. Resistance training and neuromuscular performance in seniors. Int J Sports Med. 2009;30(9):652-657. https://doi.org/ 10.1055/s-0029-1224178.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A test of missing completely at random for multivariate data with missing values</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Little</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Stat Assoc</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">404</biblScope>
+			<biblScope unit="page" from="1198" to="1202" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Little R. A test of missing completely at random for multivariate data with missing values. J Am Stat Assoc. 1988;83(404):1198-1202.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Eta-squared and partial eta-squared in fixed factor anova designs</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cohen</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/001316447303300111</idno>
+		<ptr target="https://doi.org/10.1177/001316447303300111" />
+	</analytic>
+	<monogr>
+		<title level="j">Educ Psychol Meas</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="107" to="112" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cohen J. Eta-squared and partial eta-squared in fixed factor anova designs. Educ Psychol Meas. 1973;33(1):107-112. https://doi.org/10.1177/ 001316447303300111.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Sex comparisons of non-local muscle fatigue in human elbow flexors and knee extensors</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Wages</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Carr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Musculoskelet Neuronal Interact</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="92" to="99" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ye X, Beck TW, Wages NP, Carr JC. Sex comparisons of non-local muscle fatigue in human elbow flexors and knee extensors. J Musculoskelet Neuronal Interact. 2018; 18(1):92-99.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Postactivation potentiation response in athletic and recreationally trained individuals</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Schilling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Smith</surname></persName>
+		</author>
+		<ptr target="http://ovidsp.ovid.com/ovidweb.cgi?T&amp;equals;JS&amp;amp" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="671" to="677" />
+			<date type="published" when="2003">2003. 14636093</date>
+		</imprint>
+	</monogr>
+	<note>PAGE&amp;equals;reference&amp;D&amp;equals;emed6&amp;NEWS&amp;equals;N&amp;AN&amp;e quals</note>
+	<note type="raw_reference">Chiu L, Fry A, Weiss L, Schilling B, Brown L, Smith S. Postactivation potentiation response in athletic and recreationally trained individuals. J Strength Condit Res. 2003;17(4):671-677. http://ovidsp.ovid.com/ovidweb.cgi?T&amp;equals;JS&amp; PAGE&amp;equals;reference&amp;D&amp;equals;emed6&amp;NEWS&amp;equals;N&amp;AN&amp;e quals;14636093.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Influence of type of muscle contraction, gender, and lifting experience on postactivation potentiation performance</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rixon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lamont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="500" to="505" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rixon K, Lamont H, Mg B. Influence of type of muscle contraction, gender, and lifting experience on postactivation potentiation performance. J Strength Condit Res. 1999; 21(2):500-505.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Postactivation potentiation: role in human performance</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Sale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Exerc Sport Sci Rev</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="138" to="143" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sale DG. Postactivation potentiation: role in human performance. Exerc Sport Sci Rev. 2002;30(3):138-143.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Acute effects of concentric vs. eccentric exercise on force steadiness and electromyographic responses of the forearm flexors</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">P</forename><surname>Wages</surname></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0000000000000674</idno>
+		<ptr target="https://doi.org/10.1519/JSC.0000000000000674" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="604" to="611" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ye X, Beck TW, Wages NP. Acute effects of concentric vs. eccentric exercise on force steadiness and electromyographic responses of the forearm flexors. J Strength Condit Res. 2015;29(3):604-611. https://doi.org/10.1519/JSC.0000000000000674.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Insights into the neural control of eccentric contractions</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Duchateau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Baudry</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/japplphysiol.00002.2013</idno>
+		<ptr target="https://doi.org/10.1152/japplphysiol.00002.2013" />
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1418" to="1425" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Duchateau J, Baudry S. Insights into the neural control of eccentric contractions. J Appl Physiol. 2014;116(11):1418-1425. https://doi.org/10.1152/ japplphysiol.00002.2013.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Changes in single motor unit behaviour contribute to the increase in contraction speed after dynamic training in humans</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van-Cutsem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Duchateau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hainaut</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1469-7793.1998.295by.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1469-7793.1998.295by.x" />
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">513</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="295" to="305" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Van-Cutsem M, Duchateau J, Hainaut K. Changes in single motor unit behaviour contribute to the increase in contraction speed after dynamic training in humans. J Physiol. 1998;513(1):295-305. https://doi.org/10.1111/j.1469- 7793.1998.295by.x.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Spinal and supraspinal factors in human muscle fatigue</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Gandevia</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/physrev.2001.81.4.1725</idno>
+		<ptr target="https://doi.org/10.1152/physrev.2001.81.4.1725" />
+	</analytic>
+	<monogr>
+		<title level="j">Physiol Rev</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1725" to="1789" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gandevia SC. Spinal and supraspinal factors in human muscle fatigue. Physiol Rev. 2001;81(4):1725-1789. https://doi.org/10.1152/physrev.2001.81.4.1725.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Early events in stretch-induced muscle damage</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Morgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Allen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2007" to="2015" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Morgan DL, Allen DG. Early events in stretch-induced muscle damage. J Appl Physiol. 1999;87(6):2007-2015.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Changes in muscle strength, relaxation rate and fatiguability during the human menstrual cycle</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sarwar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">B</forename><surname>Niclos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Rutherford</surname></persName>
+		</author>
+		<idno type="DOI">10.1113/jphysiol.1996.sp021381</idno>
+		<ptr target="https://doi.org/10.1113/jphysiol.1996.sp021381" />
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">493</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="267" to="272" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sarwar R, Niclos BB, Rutherford OM. Changes in muscle strength, relaxation rate and fatiguability during the human menstrual cycle. J Physiol. 1996;493(1):267-272. https://doi.org/10.1113/jphysiol.1996.sp021381.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

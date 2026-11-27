@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Relationship between early-onset muscle soreness and indirect muscle damage markers and their dynamics after a full marathon</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-03-12">12 March 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct status="extracted">
+					<analytic>
+						<author>
+							<persName><forename type="first">Katsuyuki</forename><surname>Tokinoya</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department" key="dep1">Doctoral Program in Sports Medicine</orgName>
+								<orgName type="department" key="dep2">Graduate School of Comprehensive Human Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<postCode>305-8577</postCode>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">Research Fellow of the Japan Society for the Promotion of Science</orgName>
+								<address>
+									<postCode>102-0083</postCode>
+									<settlement>Tokyo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Keisuke</forename><surname>Ishikura</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Prefectural Education Center</orgName>
+								<orgName type="institution">Sojo University</orgName>
+								<address>
+									<postCode>860-0082</postCode>
+									<settlement>Kumamoto</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Song-Gyu</forename><surname>Ra</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kei</forename><surname>Ebina</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Faculty of Sports and Health Science</orgName>
+								<orgName type="institution">Fukuoka University</orgName>
+								<address>
+									<postCode>814-0180</postCode>
+									<settlement>Fukuoka</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Department of Human Nutrition</orgName>
+								<orgName type="institution">Seitoku University</orgName>
+								<address>
+									<postCode>271-8555</postCode>
+									<settlement>Matsudo</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Shumpei</forename><surname>Miyakawa</surname></persName>
+							<affiliation key="aff5">
+								<orgName type="department">Faculty of Health and Sport Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<postCode>305-8574</postCode>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Hajime</forename><surname>Ohmori</surname></persName>
+							<email>omori.hajime.gb@u.tsukuba.ac.jp</email>
+							<affiliation key="aff5">
+								<orgName type="department">Faculty of Health and Sport Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<postCode>305-8574</postCode>
+									<settlement>Tsukuba</settlement>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<orgName type="department">Faculty of Health and Sport Sciences</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<addrLine>1-1-1 Tennodai</addrLine>
+									<postCode>305-8574</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Relationship between early-onset muscle soreness and indirect muscle damage markers and their dynamics after a full marathon</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-03-12">12 March 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BE2EC748E3A70232738A607EEA02D14B</idno>
+					<idno type="DOI">10.1016/j.jesf.2020.03.001</idno>
+					<note type="submission">Received 5 April 2019 Received in revised form 23 December 2019 Accepted 9 March 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.9.0" ident="GROBID" when="2026-11-27T14:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0.9.0</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Running Circumference Lactate dehydrogenase</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background/Objective: Muscle soreness and damage occurs after completing a full marathon. Here we refer to muscle soreness induced by prolonged running as early-onset muscle soreness (EOMS) because muscle soreness and damage markers induced after prolonged running are different from delayed-onset muscle soreness (DOMS) and muscle damage markers induced after eccentric contraction, such as resistance exercise. The dynamics and relationship between muscle damage markers and EOMS are unclear; therefore, in this study, we aimed to elucidate the relationship between EOMS and indirect muscle damage markers, and their dynamics after a full marathon. Methods: The following measurements were performed in 19 subjects who completed a full marathon: perceived muscle soreness (using a numeric rating scale), thigh circumference (CIR), hip joint range of motion (ROM), jump height (JH) and muscle damage marker activities in the blood (CK, AST, LDH, ALD) before (Pre), after (Post) and every day for 4 days after a full marathon (D1À4). Results: EOMS was induced, as determined by the numeric rating scale score peaking immediately after a full marathon. ROM and JH significantly decreased and all muscle damage markers significantly increased after a full marathon. Serum CK and AST peaked at D1. Serum LDH and ALD peaked at Post and D3. Each marker showed different dynamics. CIR significantly decreased after a full marathon. Conclusion: Muscle soreness peaked and muscle damage markers in the blood showed different dynamics after a full marathon.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>There has been an increase in the number of amateur runners competing in full marathons who started jogging or running to maintain health and because they enjoyed it. Completing a full marathon (42.195 km) gives a sense of well-being and achievement; however, long-distance running is also associated with severe stress to the body. Therefore, muscle damage occurs after a full marathon <ref type="bibr">1e9</ref> and reduced the performance or motivation towards subsequent exercise.</p><p>Mechanical stress by eccentric contraction is the main factor for muscle damage, <ref type="bibr" target="#b9">10</ref> and structural gastrocnemius muscle damage has been reported after a full marathon, that is, repeated eccentric exercise which induced muscle damage. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> Moreover, several studies have shown that muscle damage markers, such as creatine kinase and lactate dehydrogenase, in the blood increased after a full marathon. <ref type="bibr">3e8</ref> Decreased performance, during a counter movement jump (CMJ), after long-term exercise is related to increased serum muscle damage markers. <ref type="bibr" target="#b10">11</ref> Thus, completing a full marathon clearly caused muscle damage and was related to decreased performance. Indirect muscle damage markers such as maximal isometric contraction, range of motion (ROM), and circumference (CIR) have been used as estimation indices of induced muscle damage by eccentric contraction of upper flexed limbs. <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13</ref> Muscle soreness is often reported after a full marathon. <ref type="bibr">14e16</ref> Here we refer to muscle soreness after completing long-term exercise as immediate-onset muscle soreness (IOMS). <ref type="bibr" target="#b15">16</ref> This was distinguished from delayed-onset muscle soreness (DOMS) that occurred some hours after exercise and peaked at 24e72 h. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> The characteristics of IOMS include muscle soreness immediately after exercise. In the present study, we also refer to early-onset muscle soreness (EOMS) as soreness considered to occur during long-distance running. In addition, it has been reported that the time-course of muscle soreness in a full marathon is different from that of DOMS after resistance exercise that a main factor was mechanical stress. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b13">14</ref> The dynamics of indirect muscle damage markers with respect to DOMS are clear <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b16">17</ref> ; muscle damage markers in the blood and circumference of the exercised muscle increased and ROM decreased. In particular, muscle damage markers in the blood and muscle circumference started to increase for several hours and peaked 3e4 days after eccentric exercise induced DOMS. Unexpectedly, these markers showed slower changes than DOMS. <ref type="bibr" target="#b16">17</ref> To the best of our knowledge, although muscle damage markers in the blood and ROM were measured after a full marathon, <ref type="bibr">3e9</ref> no study has yet described the relationship between EOMS and indirect muscle damage markers.</p><p>This study aimed to elucidate the relationship between EOMS and the dynamics of muscle damage markers after prolonged exercise. We analysed the characteristics and dynamics of indirect markers on EOMS before and after a full marathon and during the recovery period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patients and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Nineteen healthy individuals who regularly exercised to complete a full marathon were recruited (17 men; 2 women) from a class in University of Tsukuba. There is not a difference on our results by gender. The participants' age, height, weight and body fat are shown in Table <ref type="table" target="#tab_0">1</ref>. Participants were recruited from the University of Tsukuba and they participated in the 34th Tsukuba marathon race. They performed a warm-up and drank water freely on the day of the full marathon. In addition, they were instructed to sleep well and refrain from drinking and eating too much not to get out of shape during the experimental period. The study was approved by the Ethical Committee of the Faculty of Health and Sport Science in the University of Tsukuba. The participants received a complete explanation in advance on the purpose of the experiment, its contents and safety issues, and informed consent was obtained.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimental protocol</head><p>Measurements were made before (Pre), after (Post) and every day for 4 days after completion of the full marathon (D1À4). Except for Post, measurements were made early in the morning. Pre measurements were made the day before the full marathon. During early morning measurements, a numeric rating scale (NRS) was completed to evaluate muscle soreness and blood samples were collected from a vein. Afterwards, thigh CIR, hip joint ROM and jump height (JH) using CMJ, were measured. The same measurements were conducted after completing the full marathon (Post). The full marathon was completed at a temperature of 16.3 C and with a humidity level of 66.3%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Measurements</head><p>Body weight was measured by body composition meter (body composition inner scan, BC-600-WH, TANITA Co., Japan) before and after a full-marathon.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Muscle soreness using NRS</head><p>Subjective muscle soreness was measured based on NRS, i.e. 11 points from 0: No pain to 10: Extremely painful. <ref type="bibr" target="#b18">19</ref> NRS were completed for the back, lumbar, buttock, front and back thigh and front and back lower leg.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Indirect muscle damage markers</head><p>Swelling of the thigh was calculated using the average of two measurements of CIR at the midpoint from the anterior superior iliac spine to the patella of the right thigh using a tape. <ref type="bibr" target="#b19">20</ref> A mark was made at the measured point during the experimental period. The same examiner measured their CIR throughout the experimental period. The interclass correlations in the one-way analysis change model were Pre, 0.995; Post, 0.997; D1, 1.000; D2, 0.997; D3, 0.999; D4, 1.000. Hip joint ROM was measured as an indirect muscle damage marker using a large protractor. ROM was adjusted for the anterior superior iliac spine with the outer top of the thigh bone based on a greater trochanter. ROM was measured twice via maximal flexion with a dorsal position angle, and maximal extension with a prone position angle. The ROM value was subtracted from the dorsal or prone position angle from each maximal moved angle. The same examiner measured ROM during the experimental period. The interclass correlation in the one-way analysis change model was Pre, 0.956 and 0.980; Post, 0.935 and 0.977; D1, 0.974 and 0.976; D2, 0.955 and 0.986; D3, 0.990 and 0.968 and D4, 0.942 and 0.985 for maximal extension and flexion, respectively. CMJ were performed, and JH was measured to determine muscle power. A mat switch calculated JH from the duration of a flight after CMJ. Jumps were performed with the hands on the waist on the mat switch. <ref type="bibr" target="#b10">11</ref> Measurement of JH was conducted twice and with a 1min interval. Participants were asked to jump as high as possible without bending their knees during the jump.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Biochemical markers</head><p>Blood samples were collected from an antecubital vein and serum was obtained after centrifugation (3000 rpm) for 15 min. Samples were aliquoted and stored in a freezer at À30 C until analysed. Blood sampling before the full-marathon (Pre) and from D1 to D4 after the full marathon was conducted before breakfast after an overnight fast.</p><p>Serum activities of creatine kinase (CK), lactate dehydrogenase (LDH), aldolase (ALD) and aspartate aminotransferase (AST) were analysed as indices of muscle damage using the standardised method of the Japanese Society of Clinical Chemistry. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Data are shown as mean ± standard error. The area under the curve (AUC) in each EOMS was calculated for each time-point. Statistical analyses were conducted using the SteelÀDwass method for multiple comparisons in non-parametric tests to reject homoscedasticities and normalisations. In addition, the interclass correlation coefficient in one-way analysis of variance was calculated. Significant differences for all tests were set at p &lt; 0.05.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Body weight was significantly decreased after the full-marathon (Pre, 60.9 ± 1.9 vs Post, 58.7 ± 1.8; p &lt; 0.01). Also, their goal time were 262.3 ± 12.0 min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Muscle soreness based on NRS</head><p>Changes in NRS, and AUC before and from D1 to D4 after the full marathon are shown in Fig. <ref type="figure" target="#fig_0">1</ref>. All measurements were significantly high at Post compared with those at Pre and peaked at Post (p &lt; 0.01). The thigh and lower leg showed higher values for muscle soreness until D4 compared with those at Pre (p &lt; 0.05 and p &lt; 0.01, respectively), although all measurements gradually decreased from D1. Lumbar and buttock muscle soreness recovered by D4. For AUC measurements, thigh and lower leg showed significantly higher values than back, lumbar and buttock, respectively (p &lt; 0.01 and NOTE: Pre; one day before the full-marathon, Post; immediately following the full-marathon, D1; one day after the full-marathon, D2; two day after the full-marathon, D3; three day after the full-marathon, D4; four day after the full-marathon. p &lt; 0.05).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Indirect muscle damage markers</head><p>Normalised changes in CIR from Pre value to Post and D1ÀD4 after the full marathon are shown in Fig. <ref type="figure" target="#fig_1">2</ref>. CIR significantly decreased at Post compared with that at Pre (p &lt; 0.01). Furthermore, the decrease was significant until D1. Normalised changes in hip joint ROM and JH based on CMJ from the Pre value, after Post and D1ÀD4 after the full marathon are showed in Table <ref type="table" target="#tab_1">2</ref>. ROM on extension significantly decreased at Post and D1 compared with that at Pre (p &lt; 0.05). On the other hand, ROM on the flexion did not change. JH significantly decreased at Post compared with that Pre (p &lt; 0.01). In addition, a significant decrease was maintained until D2 (p &lt; 0.01).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Muscle damage markers in the blood</head><p>Fig. <ref type="figure" target="#fig_2">3</ref> shows the changes in skeletal muscle damage markers in the blood before and Post and D1ÀD4 after the full marathon. CK NOTE: Pre; one day before the full-marathon, Post; immediately following the fullmarathon, D1; one day after the full-marathon, D2; two day after the full-marathon, D3; three day after the full-marathon, D4; four day after the full-marathon.  NOTE: Pre; one day before the full-marathon, Post; immediately following the full-marathon, D1; one day after the full-marathon, D2; two day after the full-marathon, D3; three day after the full-marathon, D4; four day after the full-marathon.</p><p>showed significantly higher values at Post than at Pre and peaked at D1 (p &lt; 0.01), showing high values until D4 compared with those at Pre (p &lt; 0.01); however, all values gradually decreased from D1. In addition, AST showed the same time course as CK (p &lt; 0.01). LDH showed significantly higher values and peaked at Post compared with those at Pre (p &lt; 0.01). LDH showed high values until D4 compared with Pre (p &lt; 0.01), although all results decreased from Post. ALD showed significantly high values at Post compared with those at Pre and peaked at D3 (p &lt; 0.01). ALD showed high values until D4 compared with those at Pre (p &lt; 0.01), although there were lower than those at D3.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Correlation</head><p>There were significant negative correlations between normalised JH and each muscle damage marker in the blood from Pre to Post (p &lt; 0.05 and p &lt; 0.01, respectively) (Table <ref type="table" target="#tab_2">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>In this study, indirect muscle damage markers involving muscle power were measured using an evaluation model of muscle damage induced by DOMS. In this study, hip joint ROM for flexion did not change after a full marathon. This finding are in line with a decreased hip joint in previous study. <ref type="bibr" target="#b20">21</ref> Moreover, the decreased ROM for extension was maintained until D1 and it recovered afterwards. In addition, JH, as a muscle power index, significantly decreased from Post to D2 compared with that at Pre. This result was similar to changes in maximal muscle force observed in a DOMS study. <ref type="bibr" target="#b16">17</ref> Moreover, decreased isometric force after eccentric contraction was reported to best reflect muscle damage. <ref type="bibr" target="#b21">22</ref> There was a significant correlation between normalised changes in hip joint ROM for extension and JH in this study. Therefore, it might be possible to evaluate hip joint ROM for extension as well as JH.</p><p>CIR showed a significant decrease at Post and D1 compared with that at Pre. Although CIR showed increased swelling in a DOMS study, CIR decreased in this study. Knechtle et al. (2012)  <ref type="bibr" target="#b22">23</ref> reported a correlation between decreased weight and body water before and after a 100-km ultramarathon. Body water may have decreased because of the decreased weight before and after a full marathon in this study. The decreased weight possibly resulted in decreased CIR. However, CIR significantly increased one day after a half-marathon. <ref type="bibr" target="#b23">24</ref> Therefore, CIR would need to be measured in combination with body water in future studies. We suggested that CIR should not be used as an indirect marker for a full marathon, although it has traditionally been used in many studies as an indirect marker of DOMS. <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b24">25</ref> Serum CK, LDH, AST and ALD activities significantly increased at Post. However, their dynamics differed; CK and AST peaked at D1, LDH peaked at Post and high values were maintained compared with those at Pre, though they gradually decreased until D4 and ALD peaked at D3 and showed a delayed increment compared with the other markers. Muscle damage markers in the blood have been shown to increase after a full marathon. <ref type="bibr">3e8</ref>  Kim et al. (2009)  <ref type="bibr" target="#b2">3</ref> reported that CK activity showed significantly high values until 4 days after compared with those before a full marathon.</p><p>Muscle damage markers in the blood for DOMS peaked more slowly than DOMS. <ref type="bibr" target="#b16">17</ref> These markers showed almost the same dynamics for DOMS, peaking at 3 or 4 days after exercise. <ref type="bibr" target="#b11">12,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b24">25</ref> However, in this study these markers showed different dynamics. LDH activity peaked at Post and showed the same dynamics as EOMS. This suggested that muscle soreness and damage were caused at the same time-points after a full marathon. Serum LDH increased earlier than the other markers because serum LDH is abundant in everyone. <ref type="bibr" target="#b25">26</ref>  Rose et al. (1970)  <ref type="bibr" target="#b26">27</ref> reported that increased LDH activity after a full marathon originated from LDH isoenzyme 3e5. Although these isoenzymes mostly account for LDH originating from skeletal muscle, other organs, such as liver or lung, may be involved. Therefore, LDH might be increased even though the skeletal muscle was not damaged.</p><p>Muscle soreness showed peaked values at Post on all parts. This study confirmed that EOMS was induced immediately after prolonged running. <ref type="bibr" target="#b15">16</ref> In particular, the thigh and lower leg showed high values for EOMS until 4 days after compared with those before a full marathon. In addition, it appeared that loads on the thigh and lower leg were more because AUC in these NRS showed higher values than those for the other areas of the body. EOMS showed similar dynamics as indirect muscle damage markers using ROM for hip extension and JH.</p><p>After eccentric exercise, EOMS occurred earlier than DOMS. However, the precise mechanisms governing the same remained unclear. Damages associated with ROS and inflammation have been often attributed as the causes of DOMS. <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b27">28</ref> Additionally, it has been reported that mechanical stress during eccentric contraction contributes to muscle fiber damage, followed by inflammation and oxidative stress which manifest as secondary events. Nonetheless, there have been limited studies elucidating the relationship between muscle soreness and its causative factors. Rad ak et al. (1999) discussed that elevated levels of 8-hydroxy-2' -deoxyguanosine is related to muscle soreness, 24 h after eccentric contraction. <ref type="bibr" target="#b28">29</ref> Moreover, oxidative stress and inflammation have also been shown to occur after a full marathon. <ref type="bibr" target="#b29">30,</ref><ref type="bibr" target="#b30">31</ref> Therefore, there might be a close association between oxidative stress and EOMS upon prolonged exercise in individuals. A possible reason contributing to the difference between EOMS and DOMS is metabolic stress. Muscle contraction might be affected by a lack of energy during protracted periods of running. There could also be a malfunction in the muscle contraction system because of fatigue in the skeletal muscle, consequent to glycogen depletion. <ref type="bibr" target="#b31">32</ref> Thus, increased eccentric contraction might occur when the muscle contraction system is damaged. This, in turn, would lead to greater deterioration of the skeletal muscle fiber during exercise. Moreover, pain-producing substances, such as bradykinin (BK) and prostaglandin E 2 (PGE 2 ), are directly related to muscle soreness. <ref type="bibr" target="#b32">33</ref>  Uchida et al. (2010) have reported that there was a significant correlation between peak DOMS and peak PGE 2 concentration. <ref type="bibr" target="#b33">34</ref> On the other hand, Santos et al. (2004) have demonstrated that plasma PGE 2 concentrations significantly increased after a 30-km race. <ref type="bibr" target="#b34">35</ref> Nerve growth factor (NGF) and glial cell line-derived neurotrophic factor (GDNF), which are produced by muscle, are related to DOMS. <ref type="bibr" target="#b35">36</ref> EOMS might involve factors induced by DOMS because it immediately occurred after exercise and persisted for several days. Future studies are warranted to measure the effect of pain-producing substances, such as BK, PGE 2 , NGF, and GDNF, on exercise in EOMS or DOMS.</p><p>Muscle damage markers in the blood showed significant high values compared with Pre. Moreover, the dynamics of these markers showed three patterns. These markers were characteristic of EOMS but differed from markers for DOMS that showed similar dynamics. Also, JH significantly decreased at Post compared with that at Pre. Moreover, muscle damage was induced after a full marathon because ROM for hip extension was similar to the result of JH after a full-marathon.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>In conclusion, we showed differences between EOMS and DOMS (Table <ref type="table" target="#tab_3">4</ref>) on muscle damage markers. It was clear that EOMS occurred after a full marathon because of the perceived muscle soreness determined using the NRS score. All muscle damage markers showed significantly high values until D4. Most characteristics did not alter thigh swelling. This study is the first to show the characteristics of the relationships between EOMS and muscle damage induced after a full marathon.</p><p>Future studies are required to determine whether swelling is different between EOMS and DOMS. In addition, the relationship between muscle damage markers in the blood and the other markers should be examined to identify an index of muscle damage markers for prolonged exercise after a full marathon.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Changes in numeric rating scale (NRS) score of the full-marathon for muscle soreness in the thigh (a), lower leg (b), lumbar (c), buttock (d), back (e) and area under the curve of NRS(f) from Pre to day 4 (D4) (n ¼ 19). Values are means ± SE. Single asterisk indicates significant difference versus Pre (p &lt; 0.05). Double asterisks indicate significant difference versus Pre (p &lt; 0.01). Double daggers indicate significant difference versus Thigh (p &lt; 0.01). Single hash sign indicates significant difference versus Lower leg (p &lt; 0.05).NOTE: Pre; one day before the full-marathon, Post; immediately following the full-marathon, D1; one day after the full-marathon, D2; two day after the full-marathon, D3; three day after the full-marathon, D4; four day after the full-marathon.</figDesc><graphic coords="3,47.45,234.31,510.23,458.31" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Normalised changes in thigh circumference from Pre value, after Post and D1 -D4 after the full-marathon (n ¼ 19). Values are means ± SE. Double asterisks indicate significant difference versus Pre (p &lt; 0.01).NOTE: Pre; one day before the full-marathon, Post; immediately following the fullmarathon, D1; one day after the full-marathon, D2; two day after the full-marathon, D3; three day after the full-marathon, D4; four day after the full-marathon.</figDesc><graphic coords="4,59.13,66.73,198.47,129.15" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Changes in serum creatine kinase (CK -a), aspartate aminotransferase (AST -b), lactate dehydrogenase (LDH -c), aldrase (ALD -d) activities of the full-marathon from Pre to D4 (n ¼ 19). Values are means ± SE. Double asterisks indicate significant difference versus Pre (p &lt; 0.01).NOTE: Pre; one day before the full-marathon, Post; immediately following the full-marathon, D1; one day after the full-marathon, D2; two day after the full-marathon, D3; three day after the full-marathon, D4; four day after the full-marathon.</figDesc><graphic coords="4,80.22,428.77,425.25,272.41" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characteristics of subjects.</figDesc><table><row><cell>Age (year)</cell><cell>Height (cm)</cell><cell>Weight (kg)</cell><cell>Body fat (%)</cell></row><row><cell>22 ± 0.3</cell><cell>167.2 ± 1.5</cell><cell>60.9 ± 1.9</cell><cell>17.4 ± 1.2</cell></row></table><note><p>Values are means ± SE (n ¼ 19).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Normalised changes in indirect markers from the Pre to Post and D1eD4 values after the full-marathon.</figDesc><table><row><cell>Pre</cell><cell>Post</cell><cell>Day 1</cell><cell>Day 2</cell><cell>Day 3</cell><cell>Day 4</cell></row></table><note><p>⊿ROM in extension ( ) 0 À12.4 ± 3.9* À10.6 ± 5.3* À9.8 ± 3.8 À5.4 ± 4.3 À2.4 ± 4.7 ⊿ROM in flexion ( ) 0 1.0 ± 1.3 À0.4 ± 1.1 0.5 ± 1.0 À0.3 ± 1.0 0.0 ± 1.3 ⊿JH (cm) 0 À26.1 ± 7.7** À27.7 ± 6.3** À17.0 ± 6.6** À4.1 ± 6.8 0.8 ± 7.4 Values are means ± SE (n ¼ 19). Single asterisk indicates significant difference versus the values at Pre (p &lt; 0.05). Double asterisks indicate significant difference versus the values at Pre (p &lt; 0.01). NOTE: Pre; 1 day before the full-marathon, Post; immediately following the full-marathon.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Correlation between normalised changes in jump height and muscle damage markers in the blood from Pre to Post.</figDesc><table><row><cell></cell><cell>⊿Serum CK activity</cell><cell>⊿Serum AST activity</cell><cell>⊿Serum LDH activity</cell><cell>⊿Serum ALD activity</cell></row><row><cell>⊿Jump height</cell><cell>À0.528*</cell><cell>À0.521*</cell><cell>À0.560*</cell><cell>À0.644**</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4</head><label>4</label><figDesc>Different points between DOMS (Ra et al., 2015; Aboodarda et al., 2011) and EOMS (This study).</figDesc><table><row><cell>Post exercise</cell><cell>Day 1</cell><cell>Day 2</cell><cell>Day 3</cell><cell>Day 4</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank all the participants who participated and <rs type="person">Tsuyoshi Ariizumi</rs> who belonged to Terumo Co. and provided us with bloodcollection tubes and winged needles. In addition, We are grateful to <rs type="person">Messrs. Yudai Kawaguchi</rs>, <rs type="person">Takanobu Kuroiwa</rs>, <rs type="person">Takaki Mizushima</rs> and <rs type="person">Daisuke Yamamoto</rs> for helping us with measurements in this study.</p></div>
+			</div>
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The author(s) have no conflicts of interest relevant to this article.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Appendix A. Supplementary data Supplementary data to this article can be found online at <ref type="url" target="https://doi.org/10.1016/j.jesf.2020.03.001">https://doi.org/10.1016/j.jesf.2020.03.001</ref>.</p><p>NOTE: Values are correlation coefficients (n ¼ 19). Single asterisk indicates significant difference versus values at Pre (p &lt; 0.05). Double asterisks indicate significant difference versus values at Pre (p &lt; 0.01). CK: creatine kinase, AST: aminotransferase, LDH: lactate dehydrogenase, ALD: aldolase.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Muscle fiber necrosis associated with human marathon runners</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Hikida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Staron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Hagerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Sherman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Costill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurol Sci</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="185" to="e203" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hikida RS, Staron RS, Hagerman FC, Sherman WM, Costill DL. Muscle fiber necrosis associated with human marathon runners. J Neurol Sci. 1983;59(2): 185e203.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Skeletal muscle injury and repair in marathon runners after competition</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Warhol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Siegel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Silverman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Pathol</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="331" to="e339" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Warhol MJ, Siegel AJ, Evans WJ, Silverman LM. Skeletal muscle injury and repair in marathon runners after competition. Am J Pathol. 1985;118(2): 331e339.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Changes in serum cartilage oligomeric matrix protein (COMP), plasma CPK and plasma hs-CRP in relation to running distance in a marathon (42.195km) and an ultra-marathon (200km) race</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Kim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="765" to="e770" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kim HJ, Lee YH, Kim CK. Changes in serum cartilage oligomeric matrix protein (COMP), plasma CPK and plasma hs-CRP in relation to running distance in a marathon (42.195km) and an ultra-marathon (200km) race. Eur J Appl Physiol. 2009;105:765e770.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Running pace decrease during a marathon is positively related to blood markers of muscle damage</title>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Coso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Fernandez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Abian-Vicen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">57602</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Del Coso JD, Fernandez D, Abian-Vicen J, et al. Running pace decrease during a marathon is positively related to blood markers of muscle damage. PLoS One. 2013;8(2), e57602.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Impact of different running distance on muscle and lymphocyte DNA damage in amateur marathon runners</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Ryu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">Y</forename><surname>Paik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Woo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">O</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">Y</forename><surname>Cho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">T</forename><surname>Roh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Phys Ther Sci</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="450" to="e455" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ryu JH, Paik IY, Woo JH, Shin KO, Cho SY, Roh HT. Impact of different running distance on muscle and lymphocyte DNA damage in amateur marathon run- ners. J Phys Ther Sci. 2016;28:450e455.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Changes in serum creatine kinase, leg muscle tightness, and delayed onset muscle soreness after a full marathon race</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tojima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Noma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Torii</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Med Phys Fit</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="782" to="e788" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tojima M, Noma K, Torii S. Changes in serum creatine kinase, leg muscle tightness, and delayed onset muscle soreness after a full marathon race. J Sports Med Phys Fit. 2016;56(6):782e788.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Minimal muscle damage after a marathon and no influence of beetroot juice on inflammation and recovery</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Clifford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Allerton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Physiol Nutr Metabol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="263" to="e270" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clifford T, Allerton DM, Brown MA, et al. Minimal muscle damage after a marathon and no influence of beetroot juice on inflammation and recovery. Appl Physiol Nutr Metabol. 2017;42(3):263e270.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Recovery following a marathon: a comparison of cold water immersion, whole body cryotherapy and a placebo control</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cockburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Paice</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="153" to="e163" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wilson LJ, Cockburn E, Paice K, et al. Recovery following a marathon: a com- parison of cold water immersion, whole body cryotherapy and a placebo control. Eur J Appl Physiol. 2018;118(1):153e163.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Unstable rocker shoes promote recovery from marathon-induced muscle damage in novice runners</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nakagawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Inami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yonezu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Med Sci Sports</title>
+		<imprint>
+			<biblScope unit="volume">2017</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">0</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nakagawa K, Inami T, Yonezu T, et al. Unstable rocker shoes promote recovery from marathon-induced muscle damage in novice runners. Scand J Med Sci Sports. 2017:1e9, 00.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Mechanisms of exercise-induced muscle fiber injury</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Warren</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="184" to="e207" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Armstrong RB, Warren GL, Warren JA. Mechanisms of exercise-induced muscle fiber injury. Sports Med. 1991;12(3):184e207.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Muscle damage and its relationship with muscle fatigue during a half-iron triathlon</title>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Coso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Millan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Salinero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page">43280</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Del Coso JD, Millan CG, Salinero JJ, et al. Muscle damage and its relationship with muscle fatigue during a half-iron triathlon. PLoS One. 2012;7(8), e43280.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Delayed-onset muscle soreness does not reflect the magnitude of eccentric exercise-induced muscle damage</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nosaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sacco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Med Sci Sports</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="337" to="e346" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nosaka K, Newton M, Sacco P. Delayed-onset muscle soreness does not reflect the magnitude of eccentric exercise-induced muscle damage. Scand J Med Sci Sports. 2002;12:337e346.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Muscle damage and soreness after endurance exercise of the elbow flexors</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nosaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sacco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="920" to="e927" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nosaka K, Newton M, Sacco P. Muscle damage and soreness after endurance exercise of the elbow flexors. Med Sci Sports Exerc. 2002;34(6):920e927.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Time course of muscle soreness following different types of exercise</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Vickers</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>BMC Muscoskel Disord</publisher>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vickers AJ. Time course of muscle soreness following different types of exer- cise. BMC Muscoskel Disord. 2001;2:5.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Influence of tart cherry juice on indices of recovery following marathon running</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Howatson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mchugh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Hill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Med Sci Sports</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="843" to="e852" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Howatson G, McHugh, Hill JA, et al. Influence of tart cherry juice on indices of recovery following marathon running. Scand J Med Sci Sports. 2010;20(6): 843e852.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The ameliorating effect of branched-chain amino acids ingestion on different types of muscle soreness after swimming and full-marathon running</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ishikura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyazaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Song-Gyu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ohmori</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Exerc Sports Physiol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="e17" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ishikura K, Miyazaki T, Song-Gyu R, Ohmori H. The ameliorating effect of branched-chain amino acids ingestion on different types of muscle soreness after swimming and full-marathon running. Adv Exerc Sports Physiol. 2014;20(1):9e17.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Muscle function after exercise-induced muscle damage and rapid adaptation</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Clarkson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nosaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Braun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="512" to="e520" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Clarkson PM, Nosaka K, Braun B. Muscle function after exercise-induced muscle damage and rapid adaptation. Med Sci Sports Exerc. 1992;24(5): 512e520.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Muscle strength and damage following two modes of variable resistance training</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Aboodarda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Mokhtar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci Med</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="635" to="e642" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aboodarda SJ, George J, Mokhtar AH, Thompson M. Muscle strength and damage following two modes of variable resistance training. J Sports Sci Med. 2011;10(4):635e642.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Muscular soreness following prolonged intermittent high-intensity shuttle running</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Nicholas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="387" to="e395" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thompson D, Nicholas CW, Williams C. Muscular soreness following prolonged intermittent high-intensity shuttle running. J Sports Sci. 1999;17:387e395.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Effect of cryotherapy on muscle recovery and inflammation following a bout of damaging exercise</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Crystal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Townson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Laroche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="2577" to="e2586" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Crystal NJ, Townson DH, Cook SB, LaRoche DP. Effect of cryotherapy on muscle recovery and inflammation following a bout of damaging exercise. Eur J Appl Physiol. 2013;113:2577e2586.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Kinematic changes during a marathon for fast and slow runners</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chan-Roper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Myrer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Eggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Seeley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci Med</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="77" to="e82" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chan-Roper M, Hunter I, Myrer JW, Eggett DL, Seeley MK. Kinematic changes during a marathon for fast and slow runners. J Sports Sci Med. 2012;11(1): 77e82.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Measurement tools used in the study of eccentric contraction-induced injury</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Lowe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Armstrong</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="43" to="e59" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Warren GL, Lowe DA, Armstrong RB. Measurement tools used in the study of eccentric contraction-induced injury. Sports Med. 1999;27(1):43e59.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">A faster running speed is associated with a greater body weight loss in 100-km ultra-marathoners</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Knechtle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Knechtle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wirth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Rust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rosemann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1131" to="e1140" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Knechtle B, Knechtle P, Wirth A, Rust CA, Rosemann T. A faster running speed is associated with a greater body weight loss in 100-km ultra-marathoners. J Sports Sci. 2012;30(11):1131e1140.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Evaluating the influence of massage on leg strength, swelling, and pain following a half-marathon</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Tiidus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci Med</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>3:37e43. YISI 1</note>
+	<note type="raw_reference">Dawson LG, Dawson KA, Tiidus PM. Evaluating the influence of massage on leg strength, swelling, and pain following a half-marathon. J Sports Sci Med. 2004;3:37e43. YISI 1.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Combined effect of branched-chain amino acids and taurine supplementation on delayed onset muscle soreness and muscle damage in high-intensity eccentric exercise</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Ra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyazaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ishikura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Int Soc Sports Nutr</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">51</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ra SG, Miyazaki T, Ishikura K, et al. Combined effect of branched-chain amino acids and taurine supplementation on delayed onset muscle soreness and muscle damage in high-intensity eccentric exercise. J Int Soc Sports Nutr. 2013;10(1):51.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Lactate dehydrogenase isoenzymes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maekawa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chromatogr</title>
+		<imprint>
+			<biblScope unit="volume">429</biblScope>
+			<biblScope unit="page" from="373" to="e398" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maekawa M. Lactate dehydrogenase isoenzymes. J Chromatogr. 1988;429: 373e398.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Serum enzymes after marathon running</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Rose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Bousser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Cooper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="355" to="e357" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rose LI, Bousser JE, Cooper KH. Serum enzymes after marathon running. J Appl Physiol. 1970;29(3):355e357.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Exercise-induced muscle damage and inflammation: a review</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Pyne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust J Sci Med Sport</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="3" to="4" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pyne DB. Exercise-induced muscle damage and inflammation: a review. Aust J Sci Med Sport. 1994;26(3-4).</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Muscle soreness-induced reduction in force generation is accompanied by increased nitric oxide content and DNA damage in human skeletal muscle</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Rad Ak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pucsok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mecseki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Csont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Ferdinandy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Free Radic Biol Med</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">7-8</biblScope>
+			<biblScope unit="page" from="1059" to="e1063" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rad ak Z, Pucsok J, Mecseki S, Csont T, Ferdinandy P. Muscle soreness-induced reduction in force generation is accompanied by increased nitric oxide content and DNA damage in human skeletal muscle. Free Radic Biol Med. 1999;26(7-8): 1059e1063.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Oxygen radical generation of neutrophils: a reason for oxidative stress during marathon running?</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hessel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Haberland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Müller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lerche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Schimke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Chim Acta</title>
+		<imprint>
+			<biblScope unit="volume">298</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="145" to="e156" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hessel E, Haberland A, Müller M, Lerche D, Schimke I. Oxygen radical generation of neutrophils: a reason for oxidative stress during marathon running? Clin Chim Acta. 2000;298(1-2):145e156.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Oxidative DNA damage in human peripheral leukocytes induced by massive aerobic exercise</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tsai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Hsu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Free Radic Biol Med</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="1465" to="e1472" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tsai K, Hsu TG, Hsu KM, et al. Oxidative DNA damage in human peripheral leukocytes induced by massive aerobic exercise. Free Radic Biol Med. 2001;31(11):1465e1472.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Muscle glycogen stores and fatigue</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ørtenblad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Westerblad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Nielsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">591</biblScope>
+			<biblScope unit="page" from="4405" to="e4413" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ørtenblad N, Westerblad H, Nielsen J. Muscle glycogen stores and fatigue. J Physiol. 2013;591:4405e4413.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The relationship between muscle pain and fatigue</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Mastaglia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">S178eS180</title>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="volume">22</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mastaglia FL. The relationship between muscle pain and fatigue. Neuromuscul Disord. 2012;22:S178eS180.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Effect of bench press exercise intensity on muscle soreness and inflammatory mediators</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Uchida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nosaka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ugrinowitsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="499" to="e507" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Uchida MC, Nosaka K, Ugrinowitsch C, et al. Effect of bench press exercise intensity on muscle soreness and inflammatory mediators. J Sports Sci. 2009;27:499e507.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The effect of creatine supplementation upon inflammatory and muscle soreness markers after a 30km race</title>
+		<author>
+			<persName><forename type="first">Rvt</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Bassit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Caperuto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Costa</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lfbp</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Life Sci</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<date type="published" when="2004">2004. 1917e1924</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Santos RVT, Bassit RA, Caperuto EC, Costa Rosa LFBP. The effect of creatine supplementation upon inflammatory and muscle soreness markers after a 30km race. Life Sci. 2004;75:1917e1924.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Delayed onset muscle soreness: involvement of neurotrophic factors</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mizumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Taguchi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol Sci</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="43" to="e52" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mizumura K, Taguchi T. Delayed onset muscle soreness: involvement of neu- rotrophic factors. J Physiol Sci. 2016;66:43e52.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

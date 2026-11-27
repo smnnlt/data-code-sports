@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Resistance training affects the hemodynamic parameters of hypertensive and normotensive women differently, and regardless of performance improvement</title>
+				<funder ref="#_FxXwEcV">
+					<orgName type="full">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior -Brasil</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-03-13">13 March 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct status="extracted">
+					<analytic>
+						<author>
+							<persName><forename type="first">Clodoaldo</forename><surname>Ant</surname></persName>
+							<email>clodoaldodesa@gmail.com</email>
+							<affiliation key="aff0">
+								<orgName type="department">Health Sciences Post-Graduate Program</orgName>
+								<orgName type="institution">Unochapec o University</orgName>
+								<address>
+									<addrLine>Chapec o</addrLine>
+									<region>SC</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ônio</forename><surname>De</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Health Sciences Post-Graduate Program</orgName>
+								<orgName type="institution">Unochapec o University</orgName>
+								<address>
+									<addrLine>Chapec o</addrLine>
+									<region>SC</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Diana</forename><surname>Catani</surname></persName>
+							<email>dianac@unochapeco.edu.br</email>
+							<affiliation key="aff0">
+								<orgName type="department">Health Sciences Post-Graduate Program</orgName>
+								<orgName type="institution">Unochapec o University</orgName>
+								<address>
+									<addrLine>Chapec o</addrLine>
+									<region>SC</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Machado</forename><surname>Cardoso</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">Federal University of Fronteira Sul</orgName>
+								<address>
+									<addrLine>Campus Chapec o Chapec o</addrLine>
+									<region>SC</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marzo</forename><forename type="middle">Edir</forename><surname>Da Silva-Grigoletto</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Physical Education</orgName>
+								<orgName type="institution">Federal University of Sergipe</orgName>
+								<address>
+									<addrLine>295-D Servidão Anjo da Guarda Street Zip Code</addrLine>
+									<postCode>89809- 900</postCode>
+									<settlement>Aracaju Efapi</settlement>
+									<region>SE</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Francielle</forename><forename type="middle">Garghetti</forename><surname>Battiston</surname></persName>
+							<email>francielle.battiston@unoesc.edu.br</email>
+							<affiliation key="aff0">
+								<orgName type="department">Health Sciences Post-Graduate Program</orgName>
+								<orgName type="institution">Unochapec o University</orgName>
+								<address>
+									<addrLine>Chapec o</addrLine>
+									<region>SC</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Vanessa</forename><forename type="middle">Silva</forename><surname>Corralo</surname></persName>
+							<email>vcorralo@unochapeco.edu.br</email>
+							<affiliation key="aff0">
+								<orgName type="department">Health Sciences Post-Graduate Program</orgName>
+								<orgName type="institution">Unochapec o University</orgName>
+								<address>
+									<addrLine>Chapec o</addrLine>
+									<region>SC</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">Chapec o/SC</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Resistance training affects the hemodynamic parameters of hypertensive and normotensive women differently, and regardless of performance improvement</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-03-13">13 March 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C01ED559454280791287686A23EA896E</idno>
+					<idno type="DOI">10.1016/j.jesf.2020.03.003</idno>
+					<note type="submission">Received 17 December 2019 Received in revised form 4 March 2020 Accepted 11 March 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.9.0" ident="GROBID" when="2026-11-27T14:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0.9.0</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Elderly Exercise therapy Hypertension Strength training</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background/Objective: Although the positive effects of resistance training (RT) on strength and functional capacity have been well evidenced in the scientific literature, the effects of RT on blood pressure and the relationship of these responses with performance improvement are not yet well established. This study aimed to analyze the effects of three and six months of RT on the hemodynamic parameters and functional capacity of hypertensive and normotensive women. Method: Sixteen hypertensive and 15 normotensive elderly women participated in a RT protocol designed to increase muscle strength and hypertrophy, lasting six months, twice a week. Results: Systolic blood pressure (SBP) had a reduction at six months only in hypertensive patients, while diastolic blood pressure (DBP) decreased at six months of intervention in both groups (p &lt; 0.05). SBP showed differences between the groups in the pretest (p &lt; 0.05), but not at three and six months of intervention (p &gt; 0.05). Heart rate (HR) was reduced at three months in hypertensive patients, and at six months in the normotensive (p &lt; 0.05). The strength and functional mobility of both hypertensive and normotensive individuals significantly increased at three and six months of intervention (p &lt; 0.05). Hypertensive women showed increased strength at all moments, while normotensive ones showed improvement only at six months. Conclusion: Moderate to high intensity RT improves the hemodynamic parameters of hypertensive and normotensive women differently, and independently of strength gain and functional capacity improvement.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Systemic arterial hypertension (SAH), defined as the elevation and maintenance of systolic blood pressure (SBP) values above 139 mmHg and/or diastolic blood pressure (DBP) above 89 mmHg, is a chronic-degenerative disease of a multifactorial nature and, in most cases, asymptomatic. <ref type="bibr" target="#b0">1</ref> Hypertension is a major risk factor for cardiovascular disease and, according to the World Health Organization, about 1.13 billion people worldwide have hypertension. <ref type="bibr">2</ref> Among the various interventions recommended for the control of arterial hypertension (AH), which include low sodium and alcohol intake, body weight control, and others, physical exercise plays a fundamental role. <ref type="bibr" target="#b1">3</ref> In recent decades, chronic effects of exercise on blood pressure have been studied in different experimental models <ref type="bibr" target="#b2">4</ref> as well as in human hypertensive patients. <ref type="bibr" target="#b3">5</ref> Despite the effects of resistance training (RT) on functional capacity and its impact on the ability to perform basic and instrumental activities of daily living and on the quality of life of the elderly are well known in the literature, <ref type="bibr" target="#b4">6</ref> the effects of RT on arterial pressure and its relationship with changes in strength and functional capacity are not well established. Previous studies, <ref type="bibr" target="#b5">7</ref> reported no reduction of blood pressure levels after 10 weeks of intervention in hypertensive and normotensive elderly women. In general, the magnitude of the external load is not the main determinant of acute response of blood pressure (BP) to ST <ref type="bibr" target="#b6">8</ref> although, according to these authors, these mechanisms and their chronic responses need to be better studied.</p><p>Rossi et al., <ref type="bibr" target="#b7">9</ref> in a systematic review study, demonstrated that resistance training was not effective in producing important blood pressure responses. The authors demonstrated that participation in a resistance training program has no significant effect on systolic blood pressure (SBP), and only slightly reduces diastolic blood pressure (DBP) (2.0 mmHg).</p><p>In general, studies involving resistance training have used a wide range of protocols (different combinations of exercises and training intensities) with different intervention periods, presenting results that ranged from modest and inconsistent, <ref type="bibr" target="#b7">9</ref> to consistent and comparable to aerobic training. <ref type="bibr" target="#b3">5</ref> Thus, the objective of the present study was to analyze the effects of three and six months of intervention based on resistance training on the hemodynamic parameters and functional capacity of hypertensive and normotensive women.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Method</head><p>An applied experimental study with a quantitative approach was carried out. Anthropometric measurements and blood samples were collected at the Laboratory of Exercise Physiology and Biochemistry of the Unochapec o University. The familiarization, functional capacity assessment, and resistance training protocols took place at the Bodybuilding Gym of Unochapec o.</p><p>The sample of the present study consisted of female volunteers aged between 42 and 68 years with and without diagnosis of hypertension. The selection of the sample was non-probabilistic by quotas, considering the eligibility criteria.</p><p>The sample size was calculated in 30 participants (15 hypertensive and 15 normotensive), considering a mean standard deviation of the main outcome variables of ten units, with a statistical power of 80%, a significance level of 0.05 (two-tailed distribution), a detectable difference between treatment of 10.6 units. Considering the strict exclusion criteria related to missing the training sessions (missing no more than three consecutive sessions or five sessions during the six months of intervention), the initial sample consisted of 50 women (25 hypertensive and 25 normotensive). Considering the exclusion criterion of missing sessions, nine hypertensive and 10 normotensive women were excluded from the data analysis, so that the final sample of the study consisted of 31 women (16 hypertensive and 15 normotensive). The study flowchart is shown in Fig. <ref type="figure" target="#fig_0">1</ref>.</p><p>The diagnosis of hypertension was made by a doctor, according to the Seventh Brazilian Hypertension Guidelines 3 (SBP and DBP greater than or equal to 140 and 90 mmHg, respectively). All women in this group were clinically diagnosed as hypertensive and underwent medical follow-up at Basic Health Units in the city of Chapec o, SC, Brazil and used one or more medications to treat hypertension: Angiotensin-converting enzyme inhibitor (n ¼ 6); Diuretics (n ¼ 8); Angiotensin Receptor Blocker (n ¼ 4); Betablocker (n ¼ 1); Ca þþ channel inhibitor (n ¼ 1). Women without a diagnosis of hypertension, with systolic and diastolic blood pressure values, measured on two non-consecutive days and at different times, were lower than 139 and 89 mmHg, respectively, <ref type="bibr" target="#b1">3</ref> were included in the normotensive group.</p><p>Women who presented comorbidities that represented a clinical contraindication to participate in the study, who used any medication that could influence the results, and smokers were excluded from the sample. Data from women who missed three consecutive sessions or more than five sessions over the six-month period of the intervention protocol were excluded from the analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Intervention protocol</head><p>The training protocol included resistance exercise sessions, which were performed alternately by segment (upper and lower limbs). The sequence of exercises in each session included: chest fly machine, hip adductor chair, lat pulldown, hip abductor chair, alternate bicep curl, leg press 45, triceps extension, shoulder lateral raise, knee extension, knee flexion and abdominal flexion. The training was carried out twice a week, with the duration of each session varying from 40 (in the adaptation phase) to 60 min (in the specific phase).</p><p>The intervention protocol was divided into three phases: a) Adaptation phase (One set in the first week, two in the second and three sets of 15 maximum repetitions in the third week): three weeks involving six sessions, in which emphasis was placed on learning the technique, body self-awareness, and coordination of movement; b) Basic phase (three sets of 15 maximum repetitions): 17 weeks involving 34 sessions aimed at increasing muscle strength; c) Specific phase (three sets of 15 maximum repetitions): ten weeks involving twenty sessions with the purpose of intensifying the process of muscle strength gaining and hypertrophy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blood pressure assessment</head><p>All measurements were performed at rest and all subjects had their blood pressure measured before a training session at least once a week with an automatic blood pressure monitor (Omron™ HEM-742INT, China), as routine follow-up.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Heart rate assessment</head><p>The participants remained at rest before beginning the exercise protocol, seated for 5 min, and then had their heart rate (HR) checked using the same automatic blood pressure monitor (Omron™ HEM-742INT, China).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Maximal dynamic strength assessment</head><p>The leg press 45 exercise was used for evaluation of the maximal dynamic strength (1-RM). The 1-RM evaluation protocol followed the recommendations of the American Society of Exercises Physiologists. <ref type="bibr" target="#b8">10</ref> The test was performed on the leg press 45 machine, and the load for 1-RM was considered to be the one with which the subject was able to perform the complete movement.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Functional strength and mobility assessment</head><p>The 30-s chair sit-to-stand test was used to evaluate the functional strength and resistance of the lower limbs. <ref type="bibr" target="#b9">11</ref> Mobility, which involves speed, agility and dynamic balance, was assessed using the timed up and go (TUG) test. <ref type="bibr" target="#b10">12</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethical procedures</head><p>The study was approved by the Research Ethics Committee of Fronteira Sul Federal University and was carried out in accordance with established ethical standards (Opinion nº 1.916.904). All subjects were duly informed about the objectives of the study and the data collection procedures, as well as the relative risks and benefits.</p><p>They signed two copies of the Informed Consent Form to express their agreement to participate in the study; one copy remained with the subject and the other was given to the researchers. It should be noted that the subjects were advised that they could withdraw their consent and give up participating in the study at any time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>The Statistical Package for the Social Sciences, version 24.0 for Windows™, was used for all the analyses. Descriptive statistics with mean and standard deviations were used to represent all variables analyzed. The Shapiro-Wilk, Levene and Mauchly tests were used to analyze the distribution and characteristics of the data (normality, homoscedasticity and sphericity, respectively). Logarithmic adjustments and the Greenhouse-Geisser correction were made when the distribution did not meet the assumptions of parametric statistics. An analysis of variance of repeated measures was used for comparisons between groups (hypertensive and normotensive) and between the moments of assessment (pre-test, three and six months of intervention). All tests were two-tailed, with a significance level of 5%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The sample characteristics regarding body mass, body mass index, waist circumference, hip circumference are shown in Table <ref type="table" target="#tab_0">1</ref>. As expected, statistically significant differences were observed between the groups (hypertensive and normotensive) in the pretest (p &lt; 0.05) for all anthropometric parameters evaluated. On the other hand, no statistically significant differences were observed between the pre and the post-test in both groups analyzed (p &gt; 0.05) (see Table <ref type="table" target="#tab_0">1</ref>).</p><p>The analysis of hemodynamic responses (Fig. <ref type="figure" target="#fig_1">2</ref>) showed that SBP presented statistically significant changes at three and six months when compared to pre-training values, only in the hypertensive group (p &lt; 0.05). On the other hand, DBP presented statistically significant differences in relation to pre-test values only at six months of intervention in both hypertensive and normotensive subjects (p &lt; 0.05). SBP showed statistically significant differences between groups only in the pre-test (p &lt; 0.05). No statistically significant differences (p &gt; 0.05) were found for DBP between hypertensive and normotensive individuals in any of the times analyzed. The HR (Fig. <ref type="figure" target="#fig_2">3</ref>) of the hypertensive group presented a statistically significant difference (p &lt; 0.05) after three months in relation to the pre-test values, whereas among the normotensive patients this difference was significant only after six months (p &lt; 0.05). Statistically significant differences in HR were found between groups only after six months of intervention (p &lt; 0.05).</p><p>The analysis of the performance in the maximal dynamic strength test (1-RM) and the functional tests (TUG and Chair test) is presented in Fig. <ref type="figure" target="#fig_3">4</ref>. Regarding to strength, the hypertensive patients presented statistically significant improvement at both three and six months after RT (p &lt; 0.05), whereas for the normotensive patients, statistically significant increase were found at six months, when compared to pre-test values and three months of training (p &lt; 0.05). On the other hand, the analysis of performance in the functional tests showed statistically significant differences (p &lt; 0.05) between all the times analyzed, both in the hypertensive and normotensive groups. There were no statistically significant differences (p &gt; 0.05) between groups for the functional variables and for the strength in any of the moments analyzed, except for performance in the Chair test in the pre-test values, in which normotensive group presented augmented functional strength when compared to hypertensive subjects (p &gt; 0.05).</p><p>Table <ref type="table" target="#tab_1">2</ref> shows the correlation coefficients between the variations (expressed as percentage changes from pre to post-test -D%)</p><p>of maximal dynamic strength (1-RM), functional strength (Chair test), functional mobility (TUG) and systolic and diastolic blood pressure in hypertensive and normotensive women. No statistically significant correlations were found between the analyzed variables (p &gt; 0.05), both for hypertensive and normotensive women.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The most important finding of this study was the fact that six months of resistance training reduced the SBP and DBP of hypertensive women by 6% and 12%, respectively, and the DBP in the normotensive group (7%), independently of the variation in the performance of maximum dynamic force, functional strength and functional mobility.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hemodynamic responses</head><p>The effect of RT protocols on blood pressure has already been studied in healthy elderly without hypertension. Arazi et al. <ref type="bibr" target="#b11">13</ref> demonstrated that SBP of the low intensity resistance training groups was lower compared to the control group after the final session, but the differences were not significant after the first session. The participants' heart rate increased considerably after the first session compared with the resting values, but there was no significant difference after the last session. These results demonstrate that low intensity resistance training promotes cardiac and vascular adaptations in hypertensive women, since BP results decreased after 6 weeks.</p><p>The differences observed in DBP at six months of treatment, compared to the pre-test values, evidenced both groups demonstrate that the resistance training protocol used in the present study, considering its structure and periodization, had positive hemodynamic effects for both hypertensive and normotensive patients. Corroborating to our results, Krinski et al. <ref type="bibr" target="#b12">14</ref> evaluated hypertensive elderly women after six months of RT with a 50% intensity of 1-RM and they experienced a reduction of resting DBP. Decreased BP due to the action of resistance exercise may explain muscle vasodilation due to decreased sympathetic nerve activity, changes in pulmonary and arterial pressoreceptors, thermoregulation and increased levels of serotonin and nitric oxide. <ref type="bibr" target="#b13">15</ref> Consistent with the conditions of the investigated groups   (hypertensive and normotensive), SBP was different between the pretest groups. Even with the hypertensive group being under medical supervision and drug therapy, subjects had higher SBP values than normotensive peers.</p><p>With regard to resting HR, the results of this study showed a reduction of 4% at three months of intervention, and 6% at six months in hypertensive patients, in relation to pre-test values. On the other hand, in the normotensive group, a reduction of 9% in the resting HR was observed only after six months of intervention. Post-exercise hypotension may occur due to neural changes in the circulation or presence of some vasodilatory substances because the neural mechanism has shown that sympathetic nervous activity performs a kind of command over vasoconstriction, reducing HR during hypotension after exercise, contributing to the reduction of peripheral vascular resistance. <ref type="bibr" target="#b14">16</ref> The results showed a significant reduction in resting SBP values after the treatment period, without concomitant changes in DBP and resting HR. Although adaptations of the cardiovascular system are among the most significant mechanisms associated with the regulation of hemodynamic parameters in response to exercise, it is important conducting more controlled studies to understand these mechanisms. <ref type="bibr" target="#b15">17</ref> HR in the hypertensive group decreased at three and six months of training compared to the pretest, while in the normotensive group, the reduction was significant only at the sixth month of intervention. Differences between groups in HR were observed only at six months. Alves et al. <ref type="bibr" target="#b16">18</ref> demonstrated, in an experimental model of heart failure, that resistance training improves cardiac function as a consequence of improved myocardial perfusion, increased heart systolic pressure and improved hemodynamic parameters, thus promoting an increase in cardiac performance. The heart rate response shown in our study and supported by the mechanisms mentioned above supports the indication of RT in blood pressure control.</p><p>The results of the study by Baptista et al. <ref type="bibr" target="#b17">19</ref> showed that regardless of the choice of first-line antihypertensive therapies, exercise training should be added to standard pharmacological treatment of hypertension to reduce physical disability among elderly hypertensive individuals, as they increase the ability to perform basic movement functions such as standing, walking, climbing stairs, and other activities of daily living.</p><p>In general, considering the HR and BP responses, the intervention used in the present study had positive effects on the hemodynamic parameters analyzed, providing subsidies that support the prescription of this type of protocol both in the prevention and treatment of hypertension. It is noteworthy that, because hypertensive patients use antihypertensive medication, the hemodynamic responses found do not isolate the effect of training on the analyzed variables, because the medication helps to reduce cardiac overload. <ref type="bibr" target="#b18">20</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Functional capacity responses</head><p>Resistance training was efficient to improve performance in functional tests (TUG and Chair test) at all moments analyzed in both groups. Among hypertensive patients, there was a reduction of  7% and 14% in TUG time after three and six months of intervention, respectively, whereas in normotensive patients, these improvements were 7% and 11%. The improvement in the Chair test at three and six months of intervention, when compared to pre-training values, was 41% and 71%, respectively, in hypertensive women, and 25% and 54%, in normotensive women. The variable strength showed a significant increase in the hypertensive group of 15% and 29% at three and six months, respectively. On the other hand, among normotensive women, strength increased only after six months of intervention (26%) when compared to pre-test values. Therefore, the protocol used in this study was efficient when it comes to gains of muscular strength and improvement of functional capacity.</p><p>As in the present study, studies have shown that moderate to high intensity RT increases strength levels, positively influencing autonomy and, consequently, self-assessment of health. <ref type="bibr" target="#b19">21</ref> However, it is important to say that loss of muscle strength and balance are characteristics of human aging that can lead subjects to functional dependence. In this sense, training programs similar to the one used in this study are a positive intervention to avoid or minimize functional losses that compromise functional independence. As described Wise and Patrick <ref type="bibr" target="#b20">22</ref> the inability to perform social roles as the return to gainful employment, coexistence of leisure-oriented groups is often observed after myocardial infarction and other vascular events.</p><p>The improvement in functional capacity, as assessed by TUG, is due to the increase in muscle strength, which consequently increases stride length and walking speed, <ref type="bibr" target="#b21">23</ref> improving test performance, as observed in our study. The performance evaluation in the functional mobility test showed that all subjects in the sample presented a performance considered adequate. <ref type="bibr" target="#b22">24</ref> In the studies by Savva et al. <ref type="bibr" target="#b23">25</ref> and Herman et al. <ref type="bibr" target="#b24">26</ref> the performance on TUG correlated with frailty, exhaustion, weight loss, slowness, weakness, physical activity deficit, cognitive ability and execution capacity, demonstrating the importance of preserving strength and mobility for the functional capacity of seniors.</p><p>Muscle function is extremely important to preserve or improve people's autonomy, with positive impacts on daily activities <ref type="bibr" target="#b25">27</ref> and, therefore, on hemodynamic parameters, especially on blood pressure. That is the reason why RT is an important component in intervention protocols focused on improving the quality of life and preventing chronic diseases. Elderly people who practice RT have better results in the TUG and Chair test compared to those who are physically active but do not practice any strength exercise. This indicates the important role of RT in maintaining or improving mobility. <ref type="bibr" target="#b26">28</ref> Thus, the results of this study help understanding the relationship between resistance training and functional capacity. In the elderly population or other groups, the realization of a protocol for six months proved to positively change and improve the functional capacity of the subjects, contributing to a better performance and satisfaction in activities of daily living and maintenance of autonomy.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>From the data analysis it can be concluded that, regardless of the improvement of strength and functional capacity, resistance training is efficient to produce positive adaptations in heart rate and blood pressure, as well as to increase the maximum dynamic force, the functional force and the functional mobility of elderly women, both hypertensive and normotensive.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Flowchart of study.</figDesc><graphic coords="3,122.23,66.73,341.24,390.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Behavior of systolic (SBP) and diastolic (DBP) blood pressure in the pre-test and after three and six months of resistance training in hypertensive (Hyper) and normotensivewomen (Normo). *Statistically significant difference in relation to the pretest for SBP in the hypertensive group (p &lt; 0.05); §Statistically significant difference in relation to the pre-test and three months of intervention for DBP in the hypertensive and normotensive groups (p &lt; 0.05); #Statistically significant difference between groups for SBP (p &lt; 0.05).</figDesc><graphic coords="4,46.15,174.45,243.83,160.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Heart rate behavior in the pre-test and after three and six months of resistance training in hypertensive (Hyper) and normotensive women (Normo). *Statistically significant difference in relation to the pre-test for the hypertensive group (p &lt; 0.05); §Statistically significant difference in relation to the pre-test and three months of intervention for the normotensive group (p &lt; 0.05); #Statistically significant difference between groups (p &lt; 0.05).</figDesc><graphic coords="4,44.73,523.79,246.72,160.27" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Assessment of strength (A -for one-repetition maximum), functional strength (B. Chair-test) and mobility (C -Timed up and go test) in the pre-test and at three and six months of resistance training in hypertensive and normotensive women. *Statistically significant difference in relation to the pre-test for the hypertensive group (p &lt; 0.05); $Statistically significant difference in relation to the pre-test and three months of intervention for the normotensive group (p &lt; 0.05); #Statistically significant difference between groups (p &lt; 0.05).</figDesc><graphic coords="5,35.04,66.73,246.72,545.90" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characterization of the sample.</figDesc><table><row><cell>Variable</cell><cell>Hypertensive (N ¼ 16)</cell><cell></cell><cell>Normotensive (N ¼ 15)</cell><cell></cell></row><row><cell></cell><cell>Pre-test Mean (±SE)</cell><cell>Post-test Mean (±SE)</cell><cell>Pre-test Mean (±SE)</cell><cell>Post-test Mean (±SE)</cell></row><row><cell>Body mass (kg)</cell><cell>79.81 (16.22)</cell><cell>79.14 (17,36)</cell><cell>62.59 a (8.57)</cell><cell>62.04 (8.32)</cell></row><row><cell>Body mass index (kg/m 2 )</cell><cell>30.87 (5.39)</cell><cell>30,59 (5,79)</cell><cell>25.31 a (3.14)</cell><cell>25,07 (2,85)</cell></row><row><cell>Waist circumference (cm)</cell><cell>92.59 (10.9)</cell><cell>87,91 (11,69)</cell><cell>79.23 a (7.18)</cell><cell>75,07 (6,80)</cell></row><row><cell>Hip circumference (cm)</cell><cell>107,75 (10,18)</cell><cell>104,81 (8,89)</cell><cell>97.53 a (4.65)</cell><cell>96,33 (5,41)</cell></row></table><note><p>a Statistically significant differences in relation to the pretest of the group of hypertensive women (p &lt;0.05).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Pearson's correlation coefficient between the variation (percentage delta -D%) of the strength, functional strength and mobility, and systolic (SBP) and diastolic blood pressure (DBP) in hypertensive (N ¼ 16) and normotensive women (N ¼ 15).</figDesc><table><row><cell>Variables</cell><cell cols="3">Hypertensive Women</cell><cell></cell><cell cols="3">Normotensive Women</cell></row><row><cell></cell><cell>D% SBP</cell><cell></cell><cell>D% DBP</cell><cell></cell><cell>D% SBP</cell><cell></cell><cell>D% DBP</cell></row><row><cell></cell><cell>r</cell><cell>p</cell><cell>R</cell><cell>p</cell><cell>r</cell><cell>p</cell><cell>r</cell><cell>p</cell></row><row><cell>D% 1-RM</cell><cell cols="7">0.152 0.574 À0.387 0.138 À0.410 0.130 0.370</cell><cell>0.175</cell></row><row><cell cols="4">D% Chair test 0.304 0.252 0.346</cell><cell cols="2">0.189 0.012</cell><cell cols="3">0.965 À0.086 0.761</cell></row><row><cell>D% TUG</cell><cell cols="3">0.284 0.287 0.063</cell><cell cols="4">0.816 À0.065 0.818 0.638</cell><cell>0.011</cell></row><row><cell cols="9">1-RM: One-Repetition maximum test; TUG: Timed up and go test; Chair test: Chair</cell></row><row><cell cols="9">sit-to-stand test; SBP: Systolic blood pressure; DBP: Diastolic blood pressure.</cell></row></table></figure>
+		</body>
+		<back>
+
+			
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgments</head><p>All persons who have made substantial contributions to the work reported in the manuscript (e.g., technical help, writing and editing assistance, general support), but who do not meet the criteria for authorship, are named in the Acknowledgments and have given us their written permission to be named. If we have not included an Acknowledgments in our manuscript, then that indicates that we have not received substantial contributions from non-authors.</p></div>
+			</div>
+
+
+			<div type="funding">
+<div><head>Funding source</head><p>This study was financed in part by the <rs type="funder">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior -Brasil</rs> (<rs type="grantNumber">CAPES) -Finance Code 001</rs>, and <rs type="institution">Unochapec o University</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_FxXwEcV">
+					<idno type="grant-number">CAPES) -Finance Code 001</idno>
+				</org>
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of competing interest</head><p>The authors have no conflicts of interest to this article.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>CRediT authorship contribution statement Clodoaldo Ant ônio De S a: Conceptualization, Funding acquisition, Formal analysis, Writing -original draft, Writing -review &amp; editing. Diana Catani: Conceptualization, Funding acquisition, Formal analysis, Writing -original draft, Writing -review &amp; editing. Andr eia Machado Cardoso: Funding acquisition, Formal analysis, Writing -original draft, Writing -review &amp; editing. Marzo Edir Da Silva-Grigoletto: Formal analysis, Writing -original draft, Writingreview &amp; editing. Francielle Garghetti Battiston: Formal analysis, Writing -original draft, Writing -review &amp; editing. Vanessa Silva Corralo: Formal analysis, Writing -original draft, Writing -review &amp; editing.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Appendix A. Supplementary data Supplementary data to this article can be found online at <ref type="url" target="https://doi.org/10.1016/j.jesf.2020.03.003">https://doi.org/10.1016/j.jesf.2020.03.003</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted" xml:id="b0">
+	<monogr>
+		<title level="m" type="main">National Day to combat hypertension is a milestone in the fight against 300</title>
+		<ptr target="http://www.sbh.org.br/geral/noticias.asp?id¼115" />
+		<imprint>
+			<date type="published" when="2016-09-10">2016. September 10, 2019</date>
+			<publisher>Brazilian Society of Hypertension</publisher>
+		</imprint>
+	</monogr>
+	<note>000 deaths per year</note>
+	<note type="raw_reference">Brazilian Society of Hypertension. National Day to combat hypertension is a milestone in the fight against 300,000 deaths per year. http://www.sbh.org.br/ geral/noticias.asp?id¼115; 2016. Accessed September 10, 2019.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">7th Brazilian guideline of arterial hypertension: chapter 2-diagnosis and classification</title>
+		<author>
+			<persName><forename type="first">Mvb</forename><surname>Malachias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mam</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Nobre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alessi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Feitosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Coelho</surname></persName>
+		</author>
+		<idno type="DOI">10.5935/abc.20160152</idno>
+		<ptr target="https://doi.org/10.5935/abc.20160152" />
+	</analytic>
+	<monogr>
+		<title level="j">Arq Bras Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="7" to="e13" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Malachias MVB, Gomes MAM, Nobre F, Alessi A, Feitosa AD, Coelho EB. 7th Brazilian guideline of arterial hypertension: chapter 2-diagnosis and classifi- cation. Arq Bras Cardiol. 2016;107:7e13. https://doi.org/10.5935/abc.20160152.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Impact of moderate-and high-intensity exercise on the endothelial ultrastructure and function in mesenteric arteries from hypertensive rats</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Xiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Shi</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.lfs.2019.01.058</idno>
+		<ptr target="https://doi.org/10.1016/j.lfs.2019.01.058" />
+	</analytic>
+	<monogr>
+		<title level="j">Life Sci</title>
+		<imprint>
+			<biblScope unit="volume">222</biblScope>
+			<biblScope unit="page" from="36" to="e45" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ye F, Wu Y, Chen Y, Xiao D, Shi L. Impact of moderate-and high-intensity ex- ercise on the endothelial ultrastructure and function in mesenteric arteries from hypertensive rats. Life Sci. 2016;222:36e45. https://doi.org/10.1016/ j.lfs.2019.01.058.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Dynamic resistance training as stand-alone antihypertensive lifestyle therapy: a meta-analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">V</forename><surname>Macdonald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">T</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Huedo-Medina</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/JAHA.116.003231</idno>
+		<ptr target="https://doi.org/10.1161/JAHA.116.003231" />
+	</analytic>
+	<monogr>
+		<title level="j">J Am Heart Assoc</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">3231</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">MacDonald HV, Johnson BT, Huedo-Medina TB, et al. Dynamic resistance training as stand-alone antihypertensive lifestyle therapy: a meta-analysis. J Am Heart Assoc. 2016;28(5), e003231. https://doi.org/10.1161/ JAHA.116.003231.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Benefits of resistance training in physically frail elderly: a systematic review</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Radaelli</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40520-017-0863-z</idno>
+		<ptr target="https://doi.org/10.1007/s40520-017-0863-z" />
+	</analytic>
+	<monogr>
+		<title level="j">Aging Clin Exp Res</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="889" to="899" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lopez P, Pinto RS, Radaelli R, et al. Benefits of resistance training in physically frail elderly: a systematic review. Aging Clin Exp Res. 2018;30(8):889e899. https://doi.org/10.1007/s40520-017-0863-z, 889-899.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Blood pressure response to resistance training in hypertensive and normotensive older women</title>
+		<author>
+			<persName><forename type="first">Da</forename><surname>Cunha Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Valduga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+		<idno type="DOI">10.2147/CIA.S157479</idno>
+		<ptr target="https://doi.org/10.2147/CIA.S157479" />
+	</analytic>
+	<monogr>
+		<title level="j">Clin Interv Aging</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="541" to="e553" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Da Cunha Nascimento D, Silva CR, Valduga R, et al. Blood pressure response to resistance training in hypertensive and normotensive older women. Clin Interv Aging. 2018;13:541e553. https://doi.org/10.2147/CIA.S157479.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Hemodynamic responses to resistance exercise in patients with coronary artery disease</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Gjovaag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mirtaheri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Simon</surname></persName>
+		</author>
+		<idno type="DOI">10.1249/MSS.0000000000000811</idno>
+		<ptr target="https://doi.org/10.1249/MSS.0000000000000811" />
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="581" to="e588" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gjovaag TF, Mirtaheri P, Simon K, et al. Hemodynamic responses to resistance exercise in patients with coronary artery disease. Med Sci Sports Exerc. 2016;48: 581e588. https://doi.org/10.1249/MSS.0000000000000811.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The evolution of a Canadian Hypertension Education Program recommendation: the impact of resistance training on resting blood pressure in adults as an example</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Rossi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Moullec</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Lavoie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gour-Provencal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Bacon</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.cjca.2013.02.010</idno>
+		<ptr target="https://doi.org/10.1016/j.cjca.2013.02.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Can J Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="622" to="e627" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rossi AM, Moullec G, Lavoie KL, Gour-Provencal G, Bacon SL. The evolution of a Canadian Hypertension Education Program recommendation: the impact of resistance training on resting blood pressure in adults as an example. Can J Cardiol. 2013;29:622e627. https://doi.org/10.1016/j.cjca.2013.02.010.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">ASEP procedures recommendation I: accurate assessment of muscular strength and power</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Weir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Exerc Physiol Online</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1" to="e21" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brown LE, Weir JP. ASEP procedures recommendation I: accurate assessment of muscular strength and power. J Exerc Physiol Online. 2001;4(3):1e21.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Development and validation of a functional fitness test for community-residing older adults</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Rikli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Jones</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/geront/gns071</idno>
+		<ptr target="https://doi.org/10.1093/geront/gns071" />
+	</analytic>
+	<monogr>
+		<title level="j">J Aging Phys Activ</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="129" to="e161" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rikli RE, Jones CJ. Development and validation of a functional fitness test for community-residing older adults. J Aging Phys Activ. 1999;7:129e161. https:// doi.org/10.1093/geront/gns071.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The timed &quot;Up &amp; Go&quot;: a test of basic functional mobility for frail elderly persons</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Podsiadlo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Richardson</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1532-5415.1991.tb01616.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1532-5415.1991.tb01616.x" />
+	</analytic>
+	<monogr>
+		<title level="j">J Am Geriatr Soc</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="142" to="e148" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Podsiadlo D, Richardson S. The timed &quot;Up &amp; Go&quot;: a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc. 1991;39:142e148. https:// doi.org/10.1111/j.1532-5415.1991.tb01616.x.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Changes in pain following an interaction period of resistance training and green tea extract consumption in sedentary hypertensive women: impact of blood pressure swings</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arazi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Taati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kheirkhah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ramezanpour</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s41043-019-0188-y</idno>
+		<ptr target="https://doi.org/10.1186/s41043-019-0188-y" />
+	</analytic>
+	<monogr>
+		<title level="j">J Health Popul Nutr</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="1" to="e8" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arazi H, Taati B, Kheirkhah J, Ramezanpour S. Changes in pain following an interaction period of resistance training and green tea extract consumption in sedentary hypertensive women: impact of blood pressure swings. J Health Popul Nutr. 2019;38:1e8. https://doi.org/10.1186/s41043-019-0188-y.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Efeito do exercício aer obio e resistido no perfil antropom etrico e respostas cardiovasculares de idosos portadores de hipertensão</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Krinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Elsangedy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Junior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">A</forename><surname>Soares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Sci Health Sci</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="71" to="e75" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Krinski K, Elsangedy HM, Junior NN, Soares IA. Efeito do exercício aer obio e resistido no perfil antropom etrico e respostas cardiovasculares de idosos portadores de hipertensão. Acta Sci Health Sci. 2006;28:71e75.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A review on the mechanisms of blood-flow restriction resistance training-induced muscle hypertrophy</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Hussain</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40279-014-0264-9</idno>
+		<ptr target="https://doi.org/10.1007/s40279-014-0264-9" />
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="187" to="e200" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pearson SJ, Hussain SR. A review on the mechanisms of blood-flow restriction resistance training-induced muscle hypertrophy. Sports Med. 2015;45: 187e200. https://doi.org/10.1007/s40279-014-0264-9.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Effect of resistance training with different intensities on blood pressure in hypertensive patients</title>
+		<author>
+			<persName><forename type="first">Jpc</forename><surname>Reis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Silva</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Silva</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>De Sousa Mssr</surname></persName>
+		</author>
+		<idno type="DOI">10.5935/2177-7772.20150005</idno>
+		<ptr target="https://doi.org/10.5935/2177-7772.20150005" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Cardiovasc Sci</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="25" to="e34" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reis JPC, Silva Almeida K, Silva Souza RA, de Sousa MSSR. Effect of resistance training with different intensities on blood pressure in hypertensive patients. Int J Cardiovasc Sci. 2015;28:25e34. https://doi.org/10.5935/2177- 7772.20150005.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Muscle size and arterial stiffness after blood flow-restricted low-intensity resistance training in older adults</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yasuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fukumura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fukuda</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/sms.12087</idno>
+		<ptr target="https://doi.org/10.1111/sms.12087" />
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Med Sci Sports</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="799" to="e806" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yasuda T, Fukumura K, Fukuda T, et al. Muscle size and arterial stiffness after blood flow-restricted low-intensity resistance training in older adults. Scand J Med Sci Sports. 2014;24:799e806. https://doi.org/10.1111/sms.12087.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Resistance training improves hemodynamic function, collagen deposition and inflammatory profiles: experimental model of heart failure</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Nunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Stefani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dal</forename><surname>Lago</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0110317</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0110317.e110317" />
+	</analytic>
+	<monogr>
+		<title level="j">PloS One</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1" to="e8" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Alves JP, Nunes RB, Stefani GP, Dal Lago P. Resistance training improves he- modynamic function, collagen deposition and inflammatory profiles: experi- mental model of heart failure. PloS One. 2014;9:1e8. https://doi.org/10.1371/ journal.pone.0110317. e110317.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Functional status improves in hypertensive older adults: the long-term effects of antihypertensive therapy combined with multicomponent exercise intervention</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Baptista</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Valente-Dos-Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Machado-Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Veríssimo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Martins</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40520-018-0925-x</idno>
+		<ptr target="https://doi.org/10.1007/s40520-018-0925-x" />
+	</analytic>
+	<monogr>
+		<title level="j">Aging Clin Exp Res</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1483" to="e1495" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Baptista LC, Amorim AP, Valente-dos-Santos J, Machado-Rodrigues AM, Veríssimo MT, Martins RA. Functional status improves in hypertensive older adults: the long-term effects of antihypertensive therapy combined with multicomponent exercise intervention. Aging Clin Exp Res. 2018;30: 1483e1495. https://doi.org/10.1007/s40520-018-0925-x.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Comparative efficacy of exercise and anti-hypertensive pharmacological interventions in reducing blood pressure in people with hypertension: a network meta-analysis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Noone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Leahy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Morrissey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Newell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Newell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Dwyer</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2047487319879786</idno>
+		<ptr target="https://doi.org/10.1177/2047487319879786" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="247" to="e255" />
+			<date type="published" when="2019">2019. 2047487319879786</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Noone C, Leahy J, Morrissey EC, Newell J, Newell M, Dwyer CP. Comparative efficacy of exercise and anti-hypertensive pharmacological interventions in reducing blood pressure in people with hypertension: a network meta-anal- ysis. Eur J Prev Cardiol. 2019;27(3):247e255. https://doi.org/10.1177/ 2047487319879786, 2047487319879786.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Intensive vs standard blood pressure control and cardiovascular disease outcomes in adults aged !75 years</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Williamson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Supiano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">B</forename><surname>Applegate</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.2016.7050</idno>
+		<ptr target="https://doi.org/10.1001/jama.2016.7050" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">315</biblScope>
+			<biblScope unit="page" from="2673" to="e2682" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Williamson JD, Supiano MA, Applegate WB, et al. Intensive vs standard blood pressure control and cardiovascular disease outcomes in adults aged !75 years. JAMA. 2016;315:2673e2682. https://doi.org/10.1001/jama.2016.7050.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Resistance exercise in cardiac rehabilitation</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Wise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Patrick</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0269215511423408</idno>
+		<ptr target="https://doi.org/10.1177/0269215511423408" />
+	</analytic>
+	<monogr>
+		<title level="j">Clin Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1059" to="e1065" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wise FM, Patrick JM. Resistance exercise in cardiac rehabilitation. Clin Rehabil. 2011;25:1059e1065. https://doi.org/10.1177/0269215511423408.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Effects of a combined physical training and nutrition intervention on physical performance and health-related quality of life in prefrail older women living in the community: a randomized controlled trial</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Yoshida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Suziki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lee</forename><forename type="middle">Y</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jamda.2014.12.005</idno>
+		<ptr target="https://doi.org/10.1016/j.jamda.2014.12.005" />
+	</analytic>
+	<monogr>
+		<title level="j">J Am Med Dir Assoc</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="263" to="e264" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kwon J, Yoshida Y, Yoshida H, Kim H, Suziki T, Lee y. Effects of a combined physical training and nutrition intervention on physical performance and health-related quality of life in prefrail older women living in the community: a randomized controlled trial. J Am Med Dir Assoc. 2015;16(3):1e8. https:// doi.org/10.1016/j.jamda.2014.12.005, 263-e1.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Does the timed up and go test predict future falls among British community-dwelling older people? Prospective cohort study nested within a randomised controlled trial</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kojima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Masud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kendrick</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s12877-015-0039-7</idno>
+		<ptr target="https://doi.org/10.1186/s12877-015-0039-7" />
+	</analytic>
+	<monogr>
+		<title level="j">BMC Geriatr</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">38</biblScope>
+			<biblScope unit="page" from="1" to="e7" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kojima G, Masud T, Kendrick D, et al. Does the timed up and go test predict future falls among British community-dwelling older people? Prospective cohort study nested within a randomised controlled trial. BMC Geriatr. 2015;15(38):1e7. https://doi.org/10.1186/s12877-015-0039-7.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Using timed up-and-go to identify frail members of the older population</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Savva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">A</forename><surname>Donoghue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Horgan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'regan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cronin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kenny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1093/gerona/gls190</idno>
+		<ptr target="https://doi.org/10.1093/gerona/gls190" />
+	</analytic>
+	<monogr>
+		<title level="j">J Gerontol A Biol Sci Med Sci</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="441" to="e446" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Savva GM, Donoghue OA, Horgan F, O&apos;Regan C, Cronin H, Kenny RA. Using timed up-and-go to identify frail members of the older population. J Gerontol A Biol Sci Med Sci. 2012;68:441e446. https://doi.org/10.1093/gerona/gls190.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Properties of the timed up and go test: more than meets the eye</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Herman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Giladi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Hausdorff</surname></persName>
+		</author>
+		<idno type="DOI">10.1159/000314963</idno>
+		<ptr target="https://doi.org/10.1159/000314963" />
+	</analytic>
+	<monogr>
+		<title level="j">Gerontology</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="203" to="e210" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Herman T, Giladi N, Hausdorff JM. Properties of the timed up and go test: more than meets the eye. Gerontology. 2011;57:203e210. https://doi.org/10.1159/ 000314963.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Effects of eight weeks of functional training in the functional autonomy of elderly women: a pilot study</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Matos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename></persName>
+		</author>
+		<idno type="DOI">10.23736/S0022-4707.16.06514-2</idno>
+		<ptr target="https://doi.org/10.23736/S0022-4707.16.06514-2" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Med Phys Fit</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="272" to="e277" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">De Matos DG, et al. Effects of eight weeks of functional training in the func- tional autonomy of elderly women: a pilot study. J Sports Med Phys Fit. 2017;57(3):272e277. https://doi.org/10.23736/S0022-4707.16.06514-2.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Elderly resistance training practitioners have better mobility than physically active elderly non-practitioners</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Allendorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Schopf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">E</forename><surname>Closs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mgv</forename><surname>Gottlieb</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bras Ci e Mov</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="134" to="e144" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Allendorf DB, Schopf PP, Gonçalves BC, Closs VE, Gottlieb MGV. Elderly resis- tance training practitioners have better mobility than physically active elderly non-practitioners. R Bras Ci e Mov. 2016;24(1):134e144.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

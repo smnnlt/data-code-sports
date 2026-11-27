@@ -1,0 +1,2541 @@
+{
+  "paper_id": "10.1016+j.scispo.2025.09.001",
+  "info": [
+    {
+      "title": "Can a specific warm-up program reduce the incidence of overuse injuries in Austrian disc golf players? A randomized controlled trial",
+      "keywords": ["Disc golf", "Overuse injuries", "Elbow", "Shoulder", "Warm-up program"],
+      "doi": "10.1016/j.scispo.2025.09.001",
+      "file_hash": "506fb43c21fd9267",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.scispo.2025.09.001.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "A",
+      "family": "Thiel",
+      "affiliation": "Department for Health Sciences\n\t\t\t\t\t\t\t\tUniversity for Continuing Education\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tDr.-Karl-Dorrek-Straße 30\n\t\t\t\t\t\t\t\t\tA-3500\n\t\t\t\t\t\t\t\t\tKrems\n\t\t\t\t\t\t\t\t\tAustria",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "M",
+      "family": "Kleinhappl",
+      "affiliation": "Department for Health Sciences\n\t\t\t\t\t\t\t\tUniversity of Applied Sciences Joanneum\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tEggenberger Allee 13\n\t\t\t\t\t\t\t\t\tA-8020\n\t\t\t\t\t\t\t\t\tGraz\n\t\t\t\t\t\t\t\t\tAustria",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Disc golf is a growing sport worldwide, in terms of numbers of both recreational and competitive players.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The game follows the same basic rules as traditional golf.",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "From a designated throwing area (tee), a disc is thrown towards the target, which is a specially designed basket made of chains and a wire.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After the first throw, the player continues from the position where the disc landed.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Once the disc is thrown into the basket, the hole is completed and the player moves on to the next hole.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The goal of the game is to complete a certain number of holes, typically 18, with as few throws as possible [1].",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The goal of the game is to complete a certain number of holes, typically 18, with as few throws as possible <ref type=\"bibr\" target=\"#b0\">[1]<\/ref>."
+    },
+    {
+      "text": "The Professional Disc Golf Association (PDGA) now has over 130,000 active players who regularly participate in competitions, with approximately 380 in Austria [2, 3].",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The Professional Disc Golf Association (PDGA) now has over 130,000 active players who regularly participate in competitions, with approximately 380 in Austria <ref type=\"bibr\" target=\"#b1\">[2,<\/ref> <ref type=\"bibr\" target=\"#b2\">3]<\/ref>."
+    },
+    {
+      "text": "Despite the sport's steady development, hardly any literature is available on disc golf, especially regarding the occurrence and prevention of injuries [2, 4].",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Despite the sport's steady development, hardly any literature is available on disc golf, especially regarding the occurrence and prevention of injuries <ref type=\"bibr\" target=\"#b1\">[2,<\/ref> <ref type=\"bibr\" target=\"#b3\">4]<\/ref>."
+    },
+    {
+      "text": "However, by examining other sports with similar biomechanical movements, conclusions can be drawn for successful injury prevention in disc golf.",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A backhand throw in disc golf is biomechanically similar to a backhand stroke in tennis, while a forehand throw in disc golf is very similar to the throwing of a baseball or handball [4].",
+      "text_id": 10,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "A backhand throw in disc golf is biomechanically similar to a backhand stroke in tennis, while a forehand throw in disc golf is very similar to the throwing of a baseball or handball <ref type=\"bibr\" target=\"#b3\">[4]<\/ref>."
+    },
+    {
+      "text": "Injuries in disc golf primarily occur in forehand throwers [2, 4].",
+      "text_id": 11,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Injuries in disc golf primarily occur in forehand throwers <ref type=\"bibr\" target=\"#b1\">[2,<\/ref> <ref type=\"bibr\" target=\"#b3\">4]<\/ref>."
+    },
+    {
+      "text": "These sports place significant demands on the shoulder and elbow due to repeated movements at high speeds making them vulnerable to overuse injuries [5].",
+      "text_id": 12,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "These sports place significant demands on the shoulder and elbow due to repeated movements at high speeds making them vulnerable to overuse injuries <ref type=\"bibr\" target=\"#b4\">[5]<\/ref>."
+    },
+    {
+      "text": "Prevention programs in handball and baseball aim to reduce specific risk factors in terms of biomechanics, training status, flexibility, strength, coordination, and throwing technique to reduce the number of injuries [6].",
+      "text_id": 13,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Prevention programs in handball and baseball aim to reduce specific risk factors in terms of biomechanics, training status, flexibility, strength, coordination, and throwing technique to reduce the number of injuries <ref type=\"bibr\" target=\"#b5\">[6]<\/ref>."
+    },
+    {
+      "text": "However, scientifically researched programs for the prevention of injuries in disc golf players are currently not known.",
+      "text_id": 14,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although prevention programs have already been analyzed in handball and baseball, these results and programs can currently only be applied to disc golf on a theoretical basis [2].",
+      "text_id": 15,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Although prevention programs have already been analyzed in handball and baseball, these results and programs can currently only be applied to disc golf on a theoretical basis <ref type=\"bibr\" target=\"#b1\">[2]<\/ref>."
+    },
+    {
+      "text": "The primary objective of this randomized controlled trial (RCT) is to investigate whether a regularly performed specific warm-up program leads to a reduction in elbow and shoulder injuries in Austrian disc golf players over the course of a season.",
+      "text_id": 16,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In many sports involving throwing, in addition to accuracy, throwing distance and power are some of the most important parameters for a successful throw.",
+      "text_id": 17,
+      "paragraph_id": 3,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The maximum possible launch velocity of a throwing object depends on the throwing technique, the strength of the athlete, and the weight of the throwing object [7].",
+      "text_id": 18,
+      "paragraph_id": 3,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "The maximum possible launch velocity of a throwing object depends on the throwing technique, the strength of the athlete, and the weight of the throwing object <ref type=\"bibr\" target=\"#b6\">[7]<\/ref>."
+    },
+    {
+      "text": "A handball throw can reach a speed of up to 130 km/h and is performed an average of 48,000 times during a handball season.",
+      "text_id": 19,
+      "paragraph_id": 3,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Such loads are also found in pitchers in baseball [8].",
+      "text_id": 20,
+      "paragraph_id": 3,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "Such loads are also found in pitchers in baseball <ref type=\"bibr\" target=\"#b7\">[8]<\/ref>."
+    },
+    {
+      "text": "Forehand throws in disc golf also achieve speeds between 100-130 km/h with an average weight of around 160 g per disc [2, 4].",
+      "text_id": 21,
+      "paragraph_id": 3,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "Forehand throws in disc golf also achieve speeds between 100-130 km/h with an average weight of around 160 g per disc <ref type=\"bibr\" target=\"#b1\">[2,<\/ref> <ref type=\"bibr\" target=\"#b3\">4]<\/ref>."
+    },
+    {
+      "text": "In addition, throwing technique also appears to play a major role in the development of overuse injuries.",
+      "text_id": 22,
+      "paragraph_id": 4,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In a movement that transports energy from the lower extremity through the trunk to the throwing arm which lacks coordination and flow, increased stress may be placed on certain structures, especially in the area of the throwing arm.",
+      "text_id": 23,
+      "paragraph_id": 4,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Theories of pathogenesis usually include the argument that repetitive movements with these loads can lead to cumulative micro-injuries in the tissues [2,9-11].",
+      "text_id": 24,
+      "paragraph_id": 4,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The selection of the appropriate throwing form depends primarily on the weight of the throwing object and the launch velocity to be achieved [7].",
+      "text_id": 25,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "The selection of the appropriate throwing form depends primarily on the weight of the throwing object and the launch velocity to be achieved <ref type=\"bibr\" target=\"#b6\">[7]<\/ref>."
+    },
+    {
+      "text": "Due to the relatively light weight of the game equipment in baseball, handball, and disc golf, athletes of these sports use similar movement patterns to achieve a successful throw.",
+      "text_id": 26,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In disc golf, this throwing form mainly refers to the forehand throw, but also to the overhead throw, which is used far less in the game [2].",
+      "text_id": 27,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "In disc golf, this throwing form mainly refers to the forehand throw, but also to the overhead throw, which is used far less in the game <ref type=\"bibr\" target=\"#b1\">[2]<\/ref>."
+    },
+    {
+      "text": "To illustrate the similarities between different throwing sports, individual throwing sequences of a handball throw and a forehand throw in disc golf are compared in Fig. 1.",
+      "text_id": 28,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "To illustrate the similarities between different throwing sports, individual throwing sequences of a handball throw and a forehand throw in disc golf are compared in Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref>."
+    },
+    {
+      "text": "The entire motion sequence is biomechanically often compared to the movement of a sling or whip, since each step in the movement responds with a delayed continuation of the movement from the previous step [12].",
+      "text_id": 29,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "The entire motion sequence is biomechanically often compared to the movement of a sling or whip, since each step in the movement responds with a delayed continuation of the movement from the previous step <ref type=\"bibr\" target=\"#b11\">[12]<\/ref>."
+    },
+    {
+      "text": "Experts seem to take a step back from evaluating single anatomical structures as risk factors [13].",
+      "text_id": 30,
+      "paragraph_id": 8,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Experts seem to take a step back from evaluating single anatomical structures as risk factors <ref type=\"bibr\" target=\"#b12\">[13]<\/ref>."
+    },
+    {
+      "text": "During training and competition phases, many different loads act on athletes.",
+      "text_id": 31,
+      "paragraph_id": 8,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Loads can be any factors that affect the performance of an athlete and the risk of injury to different degrees [14] [15] [16].",
+      "text_id": 32,
+      "paragraph_id": 8,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Loads can be any factors that affect the performance of an athlete and the risk of injury to different degrees <ref type=\"bibr\" target=\"#b13\">[14]<\/ref> <ref type=\"bibr\" target=\"#b14\">[15]<\/ref> <ref type=\"bibr\" target=\"#b15\">[16]<\/ref>."
+    },
+    {
+      "text": "An important characteristic of successful warm-up programs is that the exercises are designed to be simple and can ideally be executed without or with very little additional equipment.",
+      "text_id": 33,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Effective neuromuscular training programs should also include a variety of loads such as muscle strengthening, stretching, balance exercises, and sport-specific mobility exercises [17, 18].",
+      "text_id": 34,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Effective neuromuscular training programs should also include a variety of loads such as muscle strengthening, stretching, balance exercises, and sport-specific mobility exercises <ref type=\"bibr\" target=\"#b16\">[17,<\/ref> <ref type=\"bibr\" target=\"#b17\">18]<\/ref>."
+    },
+    {
+      "text": "However, even with these successful exercise programs, the role of individual components of the program is unclear [19].",
+      "text_id": 35,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "However, even with these successful exercise programs, the role of individual components of the program is unclear <ref type=\"bibr\" target=\"#b18\">[19]<\/ref>."
+    },
+    {
+      "text": "For neuromuscular training programs of the upper extremities, there is still only little significant data available to help prevent overuse injuries, especially in the shoulder.",
+      "text_id": 36,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Despite this limited data, warmup programs continue to be recommended based on various personal experiences [20].",
+      "text_id": 37,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Despite this limited data, warmup programs continue to be recommended based on various personal experiences <ref type=\"bibr\" target=\"#b19\">[20]<\/ref>."
+    },
+    {
+      "text": "Due to different results, further statements from research groups can only be cautiously implemented in practice.",
+      "text_id": 38,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "While some observe that defined exercises may have a more relevant effect than general exercises, others cannot share this statement and recommend further research on pathomechanisms and risk factors which may affect an athlete's throwing shoulder [20, 21].",
+      "text_id": 39,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "While some observe that defined exercises may have a more relevant effect than general exercises, others cannot share this statement and recommend further research on pathomechanisms and risk factors which may affect an athlete's throwing shoulder <ref type=\"bibr\" target=\"#b19\">[20,<\/ref> <ref type=\"bibr\" target=\"#b20\">21]<\/ref>."
+    },
+    {
+      "text": "This RCT was performed as a pilot study in the field of disc golf.",
+      "text_id": 40,
+      "paragraph_id": 10,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The randomization was done using an online randomization service which was carried out under the supervision of an experienced physiotherapist with the four-eyes principle.",
+      "text_id": 41,
+      "paragraph_id": 10,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study was previously approved by the ethics committee of the ''Danube Private University Krems'' (Supplement 1).",
+      "text_id": 42,
+      "paragraph_id": 10,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Informed consent was obtained and the rights of subjects were protected.",
+      "text_id": 43,
+      "paragraph_id": 10,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "From March 2022 to the end of August 2022, the modified and translated Oslo Sports Trauma Research Centre (OSTRC) Overuse Injuries Questionnaire was sent via email to participants to assess overuse injuries on a monthly basis.",
+      "text_id": 44,
+      "paragraph_id": 10,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To recruit enough participants for the randomized controlled trial and to obtain an overview of the disc golf situation in Austria, the authors of this study created a baseline questionnaire, which included topics such as age, gender, experience in sports, training frequency, warm-up program duration, warm-up program content and previous injury incidence.",
+      "text_id": 45,
+      "paragraph_id": 10,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To get as many responses as possible, the baseline questionnaire was sent to all disc golf clubs in Austria and the Austrian disc golf Association via link and email.",
+      "text_id": 46,
+      "paragraph_id": 10,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, the study was advertised on the author's social media channels.",
+      "text_id": 47,
+      "paragraph_id": 10,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After collecting and analyzing 129 valid responses from the baseline questionnaire, initially 62 suitable participants were included in the randomized controlled study according to the inclusion and exclusion criteria (Table 1).",
+      "text_id": 48,
+      "paragraph_id": 10,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "After collecting and analyzing 129 valid responses from the baseline questionnaire, initially 62 suitable participants were included in the randomized controlled study according to the inclusion and exclusion criteria (Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>)."
+    },
+    {
+      "text": "The randomly selected participants in the control group were not given any explicit tasks during the clinical trial period.",
+      "text_id": 49,
+      "paragraph_id": 11,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "They were only asked to continue their individual warm-up and training program and to report any injuries during the study period through the provided questionnaires.",
+      "text_id": 50,
+      "paragraph_id": 11,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The individual warm-up program of the control group consisted mostly of short mobilization exercises and, above all, the playing with and throwing of various discs chosen by each participant.",
+      "text_id": 51,
+      "paragraph_id": 11,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants in the intervention group were given a warmup program with specific exercises (Supplement 2).",
+      "text_id": 52,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The exercise program was developed based on similar studies and training programs from other throwing sports like handball.",
+      "text_id": 53,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It focused on the stresses in disc golf and was sent to the intervention group participants as a pdf file and with a link to a participation video on YouTube 1 .",
+      "text_id": 54,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Based on recommendations from previous studies on sports involving throwing, the program included mobilization, stretching, and strengthening exercises for the elbow, shoulder, and trunk.",
+      "text_id": 55,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The exercise program had to be performed at least three times a week, preferably as a warm-up before throwing.",
+      "text_id": 56,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The time required for the program was between 10-15 minutes.",
+      "text_id": 57,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In addition to the exercise program developed for this study, participants were allowed to perform other exercises for 1 https://www.youtube.com/watch?v=xercc5O-EZY.",
+      "text_id": 58,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "In addition to the exercise program developed for this study, participants were allowed to perform other exercises for 1 <ref type=\"url\" target=\"https://www.youtube.com/watch?v=xercc5O-EZY\">https://www.youtube.com/watch?v=xercc5O-EZY<\/ref>."
+    },
+    {
+      "text": "their personal needs in disc golf.",
+      "text_id": 59,
+      "paragraph_id": 13,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The intervention group received the same monthly questionnaire to evaluate the incidence of injuries during the clinical trial as the control group.",
+      "text_id": 60,
+      "paragraph_id": 13,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The characteristics of both groups are shown in Table 2.",
+      "text_id": 61,
+      "paragraph_id": 13,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "The characteristics of both groups are shown in Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>."
+    },
+    {
+      "text": "The OSTRC Overuse Injuries Questionnaire consists of four questions for each part of the body.",
+      "text_id": 62,
+      "paragraph_id": 14,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The individual questions aim to assess the activity level during training or competition and possible pain during sports activities.",
+      "text_id": 63,
+      "paragraph_id": 14,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Each answer to a question has a numerical value of 0-25, which is then summed up and declared as the Severity Score (0 = no restriction,25 = maximum restriction and discomfort during sports).",
+      "text_id": 64,
+      "paragraph_id": 14,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To ensure an even distribution of whole numbers for individual responses, the answers to questions 1 and 4 were standardized to the values of 0-8-17-25, and the answers to questions 2 and 3 were standardized to the values of 0-6-13-19-25, according to the OSTRC validation.",
+      "text_id": 65,
+      "paragraph_id": 15,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The Severity Score obtained from the questionnaire is used as an objective measurement of overuse injuries and is suitable for investigating and comparing the averages of two similar groups [22].",
+      "text_id": 66,
+      "paragraph_id": 15,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "The Severity Score obtained from the questionnaire is used as an objective measurement of overuse injuries and is suitable for investigating and comparing the averages of two similar groups <ref type=\"bibr\" target=\"#b21\">[22]<\/ref>."
+    },
+    {
+      "text": "The original questionnaire in English has been translated and standardized in German as well [23].",
+      "text_id": 67,
+      "paragraph_id": 15,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "The original questionnaire in English has been translated and standardized in German as well <ref type=\"bibr\" target=\"#b22\">[23]<\/ref>."
+    },
+    {
+      "text": "The OSTRC Overuse Injuries Questionnaire which was used for this study can be found in Supplement 3.",
+      "text_id": 68,
+      "paragraph_id": 15,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Just before the start of the intervention, two male participants from the intervention group were excluded from the study and data collection.",
+      "text_id": 69,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One participant suffered a fracture of the right clavicle (throwing arm) a few days before the start of the clinical trial and had to undergo surgery.",
+      "text_id": 70,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The other participant requested to withdraw from the study due to personal issues, as he was unable to achieve the required minimum level of playing disc golf shortly before the start of the study.",
+      "text_id": 71,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, two other male participants in the control group did not respond to the questionnaires at any point during the clinical trial, despite multiple attempts to contact them through email, social media, and text messages.",
+      "text_id": 72,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, these two participants were also not considered in the data collection and analysis.",
+      "text_id": 73,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The flow and allocation of participants is shown in Fig. 2.",
+      "text_id": 74,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "The flow and allocation of participants is shown in Fig. <ref type=\"figure\" target=\"#fig_1\">2<\/ref>."
+    },
+    {
+      "text": "In order to make comparisons between the two groups in terms of the outcome as measured by the Severity Score of the OSTRC Overuse Injuries Questionnaire, the determined scores were tested for their normal distribution using the Kolmogorov-Smirnov test.",
+      "text_id": 75,
+      "paragraph_id": 17,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The scores of the athletes were measured and recorded for their respective changes from the previous month or between the beginning and end of the study.",
+      "text_id": 76,
+      "paragraph_id": 17,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Since the examined data followed no distribution (P < 0.01), a test procedure for distribution-free samples, in this case the Mann-Whitney U-test, was subsequently applied.",
+      "text_id": 77,
+      "paragraph_id": 17,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Since the examined data followed no distribution (P &lt; 0.01), a test procedure for distribution-free samples, in this case the Mann-Whitney U-test, was subsequently applied."
+    },
+    {
+      "text": "In order to get a graphical representation of the two groups, the mean values and standard deviations (SD) of the respective Severity Scores were visualized as a progress documentation in a diagram.",
+      "text_id": 78,
+      "paragraph_id": 17,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The Mann-Whitney U-test clearly showed no significant differences in the changes of Severity Scores between the intervention and control group.",
+      "text_id": 79,
+      "paragraph_id": 18,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Since the combined values of elbow and shoulder injuries could lead to potential misinterpretations, the individual body parts elbow and shoulder were considered and calculated separately.",
+      "text_id": 80,
+      "paragraph_id": 18,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In the statistical analysis of the changes in Severity Scores of elbow injuries, no significant difference was found between the intervention and control groups during the 6month study period (P = 0.950).",
+      "text_id": 81,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Similarly, in the analysis of the Severity Scores of shoulder injuries there were no significant differences between the beginning and end of the study (P = 0.835) (Figs. 3 and 4).",
+      "text_id": 82,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Similarly, in the analysis of the Severity Scores of shoulder injuries there were no significant differences between the beginning and end of the study (P = 0.835) (Figs. <ref type=\"figure\" target=\"#fig_2\">3<\/ref> and <ref type=\"figure\" target=\"#fig_3\">4<\/ref>)."
+    },
+    {
+      "text": "There were no significant differences in the changes of Severity Score in neither the calculations of initial and final measurements nor between individual monthly study periods (from P = 0.147 to P = 0.828).",
+      "text_id": 83,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, it can clearly be stated that there was no significant difference between the two groups at any point during the study.",
+      "text_id": 84,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The number of given answers from the questionnaires in both groups was relatively high for a clinical study reliant purely on surveys.",
+      "text_id": 85,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The intervention group had an average feedback rate of 85.23%, and the control group had a feedback rate of 84.28% over the entire six-month study period, with no monthly feedback rate ever dropping below 73% in either group (Fig. 5).",
+      "text_id": 86,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "The intervention group had an average feedback rate of 85.23%, and the control group had a feedback rate of 84.28% over the entire six-month study period, with no monthly feedback rate ever dropping below 73% in either group (Fig. <ref type=\"figure\" target=\"#fig_4\">5<\/ref>)."
+    },
+    {
+      "text": "An average subjective implementation of the warm-up program of 64.6% was observed, with strongly fluctuating values ranging from 5% to 100%.",
+      "text_id": 87,
+      "paragraph_id": 21,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This means that certain participants were able to fully complete the exercise program, while others hardly did so.",
+      "text_id": 88,
+      "paragraph_id": 21,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Most participants reported performing between 50-80% of the warm-up program.",
+      "text_id": 89,
+      "paragraph_id": 21,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This means there was an average execution of the exercise program of just under two times a week (1.95), which is similar to the scope of other studies carried out in literature [20, 21].",
+      "text_id": 90,
+      "paragraph_id": 21,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "This means there was an average execution of the exercise program of just under two times a week (1.95), which is similar to the scope of other studies carried out in literature <ref type=\"bibr\" target=\"#b19\">[20,<\/ref> <ref type=\"bibr\" target=\"#b20\">21]<\/ref>."
+    },
+    {
+      "text": "Although no significant effects in injury prevention were found, there were high satisfaction rates of the participants regarding the exercise program.",
+      "text_id": 91,
+      "paragraph_id": 22,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ninety-six percent of the respondents stated that they would incorporate at least parts of the exercise program into their personal warmup routine.",
+      "text_id": 92,
+      "paragraph_id": 22,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In addition, 32% want to continue performing the entire exercise program in the future, even though the participants did not receive any data or statements about the effectiveness of the exercise program at the end of the study.",
+      "text_id": 93,
+      "paragraph_id": 22,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study was able to shed light on the situation around disc golf in Austria for the first time and provide important data on injuries over the course of a tournament season.",
+      "text_id": 94,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "During the investigation period of this RCT, 74% of all subjects reported complaints in the area of the elbow or shoulder.",
+      "text_id": 95,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This means an increased risk of overuse injuries for players if medical and training management is not tailored to individual needs [24].",
+      "text_id": 96,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "This means an increased risk of overuse injuries for players if medical and training management is not tailored to individual needs <ref type=\"bibr\" target=\"#b23\">[24]<\/ref>."
+    },
+    {
+      "text": "These values alone are important indicators for the future development of the sport to ensure healthy participation in disc golf well into old age.",
+      "text_id": 97,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, when considering the results from the Overuse Injuries Questionnaire, it should be noted that the reported intensities of complaints in both groups were generally low.",
+      "text_id": 98,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "On the Severity Score scale of 0-100, the mean values of both groups always remained around 10 points, which indicates only a minimal restriction in athletic activity.",
+      "text_id": 99,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors attempted to reduce the risk of overuse injuries in the elbow and shoulder area by using a specific warm-up program with many similar program contents from other throwing sports.",
+      "text_id": 100,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, the warm-up program was only implemented by participants at a rate of 65%, which could reduce its effectiveness.",
+      "text_id": 101,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors of this study concludes that the preferences and needs of the athletes were appropriately addressed with the exercise program, but a more rigorous control of program implementation is needed to may detect any effects.",
+      "text_id": 102,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Based on the results of this study, the specific warm-up exercises from the exercise program did not seem to be superior to other exercises targeting injury prevention.",
+      "text_id": 103,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The design of this RCT was similar to comparable studies in other throwing sports.",
+      "text_id": 104,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Studies [13, 21] have shown that multimodal prevention programs consisting of strength, mobilization, and stretching exercises are significantly more successful in injury prevention than just exercises of a single structure.",
+      "text_id": 105,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Studies <ref type=\"bibr\" target=\"#b12\">[13,<\/ref> <ref type=\"bibr\" target=\"#b20\">21]<\/ref> have shown that multimodal prevention programs consisting of strength, mobilization, and stretching exercises are significantly more successful in injury prevention than just exercises of a single structure."
+    },
+    {
+      "text": "For this reason, the warm-up program in this study included dynamic stretching of the shoulder, mobilization of the elbow, shoulder, and trunk, and light strength exercises or muscle activations of the shoulder and trunk.",
+      "text_id": 106,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In addition, specific throwing movements were performed at lower speeds focusing on efficient movements.",
+      "text_id": 107,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One difference of this program compared to other programs is that other authors [21, 25] varied the program content depending on the time frame of the season and were able to gradually increase the load.",
+      "text_id": 108,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "One difference of this program compared to other programs is that other authors <ref type=\"bibr\" target=\"#b20\">[21,<\/ref> <ref type=\"bibr\" target=\"#b24\">25]<\/ref> varied the program content depending on the time frame of the season and were able to gradually increase the load."
+    },
+    {
+      "text": "This increase in load is essential for structural and functional adaptation involved in a throwing movement [26].",
+      "text_id": 109,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "This increase in load is essential for structural and functional adaptation involved in a throwing movement <ref type=\"bibr\" target=\"#b25\">[26]<\/ref>."
+    },
+    {
+      "text": "A systematic review and meta-analysis on the topic of the effects of strength training with a focus on overuse injuries presented impressive results as according to these studies, overuse injuries were reduced on average by 66% through strength training programs and were at least halved in 95% of the cases [27].",
+      "text_id": 110,
+      "paragraph_id": 25,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "A systematic review and meta-analysis on the topic of the effects of strength training with a focus on overuse injuries presented impressive results as according to these studies, overuse injuries were reduced on average by 66% through strength training programs and were at least halved in 95% of the cases <ref type=\"bibr\" target=\"#b26\">[27]<\/ref>."
+    },
+    {
+      "text": "Another very important factor that discourages many athletes and their trainers from implementing strength training sessions is the myth that injuries are caused by strength training itself, but it was shown that there was not a single injury caused by strength training performed by a total of 3991 subjects during an average exercise period of eight months.",
+      "text_id": 111,
+      "paragraph_id": 25,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, strength training is not only safe for adults, but also for children and adolescents if the training is properly adapted.",
+      "text_id": 112,
+      "paragraph_id": 25,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, the question arises as to whether the selection of specific warm-up exercises or general fitness and strength levels are more decisive for the prevention of overload injuries [27].",
+      "text_id": 113,
+      "paragraph_id": 25,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Therefore, the question arises as to whether the selection of specific warm-up exercises or general fitness and strength levels are more decisive for the prevention of overload injuries <ref type=\"bibr\" target=\"#b26\">[27]<\/ref>."
+    },
+    {
+      "text": "The authors suggest in their systematic review that injury prevention during strength training is mainly based on improving coordination, technique, sensorimotor proprioception and increasing resilience of involved structures [27].",
+      "text_id": 114,
+      "paragraph_id": 25,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "The authors suggest in their systematic review that injury prevention during strength training is mainly based on improving coordination, technique, sensorimotor proprioception and increasing resilience of involved structures <ref type=\"bibr\" target=\"#b26\">[27]<\/ref>."
+    },
+    {
+      "text": "This also increases mental well-being in challenging sports situations, which in turn has a very positive effect on performance and the resistance to injury [14].",
+      "text_id": 115,
+      "paragraph_id": 25,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "This also increases mental well-being in challenging sports situations, which in turn has a very positive effect on performance and the resistance to injury <ref type=\"bibr\" target=\"#b13\">[14]<\/ref>."
+    },
+    {
+      "text": "One result of the baseline questionnaire was the acquisition of information about the average weekly training load of Austrian disc golf players, which was one round of disc golf (mostly 18 holes) per week.",
+      "text_id": 116,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus it is plausible on a theoretical basis that peak loads that occur during tournaments with three to four rounds of disc golf (again with 18 holes) in just two days, can be a risk factor for overuse injuries.",
+      "text_id": 117,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Stressed structures of the throwing arm are not prepared well enough for these levels of loads.",
+      "text_id": 118,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, overuse injuries in disc golf could theoretically be reduced through improved fitness in preparation for disc golf tournaments.",
+      "text_id": 119,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The strengths of this study include the randomized controlled study design, which is considered the gold standard in medical research.",
+      "text_id": 120,
+      "paragraph_id": 27,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The randomization was carried out using the four-eyes principle to ensure truly random allocation.",
+      "text_id": 121,
+      "paragraph_id": 27,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This led to a very good comparability of the two groups, especially in terms of the average age and gender of the subjects.",
+      "text_id": 122,
+      "paragraph_id": 27,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In addition, the measurements were set over several months during the competitive season to see changes in injury over a long period of time.",
+      "text_id": 123,
+      "paragraph_id": 27,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally to the study design, the data collection using the standardized, translated, and validated OSTRC Overuse Injuries Questionnaires is a strength of this study.",
+      "text_id": 124,
+      "paragraph_id": 27,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The low mean Severity Scores of both groups during the intervention potentially led to insignificant results may to the small number of participants.",
+      "text_id": 125,
+      "paragraph_id": 28,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A power analysis prior to the trial resulted in an optimal group size of 70 subjects per group, which the authors could not accomplish due to challenges in finding more Austrian disc golf players which would meet the inclusion criteria.",
+      "text_id": 126,
+      "paragraph_id": 28,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, the exact warm-up routine of participants in the control group remains unknown and could potentially be similar to the exercises in the intervention group.",
+      "text_id": 127,
+      "paragraph_id": 28,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Other limitations include the low implementation of the exercise program by the subjects.",
+      "text_id": 128,
+      "paragraph_id": 28,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For a quick and compact training program, better compliance is needed in order to acquire meaningful results.",
+      "text_id": 129,
+      "paragraph_id": 28,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Other studies recommend the inclusion of increased elements from the field of strength training.",
+      "text_id": 130,
+      "paragraph_id": 28,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In this case, implementation as additional training to normal sports activities instead of as a warm-up program seems to be better suited.",
+      "text_id": 131,
+      "paragraph_id": 28,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In addition to the effects of defined exercises, which are the main focus of this study, one must always keep in mind the influencing non-specific effects on the results.",
+      "text_id": 132,
+      "paragraph_id": 29,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Scientific works [16, 28] show that more than half of the effects found in RCTs are likely due to various contextual factors rather than the actual interventions.",
+      "text_id": 133,
+      "paragraph_id": 29,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Scientific works <ref type=\"bibr\" target=\"#b15\">[16,<\/ref> <ref type=\"bibr\" target=\"#b27\">28]<\/ref> show that more than half of the effects found in RCTs are likely due to various contextual factors rather than the actual interventions."
+    },
+    {
+      "text": "For future studies on overuse injuries in sports involving throwing, especially in the sport of disc golf, further studies with repeatable results are needed.",
+      "text_id": 134,
+      "paragraph_id": 30,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Currently, it seems to be a major challenge for researchers to be able to consistently repeat significant results in order to make uniform statements about risk factors and injury mechanisms.",
+      "text_id": 135,
+      "paragraph_id": 30,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, we suggest taking a step back from the now very specific and structure-based approach in investigations.",
+      "text_id": 136,
+      "paragraph_id": 30,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although there are some significant results from defined warm-up programs, individual specific exercises are probably not superior to non-specific exercises in any way.",
+      "text_id": 137,
+      "paragraph_id": 30,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The role of a short and compact warm-up program for injury prevention should also be reconsidered.",
+      "text_id": 138,
+      "paragraph_id": 30,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "While these programs are easy to perform and easy to integrate into the daily training program of the participants, the question arises whether the activation of the involved structures on a neuromuscular basis is already sufficient to create more resilience to sport-specific loads.",
+      "text_id": 139,
+      "paragraph_id": 30,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The conducted study did not show any significant differences between the intervention and control group regarding the incidence of overuse injuries in the elbow and shoulder area among Austrian disc golf players at any point during the investigation.",
+      "text_id": 140,
+      "paragraph_id": 31,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To be able to make clear recommendations for athletes, coaches, clubs, and associations about the prevention of overuse injuries in the elbow and shoulder area among disc golf players, further research is needed.",
+      "text_id": 141,
+      "paragraph_id": 31,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.",
+      "text_id": 142,
+      "paragraph_id": 32,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Exact data are available upon request from the corresponding author.",
+      "text_id": 143,
+      "paragraph_id": 33,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The data includes names, gender, age, sport behavior of disc golf and the documentation of the severity score (injury measurements) over 6 months.",
+      "text_id": 144,
+      "paragraph_id": 33,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All results, which are relevant to the study, are included in the manuscript and figures.",
+      "text_id": 145,
+      "paragraph_id": 33,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that they have no competing interest.",
+      "text_id": 146,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Figure 1 Comparison between a throw in handball (upper slides) and a forehand throw in disc golf (lower slides).",
+      "text_id": 147,
+      "paragraph_id": 35,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Figure 2 CONSORT flow diagram.",
+      "text_id": 148,
+      "paragraph_id": 36,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Figure 3 Mean severity scores and SD of both the Intervention and control group for the body area of the elbow over the course of six months.",
+      "text_id": 149,
+      "paragraph_id": 37,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Figure 4 Mean severity scores and SD of both the Intervention and control group for the body area of the shoulder over the course of six months.",
+      "text_id": 150,
+      "paragraph_id": 38,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Figure 5 Feedback rates in percentage over the course of six months.",
+      "text_id": 151,
+      "paragraph_id": 39,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Inclusion and exclusion criteria.",
+      "text_id": 152,
+      "paragraph_id": 40,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Characteristics of subjects.",
+      "text_id": 153,
+      "paragraph_id": 41,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Professional disc golf Association (PDGA). German rules book and competition manual, 2022. https://www.pdga.com /pdga-documents/international-rules/ordg-cm-2022-german.",
+      "text_id": 154,
+      "paragraph_id": 42,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Rahbek MA, Nielsen RO. Injuries in Disc golf -a descriptive cross-sectional study. Int J Sports Phys Ther 2016;9:132-40 [URL: IJSPT-11 1-14-Rahbek 160006.indd (nih.gov)].",
+      "text_id": 155,
+      "paragraph_id": 43,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Professional disc golf Association (PDGA). Year End Demo- graphic Report (2023), 2024. https://www.pdga.com/files /2023 pdga yearend demographicsreport.pdf.",
+      "text_id": 156,
+      "paragraph_id": 44,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nelson JT, Jones RE, Runstrom M, Hardy J. Disc golf, a growing sport: description and epidemiology of injuries. Orthop J Sports Med 2015;3, http://dx.doi.org/10.1177/2325967115589076 [232596711558907].",
+      "text_id": 157,
+      "paragraph_id": 45,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Andersson SH, Bahr R, Clarsen B, Myklebust G. Preven- ting overuse shoulder injuries among throwing athletes: a cluster-randomised controlled trial in 660 elite handball players. Br J Sports Med 2017;51:1073-80, http://dx.doi.org/10.1136/bjsports-2016-096226.",
+      "text_id": 158,
+      "paragraph_id": 46,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Asker M, Brooke HL, Waldén M, Tranaeus U, Johansson F, Skillgate E, et al. Risk factors for, and prevention of, shoul- der injuries in overhead sports: a systematic review with best-evidence synthesis. Br J Sports Med 2018;52:1312-9, http://dx.doi.org/10.1136/bjsports-2017-098254.",
+      "text_id": 159,
+      "paragraph_id": 47,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Heger H, Wank V. Biomechanische Grundlagen des Wer- fens. Sportphysio 2021;09:8-16, http://dx.doi.org/",
+      "text_id": 160,
+      "paragraph_id": 48,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sommervold M, Østerås H. What is the effect of a shoulder- strengthening program to prevent shoulder pain among junior female team handball players? Open Access J Sports Med 2017;8:61-70, http://dx.doi.org/10.2147/OAJSM.S127854.",
+      "text_id": 161,
+      "paragraph_id": 49,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Dowling B, McNally MP, Laughlin WA, Onate JA. Changes in throwing arm mechanics at increased throwing distances during structured long-toss. Am J Sports Med 2018;46:3002-6, http://dx.doi.org/10.1177/0363546518795892.",
+      "text_id": 162,
+      "paragraph_id": 50,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zaremski JL, Zeppieri G, Tripp BL. Sport specializa- tion and overuse injuries in adolescent throwing ath- letes: a narrative review. J Athl Train 2019;54:1030-9, http://dx.doi.org/10.4085/1062-6050-333-18.",
+      "text_id": 163,
+      "paragraph_id": 51,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gibson ES, Cairo A, Räisänen AM, Kuntze C, Emery CA, Pasanen K. The epidemiology of youth sport-related shoulder inju- ries: a systematic review. Transl Sports Med 2022;2022:1-12, http://dx.doi.org/10.1155/2022/8791398.",
+      "text_id": 164,
+      "paragraph_id": 52,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lintner D, Noonan TJ, Kibler WB. Injury patterns and biomecha- nics of the athlete's shoulder. Clin Sports Med 2008;27:527-51, http://dx.doi.org/10.1016/j.csm.2008.07.007.",
+      "text_id": 165,
+      "paragraph_id": 53,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Matsel KA, Butler RJ, Malone TR, Hoch MC, Westgate PM, Uhl TL. Current concepts in arm care exercise pro- grams and injury risk reduction in adolescent baseball players: a clinical review. Sports Health 2021;13:245-50, http://dx.doi.org/10.1177/1941738120976384.",
+      "text_id": 166,
+      "paragraph_id": 54,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ivarsson A, Johnson U, Andersen MB, Tranaeus U, Sten- ling A, Lindwall M. Psychosocial factors and sport injuries: meta-analyses for prediction and preven- tion. Sports Med 2017;47:353-65, http://dx.doi.org/10.1007/s40279-016-0578-x.",
+      "text_id": 167,
+      "paragraph_id": 55,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Carrard J, Rigort A-C, Appenzeller-Herzog C, Colledge F, Königstein K, Hinrichs T, et al. Diagnosing overtraining syn- drome: a scoping review. Sports Health 2022;14:665-73, http://dx.doi.org/10.1177/19417381211044739.",
+      "text_id": 168,
+      "paragraph_id": 56,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jeffries AC, Marcora SM, Coutts AJ, Wallace L, McCall A, Impellizzeri FM. Development of a revised conceptual framework of physical training for use in research and practice. Sports Med 2022;52:709-24, http://dx.doi.org/10.1007/s40279-021-01551-5.",
+      "text_id": 169,
+      "paragraph_id": 57,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cools AM, Johansson FR, Borms D, Maenhout A. Pre- vention of shoulder injuries in overhead athletes: a science-based approach. Braz J Phys Ther 2015;19:331-9, http://dx.doi.org/10.1590/bjpt-rbf.2014.0109.",
+      "text_id": 170,
+      "paragraph_id": 58,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "McCrary JM, Ackermann BJ, Halaki M. A systematic review of the effects of upper body warm-up on per- formance and injury. Br J Sports Med 2015;49:935-42, http://dx.doi.org/10.1136/bjsports-2014-094228.",
+      "text_id": 171,
+      "paragraph_id": 59,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Herman K, Barton C, Malliaras P, Morrissey D. The effectiveness of neuromuscular warm-up strategies, that require no addi- tional equipment, for preventing lower limb injuries during sports participation: a systematic review. BMC Med 2012;10:75, http://dx.doi.org/10.1186/1741-7015-10-75.",
+      "text_id": 172,
+      "paragraph_id": 60,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Achenbach L, Huppertz G, Zeman F, Weber J, Luig P, Rudert M, et al. Multicomponent stretching and rubber band strengthening exercises do not reduce overuse shoul- der injuries: a cluster randomised controlled trial with 579 handball athletes. BMJ Open Sport Exerc Med 2022;8:e001270, http://dx.doi.org/10.1136/bmjsem-2021-001270.",
+      "text_id": 173,
+      "paragraph_id": 61,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Asker M, Hägglund M, Waldén M, Källberg H, Skillgate E. The effect of shoulder and knee exercise programmes on the risk of shoulder and knee injuries in adoles- cent elite handball players: a three-armed cluster ran- domised controlled trial. Sports Med Open 2022;8:91, http://dx.doi.org/10.1186/s40798-022-00478-z.",
+      "text_id": 174,
+      "paragraph_id": 62,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Clarsen B, Myklebust G, Bahr R. Development and validation of a new method for the registration of overuse injuries in sports injury epidemiology: the Oslo Sports Trauma Research Centre (OSTRC) Overuse Injury Questionnaire. Br J Sports Med 2013;47:495-502, http://dx.doi.org/10.1136/bjsports-2012-091524.",
+      "text_id": 175,
+      "paragraph_id": 63,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hirschmüller A, Steffen K, Fassbender K, Clarsen B, Leon- hard R, Konstantinidis L, et al. German translation and content validation of the OSTRC Questionnaire on overuse inju- ries and health problems. Br J Sports Med 2017;51:260-3, http://dx.doi.org/10.1136/bjsports-2016-096669.",
+      "text_id": 176,
+      "paragraph_id": 64,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Whalan M, Lovell R, Sampson JA. Do Niggles Mat- ter? -Increased injury risk following physical complaints in football (soccer). Sci Med Footb 2020;4:216-24, http://dx.doi.org/10.1080/24733938.2019.1705996.",
+      "text_id": 177,
+      "paragraph_id": 65,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Andersson SH, Bahr R, Clarsen B, Myklebust G. Risk fac- tors for overuse shoulder injuries in a mixed-sex cohort of 329 elite handball players: previous findings could not be confirmed. Br J Sports Med 2018;52:1191-8, http://dx.doi.org/10.1136/bjsports-2017-097648.",
+      "text_id": 178,
+      "paragraph_id": 66,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Reinold MM, Macrina LC, Fleisig GS, Aune K, Andrews JR. Effect of a 6-week weighted baseball throwing program on pitch velocity, pitching arm biomechanics, passive range of motion, and injury rates. Sports Health 2018;10:327-33, http://dx.doi.org/10.1177/1941738118779909.",
+      "text_id": 179,
+      "paragraph_id": 67,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lauersen JB, Andersen TE, Andersen LB. Strength training as superior, dose-dependent and safe prevention of acute and overuse sports injuries: a systematic review, qualitative ana- lysis and meta-analysis. Br J Sports Med 2018;52:1557-63, http://dx.doi.org/10.1136/bjsports-2018-099078.",
+      "text_id": 180,
+      "paragraph_id": 68,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hafliðadóttir SH, Juhl CB, Nielsen SM, Henriksen M, Har- ris IA, Bliddal H, et al. Placebo response and effect in randomized clinical trials: meta-research with focus on contextual effects. Trials 2021;22:493, http://dx.doi.org /10.1186/s13063-021-05454-8.",
+      "text_id": 181,
+      "paragraph_id": 69,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "1.1. Etiology and pathogenesis",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "1.2. Biomechanics",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "1.3. Warm-up programs",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2. Materials and methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.1. Intention to treat analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.2. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "4.1. Strengths and limitations",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "4.2. Recommendations for future studies",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "5. Conclusion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "Funding",
+      "parent_section_id": null,
+      "section_type": "funding",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "Data sharing statement",
+      "parent_section_id": null,
+      "section_type": "availability",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "Disclosure of interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "Figure 1",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "Figure 2",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "Figure 3",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "Figure 4",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "Figure 5",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [
+    {
+      "href": "https://www.youtube.com/watch?v=xercc5O-EZY",
+      "link_text": null,
+      "text_id": 58
+    }
+  ],
+  "bib": [
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "German rules book and competition manual",
+      "authors": "",
+      "editors": "",
+      "publisher": "Professional disc golf Association (PDGA)",
+      "year": 2022,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 154
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Injuries in Disc golf -a descriptive cross-sectional study",
+      "authors": "Rahbek, M A; Nielsen, R O",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "9",
+      "issue": "",
+      "first_page": "132",
+      "last_page": "140",
+      "container": "Int J Sports Phys Ther",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 155
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Year End Demographic",
+      "authors": "",
+      "editors": "",
+      "publisher": "Professional disc golf Association (PDGA)",
+      "year": 2023,
+      "volume": "",
+      "issue": "",
+      "first_page": "2024",
+      "last_page": null,
+      "container": "Report",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 156
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/2325967115589076",
+      "title": "Disc golf, a growing sport: description and epidemiology of injuries",
+      "authors": "Nelson, J T; Jones, R E; Runstrom, M; Hardy, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "3",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Orthop J Sports Med",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 157
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2016-096226",
+      "title": "Preventing overuse shoulder injuries among throwing athletes: a cluster-randomised controlled trial in 660 elite handball players",
+      "authors": "Andersson, S H; Bahr, R; Clarsen, B; Myklebust, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "51",
+      "issue": "",
+      "first_page": "1073",
+      "last_page": "1080",
+      "container": "Br J Sports Med",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 158
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2016-096226",
+      "title": "Risk factors for, and prevention of, shoulder injuries in overhead sports: a systematic review with best-evidence synthesis",
+      "authors": "Asker, M; Brooke, H L; Waldén, M; Tranaeus, U; Johansson, F; Skillgate, E",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "52",
+      "issue": "",
+      "first_page": "1312",
+      "last_page": "1319",
+      "container": "Br J Sports Med",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 159
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2017-098254",
+      "title": "Biomechanische Grundlagen des Werfens",
+      "authors": "Heger, H; Wank, V",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "09",
+      "issue": "",
+      "first_page": "8",
+      "last_page": "16",
+      "container": "Sportphysio",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 160
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1055/a-1256-2181",
+      "title": "What is the effect of a shoulderstrengthening program to prevent shoulder pain among junior female team handball players?",
+      "authors": "Sommervold, M; Østerås, H",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "8",
+      "issue": "",
+      "first_page": "61",
+      "last_page": "70",
+      "container": "Open Access J Sports Med",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 161
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2147/OAJSM.S127854",
+      "title": "Changes in throwing arm mechanics at increased throwing distances during structured long-toss",
+      "authors": "Dowling, B; Mcnally, M P; Laughlin, W A; Onate, J A",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "46",
+      "issue": "",
+      "first_page": "3002",
+      "last_page": "3006",
+      "container": "Am J Sports Med",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 162
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/0363546518795892",
+      "title": "Sport specialization and overuse injuries in adolescent throwing athletes: a narrative review",
+      "authors": "Zaremski, J L; Zeppieri, G; Tripp, B L",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "54",
+      "issue": "",
+      "first_page": "1030",
+      "last_page": "1039",
+      "container": "J Athl Train",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 163
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.4085/1062-6050-333-18",
+      "title": "The epidemiology of youth sport-related shoulder injuries: a systematic review",
+      "authors": "Gibson, E S; Cairo, A; Räisänen, A M; Kuntze, C; Emery, C A; Pasanen, K",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "2022",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "12",
+      "container": "Transl Sports Med",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 164
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1155/2022/8791398",
+      "title": "Injury patterns and biomechanics of the athlete's shoulder",
+      "authors": "Lintner, D; Noonan, T J; Kibler, W B",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "27",
+      "issue": "",
+      "first_page": "527",
+      "last_page": "551",
+      "container": "Clin Sports Med",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 165
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.csm.2008.07.007",
+      "title": "Current concepts in arm care exercise programs and injury risk reduction in adolescent baseball players: a clinical review",
+      "authors": "Matsel, K A; Butler, R J; Malone, T R; Hoch, M C; Westgate, P M; Uhl, T L",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "13",
+      "issue": "",
+      "first_page": "245",
+      "last_page": "250",
+      "container": "Sports Health",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 166
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/1941738120976384",
+      "title": "Psychosocial factors and sport injuries: meta-analyses for prediction and prevention",
+      "authors": "Ivarsson, A; Johnson, U; Andersen, M B; Tranaeus, U; Stenling, A; Lindwall, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "47",
+      "issue": "",
+      "first_page": "353",
+      "last_page": "365",
+      "container": "Sports Med",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 167
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-016-0578-x",
+      "title": "Diagnosing overtraining syndrome: a scoping review",
+      "authors": "Carrard, J; Rigort, A-C; Appenzeller-Herzog, C; Colledge, F; Königstein, K; Hinrichs, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "14",
+      "issue": "",
+      "first_page": "665",
+      "last_page": "673",
+      "container": "Sports Health",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 168
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/19417381211044739",
+      "title": "Development of a revised conceptual framework of physical training for use in research and practice",
+      "authors": "Jeffries, A C; Marcora, S M; Coutts, A J; Wallace, L; Mccall, A; Impellizzeri, F M",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "52",
+      "issue": "",
+      "first_page": "709",
+      "last_page": "724",
+      "container": "Sports Med",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 169
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-021-01551-5",
+      "title": "Prevention of shoulder injuries in overhead athletes: a science-based approach",
+      "authors": "Cools, A M; Johansson, F R; Borms, D; Maenhout, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "19",
+      "issue": "",
+      "first_page": "331",
+      "last_page": "339",
+      "container": "Braz J Phys Ther",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 170
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1590/bjpt-rbf.2014.0109",
+      "title": "A systematic review of the effects of upper body warm-up on performance and injury",
+      "authors": "Mccrary, J M; Ackermann, B J; Halaki, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "49",
+      "issue": "",
+      "first_page": "935",
+      "last_page": "942",
+      "container": "Br J Sports Med",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 171
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2014-094228",
+      "title": "The effectiveness of neuromuscular warm-up strategies, that require no additional equipment, for preventing lower limb injuries during sports participation: a systematic review",
+      "authors": "Herman, K; Barton, C; Malliaras, P; Morrissey, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "10",
+      "issue": "",
+      "first_page": "75",
+      "last_page": null,
+      "container": "BMC Med",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 172
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bmjsem-2021-001270",
+      "title": "Multicomponent stretching and rubber band strengthening exercises do not reduce overuse shoulder injuries: a cluster randomised controlled trial with 579 handball athletes",
+      "authors": "Achenbach, L; Huppertz, G; Zeman, F; Weber, J; Luig, P; Rudert, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "8",
+      "issue": "",
+      "first_page": "1270",
+      "last_page": null,
+      "container": "BMJ Open Sport Exerc Med",
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 173
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bmjsem-2021-001270",
+      "title": "The effect of shoulder and knee exercise programmes on the risk of shoulder and knee injuries in adolescent elite handball players: a three-armed cluster randomised controlled trial",
+      "authors": "Asker, M; Hägglund, M; Waldén, M; Källberg, H; Skillgate, E",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "8",
+      "issue": "",
+      "first_page": "91",
+      "last_page": null,
+      "container": "Sports Med Open",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 174
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/s40798-022-00478-z",
+      "title": "Development and validation of a new method for the registration of overuse injuries in sports injury epidemiology: the Oslo Sports Trauma Research Centre (OSTRC) Overuse Injury Questionnaire",
+      "authors": "Clarsen, B; Myklebust, G; Bahr, R",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "47",
+      "issue": "",
+      "first_page": "495",
+      "last_page": "502",
+      "container": "Br J Sports Med",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 175
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2012-091524",
+      "title": "German translation and content validation of the OSTRC Questionnaire on overuse injuries and health problems",
+      "authors": "Hirschmüller, A; Steffen, K; Fassbender, K; Clarsen, B; Konstantinidis, Leonhard R; , L",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "51",
+      "issue": "",
+      "first_page": "260",
+      "last_page": "263",
+      "container": "Br J Sports Med",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 176
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2016-096669",
+      "title": "Do Niggles Matter? -Increased injury risk following physical complaints in football (soccer)",
+      "authors": "Whalan, M; Lovell, R; Sampson, J A",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "4",
+      "issue": "",
+      "first_page": "216",
+      "last_page": "224",
+      "container": "Sci Med Footb",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 177
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/24733938.2019.1705996",
+      "title": "Risk factors for overuse shoulder injuries in a mixed-sex cohort of 329 elite handball players: previous findings could not be confirmed",
+      "authors": "Andersson, S H; Bahr, R; Clarsen, B; Myklebust, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "52",
+      "issue": "",
+      "first_page": "1191",
+      "last_page": "1198",
+      "container": "Br J Sports Med",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 178
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2017-097648",
+      "title": "Effect of a 6-week weighted baseball throwing program on pitch velocity, pitching arm biomechanics, passive range of motion, and injury rates",
+      "authors": "Reinold, M M; Macrina, L C; Fleisig, G S; Aune, K; Andrews, J R",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "10",
+      "issue": "",
+      "first_page": "327",
+      "last_page": "333",
+      "container": "Sports Health",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 179
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/1941738118779909",
+      "title": "Strength training as superior, dose-dependent and safe prevention of acute and overuse sports injuries: a systematic review, qualitative analysis and meta-analysis",
+      "authors": "Lauersen, J B; Andersen, T E; Andersen, L B",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "52",
+      "issue": "",
+      "first_page": "1557",
+      "last_page": "1563",
+      "container": "Br J Sports Med",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 180
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2018-099078",
+      "title": "Placebo response and effect in randomized clinical trials: meta-research with focus on contextual effects",
+      "authors": "Hafliðadóttir, S H; Juhl, C B; Nielsen, S M; Henriksen, M; Harris, I A; Bliddal, H",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "22",
+      "issue": "",
+      "first_page": "493",
+      "last_page": null,
+      "container": "Trials",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 181
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "[1]",
+      "text_id": 6
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2,",
+      "text_id": 7
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3]",
+      "text_id": 7
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2,",
+      "text_id": 8
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4]",
+      "text_id": 8
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 10
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2,",
+      "text_id": 11
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4]",
+      "text_id": 11
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "[6]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 15
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "[8]",
+      "text_id": 20
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2,",
+      "text_id": 21
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4]",
+      "text_id": 21
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 25
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 27
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 28
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 29
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13]",
+      "text_id": 30
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "[14]",
+      "text_id": 32
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 32
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 32
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17,",
+      "text_id": 34
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18]",
+      "text_id": 34
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "[19]",
+      "text_id": 35
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[20]",
+      "text_id": 37
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[20,",
+      "text_id": 39
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21]",
+      "text_id": 39
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 48
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 61
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "[22]",
+      "text_id": 66
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "[23]",
+      "text_id": 67
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 74
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "3",
+      "text_id": 82
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "4",
+      "text_id": 82
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "figure",
+      "contents": "5",
+      "text_id": 86
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[20,",
+      "text_id": 90
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21]",
+      "text_id": 90
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "[24]",
+      "text_id": 96
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13,",
+      "text_id": 105
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21]",
+      "text_id": 105
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "[21,",
+      "text_id": 108
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25]",
+      "text_id": 108
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "[26]",
+      "text_id": 109
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "[27]",
+      "text_id": 110
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "[27]",
+      "text_id": 113
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "[27]",
+      "text_id": 114
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "[14]",
+      "text_id": 115
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16,",
+      "text_id": 133
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28]",
+      "text_id": 133
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 16,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 17,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 3,
+      "section_id": 18,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 4,
+      "section_id": 19,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 5,
+      "section_id": 20,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 21,
+      "html": "<table>\n  <row>\n    <cell>Inclusion criteria<\/cell>\n    <cell>Exclusion criteria<\/cell>\n  <\/row>\n  <row>\n    <cell>-Active disc golf player<\/cell>\n    <cell>-Serious illnesses/Injuries<\/cell>\n  <\/row>\n  <row>\n    <cell>(minimum of one training<\/cell>\n    <cell>(tumors, fractures/ruptures<\/cell>\n  <\/row>\n  <row>\n    <cell>per week)<\/cell>\n    <cell>in the trunk and upper<\/cell>\n  <\/row>\n  <row>\n    <cell>-Austrian resident<\/cell>\n    <cell>extremities within the last<\/cell>\n  <\/row>\n  <row>\n    <cell>-Age of 18 years or older<\/cell>\n    <cell>year), fibromyalgia,<\/cell>\n  <\/row>\n  <row>\n    <cell>-Consent about the<\/cell>\n    <cell>previous operations in the<\/cell>\n  <\/row>\n  <row>\n    <cell>execution of the trial<\/cell>\n    <cell>elbow and shoulder area<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Inclusion criteria / -Active disc golf player / (minimum of one training / per week) / -Austrian resident / -Age of 18 years or older / -Consent about the / execution of the trial", "Exclusion criteria / -Serious illnesses/Injuries / (tumors, fractures/ruptures / in the trunk and upper / extremities within the last / year), fibromyalgia, / previous operations in the / elbow and shoulder area"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 22,
+      "html": "<table>\n  <row>\n    <cell/>\n    <cell>Age<\/cell>\n    <cell>Male<\/cell>\n    <cell>Female<\/cell>\n  <\/row>\n  <row>\n    <cell>Intervention group (n = 30)<\/cell>\n    <cell>36.63 years (±11.57 years)<\/cell>\n    <cell>n = 27 (90.0%)<\/cell>\n    <cell>n = 3 (10.0%)<\/cell>\n  <\/row>\n  <row>\n    <cell>Control group (n = 28)<\/cell>\n    <cell>36.36 years (±14.60 years)<\/cell>\n    <cell>n = 25 (89.3%)<\/cell>\n    <cell>n = 3 (10.7%)<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Intervention group (n = 30) / Control group (n = 28)", "Age / 36.63 years (±11.57 years) / 36.36 years (±14.60 years)", "Male / n = 27 (90.0%) / n = 25 (89.3%)", "Female / n = 3 (10.0%) / n = 3 (10.7%)"]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 77,
+      "grp_id": 1,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 81,
+      "grp_id": 2,
+      "lhs": "P",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.950"
+    },
+    {
+      "text_id": 82,
+      "grp_id": 3,
+      "lhs": "P",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.835"
+    },
+    {
+      "text_id": 83,
+      "grp_id": 4,
+      "lhs": "P",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.147"
+    },
+    {
+      "text_id": 83,
+      "grp_id": 4,
+      "lhs": "P",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.828"
+    }
+  ]
+}

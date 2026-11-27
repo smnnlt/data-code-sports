@@ -1,0 +1,3514 @@
+{
+  "paper_id": "10.1016+j.smhs.2025.08.002",
+  "info": [
+    {
+      "title": "Warming up to improved performance? Effects of different specific warm-up protocols on neuromuscular performance in trained individuals",
+      "keywords": null,
+      "doi": "10.1016/j.smhs.2025.08.002",
+      "file_hash": "ae2133a6a52997e7",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.smhs.2025.08.002.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Alysson",
+      "family": "Enes",
+      "affiliation": "Department of Exercise Science and Recreation\n\t\t\t\t\t\t\t\tApplied Muscle Development Lab\n\t\t\t\t\t\t\t\tCUNY Lehman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBronx\n\t\t\t\t\t\t\t\t\tNY\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "Adam",
+      "family": "Mohan",
+      "affiliation": "Department of Exercise Science and Recreation\n\t\t\t\t\t\t\t\tApplied Muscle Development Lab\n\t\t\t\t\t\t\t\tCUNY Lehman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBronx\n\t\t\t\t\t\t\t\t\tNY\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "Alec",
+      "family": "Pi~",
+      "affiliation": "Department of Exercise Science and Recreation\n\t\t\t\t\t\t\t\tApplied Muscle Development Lab\n\t\t\t\t\t\t\t\tCUNY Lehman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBronx\n\t\t\t\t\t\t\t\t\tNY\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "Thomas",
+      "family": "Hermann",
+      "affiliation": "Department of Exercise Science and Recreation\n\t\t\t\t\t\t\t\tApplied Muscle Development Lab\n\t\t\t\t\t\t\t\tCUNY Lehman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBronx\n\t\t\t\t\t\t\t\t\tNY\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "Max",
+      "family": "Sapuppo",
+      "affiliation": "Department of Exercise Science and Recreation\n\t\t\t\t\t\t\t\tApplied Muscle Development Lab\n\t\t\t\t\t\t\t\tCUNY Lehman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBronx\n\t\t\t\t\t\t\t\t\tNY\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 6,
+      "given": "Max",
+      "family": "Coleman",
+      "affiliation": "Department of Exercise Science and Recreation\n\t\t\t\t\t\t\t\tApplied Muscle Development Lab\n\t\t\t\t\t\t\t\tCUNY Lehman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBronx\n\t\t\t\t\t\t\t\t\tNY\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 7,
+      "given": "Androulakis",
+      "family": "Korakakis",
+      "affiliation": "Department of Exercise Science and Recreation\n\t\t\t\t\t\t\t\tApplied Muscle Development Lab\n\t\t\t\t\t\t\t\tCUNY Lehman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBronx\n\t\t\t\t\t\t\t\t\tNY\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 8,
+      "given": "Milo",
+      "family": "Wolf",
+      "affiliation": "Department of Exercise Science and Recreation\n\t\t\t\t\t\t\t\tApplied Muscle Development Lab\n\t\t\t\t\t\t\t\tCUNY Lehman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBronx\n\t\t\t\t\t\t\t\t\tNY\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 9,
+      "given": "P",
+      "family": "Souza-Junior",
+      "affiliation": "Nutrition and Strength Training Research Group (GPMENUTF)\n\t\t\t\t\t\t\t\tFederal University of Paran� a (UFPR)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCuritiba\n\t\t\t\t\t\t\t\t\tPR\n\t\t\t\t\t\t\t\t\tBrazil",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 10,
+      "given": "Paul",
+      "family": "Swinton",
+      "affiliation": "Department of Sport and Exercise\n\t\t\t\t\t\t\t\tSchool of Health Sciences\n\t\t\t\t\t\t\t\tRobert Gordon University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAberdeen\n\t\t\t\t\t\t\t\t\tUnited Kingdom",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 11,
+      "given": "Brad",
+      "family": "Schoenfeld",
+      "affiliation": "Department of Exercise Science and Recreation\n\t\t\t\t\t\t\t\tApplied Muscle Development Lab\n\t\t\t\t\t\t\t\tCUNY Lehman College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBronx\n\t\t\t\t\t\t\t\t\tNY\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "bradschoenfeldphd@gmail.com",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "This study investigated the effects of varying the set number and loads in specific warm-up (SWU) protocols on resistance training (RT) session performance.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: Using a crossover design, twenty-nine participants (RT experience of [4.5 ± 3.9] years) were randomized to the following experimental conditions: 1 set of 3-4 repetitions at 75% 10 repetition-maximum (RM) (1SET), 2 sets of 3-4 repetitions at 55% and 75% 10 RM (2SET) and no warm-up (CON).",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The SWU protocols were performed before the working sets (4 sets at 10 RM load to concentric failure) on each exercise (Smith-machine bench press and 45 o leg press).",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For neuromuscular and perceptual responses, we assessed repetition performance (i.e. total number of repetitions), fatigue index, and volume load, as well as exercise readiness and rating of perceived exertion, respectively.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: Analyses were completed using linear mixed models within a Bayesian framework.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Condition comparisons were expressed as standardized mean differences (SMDs), with posterior distributions and evidence ratios used to assess support for the superiority of SWU and the ordered hypothesis that CON < 1SET < 2SET, respectively.",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Condition comparisons were expressed as standardized mean differences (SMDs), with posterior distributions and evidence ratios used to assess support for the superiority of SWU and the ordered hypothesis that CON &lt; 1SET &lt; 2SET, respectively."
+    },
+    {
+      "text": "SMDs comparing 1SET and 2SET to CON indicated negligible to small potential differences for all outcomes.",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Posterior probabilities of SWU conditions being superior to CON remained relatively low for the bench press and 45 • leg press, with evidence ratios generally providing strong evidence against the ordered hypothesis, supporting similar neuromuscular and perceptual responses across conditions.",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Conclusion: Our findings indicate that SWU protocols are similar to CON regarding RT performance and perceptual responses.",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The results suggest it is possible to achieve greater time efficiency in RT sessions by forgoing a SWU when training at ~10 RM loads.",
+      "text_id": 10,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Resistance training (RT) is considered a primary interventional strategy for inducing improvements in muscle strength, power, and size.",
+      "text_id": 11,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "RT programming variables, including load and volume, can influence the extent of these adaptations. 1 Coaches and practitioners often seek strategies to improve RT session performance to maximize neuromuscular adaptations. 1 In turn, it is commonly believed that warm-up strategies can enhance RT session performance from a psychophysiological standpoint. 2 Current guidelines for strength and conditioning recommend a general (GWU) and specific warm-up (SWU) prior to RT sessions to prepare individuals for intense training, arguing this strategy will enhance performance and reduce injury risk. [3] [4] [5] The GWU is a low intensity activity unrelated to the task (e.g. walking or cycling before RT) that aims to increase body and muscle temperature. 6 Alternatively, the SWU is an analogous task to the exercise that will be performed, but carried out at a reduced intensity of effort compared to the targeted training intensity (e.g. lifting with a low level of effort before performing the same lift at higher %1-repetition-maximum [RM] with a greater effort). 7 The general recommendation for warming-up before an RT session is based on physiological effects such as increased body and muscle temperature, enhanced blood flow to the working muscles, improvements in neural drive (i.e. increased action potential conduction rate), reduced muscle stiffness, and augmented metabolic efficiency (i.e. oxygen and substrate delivery to muscles). [8] [9] [10] These physiological alterations are collectively theorized to improve RT session performance, especially for strength and power outcomes.",
+      "text_id": 12,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "RT programming variables, including load and volume, can influence the extent of these adaptations. <ref type=\"bibr\" target=\"#b0\">1<\/ref> Coaches and practitioners often seek strategies to improve RT session performance to maximize neuromuscular adaptations. <ref type=\"bibr\" target=\"#b0\">1<\/ref> In turn, it is commonly believed that warm-up strategies can enhance RT session performance from a psychophysiological standpoint. <ref type=\"bibr\" target=\"#b1\">2<\/ref> Current guidelines for strength and conditioning recommend a general (GWU) and specific warm-up (SWU) prior to RT sessions to prepare individuals for intense training, arguing this strategy will enhance performance and reduce injury risk. <ref type=\"bibr\" target=\"#b2\">[3]<\/ref> <ref type=\"bibr\" target=\"#b3\">[4]<\/ref> <ref type=\"bibr\" target=\"#b4\">[5]<\/ref> The GWU is a low intensity activity unrelated to the task (e.g. walking or cycling before RT) that aims to increase body and muscle temperature. <ref type=\"bibr\" target=\"#b5\">6<\/ref> Alternatively, the SWU is an analogous task to the exercise that will be performed, but carried out at a reduced intensity of effort compared to the targeted training intensity (e.g. lifting with a low level of effort before performing the same lift at higher %1-repetition-maximum [RM] with a greater effort). <ref type=\"bibr\" target=\"#b6\">7<\/ref> The general recommendation for warming-up before an RT session is based on physiological effects such as increased body and muscle temperature, enhanced blood flow to the working muscles, improvements in neural drive (i.e. increased action potential conduction rate), reduced muscle stiffness, and augmented metabolic efficiency (i.e. oxygen and substrate delivery to muscles). <ref type=\"bibr\" target=\"#b7\">[8]<\/ref> <ref type=\"bibr\" target=\"#b8\">[9]<\/ref> <ref type=\"bibr\" target=\"#b9\">[10]<\/ref> These physiological alterations are collectively theorized to improve RT session performance, especially for strength and power outcomes."
+    },
+    {
+      "text": "Research regarding the effects of resistance training warm-up strategies are somewhat conflicting. 10 Moreover, when reconciling studies that compared a GWU to a SWU, no statistical differences were found for RT performance in single or multiple sets to failure. 6, 7, 11 Although the type (i.e. general or specific) of warm-up seems to lead to similar performance outcomes, time constraints can limit practitioners' ability to employ both strategies.",
+      "text_id": 13,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Research regarding the effects of resistance training warm-up strategies are somewhat conflicting. <ref type=\"bibr\" target=\"#b9\">10<\/ref> Moreover, when reconciling studies that compared a GWU to a SWU, no statistical differences were found for RT performance in single or multiple sets to failure. <ref type=\"bibr\" target=\"#b5\">6,<\/ref> <ref type=\"bibr\" target=\"#b6\">7,<\/ref> <ref type=\"bibr\" target=\"#b10\">11<\/ref> Although the type (i.e. general or specific) of warm-up seems to lead to similar performance outcomes, time constraints can limit practitioners' ability to employ both strategies."
+    },
+    {
+      "text": "In turn, incorporating only a SWU might be more beneficial for those with time restrictions, as this strategy involves performing similar movements to the exercises in the RT session.",
+      "text_id": 14,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, whether SWU protocols are necessary, and if so, how they can be tailored to improve the submaximal RT performance, remains unclear.",
+      "text_id": 15,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Research that has investigated the effects of different SWU protocols on submaximal RT performance in recreationally-trained individuals indicates similar performance metrics compared to a control condition (i.e., no warm-up). [11] [12] [13] Curiously, a caveat amongst studies that did not detect meaningful effects from SWU protocols is that they employed just 1-2 sets in the warm-up protocol with low-to-moderate loads (40%-60% of 1-repetition maximum [1RM]), which might not be sufficient to increase neuromuscular output in the subsequent exercise, performed as a single-set with submaximal loads.",
+      "text_id": 16,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Research that has investigated the effects of different SWU protocols on submaximal RT performance in recreationally-trained individuals indicates similar performance metrics compared to a control condition (i.e., no warm-up). <ref type=\"bibr\" target=\"#b10\">[11]<\/ref> <ref type=\"bibr\" target=\"#b11\">[12]<\/ref> <ref type=\"bibr\" target=\"#b12\">[13]<\/ref> Curiously, a caveat amongst studies that did not detect meaningful effects from SWU protocols is that they employed just 1-2 sets in the warm-up protocol with low-to-moderate loads (40%-60% of 1-repetition maximum [1RM]), which might not be sufficient to increase neuromuscular output in the subsequent exercise, performed as a single-set with submaximal loads."
+    },
+    {
+      "text": "It is well established that relative intensity (i.e.",
+      "text_id": 17,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "% 1 RM) plays a role in the effects induced by conditioning activities (e.g. postactivation performance enhancement, PAPE) for RT performance, and worth noting that single-set performance may not reflect performance across a multiple-set RT session. 1, 2, 14 To date, several studies 11, [15] [16] [17] [18] have investigated the effect of SWU protocols on performance of multiple sets of an exercise involving medium repetition ranges; some reported no statistical differences in beginners 11, 15 and others reported improvements in neuromuscular performance in recreationally-trained individuals. [16] [17] [18] Of note, the studies that observed an advantage of SWU protocols employed 1-2 warm up sets, with at least one of them performed at higher loads (ranging from 80% to 90% 1 RM), progressively increasing the load. [16] [17] [18] Conversely, other studies that did not observe an advantage of SWU protocols employed just a single set at low-to-moderate loads (50% of 8 RM load 15 and 50% of 80% 1 RM load 11 ).",
+      "text_id": 18,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "% 1 RM) plays a role in the effects induced by conditioning activities (e.g. postactivation performance enhancement, PAPE) for RT performance, and worth noting that single-set performance may not reflect performance across a multiple-set RT session. <ref type=\"bibr\" target=\"#b0\">1,<\/ref> <ref type=\"bibr\" target=\"#b1\">2,<\/ref> <ref type=\"bibr\" target=\"#b13\">14<\/ref> To date, several studies <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b14\">[15]<\/ref> <ref type=\"bibr\" target=\"#b15\">[16]<\/ref> <ref type=\"bibr\" target=\"#b16\">[17]<\/ref> <ref type=\"bibr\" target=\"#b17\">[18]<\/ref> have investigated the effect of SWU protocols on performance of multiple sets of an exercise involving medium repetition ranges; some reported no statistical differences in beginners <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b14\">15<\/ref> and others reported improvements in neuromuscular performance in recreationally-trained individuals. <ref type=\"bibr\" target=\"#b15\">[16]<\/ref> <ref type=\"bibr\" target=\"#b16\">[17]<\/ref> <ref type=\"bibr\" target=\"#b17\">[18]<\/ref> Of note, the studies that observed an advantage of SWU protocols employed 1-2 warm up sets, with at least one of them performed at higher loads (ranging from 80% to 90% 1 RM), progressively increasing the load. <ref type=\"bibr\" target=\"#b15\">[16]<\/ref> <ref type=\"bibr\" target=\"#b16\">[17]<\/ref> <ref type=\"bibr\" target=\"#b17\">[18]<\/ref> Conversely, other studies that did not observe an advantage of SWU protocols employed just a single set at low-to-moderate loads (50% of 8 RM load <ref type=\"bibr\" target=\"#b14\">15<\/ref> and 50% of 80% 1 RM load <ref type=\"bibr\" target=\"#b10\">11<\/ref> )."
+    },
+    {
+      "text": "Nonetheless, Ribeiro et al. 16 detected improvements in force output after a single set (6 reps at 80% of training load) for barbell back squat and 2 sets at increasing loads (6 reps at 40% and 80% of training load) for bench press.",
+      "text_id": 19,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Nonetheless, Ribeiro et al. <ref type=\"bibr\" target=\"#b15\">16<\/ref> detected improvements in force output after a single set (6 reps at 80% of training load) for barbell back squat and 2 sets at increasing loads (6 reps at 40% and 80% of training load) for bench press."
+    },
+    {
+      "text": "Therefore, it is unclear if these findings were elicited by progressing the SWU loads or the set number.",
+      "text_id": 20,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Considering the conflicting evidence, the purpose of this study was to investigate the effects of varying the set number and loads in SWU protocols on RT session performance and perceptual responses.",
+      "text_id": 21,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Based on previous studies that detected improvements after SWU protocols and these protocols consisted by 1-2 warm up sets with at least one of them performed at higher loads, [16] [17] [18] we hypothesized that a higher set number at higher loads will enhance submaximal multi-set RT session performance, as these factors are determinants of priming effects.",
+      "text_id": 22,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Based on previous studies that detected improvements after SWU protocols and these protocols consisted by 1-2 warm up sets with at least one of them performed at higher loads, <ref type=\"bibr\" target=\"#b15\">[16]<\/ref> <ref type=\"bibr\" target=\"#b16\">[17]<\/ref> <ref type=\"bibr\" target=\"#b17\">[18]<\/ref> we hypothesized that a higher set number at higher loads will enhance submaximal multi-set RT session performance, as these factors are determinants of priming effects."
+    },
+    {
+      "text": "2,14  >Methods",
+      "text_id": 23,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "2,14 <head n=\"2.\" >Methods<\/head>"
+    },
+    {
+      "text": "All participants were informed of the procedures related to the study and signed a written informed consent form prior to enrollment in the study.",
+      "text_id": 24,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Approval for the study was obtained from the Lehman College Institutional Review Board (#2025-0055-Lehman).",
+      "text_id": 25,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study was implemented in accordance with the Declaration of Helsinki.",
+      "text_id": 26,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study employed a crossover repeated-measures design and were preregistered prior to data collection (https://osf.io/f6w9b).",
+      "text_id": 27,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "This study employed a crossover repeated-measures design and were preregistered prior to data collection (<ref type=\"url\" target=\"https://osf.io/f6w9b\">https://osf.io/f6w9b<\/ref>)."
+    },
+    {
+      "text": "This study employed a crossover repeated-measures design, with each participant performing all experimental conditions.",
+      "text_id": 28,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were required to visit the laboratory 4 times, with visits separated by at least 48 h.",
+      "text_id": 29,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After signing the written consent form, participants were asked to visit the lab for an anthropometric assessment in a fasted state (at least 8 h with no meals, no fluids, and no alcohol).",
+      "text_id": 30,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were given the choice as to whether to eat after the anthropometric assessment.",
+      "text_id": 31,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Then, we conducted 10 RM testing in the Smith machine bench press (Hammer Strength Equipment, Life Fitness, Rosemont, IL, USA) and 45 o leg press (TRUE Fitness, St Louis, MO, USA) to determine the loads for the working sets.",
+      "text_id": 32,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The 10 RM test was performed according to the guidelines established by the National Strength and Conditioning Association. 5 Of note, these exercises were selected based on their characteristics (compound upper and lower body movements) and feasibility since they are common exercises performed in training routines and frequently used in exercise science research, increasing the ecological validity of our study and facilitating replication and comparison across studies.",
+      "text_id": 33,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "The 10 RM test was performed according to the guidelines established by the National Strength and Conditioning Association. <ref type=\"bibr\" target=\"#b4\">5<\/ref> Of note, these exercises were selected based on their characteristics (compound upper and lower body movements) and feasibility since they are common exercises performed in training routines and frequently used in exercise science research, increasing the ecological validity of our study and facilitating replication and comparison across studies."
+    },
+    {
+      "text": "In addition, both exercises minimize the potential confounding effects of technique and fatigue interaction.",
+      "text_id": 34,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For instance, the 45 • leg press reduces the likelihood of erector spinae fatigue compromising technique and lower-limb effort, as might occur with exercises like the back squat.",
+      "text_id": 35,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Afterwards, the experimental conditions were randomized for each participant, ensuring the same likelihood for the testing order in every experimental condition.",
+      "text_id": 36,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The experimental conditions were as follows: a) 1 SWU set at 75% 10 RM for 3-4 repetitions (1SET); b) 2 SWU sets at 55% and 75% of 10 RM load for 3-4 repetitions (2SET); and c) a control condition (CON) that did not perform a SWU before the working sets.",
+      "text_id": 37,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To avoid fatigue effects, the SWU sets employed a target range of 3-4",
+      "text_id": 38,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "List of abbreviations 1SET 1-set condition 2SET 2-sets condition a.u arbitrary units cm centimeters CON control condition CrI credible intervals FI fatigue index GWU general warm-up Kg kilogram KSS Karolinska Sleepiness Scale PAPE postactivation performance enhancement RM repetition-maximum RP repetition performance RPE rating of perceived exertion RT resistance training S&C strength and conditioning SD standard deviation SMD standardized mean differences SWU specific warm-up VL volume load y years repetitions.",
+      "text_id": 39,
+      "paragraph_id": 10,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "List of abbreviations 1SET 1-set condition 2SET 2-sets condition a.u arbitrary units cm centimeters CON control condition CrI credible intervals FI fatigue index GWU general warm-up Kg kilogram KSS Karolinska Sleepiness Scale PAPE postactivation performance enhancement RM repetition-maximum RP repetition performance RPE rating of perceived exertion RT resistance training S&amp;C strength and conditioning SD standard deviation SMD standardized mean differences SWU specific warm-up VL volume load y years repetitions."
+    },
+    {
+      "text": "Participants were afforded a 120-s rest interval between all the SWU and working sets and exercises.",
+      "text_id": 40,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig. 1 provides an overview of the experimental design.",
+      "text_id": 41,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref> provides an overview of the experimental design."
+    },
+    {
+      "text": "Participants' rating of perceived exertion (RPE) was assessed after each set, both in the SWU and for working sets.",
+      "text_id": 42,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Exercise readiness was assessed before every experimental condition and after the 1SET and 2SET protocols.",
+      "text_id": 43,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We also assessed repetition performance, fatigue index, and volume load for each experimental session.",
+      "text_id": 44,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To reduce the potential for dietary confounding, participants were instructed to keep their regular meal schedule throughout the study.",
+      "text_id": 45,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In blinded fashion, a member of the research staff uninvolved in written consent and 10 RM testing performed the randomization procedures for the conditions (1SET, 2SET, CON) using Research Randomizer (http://randomizer.org).",
+      "text_id": 46,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "In blinded fashion, a member of the research staff uninvolved in written consent and 10 RM testing performed the randomization procedures for the conditions (1SET, 2SET, CON) using Research Randomizer (<ref type=\"url\" target=\"http://randomizer.org\">randomizer.org<\/ref>)."
+    },
+    {
+      "text": "The methods for this study were preregistered prior to data collection (https://osf.io/f6w9b).",
+      "text_id": 47,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "The methods for this study were preregistered prior to data collection (<ref type=\"url\" target=\"https://osf.io/f6w9b\">https://osf.io/f6w9b<\/ref>)."
+    },
+    {
+      "text": "To be considered for inclusion, participants had to meet the following criteria: a) men and women between 18 and 40 years of age; b) answer \"no\" to all Physical Activity Readiness Questionnaire items; c) have at least 1-year previous RT experience without training cessation for more than 2 weeks within the past year, as well as previous experience performing the bench press and leg press for at least 4 weeks; d) self-report to be free from chronic use of anti-inflammatory drugs, painkillers, and anabolic steroids for the previous year.",
+      "text_id": 48,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To avoid potential negative effects of withdrawal, participants were allowed to consume their usual pre-workout supplements and listen to their preferred music; if so, the pre-workout supplement and music had to remain constant across all conditions.",
+      "text_id": 49,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In addition, participants were asked to refrain from alcohol consumption and moderate-to-vigorous activity in their daily routine for at least 48 h prior to the experimental sessions.",
+      "text_id": 50,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were instructed to consume their breakfast or breakfast and lunch if they attended the experimental sessions in the morning or afternoon, respectively, with the last meal consumed at least 2 h prior the training session.",
+      "text_id": 51,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The participants were excluded from the sample if they self-reported to: a) suffer a musculoskeletal injury during the course of the study; b) consume a substantial amount of alcohol 48 h prior to an experimental session as well c) perform moderate-tovigorous activity outside the study in the 48 h prior to an experimental session.",
+      "text_id": 52,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Moreover, participants were excluded if they failed to attend one of the lab visits.",
+      "text_id": 53,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A power analysis was conducted to determine an appropriate sample size.",
+      "text_id": 54,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We employed a modified version of the workflow suggested by Wang and Gelfand 19 to quantify likely precision in our average treatment effect estimate across our potential sample sizes by investigating the width of the 95% credible intervals and posterior probabilities.",
+      "text_id": 55,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "We employed a modified version of the workflow suggested by Wang and Gelfand <ref type=\"bibr\" target=\"#b18\">19<\/ref> to quantify likely precision in our average treatment effect estimate across our potential sample sizes by investigating the width of the 95% credible intervals and posterior probabilities."
+    },
+    {
+      "text": "To assess likely precision, we first simulated prior predictive data for samples of size n using informative priors (sampling priors).",
+      "text_id": 56,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These priors were based on the individual participant results from Abad et al., 7 and the calculated main effect of different warm-up conditions and variation of difference scores.",
+      "text_id": 57,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "These priors were based on the individual participant results from Abad et al., <ref type=\"bibr\" target=\"#b6\">7<\/ref> and the calculated main effect of different warm-up conditions and variation of difference scores."
+    },
+    {
+      "text": "Priors were set on a standardized scale with participant random intercept N (0,1 2 ), main effect of 1SET ~ N (0.3, 0.1 2 ), main effect of 2SET ~ N (0.5,0.1 2 ), measurement error N (0,0.1 2 ), and a single participant random \"slope\" from control to both 1SET and 2SET N (0,0.3).",
+      "text_id": 58,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Main effects were sampled from a bivariate normal distribution with correlation equal to 0.9.",
+      "text_id": 59,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Default weakly informative priors were used to fit the models across m = 500 iterations for sample sizes n = 10, 15, and 20, with results presented in the supplementary file (Table S1).",
+      "text_id": 60,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "Default weakly informative priors were used to fit the models across m = 500 iterations for sample sizes n = 10, 15, and 20, with results presented in the supplementary file (Table <ref type=\"table\">S1<\/ref>)."
+    },
+    {
+      "text": "Based on the width of the credible intervals and posterior probabilities a sample size of 15 was selected; however, we recruited additional participants to account for the possibility of dropouts.",
+      "text_id": 61,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants performed 10 RM testing to determine the initial loads for Smith machine bench press and 45 o leg press.",
+      "text_id": 62,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After 10 RM testing, the experimental condition order was randomized for each participant.",
+      "text_id": 63,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The research staff directly supervised all training sessions.",
+      "text_id": 64,
+      "paragraph_id": 15,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The load was the same for every working set according to the load of the 10 RM test with a 120-s rest interval provided among the SWUs, working sets and exercises.",
+      "text_id": 65,
+      "paragraph_id": 15,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The participants were instructed to perform the concentric phase of each repetition as fast as possible and take 2 s for the eccentric action with no pause between muscle actions or repetitions; however, when sets approached concentric failure, the concentric repetition cadence necessarily slowed despite participants attempting to exert maximal force.",
+      "text_id": 66,
+      "paragraph_id": 15,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All working sets were carried out to the point of momentary concentric muscular failure, i.e., the inability to perform another concentric repetition while maintaining proper exercise form, as many repetitions as possible.",
+      "text_id": 67,
+      "paragraph_id": 15,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Anthropometric assessments were conducted during the first visit.",
+      "text_id": 68,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Height was measured using a stadiometer (Cardinal Scale Manufacturing Company, Webb City, MO, USA).",
+      "text_id": 69,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Body composition (body mass and body fat percentage) was assessed using multifrequency bioelectrical impedance (Model 770, InBody Corporation, Seoul, South Korea).",
+      "text_id": 70,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were asked to abstain from food and fluid intake for 8 h, avoid alcohol consumption 48 h prior to anthropometric assessments, and empty their bladder immediately before testing.",
+      "text_id": 71,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Neuromuscular performance was assessed via repetition performance (RP, the total of repetitions performed for each exercise), volume load (VL, the product of repetitions * sets * load (in kilogram [kg])), fatigue index (FI, the index of performance decline on the product of load by repetitions between the first and last working set).",
+      "text_id": 72,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The FI was calculated as proposed by Sforzo and Touey 20 with the following formula: FI = [(S (last set) -S (first set) )/(S (first set) )]*100, where S represents the product of load and number of repetitions performed in the respective set.",
+      "text_id": 73,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "The FI was calculated as proposed by Sforzo and Touey <ref type=\"bibr\" target=\"#b19\">20<\/ref> with the following formula: FI = [(S (last set) -S (first set) )/(S (first set) )]*100, where S represents the product of load and number of repetitions performed in the respective set."
+    },
+    {
+      "text": "Since a primary purpose of SWU is to increase neuromuscular output, we employed a lower repetition range (3-4 reps) for SWU sets compared to working sets (~8-12 reps).",
+      "text_id": 74,
+      "paragraph_id": 18,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We instructed the participants to stop SWU sets when they felt adequately warmed up, to avoid any residual fatigue that might impair performance.",
+      "text_id": 75,
+      "paragraph_id": 18,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were given the following instructions: a) \"when you feel warmed-up, stop the set\"; b) \"you should stop the set before you feel fatigued\"; c) \"these specific warm-up sets are to prepare your muscles to the working sets, stop the set when you feel ready to perform your working sets\".",
+      "text_id": 76,
+      "paragraph_id": 18,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We did not use words mentioning \"effort\", \"failure\" or \"discomfort\" to avoid any influence in the anchoring on the RPE scale and for readiness to working sets.",
+      "text_id": 77,
+      "paragraph_id": 18,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For the RPE, we used the resistance-exercise specific scale, 21 which has anchors from 1 to 2 to 10.",
+      "text_id": 78,
+      "paragraph_id": 19,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "For the RPE, we used the resistance-exercise specific scale, <ref type=\"bibr\" target=\"#b20\">21<\/ref> which has anchors from 1 to 2 to 10."
+    },
+    {
+      "text": "In this scale, a rating of 1-2 represents little to no effort and 10 represents maximum effort (i.e., neither additional repetitions nor increases in load can be implemented).",
+      "text_id": 79,
+      "paragraph_id": 19,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "At the end of each set, participants were asked to provide an RPE value according to the scale, first choosing a verbal anchor (e.g. \"maximal effort\" as indicated in the scale) and then giving the respective number for the anchoring.",
+      "text_id": 80,
+      "paragraph_id": 19,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were introduced to the scale and its anchors during their first lab visit and reminded not to confuse discomfort (e.g., muscle burning) with exertion when providing their ratings.",
+      "text_id": 81,
+      "paragraph_id": 19,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Exercise readiness was assessed before and 1 min after the SWU protocol as well as before the experimental session in the CON condition.",
+      "text_id": 82,
+      "paragraph_id": 20,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The participants were asked \"Based on your past performance, how ready are you to exercise right now?\", and indicate on a 7-point, bipolar Likert scale ranging from -3 to +3, according to how they expected to perform in the working sets after the SWU protocols, based on their general performance.",
+      "text_id": 83,
+      "paragraph_id": 20,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The bipolar Likert scale anchors were as follows: -3 = strongly decrease; -2 = moderately decrease; -1 = slightly decrease;0 = no effect;1 = slightly increase;2 = moderately increase;3 = strongly increase. 22 Participants were instructed not to confuse motivation with readiness when providing their ratings.",
+      "text_id": 84,
+      "paragraph_id": 20,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "The bipolar Likert scale anchors were as follows: -3 = strongly decrease; -2 = moderately decrease; -1 = slightly decrease;0 = no effect;1 = slightly increase;2 = moderately increase;3 = strongly increase. <ref type=\"bibr\" target=\"#b21\">22<\/ref> Participants were instructed not to confuse motivation with readiness when providing their ratings."
+    },
+    {
+      "text": "To account for the potential influence of sleep patterns, we used the Karolinska Sleepiness Scale (KSS). 23 In short, this is a 10-point Likert scale that measures the level of sleepiness at specific times of the day (i. e. the times of the experimental sessions).",
+      "text_id": 85,
+      "paragraph_id": 22,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "To account for the potential influence of sleep patterns, we used the Karolinska Sleepiness Scale (KSS). <ref type=\"bibr\" target=\"#b22\">23<\/ref> In short, this is a 10-point Likert scale that measures the level of sleepiness at specific times of the day (i. e. the times of the experimental sessions)."
+    },
+    {
+      "text": "In the present study, it was assessed before the experimental sessions.",
+      "text_id": 86,
+      "paragraph_id": 22,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In the KSS, participants indicated which level reflected the psychophysical state experienced in the last 10 min.",
+      "text_id": 87,
+      "paragraph_id": 22,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The anchors were as follows:1 = extremely alert;2 = very alert;3 = alert;4 = rather alert;5 = neither alert nor sleepy;6 = some signs of sleepiness;7 = sleepy, but no effort to keep awake;8 = sleepy, but some effort to keep awake;9 = very sleepy, great effort to keep awake, fighting sleep;10 = extremely sleepy, can't keep awake.",
+      "text_id": 88,
+      "paragraph_id": 22,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A statistician, blinded to the allocation of conditions, conducted all analyses in R (version 4.4.0) within a Bayesian framework.",
+      "text_id": 89,
+      "paragraph_id": 23,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The primary analysis employed univariate linear mixed models, including random intercepts for participants.",
+      "text_id": 90,
+      "paragraph_id": 23,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Posterior distributions of the parameters comparing mean differences between warm-ups were standardized by the CON standard deviation (SMDs), and also included posterior distribution p-values for the superiority of SWU to draw inferences.",
+      "text_id": 91,
+      "paragraph_id": 23,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These pvalues represented the probability that the 1SET or 2SET conditions outperformed CON based on the posterior samples.",
+      "text_id": 92,
+      "paragraph_id": 23,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To formally evaluate the hypothesis that μ 2SET > μ 1SET > μ CON , we calculated the evidence ratio from the posterior draws of the estimated condition effects, dividing the probability of this ordered hypothesis by the probability of all other orderings.",
+      "text_id": 93,
+      "paragraph_id": 23,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "To formally evaluate the hypothesis that μ 2SET &gt; μ 1SET &gt; μ CON , we calculated the evidence ratio from the posterior draws of the estimated condition effects, dividing the probability of this ordered hypothesis by the probability of all other orderings."
+    },
+    {
+      "text": "The strength of evidence for or against the ordered hypothesis was assessed using standard criteria. 24 Given the limited prior research in this area, weakly informative priors were employed to regularize estimates while allowing the data to drive inference.",
+      "text_id": 94,
+      "paragraph_id": 23,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "The strength of evidence for or against the ordered hypothesis was assessed using standard criteria. <ref type=\"bibr\" target=\"#b23\">24<\/ref> Given the limited prior research in this area, weakly informative priors were employed to regularize estimates while allowing the data to drive inference."
+    },
+    {
+      "text": "Table 1 presents the participants' descriptive characteristics.",
+      "text_id": 95,
+      "paragraph_id": 24,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Table <ref type=\"table\">1<\/ref> presents the participants' descriptive characteristics."
+    },
+    {
+      "text": "Of the 29 participants, 16 (~55%) did not employ a SWU during their usual training routine, 11 (~40%) regularly employed a SWU and 2 (~5%) reported sporadic use of SWU.",
+      "text_id": 96,
+      "paragraph_id": 24,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Analyses for the primary outcomes of VL, RP, and FI are presented in Table 2.",
+      "text_id": 97,
+      "paragraph_id": 25,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Analyses for the primary outcomes of VL, RP, and FI are presented in Table <ref type=\"table\">2<\/ref>."
+    },
+    {
+      "text": "For the bench press, SMDs comparing each warm-up condition to control were generally modest, with central estimates ranging from negligible to small in magnitude.",
+      "text_id": 98,
+      "paragraph_id": 25,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The posterior probabilities that either warm-up condition was superior to control remained relatively low across all outcomes (0.089 ≤ p ≤ 0.726).",
+      "text_id": 99,
+      "paragraph_id": 25,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, the evidence consistently provided \"strong\" to \"very strong\" support against the hypothesis of a strictly ordered effect (i.e., CON < 1SET < 2SET), indicating limited support for a dose-response relationship based on the number of warm-up sets.",
+      "text_id": 100,
+      "paragraph_id": 25,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Furthermore, the evidence consistently provided \"strong\" to \"very strong\" support against the hypothesis of a strictly ordered effect (i.e., CON &lt; 1SET &lt; 2SET), indicating limited support for a dose-response relationship based on the number of warm-up sets."
+    },
+    {
+      "text": "Similar results were observed for the primary outcomes during the leg press, with relatively low posterior probabilities that either warm-up condition was superior to control (0.067 ≤ p ≤ 0.855).",
+      "text_id": 101,
+      "paragraph_id": 25,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, in contrast to the bench press, the evidence against a strictly ordered effect (CON < 1SET < 2SET) was classified as \"anecdotal\" for both VL and RP, and \"strong\" for the FI.",
+      "text_id": 102,
+      "paragraph_id": 25,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "However, in contrast to the bench press, the evidence against a strictly ordered effect (CON &lt; 1SET &lt; 2SET) was classified as \"anecdotal\" for both VL and RP, and \"strong\" for the FI."
+    },
+    {
+      "text": "Fig. 2 depicts the descriptive data for the outcomes across all conditions and exercises.",
+      "text_id": 103,
+      "paragraph_id": 26,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Fig. <ref type=\"figure\" target=\"#fig_1\">2<\/ref> depicts the descriptive data for the outcomes across all conditions and exercises."
+    },
+    {
+      "text": "The KSS scores before the 1SET, 2SET and CON experimental sessions were 3.4 ± 1.5, 3.9 ± 1.8, and 3.5 ± 1.7, respectively.",
+      "text_id": 104,
+      "paragraph_id": 26,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The Exercise Readiness scores before and after bench press SWU were 1.1 ± 1.4 and 1.4 ± 1.1 for 1SET and 1.3 ± 1.2 and 1.6 ± 0.9 for 2SET, respectively, and 1.4 ± 1.2 before the working sets for CON.",
+      "text_id": 105,
+      "paragraph_id": 26,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The Exercise Readiness scores before and after the 45 o leg press SWU were 1.3 ± 1.0 and 1.4 ± 1.0 for 1SET, and 1.5 ± 1.0 and 1.4 ± 1.1 for 2SET, respectively, and 1.3 ± 1.1 for CON.",
+      "text_id": 106,
+      "paragraph_id": 26,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The RPE after the first SWU",
+      "text_id": 107,
+      "paragraph_id": 26,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Descriptive characteristics of the sample (n = 29; 22 males, 7 females).",
+      "text_id": 108,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abbreviations: y = years; cm = centimeter; kg = kilogram; SD = standard deviation. * = without the bar and platform mass.",
+      "text_id": 109,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data are depicted as mean and standard deviation (SD).",
+      "text_id": 110,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Variables Mean ± SD Age (y) 22.9 ± 3.6 Height (cm) 167.6 ± 1.0 Body mass (kg) 79.1 ± 15.0 Body fat (%) 19.9 ± 9.1 RT experience (y) 4.5 ± 3.9 Previous chest press volume (sets.week -1 ) 11 ± 6 Previous leg press volume (sets.week -1 ) 6 ± 3 10 RM load at smith machine bench press (kg)* 47.8 ± 22.8 10 RM load at 45 o leg press (kg)* 175.9 ± 64.5 10 RM*:body mass ratio at smith machine bench press (a.u.) 0.6 ± 0.2 10 RM*:body mass ratio at 45 o leg press (a.u.) 2.2 ± 0.7 set was 3.0 ± 1.0 for 1SET and 2.7 ± 0.8 for 2SET on bench press and 3.4 ± 1.3 for 1SET and 3.0 ± 0.9 for 2SET on leg press; values after the second SWU set were 3.8 ± 1.3 on bench press and 3.8 ± 1.0 on leg press for 2SET.",
+      "text_id": 111,
+      "paragraph_id": 28,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A visual overview of RPE across the 4 sets, and the potential for warm-up conditions to moderate this change, is presented in Figures 2D and H.",
+      "text_id": 112,
+      "paragraph_id": 28,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "A visual overview of RPE across the 4 sets, and the potential for warm-up conditions to moderate this change, is presented in Figures <ref type=\"figure\" target=\"#fig_1\">2D<\/ref> and <ref type=\"figure\">H<\/ref>."
+    },
+    {
+      "text": "There was limited evidence of an interaction effect for both the bench press and leg press.",
+      "text_id": 113,
+      "paragraph_id": 28,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For each additional set, the estimated change in RPE relative to CON was small: bench press -1SET: β = -0.07 [95 % CrI: -0.15 to 0.01], 2SET: β = -0.05 [95 % CrI: -0.13 to 0.03]; leg press -1SET: β = -0.05 [95 % CrI: -0.15 to 0.05], 2SET: β = -0.06 [95 % CrI: -0.16 to 0.04].",
+      "text_id": 114,
+      "paragraph_id": 28,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No adverse events were reported by any participant during the training sessions.",
+      "text_id": 115,
+      "paragraph_id": 29,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To explore whether strength influenced the extent to which SWU affected total repetitions, we examined how the effect of each condition varied across participants with different strength levels, as quantified by load used.",
+      "text_id": 116,
+      "paragraph_id": 30,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We found little to no evidence of an interaction effect for either the bench press or leg press.",
+      "text_id": 117,
+      "paragraph_id": 30,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For each one SD increase in strength, the estimated increase in repetitions (relative to control) was: bench press -1SET: β = 1.5 [95 %CrI: -0.43 to 3.4], 2SET: β = 0.8 [95 %CrI: -1.1 to 2.7]; leg press -1SET: β = -1.8 [95 %CrI: -5.2 to 1.6], 2SET: β = 0.5 [95 %CrI: -2.9 to 3.9].",
+      "text_id": 118,
+      "paragraph_id": 30,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study investigated the effects of varying the set number and loads in SWU protocols on RT session performance and perceptual responses in resistance-trained individuals.",
+      "text_id": 119,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We hypothesized that a higher SWU set number at higher loads would enhance submaximal multi-set RT session performance.",
+      "text_id": 120,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, our findings did not support this hypothesis, since the multi-set RT session performance, assessed by repetitions performance, fatigue index and volume load, was relatively similar among different SWU set numbers and loading schemes compared to no warm-up at all.",
+      "text_id": 121,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, our main finding was that varying the SWU protocol, as set number or load, neither appreciably enhanced nor impaired RT session performance in resistance-trained individuals.",
+      "text_id": 122,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A primary purpose of employing specific warm-up protocols is to increase neuromuscular output in the subsequent exercise.",
+      "text_id": 123,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Some previous research on the topic provides uncertainty regarding SWU protocols.",
+      "text_id": 124,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For instance, Viveiros et al. 18 investigated different SWU protocols consisting of 15 repetitions at 40%, 10 repetitions at 60% and 5 repetitions at 80% of the 10 RM load before 3 sets of the bench press, Table 2 Comparison of warm-up set conditions on bench press and leg press performance outcomes.",
+      "text_id": 125,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "For instance, Viveiros et al. <ref type=\"bibr\" target=\"#b17\">18<\/ref> investigated different SWU protocols consisting of 15 repetitions at 40%, 10 repetitions at 60% and 5 repetitions at 80% of the 10 RM load before 3 sets of the bench press, Table <ref type=\"table\">2<\/ref> Comparison of warm-up set conditions on bench press and leg press performance outcomes."
+    },
+    {
+      "text": "Abbreviations: 1SET: 1-set condition; 2SET: 2-sets condition; CON: control condition; CrI: Credible interval; SMD: Standardized mean difference effect size; S&C Specific threshold of 0.15, 0.30, and 0.50 for small, medium, and large were used for interpretation. 25 Probabilities were calculated from the proportion of the posterior distribution indicating superiority.",
+      "text_id": 126,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Abbreviations: 1SET: 1-set condition; 2SET: 2-sets condition; CON: control condition; CrI: Credible interval; SMD: Standardized mean difference effect size; S&amp;C Specific threshold of 0.15, 0.30, and 0.50 for small, medium, and large were used for interpretation. <ref type=\"bibr\" target=\"#b24\">25<\/ref> Probabilities were calculated from the proportion of the posterior distribution indicating superiority."
+    },
+    {
+      "text": "Exercise/Outcome 1SET compared to CON (SMD [95 % CrI]) Probability 1SET superior to CON 2SET compared to CON (SMD [95 % CrI]) Probability 2SET superior to CON Evidence ratio of ordered effect (CON < 1SET < 2SET) Bench Press Repetitions Performance -0.02 [-0.34 to 0.30] p = 0.459 -0.21 [-0.53 to 0.10] p = 0.089 0.01: \"Very strong\" evidence against Fatigue Index 0.13 [-0.30 to 0.57] p = 0.726 -0.12 [-0.55 to 0.33] p = 0.297 0.06: \"Strong\" evidence against Volume load 0.04 [-0.12 to 0.20] p = 0.701 -0.07 [-0.23 to 0.10] p = 0.212 0.03: \"Strong\" evidence against 45 • Leg Press Repetitions Performance 0.08 [-0.33 to 0.50] p = 0.642 0.22 [-0.20 to 0.63] p = 0.853 0.75: \"Anecdotal\" evidence against Fatigue Index -0.26 [-0.59 to 0.08] p = 0.067 0.00 [-0.33 to 0.33] p = 0.508 0.05: \"Strong\" evidence against Volume load 0.00 [-0.22 to 0.22] p = 0.499 0.12 [-0.11 to 0.34] p = 0.855 0.62: \"Anecdotal\" evidence against Bench Press 45 o Leg Press inclined leg press, and wide grip lat pulldown in men with at least 6 months of RT experience.",
+      "text_id": 127,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Exercise/Outcome 1SET compared to CON (SMD [95 % CrI]) Probability 1SET superior to CON 2SET compared to CON (SMD [95 % CrI]) Probability 2SET superior to CON Evidence ratio of ordered effect (CON &lt; 1SET &lt; 2SET) Bench Press Repetitions Performance -0.02 [-0.34 to 0.30] p = 0.459 -0.21 [-0.53 to 0.10] p = 0.089 0.01: \"Very strong\" evidence against Fatigue Index 0.13 [-0.30 to 0.57] p = 0.726 -0.12 [-0.55 to 0.33] p = 0.297 0.06: \"Strong\" evidence against Volume load 0.04 [-0.12 to 0.20] p = 0.701 -0.07 [-0.23 to 0.10] p = 0.212 0.03: \"Strong\" evidence against 45 • Leg Press Repetitions Performance 0.08 [-0.33 to 0.50] p = 0.642 0.22 [-0.20 to 0.63] p = 0.853 0.75: \"Anecdotal\" evidence against Fatigue Index -0.26 [-0.59 to 0.08] p = 0.067 0.00 [-0.33 to 0.33] p = 0.508 0.05: \"Strong\" evidence against Volume load 0.00 [-0.22 to 0.22] p = 0.499 0.12 [-0.11 to 0.34] p = 0.855 0.62: \"Anecdotal\" evidence against Bench Press 45 o Leg Press inclined leg press, and wide grip lat pulldown in men with at least 6 months of RT experience."
+    },
+    {
+      "text": "The SWU protocols were performed before each exercise.",
+      "text_id": 128,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The 80% SWU protocol elicited a greater combined volume load compared to lower intensities; however, when scrutinizing results for each exercise, the 80% protocol elicited greater volume load and repetition performance only for the bench press compared to 60%, but not to 40%, with no other differences in volume load or FI within exercises or between protocols.",
+      "text_id": 129,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Importantly, the authors did not employ a control condition (i.e., no SWU).",
+      "text_id": 130,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Similarly, Garbisu-Hualde et al. 25 investigated 2 experimental conditions in resistance-trained individuals.",
+      "text_id": 131,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Similarly, Garbisu-Hualde et al. <ref type=\"bibr\" target=\"#b24\">25<\/ref> investigated 2 experimental conditions in resistance-trained individuals."
+    },
+    {
+      "text": "For both experimental conditions, the participants performed a standardized GWU (i.e. 5-min cycling) and SWU consisting of 10, 4, 2 and 1 repetitions at 40%, 60%, 70%, and 80% 1 RM, respectively.",
+      "text_id": 132,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After the standardized GWU and SWU, participants performed either a set to failure on the bench press at 80% 1 RM (control) or 1 repetition at 93% 1 RM followed by a set to failure on the bench press at 80% 1 RM (PAPE protocol).",
+      "text_id": 133,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors observed a positive effect induced by the conditioning activity (1 rep at 93% 1 RM) on repetition performance (mean difference ~1 repetition) and a slower mean propulsive velocity in the last repetition.",
+      "text_id": 134,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Of note, both conditions performed the standardized warm-up consisting of a GWU and SWU, which can be considered a confounder.",
+      "text_id": 135,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, S� a et al. 26 compared the effects of a SWU protocol (20 repetitions at 30% of 12 RM load) versus static stretching strategies on a RT session consisted in 45 o leg press, seated knee extension, leg curl and plantar flexion exercises in untrained individuals.",
+      "text_id": 136,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Additionally, S� a et al. <ref type=\"bibr\" target=\"#b25\">26<\/ref> compared the effects of a SWU protocol (20 repetitions at 30% of 12 RM load) versus static stretching strategies on a RT session consisted in 45 o leg press, seated knee extension, leg curl and plantar flexion exercises in untrained individuals."
+    },
+    {
+      "text": "The authors detected an advantage on the total number of repetitions (only in 45 o leg press, leg curl and plantar flexion) and volume load after the SWU condition when compared to ballistic stretching and passive static stretching strategies. 26 Although these studies suggest a performance-related benefit of SWU, the effects appear to be small in magnitude, and the absence of control conditions limits the inferences that can be drawn.",
+      "text_id": 137,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "The authors detected an advantage on the total number of repetitions (only in 45 o leg press, leg curl and plantar flexion) and volume load after the SWU condition when compared to ballistic stretching and passive static stretching strategies. <ref type=\"bibr\" target=\"#b25\">26<\/ref> Although these studies suggest a performance-related benefit of SWU, the effects appear to be small in magnitude, and the absence of control conditions limits the inferences that can be drawn."
+    },
+    {
+      "text": "Alternatively, Lisboa et al. 27 compared the effects of SWU, static stretching, and a control condition preceding 2 sets of a variety of upperand lower-body exercises performed to volitional concentric failure in older women.",
+      "text_id": 138,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Alternatively, Lisboa et al. <ref type=\"bibr\" target=\"#b26\">27<\/ref> compared the effects of SWU, static stretching, and a control condition preceding 2 sets of a variety of upperand lower-body exercises performed to volitional concentric failure in older women."
+    },
+    {
+      "text": "The SWU protocol consisted of a set lasting 45 s at ~30%-50% of the working set weight (8-12 repetitions) while participants remained seated for the same 45 s in the control condition.",
+      "text_id": 139,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Curiously, the SWU protocol elicited similar performance to the control and static stretching conditions, but upper-body performance was impaired after the SWU protocol compared to control and static stretching.",
+      "text_id": 140,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although the study by Lisboa et al. 27 involved older females rather than resistance-trained individuals, their finding of no improvement on lower body performance following a SWU protocol aligns with our findings and those of other studies conducted in resistance-trained individuals using multiple-set protocols, 11, 28 but the finding regarding upper body performance contrasts with our findings, since we did not detect impairments on upper body performance.",
+      "text_id": 141,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Although the study by Lisboa et al. <ref type=\"bibr\" target=\"#b26\">27<\/ref> involved older females rather than resistance-trained individuals, their finding of no improvement on lower body performance following a SWU protocol aligns with our findings and those of other studies conducted in resistance-trained individuals using multiple-set protocols, <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b27\">28<\/ref> but the finding regarding upper body performance contrasts with our findings, since we did not detect impairments on upper body performance."
+    },
+    {
+      "text": "Similar to our findings, Neves et al. 29 compared a GWU + SWU versus only SWU condition on mechanical and perceptual variables at barbell back squat and bench press in trained individuals (at least 6 months of previous RT experience).",
+      "text_id": 142,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Similar to our findings, Neves et al. <ref type=\"bibr\" target=\"#b28\">29<\/ref> compared a GWU + SWU versus only SWU condition on mechanical and perceptual variables at barbell back squat and bench press in trained individuals (at least 6 months of previous RT experience)."
+    },
+    {
+      "text": "The SWU condition was constituted by 2 sets of 6 reps at 40%-and 80% of the working load.",
+      "text_id": 143,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors did not detect differences between the warm-up conditions, similar to our findings, although they did not include a control condition.",
+      "text_id": 144,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Interestingly, approximately 55% (n = 16) of our sample did not employ SWU sets in their regular RT routine.",
+      "text_id": 145,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This variability in training background might be a potential confounding factor influencing our results and may partially explain the lack of support for our initial hypothesis.",
+      "text_id": 146,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For instance, some participants accustomed to performing SWU sets self-reported some change on expectancy and readiness levels in the control condition.",
+      "text_id": 147,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Whether prior experience with SWU sets constitutes a confounding factor remains uncertain and warrants further investigation in future studies.",
+      "text_id": 148,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nonetheless, it could be argued that SWU improves the subsequent performance only in specific activities such as jumps, sprints, or RT sets performed at intensities above ~80%. 14, 30 It can be speculated that in resistance training carried out in medium to higher repetition ranges (e.g., 10+ RM), the initial several repetitions of each set function as a SWU by priming the neuromuscular system to the movement pattern, thereby obviating the need for a SWU prior to performance.",
+      "text_id": 149,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Nonetheless, it could be argued that SWU improves the subsequent performance only in specific activities such as jumps, sprints, or RT sets performed at intensities above ~80%. <ref type=\"bibr\" target=\"#b13\">14,<\/ref> <ref type=\"bibr\" target=\"#b29\">30<\/ref> It can be speculated that in resistance training carried out in medium to higher repetition ranges (e.g., 10+ RM), the initial several repetitions of each set function as a SWU by priming the neuromuscular system to the movement pattern, thereby obviating the need for a SWU prior to performance."
+    },
+    {
+      "text": "Moreover, these initial repetitions when performing a higher repetition range can enhance the blood flow to the working muscles, augmenting the metabolic efficiency (oxygen and substrate to the muscles), 8 thus reducing the requirement for SWU, particularly among individuals who are already accustomed to training without SWU in their regular RT routines.",
+      "text_id": 150,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Moreover, these initial repetitions when performing a higher repetition range can enhance the blood flow to the working muscles, augmenting the metabolic efficiency (oxygen and substrate to the muscles), <ref type=\"bibr\" target=\"#b7\">8<\/ref> thus reducing the requirement for SWU, particularly among individuals who are already accustomed to training without SWU in their regular RT routines."
+    },
+    {
+      "text": "In addition, although some research suggests that stronger participants can benefit more from SWU protocols, 30, 31 theoretically due to higher levels of potentiation and greater muscle volume, our regression analysis showed that initial strength did not influence the SWU effects.",
+      "text_id": 151,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "In addition, although some research suggests that stronger participants can benefit more from SWU protocols, <ref type=\"bibr\" target=\"#b29\">30,<\/ref> <ref type=\"bibr\" target=\"#b30\">31<\/ref> theoretically due to higher levels of potentiation and greater muscle volume, our regression analysis showed that initial strength did not influence the SWU effects."
+    },
+    {
+      "text": "Our study is not without limitations.",
+      "text_id": 152,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "First, our findings are specific to healthy, young, resistance-trained individuals and should not be extrapolated to other populations such as untrained, older individuals, or elite athletes.",
+      "text_id": 153,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Second, although we aimed to make our study design as ecologically valid as possible and to avoid any influence from pretraining assessments (e.g., isometric testing), 14 resource and logistical constraints limited our ability to include additional neuromuscular (e.g., isometric dynamometry, countermovement jump, velocity-based assessments), biochemical (e.g., blood lactate analysis) and perceptual (e. g., Session-RPE) measurements that could help to contextualize our findings.",
+      "text_id": 154,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Second, although we aimed to make our study design as ecologically valid as possible and to avoid any influence from pretraining assessments (e.g., isometric testing), <ref type=\"bibr\" target=\"#b13\">14<\/ref> resource and logistical constraints limited our ability to include additional neuromuscular (e.g., isometric dynamometry, countermovement jump, velocity-based assessments), biochemical (e.g., blood lactate analysis) and perceptual (e. g., Session-RPE) measurements that could help to contextualize our findings."
+    },
+    {
+      "text": "Third, to maintain consistency, the exercise order was the same across all experimental sessions; however, randomizing the exercise order could potentially reduce bias on the order and learning effect.",
+      "text_id": 155,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fourth, our findings are specific to performing the Smith machine bench press and 45 o leg press with a 10 RM load and 120-s rest intervals, and inferences cannot necessarily be extrapolated to different exercises, order, repetitions range (e.g.",
+      "text_id": 156,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "1-3 RM), or rest intervals between SWU and working sets.",
+      "text_id": 157,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fifth, although no participants experienced adverse events in any of the conditions during the intervention, our study was not designed to assess the effect of SWU on injury risk, which is often cited as a rationale for employing the strategy. 32 This topic requires future investigation.",
+      "text_id": 158,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Fifth, although no participants experienced adverse events in any of the conditions during the intervention, our study was not designed to assess the effect of SWU on injury risk, which is often cited as a rationale for employing the strategy. <ref type=\"bibr\" target=\"#b31\">32<\/ref> This topic requires future investigation."
+    },
+    {
+      "text": "Finally, our findings are specific to acute performance and perceptual responses and thus caution should be used when attempting to extrapolate implications to neuromuscular adaptations such as strength, power, and muscle hypertrophy.",
+      "text_id": 159,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Our findings indicate that performing 1 or 2 sets of 3-4 repetitions at 55% and 75% of 10 RM load elicits similar effects on upper-and lowerbody performance (repetitions performed, fatigue index and volume load) as well as on perceptual responses compared to no SWU.",
+      "text_id": 160,
+      "paragraph_id": 37,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Moreover, individual strength capacity did not influence the effects of SWU on our performance variables.",
+      "text_id": 161,
+      "paragraph_id": 37,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Given that lack of time is one of the principal barriers to resistancetraining adherence, coaches and practitioners with time constraints do not necessarily need to employ SWU sets when training with ~10 RM loads, thus saving ~2-5 min per exercise.",
+      "text_id": 162,
+      "paragraph_id": 38,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nonetheless, given that our study did not show any detriments to performing a SWU, its implementation should be considered on an individual basis, especially for those without time constraints who objectively or perceptually feel the strategy better prepares them for their working sets.",
+      "text_id": 163,
+      "paragraph_id": 38,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We would like to express our gratitude to all participants for their commitment with the present study.",
+      "text_id": 164,
+      "paragraph_id": 39,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AE gratefully acknowledges the support by the Fulbright U.S. Student Program -Doctoral Dissertation Research Award, which is sponsored by the U.S. Department of State and Brazilian Fulbright Commission.",
+      "text_id": 165,
+      "paragraph_id": 39,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "AE gratefully acknowledges the support by the <rs type=\"funder\">Fulbright U.S. Student Program -Doctoral Dissertation Research Award<\/rs>, which is sponsored by the <rs type=\"funder\">U.S. Department of State and Brazilian Fulbright Commission<\/rs>."
+    },
+    {
+      "text": "The authors declare the following financial interests/personal relationships which may be considered as potential competing interests: BJS formerly served on the scientific advisory board for Tonal Corporation, a manufacturer of fitness equipment.",
+      "text_id": 166,
+      "paragraph_id": 40,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The other authors report no conflicts of interest with this manuscript.",
+      "text_id": 167,
+      "paragraph_id": 40,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CRediT authorship contribution statement Alysson Enes: Writingoriginal draft, Methodology, Investigation, Conceptualization.",
+      "text_id": 168,
+      "paragraph_id": 41,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Adam E. Mohan: Writingreview & editing, Methodology, Investigation.",
+      "text_id": 169,
+      "paragraph_id": 41,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Adam E. Mohan: Writingreview &amp; editing, Methodology, Investigation."
+    },
+    {
+      "text": "Alec Pi~ nero: Writingreview & editing, Methodology, Investigation.",
+      "text_id": 170,
+      "paragraph_id": 41,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Alec Pi~ nero: Writingreview &amp; editing, Methodology, Investigation."
+    },
+    {
+      "text": "Thomas Hermann: Writingreview & editing, Methodology, Investigation.",
+      "text_id": 171,
+      "paragraph_id": 41,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Thomas Hermann: Writingreview &amp; editing, Methodology, Investigation."
+    },
+    {
+      "text": "Max Sapuppo: Writingreview & editing, Methodology, Investigation.",
+      "text_id": 172,
+      "paragraph_id": 41,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Max Sapuppo: Writingreview &amp; editing, Methodology, Investigation."
+    },
+    {
+      "text": "Max Coleman: Writingreview & editing, Methodology.",
+      "text_id": 173,
+      "paragraph_id": 41,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Max Coleman: Writingreview &amp; editing, Methodology."
+    },
+    {
+      "text": "Patroklos Androulakis Korakakis: Writing -",
+      "text_id": 174,
+      "paragraph_id": 41,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants were informed of the procedures related to the study and signed a written informed consent form prior to enrollment in the study.",
+      "text_id": 175,
+      "paragraph_id": 42,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Approval for the study was obtained from the Lehman College Institutional Review Board (#2025-0055-Lehman).",
+      "text_id": 176,
+      "paragraph_id": 42,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study was implemented in accordance with the Declaration of Helsinki.",
+      "text_id": 177,
+      "paragraph_id": 42,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study was implemented in accordance with the Declaration of Helsinki.",
+      "text_id": 178,
+      "paragraph_id": 42,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study employed a crossover repeated-measures design and were preregistered prior to data collection (https://osf.io/f6w9b).",
+      "text_id": 179,
+      "paragraph_id": 42,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "This study employed a crossover repeated-measures design and were preregistered prior to data collection (<ref type=\"url\" target=\"https://osf.io/f6w9b\">https://osf.io/f6w9b<\/ref>)."
+    },
+    {
+      "text": "Supplementary data to this article can be found online at https://doi.org/10.1016/j.smhs.2025.08.002.",
+      "text_id": 180,
+      "paragraph_id": 43,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": "Supplementary data to this article can be found online at <ref type=\"url\" target=\"https://doi.org/10.1016/j.smhs.2025.08.002\">https://doi.  org/10.1016/j.smhs.2025.08.002<\/ref>."
+    },
+    {
+      "text": "Fig 1.",
+      "text_id": 181,
+      "paragraph_id": 44,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Experimental design overview.",
+      "text_id": 182,
+      "paragraph_id": 44,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abbreviations: 1SET = 1-set condition; 2SET = 2-sets condition; CON = control condition; 10 RM = 10 repetition-maximum; h = hours; min = minutes.",
+      "text_id": 183,
+      "paragraph_id": 44,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 2.",
+      "text_id": 184,
+      "paragraph_id": 45,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Descriptive data of the outcomes.",
+      "text_id": 185,
+      "paragraph_id": 45,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The repetitions performance (A and E), fatigue index (B and F), volume load (C and G) and rating of perceived exertion (D and H) were depicted for Bench Press (at the top, from Panel A to D) and 45 o Leg Press (at the bottom, from Panel E to H).",
+      "text_id": 186,
+      "paragraph_id": 45,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abbreviations: 1SET = 1-set condition; 2SET = 2-sets condition; CON = control condition; n = number of repetitions; kg = kilogram; a.u. = arbitrary units.",
+      "text_id": 187,
+      "paragraph_id": 45,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data are depicted as mean and individual responses in Panels A, B, C, E, F, G but as mean and standard deviation (SD) in Panels D and H.",
+      "text_id": 188,
+      "paragraph_id": 45,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "review & editing, Methodology.",
+      "text_id": 189,
+      "paragraph_id": 46,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "review &amp; editing, Methodology."
+    },
+    {
+      "text": "Milo Wolf: Writingreview & editing, Methodology.",
+      "text_id": 190,
+      "paragraph_id": 46,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Milo Wolf: Writingreview &amp; editing, Methodology."
+    },
+    {
+      "text": "T� acito P. Souza-Junior: Writingreview & editing, Methodology.",
+      "text_id": 191,
+      "paragraph_id": 46,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "T� acito P. Souza-Junior: Writingreview &amp; editing, Methodology."
+    },
+    {
+      "text": "Paul A. Swinton: Writingreview & editing, Formal analysis, Data curation.",
+      "text_id": 192,
+      "paragraph_id": 46,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Paul A. Swinton: Writingreview &amp; editing, Formal analysis, Data curation."
+    },
+    {
+      "text": "Brad J. Schoenfeld: Writingreview & editing, Supervision, Project administration, Methodology, Conceptualization.",
+      "text_id": 193,
+      "paragraph_id": 46,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Brad J. Schoenfeld: Writingreview &amp; editing, Supervision, Project administration, Methodology, Conceptualization."
+    },
+    {
+      "text": "Schoenfeld B, Fisher J, Grgic J, et al. Resistance training recommendations to maximize muscle hypertrophy in an athletic population: position stand of the IUSCA. Int J Strength Cond. 2021;1(1):1-30. https://doi.org/10.47206/ijsc.v1i1.81.",
+      "text_id": 194,
+      "paragraph_id": 47,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Boullosa D. Post-activation performance enhancement strategies in sport: a brief review for practitioners. Hum Mov. 2021;22(3):101-109. https://doi.org/10.5114/hm.2021.103280.",
+      "text_id": 195,
+      "paragraph_id": 48,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ratamess N. Acsm's Foundations of Strength Training and Conditioning. second ed. Lippincott Williams & Wilkins; 2021.",
+      "text_id": 196,
+      "paragraph_id": 49,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Schoenfeld BJ, Snarr RL. Nsca's Essentials of Personal Training. third ed. Human Kinetics; 2021.",
+      "text_id": 197,
+      "paragraph_id": 50,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Haff GG, Triplett NT. Essentials of Strength Training and Conditioning. fourth ed. Human Kinetics; 2015.",
+      "text_id": 198,
+      "paragraph_id": 51,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Barroso R, Silva-Batista C, Tricoli V, et al. The effects of different intensities and durations of the general warm-up on leg press 1RM. J Strength Condit Res. 2013;27 (4):1009-1013. https://doi.org/10.1519/JSC.0b013e3182606cd9.",
+      "text_id": 199,
+      "paragraph_id": 52,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abad CCC, Prado ML, Ugrinowitsch C, et al. Combination of general and specific warm-ups improves leg-press one repetition maximum compared with specific warm-up in trained individuals. J Strength Condit Res. 2011;25(8):2242-2245. https://doi.org/10.1519/JSC.0b013e3181e8611b.",
+      "text_id": 200,
+      "paragraph_id": 53,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "McGowan CJ, Pyne DB, Thompson KG, et al. Warm-up strategies for sport and exercise: mechanisms and applications. Sports Med. 2015;45:1523-1546. https://doi.org/10.1007/s40279-015-0376-x.",
+      "text_id": 201,
+      "paragraph_id": 54,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Afonso J, Brito J, Abade E, et al. Revisiting the \"Whys\" and \"Hows\" of the warm-up: are we asking the right questions? Sports Med. 2024;54(1):23-30. https://doi.org/10.1007/s40279-023-01908-y.",
+      "text_id": 202,
+      "paragraph_id": 55,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ribeiro B, Pereira A, Neves P, et al. The effect of warm-up in resistance training and strength performance: a systematic review. Motricidade. 2021;17(1):87-94. https://doi.org/10.6063/motricidade.21143.",
+      "text_id": 203,
+      "paragraph_id": 56,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ribeiro AS, Romanzini M, Schoenfeld BJ, et al. Effect of different warm-up procedures on the performance of resistance training exercises. Percept Mot Skills. 2014;119(1):133-145. https://doi.org/10.2466/25.29.PMS.119c17z7.",
+      "text_id": 204,
+      "paragraph_id": 57,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Brandenburg JP. The acute effects of prior dynamic resistance exercise using different loads on subsequent upper-body explosive performance in resistance- trained men. J Strength Condit Res. 2005;19(2):427-432. https://doi.org/10.1519/R- 15074.1.",
+      "text_id": 205,
+      "paragraph_id": 58,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abbud N, Tabet J, Dias M. Efeito do aquecimento específico em um teste de repetiç~ oes m� aximas no exercício de supino reto. Rev Eletrônica da Fac Metod Granbery. 2013;14:1-16.",
+      "text_id": 206,
+      "paragraph_id": 59,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Blazevich AJ, Babault N. Post-activation potentiation versus post-activation performance enhancement in humans: historical perspective, underlying mechanisms, and current issues. Front Physiol. 2019;10:1359. https://doi.org/10.3389/fphys.2019.01359.",
+      "text_id": 207,
+      "paragraph_id": 60,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nader AN, da Silva AMG, da Rocha HNB, et al. Influência dos aquecimentos geral e específico na força de membros superiores. RBPFEX-Revista Bras Prescriç~ ao e Fisiol do Exerc. 2009;3(18):1-5.",
+      "text_id": 208,
+      "paragraph_id": 61,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ribeiro B, Pereira A, Neves PP, et al. The role of specific warm-up during bench press and squat exercises: a novel approach. Int J Environ Res Publ Health. 2020;17 (18):6882. https://doi.org/10.3390/ijerph17186882.",
+      "text_id": 209,
+      "paragraph_id": 62,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "De Freitas MC, Rossi FE, Colognesi LA, et al. Postactivation potentiation improves acute resistance exercise performance and muscular force in trained men. J Strength Condit Res. 2021;35(5):1357-1363. https://doi.org/10.1519/JSC.0000000000002897.",
+      "text_id": 210,
+      "paragraph_id": 63,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Viveiros L, Gioia K, Nasser I, et al. High-load and low-volume warm-up increases performance in a resistance training session. J Bodyw Mov Ther. 2024;40: 1487-1491. https://doi.org/10.1016/j.jbmt.2024.08.004.",
+      "text_id": 211,
+      "paragraph_id": 64,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wang F, Gelfand AE. A simulation-based approach to Bayesian sample size determination for performance under a given model and for separating models. Stat Sci. 2002;17(2):193-208.",
+      "text_id": 212,
+      "paragraph_id": 65,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sforzo GA, Touey PR. Manipulating exercise order affects muscular performance during a resistance exercise training session. J Strength Condit Res. 1996;10(1): 20-24.",
+      "text_id": 213,
+      "paragraph_id": 66,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zourdos MC, Klemp A, Dolan C, et al. Novel resistance training -specific rating of perceived exertion scale measuring repetitions in reserve. J Strength Condit Res. 2016;30(1):267-275. https://doi.org/10.1519/JSC.0000000000001049.",
+      "text_id": 214,
+      "paragraph_id": 67,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Strohacker K, Zakrajsek RA. Determining dimensionality of exercise readiness using exploratory factor analysis. J Sports Sci Med. 2016;15(2):229. https://pubmed.ncbi. nlm.nih.gov/27274659/.",
+      "text_id": 215,
+      "paragraph_id": 68,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Åkerstedt T, Gillberg M. Subjective and objective sleepiness in the active individual. Int J Neurosci. 1990;52(1-2):29-37. https://doi.org/10.3109/00207459008994241.",
+      "text_id": 216,
+      "paragraph_id": 69,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lee MD, Wagenmakers EJ. Bayesian Cognitive Modeling: A Practical Course. Cambridge University Press; 2014.",
+      "text_id": 217,
+      "paragraph_id": 70,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Garbisu-Hualde A, Gutierrez L, Santos-Concejero J. Post-activation performance enhancement as a strategy to improve bench press performance to volitional failure. J Hum Kinet. 2023;88:199. https://doi.org/10.5114/jhk/162958.",
+      "text_id": 218,
+      "paragraph_id": 71,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "S� a MA, Neto GR, Costa PB, et al. Acute effects of different stretching techniques on the number of repetitions in a single lower body resistance training session. J Hum Kinet. 2015;45:177. https://doi.org/10.1515/hukin-2015-0018.",
+      "text_id": 219,
+      "paragraph_id": 72,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lisboa F, Kassiano W, Stavinski N, et al. Effects of static stretching and specific warm-up on the repetition performance in upper-and lower-limb exercises in resistance-trained older women. Aging Clin Exp Res. 2025;37(1):1-6. https://doi.org/10.1007/s40520-024-02880-x.",
+      "text_id": 220,
+      "paragraph_id": 73,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Souza D, Silva AG, Vale A, et al. Effect of warm-up protocols using lower and higher loads on multiple-set back squat volume-load. PeerJ. 2024;12:e17347. https://doi.org/10.7717/peerj.17347.",
+      "text_id": 221,
+      "paragraph_id": 74,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Neves PP, Alves AR, Marinho DA, et al. The impact of general and/or specific warm- up on power and velocity during squat and bench-press training. Retos. 2024;53: 28-35. https://doi.org/10.47197/retos.v53.101851.",
+      "text_id": 222,
+      "paragraph_id": 75,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Seitz LB, Haff GG. Factors modulating post-activation potentiation of jump, sprint, throw, and upper-body ballistic performances: a systematic review with meta- analysis. Sports Med. 2016;46:231-240. https://doi.org/10.1007/s40279-015-0415- 7.",
+      "text_id": 223,
+      "paragraph_id": 76,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Seitz LB, Trajano GS, Haff GG, et al. Relationships between maximal strength, muscle size, and myosin heavy chain isoform composition and postactivation potentiation. Appl Physiol Nutr Metabol. 2016;41(5):491-497. https://doi.org/10.1139/apnm-2015-0403.",
+      "text_id": 224,
+      "paragraph_id": 77,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Washif JA, Beaven CM, Pagaduan J, et al. Current practices of warm-up during strength training and conditioning based on coaching experience. Sport Sci Health. 2025;21:1029-1041.",
+      "text_id": 225,
+      "paragraph_id": 78,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Ethical approval",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Study design",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.2. Participants",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.3. Sample size justification",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.4. Resistance training procedures",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "2.5. Anthropometry",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "2.6. Neuromuscular performance",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "2.7. Instructions for specific warm-up sets",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "2.8. Perceptual measurements",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "2.9. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "5. Conclusion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "Acknowledgements",
+      "parent_section_id": null,
+      "section_type": "acknowledgement",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "Declaration of competing interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "Ethical approval statement",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Appendix A. Supplementary data",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "Fig 1.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "Fig 2.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 24,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 25,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [
+    {
+      "href": "https://osf.io/f6w9b",
+      "link_text": null,
+      "text_id": 27
+    },
+    {
+      "href": "http://randomizer.org",
+      "link_text": null,
+      "text_id": 46
+    },
+    {
+      "href": "https://osf.io/f6w9b",
+      "link_text": null,
+      "text_id": 47
+    },
+    {
+      "href": "https://osf.io/f6w9b",
+      "link_text": null,
+      "text_id": 179
+    },
+    {
+      "href": "https://doi.org/10.1016/j.smhs.2025.08.002",
+      "link_text": null,
+      "text_id": 180
+    }
+  ],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "10.47206/ijsc.v1i1.81",
+      "title": "Resistance training recommendations to maximize muscle hypertrophy in an athletic population: position stand of the IUSCA",
+      "authors": "Schoenfeld, B; Fisher, J; Grgic, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "1",
+      "issue": "1",
+      "first_page": "1",
+      "last_page": "30",
+      "container": "Int J Strength Cond",
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 194
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.5114/hm.2021.103280",
+      "title": "Post-activation performance enhancement strategies in sport: a brief review for practitioners",
+      "authors": "Boullosa, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "22",
+      "issue": "3",
+      "first_page": "101",
+      "last_page": "109",
+      "container": "Hum Mov",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 195
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Acsm's Foundations of Strength Training and Conditioning",
+      "authors": "Ratamess, N",
+      "editors": "",
+      "publisher": "Lippincott Williams & Wilkins",
+      "year": 2021,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 196
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Nsca's Essentials of Personal Training",
+      "authors": "Schoenfeld, B J; Snarr, R L",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 197
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Essentials of Strength Training and Conditioning",
+      "authors": "Haff, G G; Triplett, N T",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 198
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1519/JSC.0b013e3182606cd9",
+      "title": "The effects of different intensities and durations of the general warm-up on leg press 1RM",
+      "authors": "Barroso, R; Silva-Batista, C; Tricoli, V",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "27",
+      "issue": "4",
+      "first_page": "1009",
+      "last_page": "1013",
+      "container": "J Strength Condit Res",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 199
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1519/JSC.0b013e3181e8611b",
+      "title": "Combination of general and specific warm-ups improves leg-press one repetition maximum compared with specific warm-up in trained individuals",
+      "authors": "Abad, Ccc; Prado, M L; Ugrinowitsch, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "25",
+      "issue": "8",
+      "first_page": "2242",
+      "last_page": "2245",
+      "container": "J Strength Condit Res",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 200
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279%2D015%2D0376%2Dx",
+      "title": "Warm-up strategies for sport and exercise: mechanisms and applications",
+      "authors": "Mcgowan, C J; Pyne, D B; Thompson, K G",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "45",
+      "issue": "",
+      "first_page": "1523",
+      "last_page": "1546",
+      "container": "Sports Med",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 201
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279%2D023%2D01908%2Dy",
+      "title": "Revisiting the \"Whys\" and \"Hows\" of the warm-up: are we asking the right questions?",
+      "authors": "Afonso, J; Brito, J; Abade, E",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "54",
+      "issue": "1",
+      "first_page": "23",
+      "last_page": "30",
+      "container": "Sports Med",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 202
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.6063/motricidade.21143",
+      "title": "The effect of warm-up in resistance training and strength performance: a systematic review",
+      "authors": "Ribeiro, B; Pereira, A; Neves, P",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "17",
+      "issue": "1",
+      "first_page": "87",
+      "last_page": "94",
+      "container": "Motricidade",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 203
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2466/25.29.PMS.119c17z7",
+      "title": "Effect of different warm-up procedures on the performance of resistance training exercises",
+      "authors": "Ribeiro, A S; Romanzini, M; Schoenfeld, B J",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "119",
+      "issue": "1",
+      "first_page": "133",
+      "last_page": "145",
+      "container": "Percept Mot Skills",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 204
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1519/R%2D15074.1",
+      "title": "The acute effects of prior dynamic resistance exercise using different loads on subsequent upper-body explosive performance in resistancetrained men",
+      "authors": "Brandenburg, J P",
+      "editors": "",
+      "publisher": "",
+      "year": 2005,
+      "volume": "19",
+      "issue": "2",
+      "first_page": "427",
+      "last_page": "432",
+      "container": "J Strength Condit Res",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 205
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Efeito do aquecimento específico em um teste de repetiç~ oes m� aximas no exercício de supino reto",
+      "authors": "Abbud, N; Tabet, J; Dias, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "14",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "16",
+      "container": "Rev Eletrônica da Fac Metod Granbery",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 206
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3389/fphys.2019.01359",
+      "title": "Post-activation potentiation versus post-activation performance enhancement in humans: historical perspective, underlying mechanisms, and current issues",
+      "authors": "Blazevich, A J; Babault, N",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "10",
+      "issue": "",
+      "first_page": "1359",
+      "last_page": null,
+      "container": "Front Physiol",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 207
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Influência dos aquecimentos geral e específico na força de membros superiores. RBPFEX-Revista Bras Prescriç~ ao e Fisiol do Exerc",
+      "authors": "Nader, A N; Da Silva, Amg; Da Rocha, Hnb",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "3",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "5",
+      "container": null,
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 208
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/ijerph17186882",
+      "title": "The role of specific warm-up during bench press and squat exercises: a novel approach",
+      "authors": "Ribeiro, B; Pereira, A; Neves, P P",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "17",
+      "issue": "18",
+      "first_page": "6882",
+      "last_page": null,
+      "container": "Int J Environ Res Publ Health",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 209
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1519/JSC.0000000000002897",
+      "title": "Postactivation potentiation improves acute resistance exercise performance and muscular force in trained men",
+      "authors": "Freitas, De; Rossi, M C; Colognesi, F E; , L A",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "35",
+      "issue": "5",
+      "first_page": "1357",
+      "last_page": "1363",
+      "container": "J Strength Condit Res",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 210
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jbmt.2024.08.004",
+      "title": "High-load and low-volume warm-up increases performance in a resistance training session",
+      "authors": "Viveiros, L; Gioia, K; Nasser, I",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "40",
+      "issue": "",
+      "first_page": "1487",
+      "last_page": "1491",
+      "container": "J Bodyw Mov Ther",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 211
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "A simulation-based approach to Bayesian sample size determination for performance under a given model and for separating models",
+      "authors": "Wang, F; Gelfand, A E",
+      "editors": "",
+      "publisher": "",
+      "year": 2002,
+      "volume": "17",
+      "issue": "2",
+      "first_page": "193",
+      "last_page": "208",
+      "container": "Stat Sci",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 212
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Manipulating exercise order affects muscular performance during a resistance exercise training session",
+      "authors": "Sforzo, G A; Touey, P R",
+      "editors": "",
+      "publisher": "",
+      "year": 1996,
+      "volume": "10",
+      "issue": "1",
+      "first_page": "20",
+      "last_page": "24",
+      "container": "J Strength Condit Res",
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 213
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1519/JSC.0000000000001049",
+      "title": "Novel resistance training -specific rating of perceived exertion scale measuring repetitions in reserve",
+      "authors": "Zourdos, M C; Klemp, A; Dolan, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "30",
+      "issue": "1",
+      "first_page": "267",
+      "last_page": "275",
+      "container": "J Strength Condit Res",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 214
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Determining dimensionality of exercise readiness using exploratory factor analysis",
+      "authors": "Strohacker, K; Zakrajsek, R A",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "15",
+      "issue": "2",
+      "first_page": "229",
+      "last_page": null,
+      "container": "J Sports Sci Med",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 215
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3109/00207459008994241",
+      "title": "Subjective and objective sleepiness in the active individual",
+      "authors": "Åkerstedt, T; Gillberg, M",
+      "editors": "",
+      "publisher": "",
+      "year": 1990,
+      "volume": "52",
+      "issue": "1-2",
+      "first_page": "29",
+      "last_page": "37",
+      "container": "Int J Neurosci",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 216
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Bayesian Cognitive Modeling: A Practical Course",
+      "authors": "Lee, M D; Wagenmakers, E J",
+      "editors": "",
+      "publisher": "Cambridge University Press",
+      "year": 2014,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 217
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.5114/jhk/162958",
+      "title": "Post-activation performance enhancement as a strategy to improve bench press performance to volitional failure",
+      "authors": "Garbisu-Hualde, A; Gutierrez, L; Santos-Concejero, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "88",
+      "issue": "",
+      "first_page": "199",
+      "last_page": null,
+      "container": "J Hum Kinet",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 218
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1515/hukin%2D2015%2D0018",
+      "title": "Acute effects of different stretching techniques on the number of repetitions in a single lower body resistance training session",
+      "authors": "S� A, M A; Neto, G R; Costa, P B",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "45",
+      "issue": "",
+      "first_page": "177",
+      "last_page": null,
+      "container": "J Hum Kinet",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 219
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40520%2D024%2D02880%2Dx",
+      "title": "Effects of static stretching and specific warm-up on the repetition performance in upper-and lower-limb exercises in resistance-trained older women",
+      "authors": "Lisboa, F; Kassiano, W; Stavinski, N",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "37",
+      "issue": "1",
+      "first_page": "1",
+      "last_page": "6",
+      "container": "Aging Clin Exp Res",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 220
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.7717/peerj.17347",
+      "title": "Effect of warm-up protocols using lower and higher loads on multiple-set back squat volume-load",
+      "authors": "Souza, D; Silva, A G; Vale, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "12",
+      "issue": "",
+      "first_page": "17347",
+      "last_page": null,
+      "container": "PeerJ",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 221
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.47197/retos.v53.101851",
+      "title": "The impact of general and/or specific warmup on power and velocity during squat and bench-press training",
+      "authors": "Neves, P P; Alves, A R; Marinho, D A",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "53",
+      "issue": "",
+      "first_page": "28",
+      "last_page": "35",
+      "container": "Retos",
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 222
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279%2D015%2D0415%2D7",
+      "title": "Factors modulating post-activation potentiation of jump, sprint, throw, and upper-body ballistic performances: a systematic review with metaanalysis",
+      "authors": "Seitz, L B; Haff, G G",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "46",
+      "issue": "",
+      "first_page": "231",
+      "last_page": "240",
+      "container": "Sports Med",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 223
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1139/apnm%2D2015%2D0403",
+      "title": "Relationships between maximal strength, muscle size, and myosin heavy chain isoform composition and postactivation potentiation",
+      "authors": "Seitz, L B; Trajano, G S; Haff, G G",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "41",
+      "issue": "5",
+      "first_page": "491",
+      "last_page": "497",
+      "container": "Appl Physiol Nutr Metabol",
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 224
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Current practices of warm-up during strength training and conditioning based on coaching experience",
+      "authors": "Washif, J A; Beaven, C M; Pagaduan, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "21",
+      "issue": "",
+      "first_page": "1029",
+      "last_page": "1041",
+      "container": "Sport Sci Health",
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 225
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 12
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 12
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2",
+      "text_id": 12
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6",
+      "text_id": 12
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 12
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "[8]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "[9]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "[10]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 13
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6,",
+      "text_id": 13
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7,",
+      "text_id": 13
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 13
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1,",
+      "text_id": 18
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2,",
+      "text_id": 18
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 18
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 18
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "[18]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 18
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15",
+      "text_id": 18
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "[18]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "[18]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15",
+      "text_id": 18
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 18
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 19
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 22
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17]",
+      "text_id": 22
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "[18]",
+      "text_id": 22
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 33
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 41
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "19",
+      "text_id": 55
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 57
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S1",
+      "text_id": 60
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "20",
+      "text_id": 73
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 78
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22",
+      "text_id": 84
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 85
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "24",
+      "text_id": 94
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 95
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 97
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 103
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "2D",
+      "text_id": 112
+    },
+    {
+      "xref_id": null,
+      "xref_type": "figure",
+      "contents": "H",
+      "text_id": 112
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 125
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 125
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 126
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 131
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 136
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 137
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 138
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 141
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 141
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 141
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 142
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14,",
+      "text_id": 149
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 149
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8",
+      "text_id": 150
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30,",
+      "text_id": 151
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31",
+      "text_id": 151
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 154
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 158
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 22,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 23,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 3,
+      "section_id": 24,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [],
+  "eq": [
+    {
+      "text_id": 6,
+      "grp_id": 1,
+      "lhs": "CON",
+      "df": null,
+      "comp": "<",
+      "rhs": "1"
+    },
+    {
+      "text_id": 6,
+      "grp_id": 1,
+      "lhs": "SET",
+      "df": null,
+      "comp": "<",
+      "rhs": "2"
+    },
+    {
+      "text_id": 10,
+      "grp_id": 2,
+      "lhs": "at",
+      "df": null,
+      "comp": "~",
+      "rhs": "10"
+    },
+    {
+      "text_id": 60,
+      "grp_id": 3,
+      "lhs": "m",
+      "df": null,
+      "comp": "=",
+      "rhs": "500"
+    },
+    {
+      "text_id": 60,
+      "grp_id": 3,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "10"
+    },
+    {
+      "text_id": 73,
+      "grp_id": 4,
+      "lhs": "FI",
+      "df": "(S (last set)",
+      "comp": "=",
+      "rhs": "[ -S (first set) )/(S (first set) )]"
+    },
+    {
+      "text_id": 99,
+      "grp_id": 5,
+      "lhs": "p",
+      "df": null,
+      "comp": "≤",
+      "rhs": "0.726"
+    },
+    {
+      "text_id": 100,
+      "grp_id": 6,
+      "lhs": "CON",
+      "df": null,
+      "comp": "<",
+      "rhs": "1"
+    },
+    {
+      "text_id": 100,
+      "grp_id": 6,
+      "lhs": "SET",
+      "df": null,
+      "comp": "<",
+      "rhs": "2"
+    },
+    {
+      "text_id": 101,
+      "grp_id": 7,
+      "lhs": "p",
+      "df": null,
+      "comp": "≤",
+      "rhs": "0.855"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 8,
+      "lhs": "CON",
+      "df": null,
+      "comp": "<",
+      "rhs": "1"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 8,
+      "lhs": "SET",
+      "df": null,
+      "comp": "<",
+      "rhs": "2"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 9,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "29"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 10,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "-0.07"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 10,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "-0.05"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 10,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "-0.05"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 10,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "-0.06"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 11,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.5"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 11,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.8"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 11,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "-1.8"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 11,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.5"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "CON",
+      "df": null,
+      "comp": "<",
+      "rhs": "1"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "SET",
+      "df": null,
+      "comp": "<",
+      "rhs": "2"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.459"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.089"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.726"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.297"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.701"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.212"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.642"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.853"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.067"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.508"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.499"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.855"
+    },
+    {
+      "text_id": 134,
+      "grp_id": 13,
+      "lhs": "difference",
+      "df": null,
+      "comp": "~",
+      "rhs": "1"
+    },
+    {
+      "text_id": 139,
+      "grp_id": 14,
+      "lhs": "at",
+      "df": null,
+      "comp": "~",
+      "rhs": "30"
+    },
+    {
+      "text_id": 145,
+      "grp_id": 15,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "16"
+    },
+    {
+      "text_id": 149,
+      "grp_id": 16,
+      "lhs": "above",
+      "df": null,
+      "comp": "~",
+      "rhs": "80"
+    },
+    {
+      "text_id": 162,
+      "grp_id": 17,
+      "lhs": "with",
+      "df": null,
+      "comp": "~",
+      "rhs": "10"
+    },
+    {
+      "text_id": 162,
+      "grp_id": 17,
+      "lhs": "saving",
+      "df": null,
+      "comp": "~",
+      "rhs": "2-5"
+    },
+    {
+      "text_id": 183,
+      "grp_id": 18,
+      "lhs": "1SET",
+      "df": null,
+      "comp": "=",
+      "rhs": "1"
+    },
+    {
+      "text_id": 183,
+      "grp_id": 18,
+      "lhs": "2SET",
+      "df": null,
+      "comp": "=",
+      "rhs": "2"
+    },
+    {
+      "text_id": 183,
+      "grp_id": 18,
+      "lhs": "RM",
+      "df": null,
+      "comp": "=",
+      "rhs": "10"
+    },
+    {
+      "text_id": 187,
+      "grp_id": 19,
+      "lhs": "1SET",
+      "df": null,
+      "comp": "=",
+      "rhs": "1"
+    },
+    {
+      "text_id": 187,
+      "grp_id": 19,
+      "lhs": "2SET",
+      "df": null,
+      "comp": "=",
+      "rhs": "2"
+    }
+  ]
+}

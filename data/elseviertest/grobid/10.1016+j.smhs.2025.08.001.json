@@ -1,0 +1,4424 @@
+{
+  "paper_id": "10.1016+j.smhs.2025.08.001",
+  "info": [
+    {
+      "title": "Postural stability and muscle function responses to acute brisk walking in young and middle-aged women",
+      "keywords": null,
+      "doi": "10.1016/j.smhs.2025.08.001",
+      "file_hash": "27e9e66ee03a9e45",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.smhs.2025.08.001.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Lacey",
+      "family": "Harper",
+      "affiliation": "Department of Exercise Science and Sport Management\n\t\t\t\t\t\t\t\tKennesaw State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKennesaw\n\t\t\t\t\t\t\t\t\tGA\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "William",
+      "family": "Reed",
+      "affiliation": "Department of Exercise Science and Sport Management\n\t\t\t\t\t\t\t\tKennesaw State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKennesaw\n\t\t\t\t\t\t\t\t\tGA\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "Breanna",
+      "family": "Mcdonald",
+      "affiliation": "Department of Exercise Science and Sport Management\n\t\t\t\t\t\t\t\tKennesaw State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKennesaw\n\t\t\t\t\t\t\t\t\tGA\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "Melanie",
+      "family": "Antonio",
+      "affiliation": "Department of Exercise Science and Sport Management\n\t\t\t\t\t\t\t\tKennesaw State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKennesaw\n\t\t\t\t\t\t\t\t\tGA\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "Kaden",
+      "family": "Buford",
+      "affiliation": "Department of Exercise Science and Sport Management\n\t\t\t\t\t\t\t\tKennesaw State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKennesaw\n\t\t\t\t\t\t\t\t\tGA\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 6,
+      "given": "Esther",
+      "family": "Steingold",
+      "affiliation": "Department of Exercise Science and Sport Management\n\t\t\t\t\t\t\t\tKennesaw State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKennesaw\n\t\t\t\t\t\t\t\t\tGA\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 7,
+      "given": "Kayla",
+      "family": "Anderson",
+      "affiliation": "Department of Exercise Science and Sport Management\n\t\t\t\t\t\t\t\tKennesaw State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKennesaw\n\t\t\t\t\t\t\t\t\tGA\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 8,
+      "given": "Valentina",
+      "family": "Taddia",
+      "affiliation": "Department of Exercise Science and Sport Management\n\t\t\t\t\t\t\t\tKennesaw State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKennesaw\n\t\t\t\t\t\t\t\t\tGA\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 9,
+      "given": "Garrett",
+      "family": "Hester",
+      "affiliation": "Department of Exercise Science and Sport Management\n\t\t\t\t\t\t\t\tKennesaw State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKennesaw\n\t\t\t\t\t\t\t\t\tGA\n\t\t\t\t\t\t\t\t\tUSA",
+      "email": "ghester4@kennesaw.edu",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Background: Age-related research on postural stability and muscle function responses following fatiguing tasks representative of everyday life is limited to older adults, despite the high prevalence of injurious falls in middleaged women.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study sought to determine the acute effects of fast-paced walking on postural stability and rapid and maximal torque production of the plantar flexors in young and middle-aged women.",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: Thirty-one young (n = 16, [21 ± 2] yrs) and postmenopausal middle-aged (n = 15, [55 ± 3] yrs) women completed a fast-paced, 6-min walking task.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Before and after the task, a 30-s dynamic balance test and rapid, maximal isometric contractions of the plantar flexors were completed.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Indices of overall, sagittal, and frontal postural stability were derived from the balance test.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Peak torque was determined, and the rate of torque development was calculated at its peak, early (0-100 ms), and later (200 ms) time intervals for isometric contractions.",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Two-way mixed analyses of variance with Bonferroni corrected pairwise comparisons were used for analysis.",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: Sagittal stability was reduced more in young (p < 0.001; d = 1.98; 47%) compared to middle-aged (p = 0.002; d = 1.00; 41%) while all other postural stability outcomes were reduced similarly between age groups (p < 0.001-0.002; η² p = 0.294-0.695).",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Results: Sagittal stability was reduced more in young (p &lt; 0.001; d = 1.98; 47%) compared to middle-aged (p = 0.002; d = 1.00; 41%) while all other postural stability outcomes were reduced similarly between age groups (p &lt; 0.001-0.002; η² p = 0.294-0.695)."
+    },
+    {
+      "text": "Torque outcomes remained unchanged for both groups (p = 0.085-0.989; η² p = 0.000-0.099).",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Conclusions: Middle-aged women demonstrate similar reductions in dynamic postural stability compared to young women following a bout of fast-paced walking.",
+      "text_id": 10,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Plantar flexor strength was unaffected, though this finding was likely limited by the delayed post-testing.",
+      "text_id": 11,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These findings complement prospective reports regarding the susceptibility of middle-aged women to falls during brief bouts of walking.",
+      "text_id": 12,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "According to the World Health Organization, 1 falls are the second leading cause of unintentional death globally.",
+      "text_id": 13,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Research related to fall risk in older adults far exceeds work conducted in middle-aged adults, despite fall risk being significant in the latter.",
+      "text_id": 14,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Based on data from the National Health Interview Survey, reported fall-related injuries were 35% and 32% in middle-aged and older adults, respectively. 2 A prospective study in middle-aged adults determined the one-year incidence rate for a fall and injurious fall was 42% and 24% in women, respectively, 3 and a greater prevalence of falls has been reported in women compared to men. 4 These data are not necessarily surprising given the well-established decrements in postural stability (i.e., balance) that occur in middle-age well before later adulthood (> 60 yrs). 5, 6 Since a history of falls is one of the strongest predictors of future falls, 7 more research is needed in middle-aged women to elucidate factors contributing to fall risk.",
+      "text_id": 15,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Based on data from the National Health Interview Survey, reported fall-related injuries were 35% and 32% in middle-aged and older adults, respectively. <ref type=\"bibr\" target=\"#b1\">2<\/ref> A prospective study in middle-aged adults determined the one-year incidence rate for a fall and injurious fall was 42% and 24% in women, respectively, <ref type=\"bibr\" target=\"#b2\">3<\/ref> and a greater prevalence of falls has been reported in women compared to men. <ref type=\"bibr\" target=\"#b3\">4<\/ref> These data are not necessarily surprising given the well-established decrements in postural stability (i.e., balance) that occur in middle-age well before later adulthood (&gt; 60 yrs). <ref type=\"bibr\" target=\"#b4\">5,<\/ref> <ref type=\"bibr\" target=\"#b5\">6<\/ref> Since a history of falls is one of the strongest predictors of future falls, <ref type=\"bibr\" target=\"#b6\">7<\/ref> more research is needed in middle-aged women to elucidate factors contributing to fall risk."
+    },
+    {
+      "text": "Specifically, ex post facto perceived fatigability is an independent risk factor for fall risk 8 but more work involving practical interventions is warranted.",
+      "text_id": 16,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Specifically, ex post facto perceived fatigability is an independent risk factor for fall risk <ref type=\"bibr\" target=\"#b7\">8<\/ref> but more work involving practical interventions is warranted."
+    },
+    {
+      "text": "Brisk walking is among the most prevalent leisure activities (~60%), particularly in middle-aged women, 9 and retrospective research indicates that falls most commonly occur during walking. 4 The popularity of brisk walking and corresponding moderate perceived intensity 10, 11 make it a useful model for examining acute increases in postural instability following a practical activity of daily life. 10, [12] [13] [14] [15] Previous research has shown that fast-paced walking negatively affects postural stability in young 14, 15 and older 12, 13 adults, however, there is limited evidence in middle-aged adults. 10 Most studies used a treadmill for their walking protocol including the previous report in middle-aged adults. 10 While treadmill exercise allows for greater control of the walking task (i.e., speed, grade), it alters gait, 16 causes a unique reaction between visual, vestibular, and somatosensory responses, 17, 18 and has shown more profound effects on acute postural stability compared to land-based walking. 17 More research on land-based walking is needed to reflect the acute effects of everyday walking on postural stability.",
+      "text_id": 17,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Brisk walking is among the most prevalent leisure activities (~60%), particularly in middle-aged women, <ref type=\"bibr\" target=\"#b8\">9<\/ref> and retrospective research indicates that falls most commonly occur during walking. <ref type=\"bibr\" target=\"#b3\">4<\/ref> The popularity of brisk walking and corresponding moderate perceived intensity <ref type=\"bibr\" target=\"#b9\">10,<\/ref> <ref type=\"bibr\" target=\"#b10\">11<\/ref> make it a useful model for examining acute increases in postural instability following a practical activity of daily life. <ref type=\"bibr\" target=\"#b9\">10,<\/ref> <ref type=\"bibr\" target=\"#b11\">[12]<\/ref> <ref type=\"bibr\" target=\"#b12\">[13]<\/ref> <ref type=\"bibr\" target=\"#b13\">[14]<\/ref> <ref type=\"bibr\" target=\"#b14\">[15]<\/ref> Previous research has shown that fast-paced walking negatively affects postural stability in young <ref type=\"bibr\" target=\"#b13\">14,<\/ref> <ref type=\"bibr\" target=\"#b14\">15<\/ref> and older <ref type=\"bibr\" target=\"#b11\">12,<\/ref> <ref type=\"bibr\" target=\"#b12\">13<\/ref> adults, however, there is limited evidence in middle-aged adults. <ref type=\"bibr\" target=\"#b9\">10<\/ref> Most studies used a treadmill for their walking protocol including the previous report in middle-aged adults. <ref type=\"bibr\" target=\"#b9\">10<\/ref> While treadmill exercise allows for greater control of the walking task (i.e., speed, grade), it alters gait, <ref type=\"bibr\" target=\"#b15\">16<\/ref> causes a unique reaction between visual, vestibular, and somatosensory responses, <ref type=\"bibr\" target=\"#b16\">17,<\/ref> <ref type=\"bibr\" target=\"#b17\">18<\/ref> and has shown more profound effects on acute postural stability compared to land-based walking. <ref type=\"bibr\" target=\"#b16\">17<\/ref> More research on land-based walking is needed to reflect the acute effects of everyday walking on postural stability."
+    },
+    {
+      "text": "Morrison et al. 10 compared responses for postural stability and a fall risk composite in several age groups following fast-paced treadmill walking with a gradually increasing incline.",
+      "text_id": 18,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Morrison et al. <ref type=\"bibr\" target=\"#b9\">10<\/ref> compared responses for postural stability and a fall risk composite in several age groups following fast-paced treadmill walking with a gradually increasing incline."
+    },
+    {
+      "text": "Walking-induced changes were only found for the groups aged 60 yrs and older indicating the fast-paced walking task was not sufficient to decrease postural stability in the middle-age or young group.",
+      "text_id": 19,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It is noteworthy that information related to chronic exercise habits of participants, which would affect fatigability, 19 in Morrison et al. 10 was bleak.",
+      "text_id": 20,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "It is noteworthy that information related to chronic exercise habits of participants, which would affect fatigability, <ref type=\"bibr\" target=\"#b18\">19<\/ref> in Morrison et al. <ref type=\"bibr\" target=\"#b9\">10<\/ref> was bleak."
+    },
+    {
+      "text": "It is also worth noting that Morrison et al. 10 used a static postural stability test.",
+      "text_id": 21,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "It is also worth noting that Morrison et al. <ref type=\"bibr\" target=\"#b9\">10<\/ref> used a static postural stability test."
+    },
+    {
+      "text": "Dynamic postural stability, the maintenance of center of gravity during movement or perturbation, likely offers greater ecological validity given falls most commonly occur during movement. 4 Dynamic postural stability also appears to be more sensitive to early, age-related changes compared to static balance. 20, 21 The examination of dynamic postural stability following fast-paced walking in middle-aged adults is an area that remains largely unexplored.",
+      "text_id": 22,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Dynamic postural stability, the maintenance of center of gravity during movement or perturbation, likely offers greater ecological validity given falls most commonly occur during movement. <ref type=\"bibr\" target=\"#b3\">4<\/ref> Dynamic postural stability also appears to be more sensitive to early, age-related changes compared to static balance. <ref type=\"bibr\" target=\"#b19\">20,<\/ref> <ref type=\"bibr\" target=\"#b20\">21<\/ref> The examination of dynamic postural stability following fast-paced walking in middle-aged adults is an area that remains largely unexplored."
+    },
+    {
+      "text": "Identifying if dynamic postural stability reductions are greater in middle-aged compared to young women may yield insight on the rapid rise in fracture risk exhibited by women in middle-age. 22, 23 The reductions for postural stability during mid-life coincide with decrements in muscle function, 24 making middle-age particularly influential for quality of life in older age.",
+      "text_id": 23,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Identifying if dynamic postural stability reductions are greater in middle-aged compared to young women may yield insight on the rapid rise in fracture risk exhibited by women in middle-age. <ref type=\"bibr\" target=\"#b21\">22,<\/ref> <ref type=\"bibr\" target=\"#b22\">23<\/ref> The reductions for postural stability during mid-life coincide with decrements in muscle function, <ref type=\"bibr\" target=\"#b23\">24<\/ref> making middle-age particularly influential for quality of life in older age."
+    },
+    {
+      "text": "Muscle strength demonstrates a decline in middle-age as does the rate of torque (or force) development (RTD), but the latter is primarily evidenced in women 25 with studies comparing young and middle-aged males indicating no difference. 26, 27 RTD refers to how quickly torque is produced, and it exhibits greater age-related decrements compared to peak torque (i.e., maximal strength). 28 Additionally, RTD is a significant predictor of mobility task involving dynamic balance in older adults. 29 The ankle torque strategy during dynamic balance control involves repetitive, ballistic torque fluctuations, 30 so any activity-induced decrement in RTD is likely meaningful for postural stability.",
+      "text_id": 24,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Muscle strength demonstrates a decline in middle-age as does the rate of torque (or force) development (RTD), but the latter is primarily evidenced in women <ref type=\"bibr\" target=\"#b24\">25<\/ref> with studies comparing young and middle-aged males indicating no difference. <ref type=\"bibr\" target=\"#b25\">26,<\/ref> <ref type=\"bibr\" target=\"#b26\">27<\/ref> RTD refers to how quickly torque is produced, and it exhibits greater age-related decrements compared to peak torque (i.e., maximal strength). <ref type=\"bibr\" target=\"#b27\">28<\/ref> Additionally, RTD is a significant predictor of mobility task involving dynamic balance in older adults. <ref type=\"bibr\" target=\"#b28\">29<\/ref> The ankle torque strategy during dynamic balance control involves repetitive, ballistic torque fluctuations, <ref type=\"bibr\" target=\"#b29\">30<\/ref> so any activity-induced decrement in RTD is likely meaningful for postural stability."
+    },
+    {
+      "text": "Palmer, Blinch, Farrow, Agu-Udemba, and Mitchell 31 recently examined peak torque and RTD responses following 6-min of fast-paced walking in older women who were regular exercisers or inactive.",
+      "text_id": 25,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Palmer, Blinch, Farrow, Agu-Udemba, and Mitchell <ref type=\"bibr\" target=\"#b30\">31<\/ref> recently examined peak torque and RTD responses following 6-min of fast-paced walking in older women who were regular exercisers or inactive."
+    },
+    {
+      "text": "It was shown that only early (0-100 ms) RTD was reduced in the inactive group, whereas no changes were demonstrated in the regular exercising group.",
+      "text_id": 26,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Evidence is lacking for the response of RTD following fast-paced walking in middle-aged adults.",
+      "text_id": 27,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The limited research examining muscle function following fast-paced walking in middle-aged adults found no change in maximal strength, 10 but it is important to consider RTD as it may be more sensitive to modest fatigue. 32 Several studies have shown muscle function reductions in older adults following fast-paced walking, 12, 31, 33 but it is important to determine if similar reductions are present earlier in the aging process (i.e., middle-age), particularly in postmenopausal women.",
+      "text_id": 28,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The limited research examining muscle function following fast-paced walking in middle-aged adults found no change in maximal strength, <ref type=\"bibr\" target=\"#b9\">10<\/ref> but it is important to consider RTD as it may be more sensitive to modest fatigue. <ref type=\"bibr\" target=\"#b31\">32<\/ref> Several studies have shown muscle function reductions in older adults following fast-paced walking, <ref type=\"bibr\" target=\"#b11\">12,<\/ref> <ref type=\"bibr\" target=\"#b30\">31,<\/ref> <ref type=\"bibr\" target=\"#b32\">33<\/ref> but it is important to determine if similar reductions are present earlier in the aging process (i.e., middle-age), particularly in postmenopausal women."
+    },
+    {
+      "text": "More research is needed in this population since menopausal-related reductions in sex hormones contributes to muscle function deterioration, 34 which likely contributes to poorer postural stability in this group. 35 Therefore, the purpose of this study was to determine the acute effects of fast-paced walking on postural stability and rapid and maximal torque production of the plantar flexors in young and middle-aged women.",
+      "text_id": 29,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "More research is needed in this population since menopausal-related reductions in sex hormones contributes to muscle function deterioration, <ref type=\"bibr\" target=\"#b33\">34<\/ref> which likely contributes to poorer postural stability in this group. <ref type=\"bibr\" target=\"#b34\">35<\/ref> Therefore, the purpose of this study was to determine the acute effects of fast-paced walking on postural stability and rapid and maximal torque production of the plantar flexors in young and middle-aged women."
+    },
+    {
+      "text": "It was hypothesized that reductions in dynamic postural stability and early rapid torque measures would be greater in middle-aged women compared to young women.",
+      "text_id": 30,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This was based on the expectation that fast-paced walking would require a higher perceived exertion in the former, 36 thereby acutely diminishing function.",
+      "text_id": 31,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "This was based on the expectation that fast-paced walking would require a higher perceived exertion in the former, <ref type=\"bibr\" target=\"#b35\">36<\/ref> thereby acutely diminishing function."
+    },
+    {
+      "text": "Similar to previous work in older adults, 31 based on the modest exertion expected for fast-paced walking, it was not expected that later rapid torque or peak torque would be affected.",
+      "text_id": 32,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Similar to previous work in older adults, <ref type=\"bibr\" target=\"#b30\">31<\/ref> based on the modest exertion expected for fast-paced walking, it was not expected that later rapid torque or peak torque would be affected."
+    },
+    {
+      "text": " >Materials and methods",
+      "text_id": 33,
+      "paragraph_id": 3,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Materials and methods<\/head>"
+    },
+    {
+      "text": "Prior to data collection, this study was approved by the Kennesaw State University Institutional Review Board (IRB 22-564) in accordance with the Declaration of Helsinki.",
+      "text_id": 34,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All subjects provided oral and written consent prior to beginning the study.",
+      "text_id": 35,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thirty-one, healthy young (n = 16, [21 ± 2] yrs) and postmenopausal, middle-aged (n = 15, [55 ± 3] yrs) women volunteered for this study.",
+      "text_id": 36,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "G*Power (v.",
+      "text_id": 37,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "3.0.10) software indicated a total sample size of 31 would detect a medium effect size (f = 0.25) with a statistical power of 0.80 for a two-way analysis of variance.",
+      "text_id": 38,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Post-menopause was defined as 12 months without a menstrual cycle (self-reported).",
+      "text_id": 39,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were excluded if they had performed structured aerobic or resistance training within the past 6 months, were taking creatine or beta-alanine supplements, actively taking hormone-replacement therapy, were pregnant, had suffered a lower-body injury within the previous six months, or had uncontrolled hypertension.",
+      "text_id": 40,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants completed the International Physical Activity Questionnaire to estimate baseline physical activity in metabolic equivalent of task (h/wk).",
+      "text_id": 41,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Young participants were required to have been taking the same monophasic birth control contraceptive for at least the previous 6 months and middle-aged participants must have been at least 6 months post-menopausal at time of study inclusion.",
+      "text_id": 42,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants visited the laboratory on two occasions, separated by at least 3 days but no more than 7 days for this quasi-experimental parallel group design study.",
+      "text_id": 43,
+      "paragraph_id": 6,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The first visit included body composition testing and familiarization with postural stability and plantar flexor testing.",
+      "text_id": 44,
+      "paragraph_id": 6,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The second visit included postural stability and plantar flexor testing before and after a fast-paced walking task.",
+      "text_id": 45,
+      "paragraph_id": 6,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Young participants were instructed to schedule their second visit during the last 14 days of their active pill consumption phase to minimize fluctuations in endogenous hormones. 37 Participants were instructed to avoid alcohol and strenuous exercise for 24 hour (h) and caffeine for 12 h prior to all visits.",
+      "text_id": 46,
+      "paragraph_id": 6,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "Young participants were instructed to schedule their second visit during the last 14 days of their active pill consumption phase to minimize fluctuations in endogenous hormones. <ref type=\"bibr\" target=\"#b36\">37<\/ref> Participants were instructed to avoid alcohol and strenuous exercise for 24 hour (h) and caffeine for 12 h prior to all visits."
+    },
+    {
+      "text": "RTD rate of torque development RPE rating of perceived exertion MVIC maximal voluntary isometric contraction RTD0-50 rate of torque development 0-50 ms RTD0-100 rate of torque development 0-100 ms RTD0-200 rate of torque development 0-200ms RTDpk peak rate of torque development TQ50 torque at 50 ms TQ100 torque at 100 ms TQ200 torque at 200 ms BMI body mass index LBM lean body mass LLM leg lean mass MET metabolic equivalent of task 6MWT 6-min walk test SD standard deviation YW young women MW middle-aged women",
+      "text_id": 47,
+      "paragraph_id": 7,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Body mass and height were recorded using a digital physician scale (Tanita WB 3000, Arlington Heights, IL, USA).",
+      "text_id": 48,
+      "paragraph_id": 8,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Body fat percentage, total body lean mass, and leg lean mass were recorded using bioelectrical impedance analysis (InBody770, InBody Co., Cerritos, CA, USA).",
+      "text_id": 49,
+      "paragraph_id": 8,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants completed a 6-min walk test to serve as the fast-paced walking task following procedures outlined by the American Thoracic Society.",
+      "text_id": 50,
+      "paragraph_id": 9,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were instructed to \"cover as much distance as possible\" while walking between two cones set 15.2 m apart.",
+      "text_id": 51,
+      "paragraph_id": 9,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Researchers provided standardized encouragement (\"You are doing great,\" and \"Keep up the good work\") in addition to providing updates to participants regarding the remaining time every minute.",
+      "text_id": 52,
+      "paragraph_id": 9,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Rating of perceived exertion (RPE) (Category-Ratio 0-10 Scale) 38 was recorded immediately after the walking task.",
+      "text_id": 53,
+      "paragraph_id": 9,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Rating of perceived exertion (RPE) (Category-Ratio 0-10 Scale) <ref type=\"bibr\" target=\"#b37\">38<\/ref> was recorded immediately after the walking task."
+    },
+    {
+      "text": "Participants completed a 30-s dynamic postural stability test on the Biodex Balance System (Balance System SD, Biodex Medical Systems, Inc., Shirley, NY, USA).",
+      "text_id": 54,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Dynamic postural stability on this device was previously shown to be reliable, 39 associated with other functional balance tests, 40 and predictive of fear of falling. 41 The platform was preprogrammed to gradually become more unstable during the test starting from level 8 to level 4 where 12 is the most stable and 1 is least stable level.",
+      "text_id": 55,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Dynamic postural stability on this device was previously shown to be reliable, <ref type=\"bibr\" target=\"#b38\">39<\/ref> associated with other functional balance tests, <ref type=\"bibr\" target=\"#b39\">40<\/ref> and predictive of fear of falling. <ref type=\"bibr\" target=\"#b40\">41<\/ref> The platform was preprogrammed to gradually become more unstable during the test starting from level 8 to level 4 where 12 is the most stable and 1 is least stable level."
+    },
+    {
+      "text": "Participants were positioned on the platform with their feet shoulder width apart and hands on their hips.",
+      "text_id": 56,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were instructed to keep their eyes open and to \"keep the platform as steady as possible\".",
+      "text_id": 57,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The Biodex Balance System monitor displayed biofeedback for their center of pressure and was kept at eye height.",
+      "text_id": 58,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tape was placed on the platform specific to the foot positioning of each subject to ensure consistency throughout the session.",
+      "text_id": 59,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A stability index for overall (i.e., all planes), and the sagittal and frontal planes was recorded.",
+      "text_id": 60,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This index represents the variance of the angular excursion for the foot platform during the 30-s test, thus a greater value indicates poorer stability.",
+      "text_id": 61,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The standard deviation was also recorded for each excursion metric within a trial to capture the variability for these outcomes.",
+      "text_id": 62,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants completed three trials before the walking task and one trial ~2 min following the fast-paced walking task.",
+      "text_id": 63,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The trial with the lowest overall stability prior to the walking task was recorded as the baseline.",
+      "text_id": 64,
+      "paragraph_id": 10,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Torque was recorded during rapid, maximal voluntary isometric contractions (MVICs) of the plantar flexors with the dominant limb using a calibrated Biodex 4 isokinetic dynamometer (Biodex Medical Systems, Inc.",
+      "text_id": 65,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Shirley, NY, USA).",
+      "text_id": 66,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Validity and reliability for this dynamometer have reported previously. 42 Participants were seated in the isokinetic chair with restraining straps over the trunk and pelvis and the lateral malleolus aligned with the input axis of the dynamometer.",
+      "text_id": 67,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Validity and reliability for this dynamometer have reported previously. <ref type=\"bibr\" target=\"#b41\">42<\/ref> Participants were seated in the isokinetic chair with restraining straps over the trunk and pelvis and the lateral malleolus aligned with the input axis of the dynamometer."
+    },
+    {
+      "text": "In accordance with Cannavan, Coleman, and Blazevich, 43 a specific seating arrangement was performed to minimize the misalignment of the ankle and dynamometer axis or rotation associated with plantar flexor testing.",
+      "text_id": 68,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "In accordance with Cannavan, Coleman, and Blazevich, <ref type=\"bibr\" target=\"#b42\">43<\/ref> a specific seating arrangement was performed to minimize the misalignment of the ankle and dynamometer axis or rotation associated with plantar flexor testing."
+    },
+    {
+      "text": "Participants were seated with the hips at a comfortable angle and the knee at 30 • while relaxed.",
+      "text_id": 69,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The knee was then extended to 180 • causing mechanical compliance to be taken up by the footplate and chair, thus allowing the leg to act like a strut.",
+      "text_id": 70,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were familiarized with avoiding contraction of the quadriceps during this process and this was constantly monitored.",
+      "text_id": 71,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ankle position was set at 90 • , and the foot was fastened to the footplate with two straps over the dorsal aspect and additional padding underneath the straps to secure the heel to the footplate. 44 Participants began with a warm-up consisting of 2 submaximal isometric contractions at 50% and a third at 75% of perceived maximal effort.",
+      "text_id": 72,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Ankle position was set at 90 • , and the foot was fastened to the footplate with two straps over the dorsal aspect and additional padding underneath the straps to secure the heel to the footplate. <ref type=\"bibr\" target=\"#b43\">44<\/ref> Participants began with a warm-up consisting of 2 submaximal isometric contractions at 50% and a third at 75% of perceived maximal effort."
+    },
+    {
+      "text": "Participants then performed 3 sets, 3-4 s rapid MVICs separated by 1 min of rest.",
+      "text_id": 73,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The MVIC producing the highest peak RTD (described below) was used as the pre-test value for subsequent analysis.",
+      "text_id": 74,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This was chosen based on the interest in rapid torque responses, specifically, following fast-paced walking.",
+      "text_id": 75,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A single posttesting MVIC was performed ~2.5 min (after balance testing) following the fast-paced walking task.",
+      "text_id": 76,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For all MVICs, participants were encouraged to \"push as fast and hard as possible\" on the footplate.",
+      "text_id": 77,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, participants were instructed to avoid pretension or a countermovement prior to each trial.",
+      "text_id": 78,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additional pretesting trials were performed if peak torque varied by more than 5%, or if pretension or a countermovement preceded an MVIC.",
+      "text_id": 79,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Strong verbal encouragement and visual biofeedback were provided during all contractions.",
+      "text_id": 80,
+      "paragraph_id": 11,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Torque was recorded at 2 kHz through an A/D converter using EMGworks software (Delsys, Inc., Boston, MA, USA) and stored for subsequent processing.",
+      "text_id": 81,
+      "paragraph_id": 12,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The scaled, gravity corrected torque signal was digitally filtered with a zero lag, low-pass (150 Hz) Butterworth filter using custom written software (LabVIEW, National Instruments, Austin, TX, USA).",
+      "text_id": 82,
+      "paragraph_id": 12,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Peak torque was considered the highest 500 ms rolling average.",
+      "text_id": 83,
+      "paragraph_id": 12,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "RTD for different phases of the MVIC was calculated from the linear slope of the torque-time curve (Δtorque/Δtime).",
+      "text_id": 84,
+      "paragraph_id": 12,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Peak RTD (RTD pk ) was defined as the highest 10 ms rolling value derived from the torque-time curve.",
+      "text_id": 85,
+      "paragraph_id": 12,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Early RTD was derived from contraction onset to 50 ms (RTD 0-50 ) and 100 ms (RTD 0-100 ), while late RTD was acquired from contraction onset to 200 ms (RTD 0-200 ). 28 Absolute torque was also calculated for early and later time phases including 50 (TQ 50 ), 100 (TQ 100 ), and 200 (TQ 200 ) ms after contraction onset.",
+      "text_id": 86,
+      "paragraph_id": 12,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Early RTD was derived from contraction onset to 50 ms (RTD 0-50 ) and 100 ms (RTD 0-100 ), while late RTD was acquired from contraction onset to 200 ms (RTD 0-200 ). <ref type=\"bibr\" target=\"#b27\">28<\/ref> Absolute torque was also calculated for early and later time phases including 50 (TQ 50 ), 100 (TQ 100 ), and 200 (TQ 200 ) ms after contraction onset."
+    },
+    {
+      "text": "Torque onset was set at 1 Nm for RTD and absolute torque measures, and all torque variables were normalized to body mass prior to statistical analysis.",
+      "text_id": 87,
+      "paragraph_id": 12,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Normality was assessed through assessment of skewness and kurtosis.",
+      "text_id": 88,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Skewness and kurtosis values were divided by their standard error and a threshold of 1.96 was used to determine non-normality.",
+      "text_id": 89,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Several postural stability variables were non-normally distributed.",
+      "text_id": 90,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A log 10 transformation was applied to these data and normality was verified.",
+      "text_id": 91,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Baseline comparisons between groups were performed with independent sample t-tests.",
+      "text_id": 92,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Two-way (group [young vs. middle-aged] × time [pre vs. post]) repeated measures analyses of variance were used to examine the effects of the fast-paced walking task on postural stability and torque outcomes.",
+      "text_id": 93,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In the case of significant interactions, Bonferronicorrected pairwise comparisons were examined for the simple effects.",
+      "text_id": 94,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Equality of variance was confirmed using Levene's Test for Equality of Variances.",
+      "text_id": 95,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Statistical analyses were performed using PASW software version 29.0 (SPSS Inc, Chicago, IL, United States) and an alpha level of p ≤ 0.05 was used to determine statistical significance.",
+      "text_id": 96,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Effect sizes were reported using partial eta squared (η² p ) for analyses of variance and < 0.06, 0.07-0.14, and > 0.14 were used to indicate small, medium, and large effects, respectively, whereas Cohen's d was used for pairwise comparisons with 0.20, 0.50, and 0.80 indicating the same effect size classifications.",
+      "text_id": 97,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "Effect sizes were reported using partial eta squared (η² p ) for analyses of variance and &lt; 0.06, 0.07-0.14, and &gt; 0.14 were used to indicate small, medium, and large effects, respectively, whereas Cohen's d was used for pairwise comparisons with 0.20, 0.50, and 0.80 indicating the same effect size classifications."
+    },
+    {
+      "text": "Data are reported as mean ± SD in the text and box-andwhisker plots using Tukey method are shown in figures.",
+      "text_id": 98,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Postural stability data is reported in its original units for interpretation purposes.",
+      "text_id": 99,
+      "paragraph_id": 13,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Results",
+      "text_id": 100,
+      "paragraph_id": 14,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "<head n=\"3.\" >Results<\/head>"
+    },
+    {
+      "text": "Group characteristics are displayed in Table 1.",
+      "text_id": 101,
+      "paragraph_id": 15,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Group characteristics are displayed in Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>."
+    },
+    {
+      "text": "Middle-aged women had a greater BMI (p = 0.010; d = 0.89) and body fat% (p = 0.001; d = 1.29) but similar body mass, total body lean mass, leg lean mass, selfreported physical activity, and 6-min walk test distance (p = 0.059-0.870; d = 0.07-0.60).",
+      "text_id": 102,
+      "paragraph_id": 15,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Middle-aged women demonstrated similar overall postural stability to young women (p = 0.072; d = 0.67), but lower stability in the sagittal (p = 0.004; d = 1.12) and frontal (p = 0.003; d = 1.17) planes.",
+      "text_id": 103,
+      "paragraph_id": 15,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Standard deviation for overall postural stability (p = 0.007; d = 1.04) and the sagittal (p < 0.001; d = 1.55) and frontal (p = 0.003; d = 1.76) planes was greater in middle-aged women (Table 2; Fig. 1A-F).",
+      "text_id": 104,
+      "paragraph_id": 15,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Standard deviation for overall postural stability (p = 0.007; d = 1.04) and the sagittal (p &lt; 0.001; d = 1.55) and frontal (p = 0.003; d = 1.76) planes was greater in middle-aged women (Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>; Fig. <ref type=\"figure\" target=\"#fig_0\">1A-F<\/ref>)."
+    },
+    {
+      "text": "Young women had a greater peak torque (p = 0.032; d = 0.81), RTD pk (p = 0.041; d = 0.77), RTD 0-200 (p = 0.003; d = 1.15), aTQ 100 (p = 0.047; d = 0.75) and TQ 200 (p = 0.004; d = 1.11), while all other measures of muscle function were similar between groups (Table 3; Fig. 2A-D).",
+      "text_id": 105,
+      "paragraph_id": 15,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Young women had a greater peak torque (p = 0.032; d = 0.81), RTD pk (p = 0.041; d = 0.77), RTD 0-200 (p = 0.003; d = 1.15), aTQ 100 (p = 0.047; d = 0.75) and TQ 200 (p = 0.004; d = 1.11), while all other measures of muscle function were similar between groups (Table <ref type=\"table\" target=\"#tab_2\">3<\/ref>; Fig. <ref type=\"figure\" target=\"#fig_2\">2A-D<\/ref>)."
+    },
+    {
+      "text": "All postural stability measures showed similar increases (greater instability) between age groups, except for sagittal stability.",
+      "text_id": 106,
+      "paragraph_id": 16,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A two-way interaction was demonstrated for sagittal stability due to a greater increase in instability for young women (F [1,60] = 4.26; p < 0.001; d = 1.98; 47%) compared to middle-aged women (p = 0.002; d = 1.00; 41%) (Table 2; Fig. 1 B).",
+      "text_id": 107,
+      "paragraph_id": 16,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "A two-way interaction was demonstrated for sagittal stability due to a greater increase in instability for young women (F [1,60] = 4.26; p &lt; 0.001; d = 1.98; 47%) compared to middle-aged women (p = 0.002; d = 1.00; 41%) (Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>; Fig. <ref type=\"figure\" target=\"#fig_0\">1 B<\/ref>)."
+    },
+    {
+      "text": "Otherwise, similar increases were found between groups for all other indices following the walking task (Table 2; Fig. 1A-C).",
+      "text_id": 108,
+      "paragraph_id": 16,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Otherwise, similar increases were found between groups for all other indices following the walking task (Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>; Fig. <ref type=\"figure\" target=\"#fig_0\">1A-C<\/ref>)."
+    },
+    {
+      "text": "Similarly, both groups demonstrated increased variability for all postural stability metrics with no effect of age (Table 2; Fig. 1D-F).",
+      "text_id": 109,
+      "paragraph_id": 16,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Similarly, both groups demonstrated increased variability for all postural stability metrics with no effect of age (Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>; Fig. <ref type=\"figure\" target=\"#fig_0\">1D-F<\/ref>)."
+    },
+    {
+      "text": "No changes were found for rapid or maximal torque outcomes for either group following the walking task (Table 3; Fig. 2A-D).",
+      "text_id": 110,
+      "paragraph_id": 17,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "No changes were found for rapid or maximal torque outcomes for either group following the walking task (Table <ref type=\"table\" target=\"#tab_2\">3<\/ref>; Fig. <ref type=\"figure\" target=\"#fig_2\">2A-D<\/ref>)."
+    },
+    {
+      "text": "Findings were similar (no interactions or main effects for time) when absolute torque variables were analyzed.",
+      "text_id": 111,
+      "paragraph_id": 17,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The purpose of this study was to determine the acute effects of fastpaced walking on postural stability and rapid and maximal torque production of the plantar flexors in young and middle-aged women.",
+      "text_id": 112,
+      "paragraph_id": 18,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "There is substantial literature on fatigue during dynamic tasks that almost exclusively focuses on \"heavy\" fatigue based on exercise models with limited ecological validity such as isolated, single joint exercise on a dynamometer. 45 Here, our interest was in the potential effects of modest exertion during acute fast-paced walking due to its applicability to everyday life, particularly in middle-aged women.",
+      "text_id": 113,
+      "paragraph_id": 18,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "There is substantial literature on fatigue during dynamic tasks that almost exclusively focuses on \"heavy\" fatigue based on exercise models with limited ecological validity such as isolated, single joint exercise on a dynamometer. <ref type=\"bibr\" target=\"#b44\">45<\/ref> Here, our interest was in the potential effects of modest exertion during acute fast-paced walking due to its applicability to everyday life, particularly in middle-aged women."
+    },
+    {
+      "text": "To identify factors contributing to the high prevalence of falls and fall-related injuries in middle-aged individuals, 2, 3 it is important to determine if responses for postural stability are exacerbated following fast-paced walking in this population compared to young adults.",
+      "text_id": 114,
+      "paragraph_id": 18,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "To identify factors contributing to the high prevalence of falls and fall-related injuries in middle-aged individuals, <ref type=\"bibr\" target=\"#b1\">2,<\/ref> <ref type=\"bibr\" target=\"#b2\">3<\/ref> it is important to determine if responses for postural stability are exacerbated following fast-paced walking in this population compared to young adults."
+    },
+    {
+      "text": "The current study found that, despite one metric indicating greater changes in young women, fast-paced walking predominantly reduced postural stability similarly between age groups.",
+      "text_id": 115,
+      "paragraph_id": 18,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Rapid and maximal torque parameters were unaffected, indicating the walking task was not sufficient to induce performance fatigue of the plantar flexors.",
+      "text_id": 116,
+      "paragraph_id": 18,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The primary finding of this study was the similar decrement for most postural stability following a brief bout of fast-paced walking in young and middle-aged women.",
+      "text_id": 117,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Young women demonstrated greater instability in the sagittal plane, which would be expected to result from fatigue originating in the plantar flexors, 46 but this was not determined in the present study.",
+      "text_id": 118,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Young women demonstrated greater instability in the sagittal plane, which would be expected to result from fatigue originating in the plantar flexors, <ref type=\"bibr\" target=\"#b45\">46<\/ref> but this was not determined in the present study."
+    },
+    {
+      "text": "Collectively, in contrast with our hypothesis, postural stability was not more susceptible to reductions following a modest bout of activity in middle-aged women.",
+      "text_id": 119,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This finding is in-line with another study that compared responses for postural stability in young and middle-aged individuals. 10 Morrison et al. 10 examined postural responses for several age groups following a fast-paced walk involving a 2-8 • slope.",
+      "text_id": 120,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "This finding is in-line with another study that compared responses for postural stability in young and middle-aged individuals. <ref type=\"bibr\" target=\"#b9\">10<\/ref> Morrison et al. <ref type=\"bibr\" target=\"#b9\">10<\/ref> examined postural responses for several age groups following a fast-paced walk involving a 2-8 • slope."
+    },
+    {
+      "text": "Reduced postural stability was only determined in the older groups (60-79 yrs) with no changes found in young or middle-aged groups.",
+      "text_id": 121,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Despite the addition of increased grade during walking, Morrison et al. 10 found RPE to be similar between the young and middle-aged groups, similar to our findings, but higher in the older groups.",
+      "text_id": 122,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Despite the addition of increased grade during walking, Morrison et al. <ref type=\"bibr\" target=\"#b9\">10<\/ref> found RPE to be similar between the young and middle-aged groups, similar to our findings, but higher in the older groups."
+    },
+    {
+      "text": "The greater demand of fast-paced walking for older adults at least partially explains age-related differences, but this does not appear to be the case for middle-aged adults.",
+      "text_id": 123,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Based on previous work conducting the same fast-paced walking task, 47 we expected higher perceived exertion in middle-aged women to correspond with greater changes in postural stability.",
+      "text_id": 124,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Based on previous work conducting the same fast-paced walking task, <ref type=\"bibr\" target=\"#b46\">47<\/ref> we expected higher perceived exertion in middle-aged women to correspond with greater changes in postural stability."
+    },
+    {
+      "text": "It appears fast-paced walking is not sufficient to elicit differences in perceived exertion between physically active young and middle-aged individuals, which is likely a result of the relatively moderate age-related declines in muscle endurance and maximal oxygen consumption prior to later life. 48 To this effect, a similar endurance  capacity between age groups was also demonstrated in the present sample as indicated by the 6-min walk test.",
+      "text_id": 125,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "It appears fast-paced walking is not sufficient to elicit differences in perceived exertion between physically active young and middle-aged individuals, which is likely a result of the relatively moderate age-related declines in muscle endurance and maximal oxygen consumption prior to later life. <ref type=\"bibr\" target=\"#b47\">48<\/ref> To this effect, a similar endurance  capacity between age groups was also demonstrated in the present sample as indicated by the 6-min walk test."
+    },
+    {
+      "text": "Despite negligible age differences, an important finding of the present study was the increased postural instability following a brief, fastpaced walking task.",
+      "text_id": 126,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Large effect sizes were shown for several postural stability metrics in both the frontal and sagittal planes.",
+      "text_id": 127,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This finding is in line with previous studies showing reduced postural stability following walking in young participants, 14, 15, 47 though it is worth noting the protocol of Nardone et al. 14 was substantially more intensive involving a grade up to 14%.",
+      "text_id": 128,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "This finding is in line with previous studies showing reduced postural stability following walking in young participants, <ref type=\"bibr\" target=\"#b13\">14,<\/ref> <ref type=\"bibr\" target=\"#b14\">15,<\/ref> <ref type=\"bibr\" target=\"#b46\">47<\/ref> though it is worth noting the protocol of Nardone et al. <ref type=\"bibr\" target=\"#b13\">14<\/ref> was substantially more intensive involving a grade up to 14%."
+    },
+    {
+      "text": "The average walking speed was 1.63 m⋅s -1 , which is similar to Vie et al. 47 (1.77 m⋅s -1 ) who found an acute reduction in postural stability.",
+      "text_id": 129,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "The average walking speed was 1.63 m⋅s -1 , which is similar to Vie et al. <ref type=\"bibr\" target=\"#b46\">47<\/ref> (1.77 m⋅s -1 ) who found an acute reduction in postural stability."
+    },
+    {
+      "text": "The average RPE for the young and middle-age group was 3.0 and 3.3, respectively, thus the walking task represented moderate intensity. 38 Further, based on data from the National Household Travel Survey, the average walking time to and from transit is ~7.5 min, 49 so our findings have good ecological validity regarding the   increased fall risk following utilitarian walking trips in everyday life.",
+      "text_id": 130,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "The average RPE for the young and middle-age group was 3.0 and 3.3, respectively, thus the walking task represented moderate intensity. <ref type=\"bibr\" target=\"#b37\">38<\/ref> Further, based on data from the National Household Travel Survey, the average walking time to and from transit is ~7.5 min, <ref type=\"bibr\" target=\"#b48\">49<\/ref> so our findings have good ecological validity regarding the   increased fall risk following utilitarian walking trips in everyday life."
+    },
+    {
+      "text": "Collectively, findings from the present study and others suggest there is an acute increase in fall risk for several age groups following fast-paced walking even when modest in intensity.",
+      "text_id": 131,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Morrison et al. 10 failed to find reductions in postural stability following a bout of walking in young and middle-aged participants.",
+      "text_id": 132,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Morrison et al. <ref type=\"bibr\" target=\"#b9\">10<\/ref> failed to find reductions in postural stability following a bout of walking in young and middle-aged participants."
+    },
+    {
+      "text": "There are two likely explanations for the discrepancy in findings.",
+      "text_id": 133,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Firstly, Morrison et al. 10 sampled physically active participants but did not exclude chronically trained individuals.",
+      "text_id": 134,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Firstly, Morrison et al. <ref type=\"bibr\" target=\"#b9\">10<\/ref> sampled physically active participants but did not exclude chronically trained individuals."
+    },
+    {
+      "text": "The present study excluded individuals performing structured exercise, so our findings exclude added variability resulting from differing fitness profiles amongst participants.",
+      "text_id": 135,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, another strength of the current work is the similar self-reported physical activity between groups, which enabled a better comparison of 'age' alone in active individuals, based on the physical activity estimates.",
+      "text_id": 136,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Secondly, Morrison et al. 10 used a static postural stability test as opposed to the dynamic postural stability test used in the present study.",
+      "text_id": 137,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Secondly, Morrison et al. <ref type=\"bibr\" target=\"#b9\">10<\/ref> used a static postural stability test as opposed to the dynamic postural stability test used in the present study."
+    },
+    {
+      "text": "Findings are mixed regarding the effects of acute exercise on dynamic postural stability with Simoneau et al. 15 reporting a negative effect in young, untrained participants and others 50, 51 showing no effect in endurance athletes and recreationally trained participants.",
+      "text_id": 138,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Findings are mixed regarding the effects of acute exercise on dynamic postural stability with Simoneau et al. <ref type=\"bibr\" target=\"#b14\">15<\/ref> reporting a negative effect in young, untrained participants and others <ref type=\"bibr\" target=\"#b49\">50,<\/ref> <ref type=\"bibr\" target=\"#b50\">51<\/ref> showing no effect in endurance athletes and recreationally trained participants."
+    },
+    {
+      "text": "Maintenance of postural stability on an unstable surface is believed to require more voluntary control process in response to feedback mechanisms, as opposed to greater automatic control processes being employed during a static balance task. 52 Training (or fitness) status may influence the responsiveness for postural dynamic stability following fast-paced walking, but more research is needed to test this hypothesis.",
+      "text_id": 139,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Maintenance of postural stability on an unstable surface is believed to require more voluntary control process in response to feedback mechanisms, as opposed to greater automatic control processes being employed during a static balance task. <ref type=\"bibr\" target=\"#b51\">52<\/ref> Training (or fitness) status may influence the responsiveness for postural dynamic stability following fast-paced walking, but more research is needed to test this hypothesis."
+    },
+    {
+      "text": "There were no changes in rapid or maximal torque characteristics for either group following fast-paced walking.",
+      "text_id": 140,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It was hypothesized that reductions would be demonstrated only for early rapid torque measures.",
+      "text_id": 141,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This was based on previous research in older adults showing greater declines for early RTD 31 and high-velocity power 12 compared to maximal strength.",
+      "text_id": 142,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "This was based on previous research in older adults showing greater declines for early RTD <ref type=\"bibr\" target=\"#b30\">31<\/ref> and high-velocity power <ref type=\"bibr\" target=\"#b11\">12<\/ref> compared to maximal strength."
+    },
+    {
+      "text": "While there is limited evidence for rapid torque measures following fast-paced walking, our findings are similar to Morrison et al. 10 who found no walking-induced changes for knee extension or flexion strength in young or middle-aged adults, and contrast with a previous study. 47 Vie et al. 47 did not make age-related comparisons but found maximal plantar flexor force to be reduced in a mixed sex cohort of young and middle-aged individuals following the same walking task performed in the present study.",
+      "text_id": 143,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "While there is limited evidence for rapid torque measures following fast-paced walking, our findings are similar to Morrison et al. <ref type=\"bibr\" target=\"#b9\">10<\/ref> who found no walking-induced changes for knee extension or flexion strength in young or middle-aged adults, and contrast with a previous study. <ref type=\"bibr\" target=\"#b46\">47<\/ref> Vie et al. <ref type=\"bibr\" target=\"#b46\">47<\/ref> did not make age-related comparisons but found maximal plantar flexor force to be reduced in a mixed sex cohort of young and middle-aged individuals following the same walking task performed in the present study."
+    },
+    {
+      "text": "There are a few potential reasons for the discrepancy between studies.",
+      "text_id": 144,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The increased susceptibility to muscle fatigue in males is well established, 53 so the reduction in strength demonstrated by Vie et al. 47 may have been driven by males.",
+      "text_id": 145,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "The increased susceptibility to muscle fatigue in males is well established, <ref type=\"bibr\" target=\"#b52\">53<\/ref> so the reduction in strength demonstrated by Vie et al. <ref type=\"bibr\" target=\"#b46\">47<\/ref> may have been driven by males."
+    },
+    {
+      "text": "Alternatively, the differences in the timeline for testing muscle function following the fatiguing activity could also explain the dissimilar findings between studies.",
+      "text_id": 146,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vie et al. 47 tested the plantar flexors within the first minute following fast-paced walking, whereas testing was conducted 2.5 min following activity in the present study.",
+      "text_id": 147,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Vie et al. <ref type=\"bibr\" target=\"#b46\">47<\/ref> tested the plantar flexors within the first minute following fast-paced walking, whereas testing was conducted 2.5 min following activity in the present study."
+    },
+    {
+      "text": "Muscle fatigue recovers within minutes and given the modest intensity of fast-paced walking, any decrement in muscle function was likely recovered within the first minute.",
+      "text_id": 148,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We chose to prioritize postural stability as the most immediate outcome to capture given its relevance for fall risk.",
+      "text_id": 149,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, it was most important to record postural stability responses during the earliest period of recovery when decrements would be more probable.",
+      "text_id": 150,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Another reason for the expected quick recovery is the muscle fiber phenotype of the plantar flexors.",
+      "text_id": 151,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The plantar flexors, particularly the soleus, has a relatively greater proportion of fatigue-resistant type I muscle fibers. 54 Thus, performance fatigue of the plantar flexors following walking, as indicated via reduced muscle function, is likely minimal in healthy, non-older participants and can be expected to recover rapidly.",
+      "text_id": 152,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "The plantar flexors, particularly the soleus, has a relatively greater proportion of fatigue-resistant type I muscle fibers. <ref type=\"bibr\" target=\"#b53\">54<\/ref> Thus, performance fatigue of the plantar flexors following walking, as indicated via reduced muscle function, is likely minimal in healthy, non-older participants and can be expected to recover rapidly."
+    },
+    {
+      "text": "This is at least partially supported by the minimal (8%), albeit significant, reduction in maximal strength shown by Vie et al. 47 Others have found significant walking-induced decrements in muscle function of the quadriceps for older adults 10, 12 including Palmer et al. 31 who used a similar walking protocol.",
+      "text_id": 153,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "This is at least partially supported by the minimal (8%), albeit significant, reduction in maximal strength shown by Vie et al. <ref type=\"bibr\" target=\"#b46\">47<\/ref> Others have found significant walking-induced decrements in muscle function of the quadriceps for older adults <ref type=\"bibr\" target=\"#b9\">10,<\/ref> <ref type=\"bibr\" target=\"#b11\">12<\/ref> including Palmer et al. <ref type=\"bibr\" target=\"#b30\">31<\/ref> who used a similar walking protocol."
+    },
+    {
+      "text": "Future research should examine the quadriceps in middle-aged individuals to determine if walking-induced fatigue is muscle specific, or rather a manifestation specific to older adults.",
+      "text_id": 154,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "There are several limitations associated with the current study.",
+      "text_id": 155,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The sample size is relatively small given the between-participants design, which likely resulted in underpowered analyses.",
+      "text_id": 156,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The rigor associated with the inclusion and exclusion criteria should have minimized variability between groups.",
+      "text_id": 157,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Another limitation is the lack of a control condition, so it was not determined that changes in postural stability were greater than the expected error.",
+      "text_id": 158,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, the practice afforded during the familiarization visit should have diminished any practice effects and variability.",
+      "text_id": 159,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As discussed previously, the timeline for muscle function testing limited our ability to identify decrements in plantar flexor function following the walking task.",
+      "text_id": 160,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Given the modest intensity of the fast-paced walking protocol, it was decided to measure postural stability as soon as possible after the walking task due to its relevance for fall risk.",
+      "text_id": 161,
+      "paragraph_id": 19,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Previous research indicates that fast-paced walking acutely reduces postural stability in older adults, but there is limited evidence for middle-aged adults, despite the high prevalence of fall and fracture risk in this population.",
+      "text_id": 162,
+      "paragraph_id": 20,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The present study found reduced postural stability following a brief bout of fast-paced walking in young and middle-aged women, with negligible age-related differences.",
+      "text_id": 163,
+      "paragraph_id": 20,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The modest walking task was not sufficient to elicit age-related differences, given the similar perceived fatigability.",
+      "text_id": 164,
+      "paragraph_id": 20,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fatigue of the plantar flexors was examined via maximal and rapid torque responses but remained unaffected by the walking task in both groups.",
+      "text_id": 165,
+      "paragraph_id": 20,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Muscle performance decrements, if any, likely subsided rapidly, prior to muscle function assessments being captured.",
+      "text_id": 166,
+      "paragraph_id": 20,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These findings highlight the sensitivity of postural stability following a 6-min moderate intensity walk in young and middle-aged women.",
+      "text_id": 167,
+      "paragraph_id": 20,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This work complements prospective reports regarding the susceptibility of middle-aged women to falls during brief bouts of walking.",
+      "text_id": 168,
+      "paragraph_id": 20,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The findings also underscore the need for more research towards identifying and preventing fall risk during modestly intense activities representative of everyday life.",
+      "text_id": 169,
+      "paragraph_id": 20,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.",
+      "text_id": 170,
+      "paragraph_id": 21,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The data that support the findings of this study are available from the corresponding author, upon reasonable request.",
+      "text_id": 171,
+      "paragraph_id": 22,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+      "text_id": 172,
+      "paragraph_id": 23,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CRediT authorship contribution statement Lacey Harper: Writingreview & editing, Writingoriginal draft, Methodology, Investigation, Formal analysis, Data curation, Conceptualization.",
+      "text_id": 173,
+      "paragraph_id": 24,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "CRediT authorship contribution statement Lacey Harper: Writingreview &amp; editing, Writingoriginal draft, Methodology, Investigation, Formal analysis, Data curation, Conceptualization."
+    },
+    {
+      "text": "William Reed: Writingreview & editing, Writingoriginal draft, Visualization, Investigation, Data curation.",
+      "text_id": 174,
+      "paragraph_id": 24,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "William Reed: Writingreview &amp; editing, Writingoriginal draft, Visualization, Investigation, Data curation."
+    },
+    {
+      "text": "Breanna McDonald: Writingreview & editing, Writingoriginal draft, Methodology, Investigation, Data curation.",
+      "text_id": 175,
+      "paragraph_id": 24,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Breanna McDonald: Writingreview &amp; editing, Writingoriginal draft, Methodology, Investigation, Data curation."
+    },
+    {
+      "text": "Melanie Antonio: Writingreview & editing, Writingoriginal draft, Methodology, Conceptualization.",
+      "text_id": 176,
+      "paragraph_id": 24,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Melanie Antonio: Writingreview &amp; editing, Writingoriginal draft, Methodology, Conceptualization."
+    },
+    {
+      "text": "Kaden Buford: Writingreview & editing, Writingoriginal draft, Methodology, Investigation.",
+      "text_id": 177,
+      "paragraph_id": 24,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Kaden Buford: Writingreview &amp; editing, Writingoriginal draft, Methodology, Investigation."
+    },
+    {
+      "text": "Esther Steingold: Writingreview & editing, Writingoriginal draft, Methodology, Investigation.",
+      "text_id": 178,
+      "paragraph_id": 24,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Esther Steingold: Writingreview &amp; editing, Writingoriginal draft, Methodology, Investigation."
+    },
+    {
+      "text": "Kayla Anderson: Writingreview & editing, Writingoriginal draft, Investigation.",
+      "text_id": 179,
+      "paragraph_id": 24,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Kayla Anderson: Writingreview &amp; editing, Writingoriginal draft, Investigation."
+    },
+    {
+      "text": "Valentina Taddia: Writingreview & editing, Writingoriginal draft, Methodology, Investigation.",
+      "text_id": 180,
+      "paragraph_id": 24,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Valentina Taddia: Writingreview &amp; editing, Writingoriginal draft, Methodology, Investigation."
+    },
+    {
+      "text": "Garrett M. Hester: Writingreview & editing, Writingoriginal draft, Visualization, Supervision, Software, Funding acquisition, Formal analysis, Data curation, Conceptualization.",
+      "text_id": 181,
+      "paragraph_id": 24,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Garrett M. Hester: Writingreview &amp; editing, Writingoriginal draft, Visualization, Supervision, Software, Funding acquisition, Formal analysis, Data curation, Conceptualization."
+    },
+    {
+      "text": "Prior to data collection, this study was approved by the Kennesaw State University Institutional Review Board (IRB 22-564) in accordance with the Declaration of Helsinki.",
+      "text_id": 182,
+      "paragraph_id": 25,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All subjects provided oral and written consent prior to beginning the study.",
+      "text_id": 183,
+      "paragraph_id": 25,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 1.",
+      "text_id": 184,
+      "paragraph_id": 26,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Overall (A), sagittal (B), and frontal (C) stability and the standard deviation (SD) for each plane (D-F) before and after fast-paced walking in young (YW) and middle-aged (MW) women.",
+      "text_id": 185,
+      "paragraph_id": 26,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Means and medians are represented by \"+\" and midlines in boxes, respectively; whiskers calculated by Tukey method. * indicates similar increase compared to pre in YW and MW. # indicates two-way interaction (p = 0.042). *** indicates increase from pre (p < 0.001; d = 1.98). **indicates increase from pre (p < 0.001; d = 1.00). * indicates main effect for time (p ≤ 0.002).",
+      "text_id": 186,
+      "paragraph_id": 26,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": "Means and medians are represented by \"+\" and midlines in boxes, respectively; whiskers calculated by Tukey method. * indicates similar increase compared to pre in YW and MW. # indicates two-way interaction (p = 0.042). *** indicates increase from pre (p &lt; 0.001; d = 1.98). **indicates increase from pre (p &lt; 0.001; d = 1.00). * indicates main effect for time (p ≤ 0.002)."
+    },
+    {
+      "text": "rate of torque development 0-50 ms; RTD 0-100 = rate of torque development 0-100 ms; RTD 0-200 = rate of torque development 0-200 ms; RTD pk = peak rate of torque development; TQ50 = torque at 50 ms; TQ100 = torque at 100 ms; TQ200 = torque at 200 ms a Indicates difference at baseline (p < 0.05).",
+      "text_id": 187,
+      "paragraph_id": 27,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": "rate of torque development 0-50 ms; RTD 0-100 = rate of torque development 0-100 ms; RTD 0-200 = rate of torque development 0-200 ms; RTD pk = peak rate of torque development; TQ50 = torque at 50 ms; TQ100 = torque at 100 ms; TQ200 = torque at 200 ms a Indicates difference at baseline (p &lt; 0.05)."
+    },
+    {
+      "text": "Fig 2.",
+      "text_id": 188,
+      "paragraph_id": 28,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Peak torque (A), peak rate of torque development (RTD) (B), and absolute torque at 50 ms (C) and 200 ms (D) before and after fast-paced walking for young (YW) and middle-aged (MW) women.",
+      "text_id": 189,
+      "paragraph_id": 28,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Means and medians are represented by \"+\" and midlines in boxes, respectively; whiskers calculated by Tukey method.",
+      "text_id": 190,
+      "paragraph_id": 28,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Group characteristics (mean ± SD) for young and middle-aged women.",
+      "text_id": 191,
+      "paragraph_id": 29,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Postural stability outcomes (mean ± SD) at pre and post for young and middle-aged women.",
+      "text_id": 192,
+      "paragraph_id": 30,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Rapid and maximal torque outcomes (mean ± SD) at pre and post for young and middle-aged women.",
+      "text_id": 193,
+      "paragraph_id": 31,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "WHO. Falls. https://www.who.int/news-room/fact-sheets/detail/falls; 2021.",
+      "text_id": 194,
+      "paragraph_id": 32,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Verma SK, Willetts JL, Corns HL, Marucci-Wellman HR, Lombardi DA, Courtney TK. Falls and fall-related injuries among community-dwelling adults in the United States. PLoS One. 2016;11(3):e0150939. https://doi.org/10.1371/journal.pone.0150939.",
+      "text_id": 195,
+      "paragraph_id": 33,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wang M, Wu F, Callisaya M, Jones G, Winzenberg T. Incidence and circumstances of falls among middle-aged women: a cohort study. Osteoporos Int. 2021;32:505-513.",
+      "text_id": 196,
+      "paragraph_id": 34,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Talbot LA, Musiol RJ, Witham EK, Metter EJ. Falls in young, middle-aged and older community dwelling adults: perceived cause, environmental factors and injury. BMC Public Health. 2005;5:86. https://doi.org/10.1186/1471-2458-5-86.",
+      "text_id": 197,
+      "paragraph_id": 35,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bouillon LE, Baker JL. Dynamic balance differences as measured by the star excursion balance test between adult-aged and middle-aged women. Sports health. 2011;3(5):466-469.",
+      "text_id": 198,
+      "paragraph_id": 36,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Liaw MY, Chen CL, Pei YC, Leong CP, Lau YC. Comparison of the static and dynamic balance performance in young, middle-aged, and elderly healthy people. Chang Gung Med J. 2009;32(3):297-304.",
+      "text_id": 199,
+      "paragraph_id": 37,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Deandrea S, Lucenteforte E, Bravi F, Foschi R, La Vecchia C, Negri E. Risk factors for falls in community-dwelling older people: a systematic review and meta-analysis. Epidemiology. 2010;21(5):658-668. https://doi.org/10.1097/EDE.0b013e3181e89905.",
+      "text_id": 200,
+      "paragraph_id": 38,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Renner SW, Cauley JA, Brown PJ, et al. Higher fatigue prospectively increases the risk of falls in older men. Innov Aging. 2021;5(1):igaa061. https://doi.org/10.1093/geroni/igaa061.",
+      "text_id": 201,
+      "paragraph_id": 39,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Adjaye-Gbewonyo D, Briones EM. Walking for leisure and transportation among adults: United States, 2022. https://www.cdc.gov/nchs/products/databriefs/db504. htm; 2024.",
+      "text_id": 202,
+      "paragraph_id": 40,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Morrison S, Colberg SR, Parson HK, et al. Walking-induced fatigue leads to increased falls risk in older adults. J Am Med Dir Assoc. 2016;17(5):402-409. https://doi.org/10.1016/j.jamda.2015.12.013.",
+      "text_id": 203,
+      "paragraph_id": 41,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thomas KS, VanLunen BL, Morrison S. Changes in postural sway as a function of prolonged walking. Eur J Appl Physiol. 2013;113(2):497-508. https://doi.org/10.1007/s00421-012-2456-z.",
+      "text_id": 204,
+      "paragraph_id": 42,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Foulis SA, Jones SL, van Emmerik RE, Kent JA. Post-fatigue recovery of power, postural control and physical function in older women. PLoS One. 2017;12(9): e0183483. https://doi.org/10.1371/journal.pone.0183483.",
+      "text_id": 205,
+      "paragraph_id": 43,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Walsh GS, Low DC, Arkesteijn M. The effect of prolonged level and uphill walking on the postural control of older adults. J Biomech. 2018;69:19-25. https://doi.org/10.1016/j.jbiomech.2018.01.015.",
+      "text_id": 206,
+      "paragraph_id": 44,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nardone A, Tarantola J, Giordano A, Schieppati M. Fatigue effects on body balance. Electroencephalogr Clin Neurophysiol. 1997;105(4):309-320. https://doi.org/10.1016/s0924-980x(97)00040-4.",
+      "text_id": 207,
+      "paragraph_id": 45,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Simoneau M, Begin F, Teasdale N. The effects of moderate fatigue on dynamic balance control and attentional demands. J NeuroEng Rehabil. 2006;3:22. https://doi.org/10.1186/1743-0003-3-22.",
+      "text_id": 208,
+      "paragraph_id": 46,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Yang F, King GA. Dynamic gait stability of treadmill versus overground walking in young adults. J Electromyogr Kinesiol. 2016;31:81-87. https://doi.org/10.1016/j.jelekin.2016.09.004.",
+      "text_id": 209,
+      "paragraph_id": 47,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hirjakova Z, Bizovska L, Bzduskova D, Hlavacka F, Janura M. Postural stability after treadmill and overground walking in young and elderly. Gait Posture. 2020;80: 84-89. https://doi.org/10.1016/j.gaitpost.2020.05.014.",
+      "text_id": 210,
+      "paragraph_id": 48,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hashiba M. Transient change in standing posture after linear treadmill locomotion. Jpn J Physiol. 1998;48(6):499-504. https://doi.org/10.2170/jjphysiol.48.499.",
+      "text_id": 211,
+      "paragraph_id": 49,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "McCartney N, Hicks AL, Martin J, Webber CE. Long-term resistance training in the elderly: effects on dynamic strength, exercise capacity, muscle, and bone. J Gerontol A Biol Sci Med Sci. 1995;50(2):B97-B104. https://doi.org/10.1093/gerona/50a.2.b97.",
+      "text_id": 212,
+      "paragraph_id": 50,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hill MW, Duncan MJ, Price MJ. The emergence of age-related deterioration in dynamic, but not quiet standing balance abilities among healthy middle-aged adults. Exp Gerontol. 2020;140:111076. https://doi.org/10.1016/j.exger.2020.111076.",
+      "text_id": 213,
+      "paragraph_id": 51,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Carbonneau E, Smeesters C. Effects of age and lean direction on the threshold of single-step balance recovery in younger, middle-aged and older adults. Gait Posture. 2014;39(1):365-371. https://doi.org/10.1016/j.gaitpost.2013.08.013.",
+      "text_id": 214,
+      "paragraph_id": 52,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Holloway KL, Brennan SL, Kotowicz MA, et al. Age-and sex-related patterns of first fracture and fracture prevalence. Calcif Tissue Int. 2015;96(1):38-44. https://doi.org/10.1007/s00223-014-9936-6.",
+      "text_id": 215,
+      "paragraph_id": 53,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Felsenberg D, Silman AJ, Lunt M, et al. Incidence of vertebral fracture in europe: results from the European prospective osteoporosis study (EPOS). J Bone Miner Res. 2002;17(4):716-724. https://doi.org/10.1359/jbmr.2002.17.4.716.",
+      "text_id": 216,
+      "paragraph_id": 54,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Metter EJ, Conwit R, Tobin J, Fozard JL. Age-associated loss of power and strength in the upper extremities in women and men. J Gerontol A Biol Sci Med Sci. 1997;52 (5):B267-B276. https://doi.org/10.1093/gerona/52a.5.b267.",
+      "text_id": 217,
+      "paragraph_id": 55,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Phillips KC, Noh B, Gage M, Yoon T. Neural and muscular alterations of the plantar flexors in middle-aged women. Exp Gerontol. 2022;159:111674. https://doi.org/10.1016/j.exger.2021.111674.",
+      "text_id": 218,
+      "paragraph_id": 56,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thompson BJ, Ryan ED, Herda TJ, Costa PB, Herda AA, Cramer JT. Age-related changes in the rate of muscle activation and rapid force characteristics. Age (Dordr). 2014;36(2):839-849. https://doi.org/10.1007/s11357-013-9605-0.",
+      "text_id": 219,
+      "paragraph_id": 57,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thompson BJ, Sobolewski EJ, Ryan ED. Comparison of age-specific leg extensor muscle function torque-time and rapid velocity attributes across the adult lifespan: a relative deficiency investigation. Exp Gerontol. 2020;131:110819. https://doi.org/10.1016/j.exger.2019.110819.",
+      "text_id": 220,
+      "paragraph_id": 58,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Olmos AA, Stratton MT, Ha PL, et al. Early and late rapid torque characteristics and select physiological correlates in middle-aged and older males. PLoS One. 2020;15 (4):e0231907. https://doi.org/10.1371/journal.pone.0231907.",
+      "text_id": 221,
+      "paragraph_id": 59,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hester GM, Ha PL, Dalton BE, et al. Rate of force development as a predictor of mobility in community-dwelling older adults. J Geriatr Phys Ther. 2021;44(2):74-81. https://doi.org/10.1519/JPT.0000000000000258.",
+      "text_id": 222,
+      "paragraph_id": 60,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Loram ID, Lakie M. Human balancing of an inverted pendulum: position control by small, ballistic-like, throw and catch movements. J Physiol. 2002;540(Pt 3): 1111-1124. https://doi.org/10.1113/jphysiol.2001.013077.",
+      "text_id": 223,
+      "paragraph_id": 61,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Palmer TB, Blinch J, Farrow AC, Agu-Udemba CC, Mitchell EA. The acute effects of fast-paced walking on isometric peak torque and rate of torque development in regularly exercising and inactive older women. J Aging Phys Act. 2022;30(3): 397-403. https://doi.org/10.1123/japa.2021-0123.",
+      "text_id": 224,
+      "paragraph_id": 62,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "D'Emanuele S, Maffiuletti NA, Tarperi C, Rainoldi A, Schena F, Boccia G. Rate of force development as an indicator of neuromuscular fatigue: a scoping review. Fronts hum neurosci. 2021;15:701916. https://doi.org/10.3389/fnhum.2021.701916.",
+      "text_id": 225,
+      "paragraph_id": 63,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hill MW, Hosseini EA, McLellan A, Price MJ, Lord SR, Kay AD. Delayed impairment of postural, physical, and muscular functions following downhill compared to level walking in older people. Front Physiol. 2020;11:544559. https://doi.org/10.3389/fphys.2020.544559.",
+      "text_id": 226,
+      "paragraph_id": 64,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "O'Bryan SJ, Critchlow A, Fuchs CJ, Hiam D, Lamon S. The contribution of age and sex hormones to female neuromuscular function across the adult lifespan. J Physio. 2025. https://doi.org/10.1113/JP287496.",
+      "text_id": 227,
+      "paragraph_id": 65,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cheng M-H, Wang S-J, Yang F-Y, Wang P-H, Fuh J-L. Menopause and physical performance-a community-based cross-sectional study. Menopause. 2009;16(5): 892-896. https://doi.org/10.1097/gme.0b013e3181a0e091.",
+      "text_id": 228,
+      "paragraph_id": 66,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zeleznik H, Anderl E, Szot CL, et al. Six-minute walk test (6MWT) reference distances by age and sex using a 12-meter pathway. Cardiopulm Phy Ther J. 2025;36: 1097. https://doi.org/10.1097/CPT.0000000000000287.",
+      "text_id": 229,
+      "paragraph_id": 67,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Elliott K, Cable N, Reilly T. Does oral contraceptive use affect maximum force production in women? Br J Sports Med. 2005;39(1):15-19. https://doi.org/10.1136/bjsm.2003.009886.",
+      "text_id": 230,
+      "paragraph_id": 68,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Borg G. Borg's Perceived Exertion and Pain Scales. Human kinetics; 1998.",
+      "text_id": 231,
+      "paragraph_id": 69,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Schmitz R, Arnold B. Intertester and intratester reliability of a dynamic balance protocol using the Biodex stability system. J Sport Rehab. 1998;7(2):95-101. https://doi.org/10.1123/jsr.7.2.95.",
+      "text_id": 232,
+      "paragraph_id": 70,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Parsa M, Rahimi A, Dehkordi SN. Studying the correlation between balance assessment by biodex stability system and berg scale in stroke individuals. J Bodywork Movement Ther. 2019;23(4):850-854.",
+      "text_id": 233,
+      "paragraph_id": 71,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gusi N, Carmelo Adsuar J, Corzo H, Del Pozo-Cruz B, Olivares PR, Parraca JA. Balance training reduces fear of falling and improves dynamic balance and isometric strength in institutionalised older people: a randomised trial. J Physiother. 2012;58 (2):97-104. https://doi.org/10.1016/S1836-9553(12)70089-9.",
+      "text_id": 234,
+      "paragraph_id": 72,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Drouin JM, Valovich-mcLeod TC, Shultz SJ, Gansneder BM, Perrin DH. Reliability and validity of the biodex system 3 pro isokinetic dynamometer velocity, torque and position measurements. Eur J Appl Physiol. 2004;91(1):22-29. https://doi.org/10.1007/s00421-003-0933-0.",
+      "text_id": 235,
+      "paragraph_id": 73,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cannavan D, Coleman DR, Blazevich AJ. Lack of effect of moderate-duration static stretching on plantar flexor force production and series compliance. Clin Biomech. 2012;27(3):306-312. https://doi.org/10.1016/j.clinbiomech.2011.10.003.",
+      "text_id": 236,
+      "paragraph_id": 74,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ha PL, Dalton BE, Alesi MG, et al. Isometric versus isotonic contractions: sex differences in the fatigability and recovery of isometric strength and high-velocity contractile parameters. Physiol Rep. 2021;9(9):e1482. https://doi.org/10.14814/phy2.14821.",
+      "text_id": 237,
+      "paragraph_id": 75,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Paris MT, McNeil CJ, Power GA, Rice CL, Dalton BH. Age-related performance fatigability: a comprehensive review of dynamic tasks. J Appl Physiol (1985). 2022; 133(4):850-866. https://doi.org/10.1152/japplphysiol.00319.2022.",
+      "text_id": 238,
+      "paragraph_id": 76,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gimmon Y, Riemer R, Oddsson L, Melzer I. The effect of plantar flexor muscle fatigue on postural control. J Electromyogr Kinesiol. 2011;21(6):922-928. https://doi.org/10.1016/j.jelekin.2011.08.005.",
+      "text_id": 239,
+      "paragraph_id": 77,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vie B, Griffon P, Bijoux A, Cadiere J, Weber JP, Jammes Y. Effect of the 6-minute walk test on plantar loading and capability to produce ankle plantar flexion forces. Gait Posture. 2016;49:61-66. https://doi.org/10.1016/j.gaitpost.2016.03.018.",
+      "text_id": 240,
+      "paragraph_id": 78,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Clarike DH, Hunt MQ, Dotson CO. Muscular strength and endurance as a function of age and activity level. Res Q Exerc Sport. 1992;63(3):302-310.",
+      "text_id": 241,
+      "paragraph_id": 79,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Yu CY, Lin HC. Exploring factors regarding transit-related walking and walking duration. J Physl Act Health. 2016;13(11):1220-1229. https://doi.org/10.1123/jpah.2015-0667.",
+      "text_id": 242,
+      "paragraph_id": 80,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Marcolin G, Grainer A, Reggiani C, et al. Static and dynamic postural changes after a mountain ultra-marathon of 80 km and 5500 d+. PLoS One. 2016;11(5):e0155085. https://doi.org/10.1371/journal.pone.0155085.",
+      "text_id": 243,
+      "paragraph_id": 81,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Marcolin G, Panizzolo FA, Biancato E, Cognolato M, Petrone N, Paoli A. Moderate treadmill run worsened static but not dynamic postural stability of healthy individuals. Eur J Appl Physiol. 2019;119(4):841-846. https://doi.org/10.1007/s00421-019-04073-1.",
+      "text_id": 244,
+      "paragraph_id": 82,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Rizzato A, Benazzato M, Cognolato M, Grigoletto D, Paoli A, Marcolin G. Different neuromuscular control mechanisms regulate static and dynamic balance: a center- of-pressure analysis in young adults. Hum Mov Sci. 2023;90:103120. https://doi.org/10.1016/j.humov.2023.103120.",
+      "text_id": 245,
+      "paragraph_id": 83,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hunter SK. The relevance of sex differences in performance fatigability. Med Sci Sports Exerc. 2016;48(11):2247-2256. https://doi.org/10.1249/MSS.0000000000000928.",
+      "text_id": 246,
+      "paragraph_id": 84,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gollnick PD, Sjodin B, Karlsson J, Jansson E, Saltin B. Human soleus muscle: a comparison of fiber composition and enzyme activities with other leg muscles. Pflugers Arch. 1974;348(3):247-255. https://doi.org/10.1007/BF00587415.",
+      "text_id": 247,
+      "paragraph_id": 85,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Materials and methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Ethical approval",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Participants",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.3. Experimental design",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "Abbreviations",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.4. Anthropometrics and body composition",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "2.5. Fast-paced walking task",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "2.6. Dynamic postural stability",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "2.7. Rapid and maximal torque measures",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "2.8. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "3.1. Group characteristics",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "3.2. Effect of fast-paced walking task on postural stability",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "3.3. Effects of fast-paced walking task on rapid and maximal torque production",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "Funding",
+      "parent_section_id": null,
+      "section_type": "funding",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "Data availability",
+      "parent_section_id": null,
+      "section_type": "availability",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "Declaration of competing interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Ethical approval",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "Fig 1.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "RTD 0-50 =",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 24,
+      "header": "Fig 2.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 25,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 26,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 27,
+      "header": "Table 3",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 28,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [],
+  "bib": [
+    {
+      "bib_type": "misc",
+      "doi": "",
+      "title": "",
+      "authors": "Who, ; Falls, ",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "container": null,
+      "last_page": null,
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 194
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0150939",
+      "title": "Falls and fall-related injuries among community-dwelling adults in the United States",
+      "authors": "Verma, S K; Willetts, J L; Corns, H L; Marucci-Wellman, H R; Lombardi, D A; Courtney, T K",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "11",
+      "issue": "3",
+      "first_page": "150939",
+      "container": "PLoS One",
+      "last_page": null,
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 195
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Incidence and circumstances of falls among middle-aged women: a cohort study",
+      "authors": "Wang, M; Wu, F; Callisaya, M; Jones, G; Winzenberg, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "32",
+      "issue": "",
+      "first_page": "505",
+      "container": "Osteoporos Int",
+      "last_page": "513",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 196
+    },
+    {
+      "bib_type": "book",
+      "doi": "10.1186/1471%2D2458%2D5%2D86",
+      "title": "Falls in young, middle-aged and older community dwelling adults: perceived cause, environmental factors and injury",
+      "authors": "Talbot, L A; Musiol, R J; Witham, E K; Metter, E J",
+      "editors": "",
+      "publisher": "BMC Public Health",
+      "year": 2005,
+      "volume": "5",
+      "issue": "",
+      "first_page": "86",
+      "container": null,
+      "last_page": null,
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 197
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Dynamic balance differences as measured by the star excursion balance test between adult-aged and middle-aged women",
+      "authors": "Bouillon, L E; Baker, J L",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "3",
+      "issue": "5",
+      "first_page": "466",
+      "container": "Sports health",
+      "last_page": "469",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 198
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Comparison of the static and dynamic balance performance in young, middle-aged, and elderly healthy people",
+      "authors": "Liaw, M Y; Chen, C L; Pei, Y C; Leong, C P; Lau, Y C",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "32",
+      "issue": "3",
+      "first_page": "297",
+      "container": "Chang Gung Med J",
+      "last_page": "304",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 199
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/EDE.0b013e3181e89905",
+      "title": "Risk factors for falls in community-dwelling older people: a systematic review and meta-analysis",
+      "authors": "Deandrea, S; Lucenteforte, E; Bravi, F; Foschi, R; Vecchia, La; Negri, C; , E",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "21",
+      "issue": "5",
+      "first_page": "658",
+      "container": "Epidemiology",
+      "last_page": "668",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 200
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1093/geroni/igaa061",
+      "title": "Higher fatigue prospectively increases the risk of falls in older men",
+      "authors": "Renner, S W; Cauley, J A; Brown, P J",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "5",
+      "issue": "1",
+      "first_page": "61",
+      "container": "Innov Aging",
+      "last_page": null,
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 201
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Walking for leisure and transportation among adults: United States",
+      "authors": "Adjaye-Gbewonyo, D; Briones, E M",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "container": null,
+      "last_page": null,
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 202
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jamda.2015.12.013",
+      "title": "Walking-induced fatigue leads to increased falls risk in older adults",
+      "authors": "Morrison, S; Colberg, S R; Parson, H K",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "17",
+      "issue": "5",
+      "first_page": "402",
+      "container": "J Am Med Dir Assoc",
+      "last_page": "409",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 203
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s00421%2D012%2D2456%2Dz",
+      "title": "Changes in postural sway as a function of prolonged walking",
+      "authors": "Thomas, K S; Vanlunen, B L; Morrison, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "113",
+      "issue": "2",
+      "first_page": "497",
+      "container": "Eur J Appl Physiol",
+      "last_page": "508",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 204
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0183483",
+      "title": "Post-fatigue recovery of power, postural control and physical function in older women",
+      "authors": "Foulis, S A; Jones, S L; Van Emmerik, R E; Kent, J A",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "12",
+      "issue": "9",
+      "first_page": "183483",
+      "container": "PLoS One",
+      "last_page": null,
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 205
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jbiomech.2018.01.015",
+      "title": "The effect of prolonged level and uphill walking on the postural control of older adults",
+      "authors": "Walsh, G S; Low, D C; Arkesteijn, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "69",
+      "issue": "",
+      "first_page": "19",
+      "container": "J Biomech",
+      "last_page": "25",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 206
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/s0924%2D980x%2897%2900040%2D4",
+      "title": "Fatigue effects on body balance",
+      "authors": "Nardone, A; Tarantola, J; Giordano, A; Schieppati, M",
+      "editors": "",
+      "publisher": "",
+      "year": 1997,
+      "volume": "105",
+      "issue": "4",
+      "first_page": "309",
+      "container": "Electroencephalogr Clin Neurophysiol",
+      "last_page": "320",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 207
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/1743%2D0003%2D3%2D22",
+      "title": "The effects of moderate fatigue on dynamic balance control and attentional demands",
+      "authors": "Simoneau, M; Begin, F; Teasdale, N",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "3",
+      "issue": "",
+      "first_page": "22",
+      "container": "J NeuroEng Rehabil",
+      "last_page": null,
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 208
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jelekin.2016.09.004",
+      "title": "Dynamic gait stability of treadmill versus overground walking in young adults",
+      "authors": "Yang, F; King, G A",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "31",
+      "issue": "",
+      "first_page": "81",
+      "container": "J Electromyogr Kinesiol",
+      "last_page": "87",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 209
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.gaitpost.2020.05.014",
+      "title": "Postural stability after treadmill and overground walking in young and elderly",
+      "authors": "Hirjakova, Z; Bizovska, L; Bzduskova, D; Hlavacka, F; Janura, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "80",
+      "issue": "",
+      "first_page": "84",
+      "container": "Gait Posture",
+      "last_page": "89",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 210
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2170/jjphysiol.48.499",
+      "title": "Transient change in standing posture after linear treadmill locomotion",
+      "authors": "Hashiba, M",
+      "editors": "",
+      "publisher": "",
+      "year": 1998,
+      "volume": "48",
+      "issue": "6",
+      "first_page": "499",
+      "container": "Jpn J Physiol",
+      "last_page": "504",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 211
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1093/gerona/50a.2.b97",
+      "title": "Long-term resistance training in the elderly: effects on dynamic strength, exercise capacity, muscle, and bone",
+      "authors": "Mccartney, N; Hicks, A L; Martin, J; Webber, C E",
+      "editors": "",
+      "publisher": "",
+      "year": 1995,
+      "volume": "50",
+      "issue": "2",
+      "first_page": "97",
+      "container": "J Gerontol A Biol Sci Med Sci",
+      "last_page": "B104",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 212
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.exger.2020.111076",
+      "title": "The emergence of age-related deterioration in dynamic, but not quiet standing balance abilities among healthy middle-aged adults",
+      "authors": "Hill, M W; Duncan, M J; Price, M J",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "140",
+      "issue": "",
+      "first_page": "111076",
+      "container": "Exp Gerontol",
+      "last_page": null,
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 213
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.gaitpost.2013.08.013",
+      "title": "Effects of age and lean direction on the threshold of single-step balance recovery in younger, middle-aged and older adults",
+      "authors": "Carbonneau, E; Smeesters, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "39",
+      "issue": "1",
+      "first_page": "365",
+      "container": "Gait Posture",
+      "last_page": "371",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 214
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s00223%2D014%2D9936%2D6",
+      "title": "Age-and sex-related patterns of first fracture and fracture prevalence",
+      "authors": "Holloway, K L; Brennan, S L; Kotowicz, M A",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "96",
+      "issue": "1",
+      "first_page": "38",
+      "container": "Calcif Tissue Int",
+      "last_page": "44",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 215
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1359/jbmr.2002.17.4.716",
+      "title": "Incidence of vertebral fracture in europe: results from the European prospective osteoporosis study (EPOS)",
+      "authors": "Felsenberg, D; Silman, A J; Lunt, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2002,
+      "volume": "17",
+      "issue": "4",
+      "first_page": "716",
+      "container": "J Bone Miner Res",
+      "last_page": "724",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 216
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1093/gerona/52a.5.b267",
+      "title": "Age-associated loss of power and strength in the upper extremities in women and men",
+      "authors": "Metter, E J; Conwit, R; Tobin, J; Fozard, J L",
+      "editors": "",
+      "publisher": "",
+      "year": 1997,
+      "volume": "52",
+      "issue": "5",
+      "first_page": "267",
+      "container": "J Gerontol A Biol Sci Med Sci",
+      "last_page": "B276",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 217
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.exger.2021.111674",
+      "title": "Neural and muscular alterations of the plantar flexors in middle-aged women",
+      "authors": "Phillips, K C; Noh, B; Gage, M; Yoon, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "159",
+      "issue": "",
+      "first_page": "111674",
+      "container": "Exp Gerontol",
+      "last_page": null,
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 218
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s11357%2D013%2D9605%2D0",
+      "title": "Age-related changes in the rate of muscle activation and rapid force characteristics",
+      "authors": "Thompson, B J; Ryan, E D; Herda, T J; Costa, P B; Herda, A A; Cramer, J T",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "36",
+      "issue": "2",
+      "first_page": "839",
+      "container": "Age (Dordr)",
+      "last_page": "849",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 219
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.exger.2019.110819",
+      "title": "Comparison of age-specific leg extensor muscle function torque-time and rapid velocity attributes across the adult lifespan: a relative deficiency investigation",
+      "authors": "Thompson, B J; Sobolewski, E J; Ryan, E D",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "131",
+      "issue": "",
+      "first_page": "110819",
+      "container": "Exp Gerontol",
+      "last_page": null,
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 220
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0231907",
+      "title": "Early and late rapid torque characteristics and select physiological correlates in middle-aged and older males",
+      "authors": "Olmos, A A; Stratton, M T; Ha, P L",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "15",
+      "issue": "4",
+      "first_page": "231907",
+      "container": "PLoS One",
+      "last_page": null,
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 221
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1519/JPT.0000000000000258",
+      "title": "Rate of force development as a predictor of mobility in community-dwelling older adults",
+      "authors": "Hester, G M; Ha, P L; Dalton, B E",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "44",
+      "issue": "2",
+      "first_page": "74",
+      "container": "J Geriatr Phys Ther",
+      "last_page": "81",
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 222
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1113/jphysiol.2001.013077",
+      "title": "Human balancing of an inverted pendulum: position control by small, ballistic-like, throw and catch movements",
+      "authors": "Loram, I D; Lakie, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2002,
+      "volume": "540",
+      "issue": "",
+      "first_page": "1111",
+      "container": "J Physiol",
+      "last_page": "1124",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 223
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1123/japa.2021%2D0123",
+      "title": "The acute effects of fast-paced walking on isometric peak torque and rate of torque development in regularly exercising and inactive older women",
+      "authors": "Palmer, T B; Blinch, J; Farrow, A C; Agu-Udemba, C C; Mitchell, E A",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "30",
+      "issue": "3",
+      "first_page": "397",
+      "container": "J Aging Phys Act",
+      "last_page": "403",
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 224
+    },
+    {
+      "bib_type": "book",
+      "doi": "10.3389/fnhum.2021.701916",
+      "title": "Rate of force development as an indicator of neuromuscular fatigue: a scoping review. Fronts hum neurosci",
+      "authors": "D'emanuele, S; Maffiuletti, N A; Tarperi, C; Rainoldi, A; Schena, F; Boccia, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "15",
+      "issue": "",
+      "first_page": "701916",
+      "container": null,
+      "last_page": null,
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 225
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3389/fphys.2020.544559",
+      "title": "Delayed impairment of postural, physical, and muscular functions following downhill compared to level walking in older people",
+      "authors": "Hill, M W; Hosseini, E A; Mclellan, A; Price, M J; Lord, S R; Kay, A D",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "11",
+      "issue": "",
+      "first_page": "544559",
+      "container": "Front Physiol",
+      "last_page": null,
+      "bib_id": 32,
+      "year_suffix": "",
+      "text_id": 226
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1113/JP287496",
+      "title": "The contribution of age and sex hormones to female neuromuscular function across the adult lifespan",
+      "authors": "O'bryan, S J; Critchlow, A; Fuchs, C J; Hiam, D; Lamon, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "container": "J Physio",
+      "last_page": null,
+      "bib_id": 33,
+      "year_suffix": "",
+      "text_id": 227
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/gme.0b013e3181a0e091",
+      "title": "Menopause and physical performance-a community-based cross-sectional study",
+      "authors": "Cheng, M-H; Wang, S-J; Yang, F-Y; Wang, P-H; Fuh, J-L",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "16",
+      "issue": "5",
+      "first_page": "892",
+      "container": "Menopause",
+      "last_page": "896",
+      "bib_id": 34,
+      "year_suffix": "",
+      "text_id": 228
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/CPT.0000000000000287",
+      "title": "Six-minute walk test (6MWT) reference distances by age and sex using a 12-meter pathway",
+      "authors": "Zeleznik, H; Anderl, E; Szot, C L",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "36",
+      "issue": "",
+      "first_page": "1097",
+      "container": "Cardiopulm Phy Ther J",
+      "last_page": null,
+      "bib_id": 35,
+      "year_suffix": "",
+      "text_id": 229
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsm.2003.009886",
+      "title": "Does oral contraceptive use affect maximum force production in women?",
+      "authors": "Elliott, K; Cable, N; Reilly, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2005,
+      "volume": "39",
+      "issue": "1",
+      "first_page": "15",
+      "container": "Br J Sports Med",
+      "last_page": "19",
+      "bib_id": 36,
+      "year_suffix": "",
+      "text_id": 230
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Borg's Perceived Exertion and Pain Scales",
+      "authors": "Borg, G",
+      "editors": "",
+      "publisher": "",
+      "year": 1998,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "container": "Human kinetics",
+      "last_page": null,
+      "bib_id": 37,
+      "year_suffix": "",
+      "text_id": 231
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1123/jsr.7.2.95",
+      "title": "Intertester and intratester reliability of a dynamic balance protocol using the Biodex stability system",
+      "authors": "Schmitz, R; Arnold, B",
+      "editors": "",
+      "publisher": "",
+      "year": 1998,
+      "volume": "7",
+      "issue": "2",
+      "first_page": "95",
+      "container": "J Sport Rehab",
+      "last_page": "101",
+      "bib_id": 38,
+      "year_suffix": "",
+      "text_id": 232
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Studying the correlation between balance assessment by biodex stability system and berg scale in stroke individuals",
+      "authors": "Parsa, M; Rahimi, A; Dehkordi, S N",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "23",
+      "issue": "4",
+      "first_page": "850",
+      "container": "J Bodywork Movement Ther",
+      "last_page": "854",
+      "bib_id": 39,
+      "year_suffix": "",
+      "text_id": 233
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/S1836%2D9553%2812%2970089%2D9",
+      "title": "Balance training reduces fear of falling and improves dynamic balance and isometric strength in institutionalised older people: a randomised trial",
+      "authors": "Gusi, N; Adsuar, Carmelo; Corzo, J; , H; Pozo-Cruz, Del; Olivares, B; Parraca, P R; , J A",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "58",
+      "issue": "2",
+      "first_page": "97",
+      "container": "J Physiother",
+      "last_page": "104",
+      "bib_id": 40,
+      "year_suffix": "",
+      "text_id": 234
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s00421%2D003%2D0933%2D0",
+      "title": "Reliability and validity of the biodex system 3 pro isokinetic dynamometer velocity, torque and position measurements",
+      "authors": "Drouin, J M; Valovich-Mcleod, T C; Shultz, S J; Gansneder, B M; Perrin, D H",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "91",
+      "issue": "1",
+      "first_page": "22",
+      "container": "Eur J Appl Physiol",
+      "last_page": "29",
+      "bib_id": 41,
+      "year_suffix": "",
+      "text_id": 235
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.clinbiomech.2011.10.003",
+      "title": "Lack of effect of moderate-duration static stretching on plantar flexor force production and series compliance",
+      "authors": "Cannavan, D; Coleman, D R; Blazevich, A J",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "27",
+      "issue": "3",
+      "first_page": "306",
+      "container": "Clin Biomech",
+      "last_page": "312",
+      "bib_id": 42,
+      "year_suffix": "",
+      "text_id": 236
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.14814/phy2.14821",
+      "title": "Isometric versus isotonic contractions: sex differences in the fatigability and recovery of isometric strength and high-velocity contractile parameters",
+      "authors": "Ha, P L; Dalton, B E; Alesi, M G",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "9",
+      "issue": "9",
+      "first_page": "1482",
+      "container": "Physiol Rep",
+      "last_page": null,
+      "bib_id": 43,
+      "year_suffix": "",
+      "text_id": 237
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1152/japplphysiol.00319.2022",
+      "title": "Age-related performance fatigability: a comprehensive review of dynamic tasks",
+      "authors": "Paris, M T; Mcneil, C J; Power, G A; Rice, C L; Dalton, B H",
+      "editors": "",
+      "publisher": "",
+      "year": 1985,
+      "volume": "133",
+      "issue": "4",
+      "first_page": "850",
+      "container": "J Appl Physiol",
+      "last_page": "866",
+      "bib_id": 44,
+      "year_suffix": "",
+      "text_id": 238
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jelekin.2011.08.005",
+      "title": "The effect of plantar flexor muscle fatigue on postural control",
+      "authors": "Gimmon, Y; Riemer, R; Oddsson, L; Melzer, I",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "21",
+      "issue": "6",
+      "first_page": "922",
+      "container": "J Electromyogr Kinesiol",
+      "last_page": "928",
+      "bib_id": 45,
+      "year_suffix": "",
+      "text_id": 239
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.gaitpost.2016.03.018",
+      "title": "Effect of the 6-minute walk test on plantar loading and capability to produce ankle plantar flexion forces",
+      "authors": "Vie, B; Griffon, P; Bijoux, A; Cadiere, J; Weber, J P; Jammes, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "49",
+      "issue": "",
+      "first_page": "61",
+      "container": "Gait Posture",
+      "last_page": "66",
+      "bib_id": 46,
+      "year_suffix": "",
+      "text_id": 240
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Muscular strength and endurance as a function of age and activity level",
+      "authors": "Clarike, D H; Hunt, M Q; Dotson, C O",
+      "editors": "",
+      "publisher": "",
+      "year": 1992,
+      "volume": "63",
+      "issue": "3",
+      "first_page": "302",
+      "container": "Res Q Exerc Sport",
+      "last_page": "310",
+      "bib_id": 47,
+      "year_suffix": "",
+      "text_id": 241
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1123/jpah.2015%2D0667",
+      "title": "Exploring factors regarding transit-related walking and walking duration",
+      "authors": "Yu, C Y; Lin, H C",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "13",
+      "issue": "11",
+      "first_page": "1220",
+      "container": "J Physl Act Health",
+      "last_page": "1229",
+      "bib_id": 48,
+      "year_suffix": "",
+      "text_id": 242
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0155085",
+      "title": "Static and dynamic postural changes after a mountain ultra-marathon of 80 km and 5500 d+",
+      "authors": "Marcolin, G; Grainer, A; Reggiani, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "11",
+      "issue": "5",
+      "first_page": "155085",
+      "container": "PLoS One",
+      "last_page": null,
+      "bib_id": 49,
+      "year_suffix": "",
+      "text_id": 243
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s00421%2D019%2D04073%2D1",
+      "title": "Moderate treadmill run worsened static but not dynamic postural stability of healthy individuals",
+      "authors": "Marcolin, G; Panizzolo, F A; Biancato, E; Cognolato, M; Petrone, N; Paoli, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "119",
+      "issue": "4",
+      "first_page": "841",
+      "container": "Eur J Appl Physiol",
+      "last_page": "846",
+      "bib_id": 50,
+      "year_suffix": "",
+      "text_id": 244
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.humov.2023.103120",
+      "title": "Different neuromuscular control mechanisms regulate static and dynamic balance: a centerof-pressure analysis in young adults",
+      "authors": "Rizzato, A; Benazzato, M; Cognolato, M; Grigoletto, D; Paoli, A; Marcolin, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "90",
+      "issue": "",
+      "first_page": "103120",
+      "container": "Hum Mov Sci",
+      "last_page": null,
+      "bib_id": 51,
+      "year_suffix": "",
+      "text_id": 245
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1249/MSS.0000000000000928",
+      "title": "The relevance of sex differences in performance fatigability",
+      "authors": "Hunter, S K",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "48",
+      "issue": "11",
+      "first_page": "2247",
+      "container": "Med Sci Sports Exerc",
+      "last_page": "2256",
+      "bib_id": 52,
+      "year_suffix": "",
+      "text_id": 246
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/BF00587415",
+      "title": "Human soleus muscle: a comparison of fiber composition and enzyme activities with other leg muscles",
+      "authors": "Gollnick, P D; Sjodin, B; Karlsson, J; Jansson, E; Saltin, B",
+      "editors": "",
+      "publisher": "",
+      "year": 1974,
+      "volume": "348",
+      "issue": "3",
+      "first_page": "247",
+      "container": "Pflugers Arch",
+      "last_page": "255",
+      "bib_id": 53,
+      "year_suffix": "",
+      "text_id": 247
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2",
+      "text_id": 15
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3",
+      "text_id": 15
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4",
+      "text_id": 15
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5,",
+      "text_id": 15
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6",
+      "text_id": 15
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 15
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8",
+      "text_id": 16
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 17
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4",
+      "text_id": 17
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10,",
+      "text_id": 17
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 17
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10,",
+      "text_id": 17
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 17
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13]",
+      "text_id": 17
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "[14]",
+      "text_id": 17
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 17
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14,",
+      "text_id": 17
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15",
+      "text_id": 17
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12,",
+      "text_id": 17
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13",
+      "text_id": 17
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 17
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 17
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 17
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17,",
+      "text_id": 17
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 17
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 17
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 18
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "19",
+      "text_id": 20
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 20
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 21
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4",
+      "text_id": 22
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "20,",
+      "text_id": 22
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 22
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22,",
+      "text_id": 23
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 23
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "24",
+      "text_id": 23
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 24
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26,",
+      "text_id": 24
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 24
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 24
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 24
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 24
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31",
+      "text_id": 25
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 28
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 28
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12,",
+      "text_id": 28
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31,",
+      "text_id": 28
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "33",
+      "text_id": 28
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 29
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "35",
+      "text_id": 29
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "36",
+      "text_id": 31
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31",
+      "text_id": 32
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "37",
+      "text_id": 46
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "38",
+      "text_id": 53
+    },
+    {
+      "xref_id": 38,
+      "xref_type": "bibr",
+      "contents": "39",
+      "text_id": 55
+    },
+    {
+      "xref_id": 39,
+      "xref_type": "bibr",
+      "contents": "40",
+      "text_id": 55
+    },
+    {
+      "xref_id": 40,
+      "xref_type": "bibr",
+      "contents": "41",
+      "text_id": 55
+    },
+    {
+      "xref_id": 41,
+      "xref_type": "bibr",
+      "contents": "42",
+      "text_id": 67
+    },
+    {
+      "xref_id": 42,
+      "xref_type": "bibr",
+      "contents": "43",
+      "text_id": 68
+    },
+    {
+      "xref_id": 43,
+      "xref_type": "bibr",
+      "contents": "44",
+      "text_id": 72
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 86
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 101
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 104
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1A-F",
+      "text_id": 104
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 105
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "2A-D",
+      "text_id": 105
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 107
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1 B",
+      "text_id": 107
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 108
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1A-C",
+      "text_id": 108
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 109
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1D-F",
+      "text_id": 109
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 110
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "2A-D",
+      "text_id": 110
+    },
+    {
+      "xref_id": 44,
+      "xref_type": "bibr",
+      "contents": "45",
+      "text_id": 113
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2,",
+      "text_id": 114
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3",
+      "text_id": 114
+    },
+    {
+      "xref_id": 45,
+      "xref_type": "bibr",
+      "contents": "46",
+      "text_id": 118
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 120
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 120
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 122
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 124
+    },
+    {
+      "xref_id": 47,
+      "xref_type": "bibr",
+      "contents": "48",
+      "text_id": 125
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14,",
+      "text_id": 128
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15,",
+      "text_id": 128
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 128
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 128
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 129
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "38",
+      "text_id": 130
+    },
+    {
+      "xref_id": 48,
+      "xref_type": "bibr",
+      "contents": "49",
+      "text_id": 130
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 132
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 134
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 137
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15",
+      "text_id": 138
+    },
+    {
+      "xref_id": 49,
+      "xref_type": "bibr",
+      "contents": "50,",
+      "text_id": 138
+    },
+    {
+      "xref_id": 50,
+      "xref_type": "bibr",
+      "contents": "51",
+      "text_id": 138
+    },
+    {
+      "xref_id": 51,
+      "xref_type": "bibr",
+      "contents": "52",
+      "text_id": 139
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31",
+      "text_id": 142
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 142
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 143
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 143
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 143
+    },
+    {
+      "xref_id": 52,
+      "xref_type": "bibr",
+      "contents": "53",
+      "text_id": 145
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 145
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 147
+    },
+    {
+      "xref_id": 53,
+      "xref_type": "bibr",
+      "contents": "54",
+      "text_id": 152
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 153
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10,",
+      "text_id": 153
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 153
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31",
+      "text_id": 153
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 22,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 23,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 3,
+      "section_id": 24,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 25,
+      "html": "<table>\n  <row>\n    <cell>Variable<\/cell>\n    <cell>Young Women<\/cell>\n    <cell>Middle-aged<\/cell>\n    <cell>p-value and Effect<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell>Women<\/cell>\n    <cell>Size<\/cell>\n  <\/row>\n  <row>\n    <cell>Body mass<\/cell>\n    <cell>63.46 ± 6.97<\/cell>\n    <cell>70.08 ± 14.17<\/cell>\n    <cell>p = 0.059<\/cell>\n  <\/row>\n  <row>\n    <cell>(kg) BMI (kg⋅m -2 )<\/cell>\n    <cell>23.56 ± 3.02<\/cell>\n    <cell>27.22 ± 5.07<\/cell>\n    <cell>d = 0.60 p ¼ 0.010 a<\/cell>\n  <\/row>\n  <row>\n    <cell>Body fat %<\/cell>\n    <cell>28.58 ± 7.22<\/cell>\n    <cell>37.18 ± 5.98<\/cell>\n    <cell>d = 0.89 p ¼ 0.001 a<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>d = 1.29<\/cell>\n  <\/row>\n  <row>\n    <cell>LBM (kg)<\/cell>\n    <cell>44.56 ± 3.03<\/cell>\n    <cell>43.51 ± 6.70<\/cell>\n    <cell>p = 0.293<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>d = 0.20<\/cell>\n  <\/row>\n  <row>\n    <cell>LLM (kg)<\/cell>\n    <cell>13.46 ± 1.04<\/cell>\n    <cell>13.05 ± 2.53<\/cell>\n    <cell>p = 0.283<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>d = 0.22<\/cell>\n  <\/row>\n  <row>\n    <cell>MET h/wk<\/cell>\n    <cell>70.69 ± 89.24<\/cell>\n    <cell>65.68 ± 53.53<\/cell>\n    <cell>p = 0.607<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>d = 0.07<\/cell>\n  <\/row>\n  <row>\n    <cell>6MWT (m)<\/cell>\n    <cell>590.51 ± 48.49<\/cell>\n    <cell>582.57 ± 41.66<\/cell>\n    <cell>p = 0.630<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>d = 0.18<\/cell>\n  <\/row>\n  <row>\n    <cell>RPE (a.u.)<\/cell>\n    <cell>3.00 ± 1.16<\/cell>\n    <cell>3.33 ± 1.41<\/cell>\n    <cell>p = 0.870<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>d = 0.26<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"4\">BMI = body mass index; LBM = lean body mass; LLM = leg lean mass; MET =<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"4\">metabolic equivalent of task; 6MWT = 6-min walk test; RPE = rating of<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"2\">perceived exertion.<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variable", "Young Women", "Middle-aged / Women", "p-value and Effect / Size"],
+        ["Body mass", "63.46 ± 6.97", "70.08 ± 14.17", "p = 0.059"],
+        ["(kg) BMI (kg⋅m -2 )", "23.56 ± 3.02", "27.22 ± 5.07", "d = 0.60 p ¼ 0.010 a"],
+        ["Body fat %", "28.58 ± 7.22", "37.18 ± 5.98", "d = 0.89 p ¼ 0.001 a"],
+        ["", "", "", "d = 1.29"],
+        ["LBM (kg)", "44.56 ± 3.03", "43.51 ± 6.70", "p = 0.293"],
+        ["", "", "", "d = 0.20"],
+        ["LLM (kg)", "13.46 ± 1.04", "13.05 ± 2.53", "p = 0.283"],
+        ["", "", "", "d = 0.22"],
+        ["MET h/wk", "70.69 ± 89.24", "65.68 ± 53.53", "p = 0.607"],
+        ["", "", "", "d = 0.07"],
+        ["6MWT (m)", "590.51 ± 48.49", "582.57 ± 41.66", "p = 0.630"],
+        ["", "", "", "d = 0.18"],
+        ["RPE (a.u.)", "3.00 ± 1.16", "3.33 ± 1.41", "p = 0.870"],
+        ["", "", "", "d = 0.26"],
+        ["BMI = body mass index; LBM = lean body mass; LLM = leg lean mass; MET =", "BMI = body mass index; LBM = lean body mass; LLM = leg lean mass; MET =", "BMI = body mass index; LBM = lean body mass; LLM = leg lean mass; MET =", "BMI = body mass index; LBM = lean body mass; LLM = leg lean mass; MET ="],
+        ["metabolic equivalent of task; 6MWT = 6-min walk test; RPE = rating of", "metabolic equivalent of task; 6MWT = 6-min walk test; RPE = rating of", "metabolic equivalent of task; 6MWT = 6-min walk test; RPE = rating of", "metabolic equivalent of task; 6MWT = 6-min walk test; RPE = rating of"],
+        ["perceived exertion.", "perceived exertion.", "", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 26,
+      "html": "<table>\n  <row>\n    <cell>Variable<\/cell>\n    <cell>Young Women<\/cell>\n    <cell/>\n    <cell>Middle-aged Women<\/cell>\n    <cell/>\n    <cell>Two-way Interaction<\/cell>\n    <cell>Time Effect<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Pre<\/cell>\n    <cell>Post<\/cell>\n    <cell>Pre<\/cell>\n    <cell>Post<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Overall<\/cell>\n    <cell>0.61 ± 0.20<\/cell>\n    <cell>0.96 ± 0.39<\/cell>\n    <cell>0.85 ± 0.35<\/cell>\n    <cell>1.13 ± 0.52<\/cell>\n    <cell>p = 0.251; η² p = 0.045<\/cell>\n    <cell>p &lt; 0.001 b η² p = 0.598<\/cell>\n  <\/row>\n  <row>\n    <cell>Overall SD<\/cell>\n    <cell>0.31 ± 0.09<\/cell>\n    <cell>0.44 ± 0.34<\/cell>\n    <cell>0.42 ± 0.13 a<\/cell>\n    <cell>0.57 ± 0.47<\/cell>\n    <cell>p = 0.552; η² p = 0.012<\/cell>\n    <cell>p ¼ 0.001 b η² p = 0.312<\/cell>\n  <\/row>\n  <row>\n    <cell>Sagittal<\/cell>\n    <cell>0.36 ± 0.13<\/cell>\n    <cell>0.61 ± 0.29<\/cell>\n    <cell>0.53 ± 0.19 a<\/cell>\n    <cell>0.74 ± 0.38<\/cell>\n    <cell>p ¼ 0.042 c ; η² p = 0.135<\/cell>\n    <cell>p &lt; 0.001 b η² p = 0.695<\/cell>\n  <\/row>\n  <row>\n    <cell>Sagittal SD<\/cell>\n    <cell>0.24 ± 0.07<\/cell>\n    <cell>0.36 ± 0.10<\/cell>\n    <cell>0.40 ± 0.14 a<\/cell>\n    <cell>0.51 ± 0.22<\/cell>\n    <cell>p = 0.087; η² p = 0.097<\/cell>\n    <cell>p &lt; 0.001 b η² p = 0.587<\/cell>\n  <\/row>\n  <row>\n    <cell>Frontal<\/cell>\n    <cell>0.33 ± 0.13<\/cell>\n    <cell>0.58 ± 0.44<\/cell>\n    <cell>0.52 ± 0.20 a<\/cell>\n    <cell>0.70 ± 0.32<\/cell>\n    <cell>p = 0.339; η² p = 0.025<\/cell>\n    <cell>p &lt; 0.001 b η² p = 0.316<\/cell>\n  <\/row>\n  <row>\n    <cell>Frontal SD<\/cell>\n    <cell>0.26 ± 0.09<\/cell>\n    <cell>0.41 ± 0.36<\/cell>\n    <cell>0.36 ± 0.11 a<\/cell>\n    <cell>0.53 ± 0.47<\/cell>\n    <cell>p = 0.614; η²<\/cell>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variable", "Young Women / Pre", "Post", "Middle-aged Women / Pre", "Post", "Two-way Interaction", "Time Effect"],
+        ["Overall", "0.61 ± 0.20", "0.96 ± 0.39", "0.85 ± 0.35", "1.13 ± 0.52", "p = 0.251; η² p = 0.045", "p < 0.001 b η² p = 0.598"],
+        ["Overall SD", "0.31 ± 0.09", "0.44 ± 0.34", "0.42 ± 0.13 a", "0.57 ± 0.47", "p = 0.552; η² p = 0.012", "p ¼ 0.001 b η² p = 0.312"],
+        ["Sagittal", "0.36 ± 0.13", "0.61 ± 0.29", "0.53 ± 0.19 a", "0.74 ± 0.38", "p ¼ 0.042 c ; η² p = 0.135", "p < 0.001 b η² p = 0.695"],
+        ["Sagittal SD", "0.24 ± 0.07", "0.36 ± 0.10", "0.40 ± 0.14 a", "0.51 ± 0.22", "p = 0.087; η² p = 0.097", "p < 0.001 b η² p = 0.587"],
+        ["Frontal", "0.33 ± 0.13", "0.58 ± 0.44", "0.52 ± 0.20 a", "0.70 ± 0.32", "p = 0.339; η² p = 0.025", "p < 0.001 b η² p = 0.316"],
+        ["Frontal SD", "0.26 ± 0.09", "0.41 ± 0.36", "0.36 ± 0.11 a", "0.53 ± 0.47", "p = 0.614; η²", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 3,
+      "section_id": 27,
+      "html": "<table>\n  <row>\n    <cell>Variable<\/cell>\n    <cell>Young Women<\/cell>\n    <cell/>\n    <cell>Middle-aged Women<\/cell>\n    <cell/>\n    <cell>Two-way Interaction<\/cell>\n    <cell>Time Effect<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Pre<\/cell>\n    <cell>Post<\/cell>\n    <cell>Pre<\/cell>\n    <cell>Post<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Peak Torque (Nm⋅kg -1 )<\/cell>\n    <cell>2.05 ± 0.52<\/cell>\n    <cell>1.97 ± 0.42<\/cell>\n    <cell>1.66 ± 0.44 a<\/cell>\n    <cell>1.73 ± 0.43<\/cell>\n    <cell>p = 0.564<\/cell>\n    <cell>p = 0.989<\/cell>\n  <\/row>\n  <row>\n    <cell>RTD 0-50 (Nm⋅s -1 ⋅kg -1 )<\/cell>\n    <cell>4.76 ± 2.21<\/cell>\n    <cell>4.07 ± 1.95<\/cell>\n    <cell>3.90 ± 1.89<\/cell>\n    <cell>3.39 ± 1.84<\/cell>\n    <cell>η² p = 0.012 p = 0.797<\/cell>\n    <cell>η² p = 0.000 p = 0.176<\/cell>\n  <\/row>\n  <row>\n    <cell>RTD 0-100 (Nm⋅s -1 ⋅kg -1 )<\/cell>\n    <cell>6.81 ± 1.89<\/cell>\n    <cell>7.51 ± 2.44<\/cell>\n    <cell>5.95 ± 2.11<\/cell>\n    <cell>5.02 ± 2.39<\/cell>\n    <cell>η² p = 0.002 p = 0.924<\/cell>\n    <cell>η² p = 0.062 p = 0.117<\/cell>\n  <\/row>\n  <row>\n    <cell>RTD 0-200 (Nm⋅s -1 ⋅kg -1 )<\/cell>\n    <cell>8.06 ± 1.49<\/cell>\n    <cell>7.29 ± 1.79<\/cell>\n    <cell>6.28 ± 1.60 a<\/cell>\n    <cell>5.64 ± 1.95<\/cell>\n    <cell>η² p = 0.000 p = 0.539<\/cell>\n    <cell>η² p = 0.082 p = 0.134<\/cell>\n  <\/row>\n  <row>\n    <cell>RTD pk (Nm⋅s -1 ⋅kg -1 )<\/cell>\n    <cell>13.22 ± 2.53<\/cell>\n    <cell>11.98 ± 3.16<\/cell>\n    <cell>10.90 ± 3.46 a<\/cell>\n    <cell>8.89 ± 3.43<\/cell>\n    <cell>η² p = 0.013 p = 0.745<\/cell>\n    <cell>η² p = 0.076 p = 0.085<\/cell>\n  <\/row>\n  <row>\n    <cell>TQ 50 (Nm⋅kg -1 )<\/cell>\n    <cell>0.25 ± 0.11<\/cell>\n    <cell>0.21 ± 0.09<\/cell>\n    <cell>0.22 ± 0.09<\/cell>\n    <cell>0.18 ± 0.09<\/cell>\n    <cell>η² p = 0.004 p = 0.687<\/cell>\n    <cell>η² p = 0.099 p = 0.103<\/cell>\n  <\/row>\n  <row>\n    <cell>TQ 100 (Nm⋅kg -1 )<\/cell>\n    <cell>0.73 ± 0.21<\/cell>\n    <cell>0.64 ± 0.24<\/cell>\n    <cell>0.58 ± 0.19 a<\/cell>\n    <cell>0.50 ± 0.22<\/cell>\n    <cell>η² p = 0.006 p = 0.881<\/cell>\n    <cell>η² p = 0.089 p = 0.110<\/cell>\n  <\/row>\n  <row>\n    <cell>TQ 200 (Nm⋅kg -1 )<\/cell>\n    <cell>1.42 ± 0.26<\/cell>\n    <cell>1.30 ± 0.29<\/cell>\n    <cell>1.12 ± 0.28 a<\/cell>\n    <cell>1.03 ± 0.33<\/cell>\n    <cell>η² p = 0.001 p = 0.538<\/cell>\n    <cell>η² p = 0.086 p = 0.164<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>η² p = 0.013<\/cell>\n    <cell>η² p = 0.066<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variable", "Young Women / Pre", "Post", "Middle-aged Women / Pre", "Post", "Two-way Interaction", "Time Effect"],
+        ["Peak Torque (Nm⋅kg -1 )", "2.05 ± 0.52", "1.97 ± 0.42", "1.66 ± 0.44 a", "1.73 ± 0.43", "p = 0.564", "p = 0.989"],
+        ["RTD 0-50 (Nm⋅s -1 ⋅kg -1 )", "4.76 ± 2.21", "4.07 ± 1.95", "3.90 ± 1.89", "3.39 ± 1.84", "η² p = 0.012 p = 0.797", "η² p = 0.000 p = 0.176"],
+        ["RTD 0-100 (Nm⋅s -1 ⋅kg -1 )", "6.81 ± 1.89", "7.51 ± 2.44", "5.95 ± 2.11", "5.02 ± 2.39", "η² p = 0.002 p = 0.924", "η² p = 0.062 p = 0.117"],
+        ["RTD 0-200 (Nm⋅s -1 ⋅kg -1 )", "8.06 ± 1.49", "7.29 ± 1.79", "6.28 ± 1.60 a", "5.64 ± 1.95", "η² p = 0.000 p = 0.539", "η² p = 0.082 p = 0.134"],
+        ["RTD pk (Nm⋅s -1 ⋅kg -1 )", "13.22 ± 2.53", "11.98 ± 3.16", "10.90 ± 3.46 a", "8.89 ± 3.43", "η² p = 0.013 p = 0.745", "η² p = 0.076 p = 0.085"],
+        ["TQ 50 (Nm⋅kg -1 )", "0.25 ± 0.11", "0.21 ± 0.09", "0.22 ± 0.09", "0.18 ± 0.09", "η² p = 0.004 p = 0.687", "η² p = 0.099 p = 0.103"],
+        ["TQ 100 (Nm⋅kg -1 )", "0.73 ± 0.21", "0.64 ± 0.24", "0.58 ± 0.19 a", "0.50 ± 0.22", "η² p = 0.006 p = 0.881", "η² p = 0.089 p = 0.110"],
+        ["TQ 200 (Nm⋅kg -1 )", "1.42 ± 0.26", "1.30 ± 0.29", "1.12 ± 0.28 a", "1.03 ± 0.33", "η² p = 0.001 p = 0.538", "η² p = 0.086 p = 0.164"],
+        ["", "", "", "", "", "η² p = 0.013", "η² p = 0.066"]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 3,
+      "grp_id": 1,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "16"
+    },
+    {
+      "text_id": 3,
+      "grp_id": 1,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "15"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.98"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.002"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.00"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001-0.002"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "η² p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.294-0.695"
+    },
+    {
+      "text_id": 9,
+      "grp_id": 3,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.085-0.989"
+    },
+    {
+      "text_id": 9,
+      "grp_id": 3,
+      "lhs": "η² p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.000-0.099"
+    },
+    {
+      "text_id": 36,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "16"
+    },
+    {
+      "text_id": 36,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "15"
+    },
+    {
+      "text_id": 38,
+      "grp_id": 5,
+      "lhs": "f",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.25"
+    },
+    {
+      "text_id": 63,
+      "grp_id": 6,
+      "lhs": "trial",
+      "df": null,
+      "comp": "~",
+      "rhs": "2"
+    },
+    {
+      "text_id": 76,
+      "grp_id": 7,
+      "lhs": "performed",
+      "df": null,
+      "comp": "~",
+      "rhs": "2.5"
+    },
+    {
+      "text_id": 96,
+      "grp_id": 8,
+      "lhs": "p",
+      "df": null,
+      "comp": "≤",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 97,
+      "grp_id": 9,
+      "lhs": "and",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.06"
+    },
+    {
+      "text_id": 97,
+      "grp_id": 9,
+      "lhs": "and",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.14"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.010"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 10,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.89"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 10,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.29"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.059-0.870"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 10,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.07-0.60"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.072"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 11,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.67"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.004"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 11,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.12"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.003"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 11,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.17"
+    },
+    {
+      "text_id": 104,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.007"
+    },
+    {
+      "text_id": 104,
+      "grp_id": 12,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.04"
+    },
+    {
+      "text_id": 104,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 104,
+      "grp_id": 12,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.55"
+    },
+    {
+      "text_id": 104,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.003"
+    },
+    {
+      "text_id": 104,
+      "grp_id": 12,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.76"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.032"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.81"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.041"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.77"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.003"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.15"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.047"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.75"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.004"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 13,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.11"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 14,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 14,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.98"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 14,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.002"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 14,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.00"
+    },
+    {
+      "text_id": 130,
+      "grp_id": 15,
+      "lhs": "is",
+      "df": null,
+      "comp": "~",
+      "rhs": "7.5"
+    },
+    {
+      "text_id": 186,
+      "grp_id": 16,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.042"
+    },
+    {
+      "text_id": 186,
+      "grp_id": 16,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 186,
+      "grp_id": 16,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.98"
+    },
+    {
+      "text_id": 186,
+      "grp_id": 16,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 186,
+      "grp_id": 16,
+      "lhs": "d",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.00"
+    },
+    {
+      "text_id": 186,
+      "grp_id": 16,
+      "lhs": "p",
+      "df": null,
+      "comp": "≤",
+      "rhs": "0.002"
+    },
+    {
+      "text_id": 187,
+      "grp_id": 17,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    }
+  ]
+}

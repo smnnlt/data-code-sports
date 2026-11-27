@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="fr">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Epidemiology of female artistic roller skating related injuries: A one season observational study Épidémiologie des blessures liées au patinage artistique à roulettes féminin : une étude observationnelle sur une saison</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct status="extracted">
+					<analytic>
+						<author>
+							<persName><forename type="first">M</forename><surname>Quintana-Cepedal</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Functional Biology</orgName>
+								<orgName type="institution">Universidad de Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Asturian Research Group in Performance, Readaptation, Training, and Health (AstuRES)</orgName>
+								<orgName type="institution" key="instit2">University of Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><surname>Cuervo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Functional Biology</orgName>
+								<orgName type="institution">Universidad de Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">B</forename><surname>Sanchez-Martinez</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Department of Education Sciences</orgName>
+								<orgName type="institution">University of Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">I</forename><surname>Crespo</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Functional Biology</orgName>
+								<orgName type="institution">Universidad de Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Asturian Research Group in Performance, Readaptation, Training, and Health (AstuRES)</orgName>
+								<orgName type="institution" key="instit2">University of Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Del Valle</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Asturian Research Group in Performance, Readaptation, Training, and Health (AstuRES)</orgName>
+								<orgName type="institution" key="instit2">University of Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Cellular Morphology and Biology</orgName>
+								<orgName type="institution">University of Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">H</forename><surname>Olmedillas</surname></persName>
+							<email>olmedillashugo@uniovi.es</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Functional Biology</orgName>
+								<orgName type="institution">Universidad de Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution" key="instit1">Asturian Research Group in Performance, Readaptation, Training, and Health (AstuRES)</orgName>
+								<orgName type="institution" key="instit2">University of Oviedo</orgName>
+								<address>
+									<settlement>Oviedo</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Epidemiology of female artistic roller skating related injuries: A one season observational study Épidémiologie des blessures liées au patinage artistique à roulettes féminin : une étude observationnelle sur une saison</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">024995D716CB8E305A592F948C28BFE3</idno>
+					<idno type="DOI">10.1016/j.scispo.2026.01.011</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.9.0" ident="GROBID" when="2026-11-27T14:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0.9.0</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Female athletes Incidence Risk factors Skating</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="fr">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>a b s t r a c t</head><p>Objectives: The aim of this study is to describe the epidemiological characteristics of artistic roller skating in female athletes. Methods: Artistic roller skaters participating in the national league of the Spanish Federation of Skating (n = 152) were surveyed via an anonymous online questionnaire to screen for injury characteristics: incidence, location, tissue affected, and injury onset. Injury rates were compared using the incidence rate ratio. Results: There were 228 injuries (80% during training sessions) across 44,178 hours of exposure, giving an overall injury incidence of 5.2/1,000 hours. Incidence was significantly higher in competitions (741/1,000 h) compared to training sessions (4.2/1,000 h) (P &lt; 0.001). Ninety-seven artistic roller skaters sustained an injury, accounting for an overall prevalence of 64%. The body areas with the higher number of injuries were the knee (n = 33 [15%]), ankle (n = 30 [13%], and wrist (n = 25 [11%]).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mots clés : Athlètes féminines Incidence Facteurs de risque Patinage r é s u m é</head><p>Objectifs : Le but de cette étude est de décrire les caractéristiques épidémiologiques des blessures liées au patinage artistique à roulettes chez les athlètes féminines. Méthodes : Des patineuses artistiques à roulettes participant à la ligue nationale de la Fédération espagnole de patinage (n = 152) ont été interrogées via un questionnaire en ligne anonyme afin de dépister les caractéristiques des blessures : l'incidence, la localisation, le tissu affecté et le moment de l'apparition de la blessure. Les taux de blessures ont été comparés en utilisant le taux d'incidence (Incidence Rate Ratio, IRR). Résultats : Un total de 228 blessures (80 % survenues lors des sessions d'entraînement) a été recensé sur 44 178 heures d'exposition, ce qui donne une incidence globale des blessures de 5,2/1000 heures. L'inci dence était significativement plus élevée en compétition (741/1000 h) par rapport aux sessions d'entraînement (4,2/1000 h) (p &lt; 0,001). Quatre-vingt-dix-sept patineuses artistiques à roulettes ont subi une blessure, ce qui représente une prévalence globale de 64 %. Les zones corporelles présentant le plus grand nombre de blessures étaient le genou (n = 33 [15 %]), la cheville (n = 30 [13 %]) et le poignet (n = 25 [11 %]).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Artistic roller skating (ARS) is a sport that combines physical skills such as flexibility, power, and coordination, with artistic abilities. The high physical demands and extensive exposure hours in this discipline increase the risk of sport-related injuries. data is the first step, preceding the identification of risk factors and the inclusion of preventative strategies in the sequence of injury prevention to reduce injury risk <ref type="bibr" target="#b0">[1]</ref>.</p><p>The literature regarding this field in ARS is scarce. Data from ice fi gure skating suggest that the ankle and knee joints are the most injured body regions, representing 28 and 19% of all injuries, respectively. One in every two injuries affect either ligament or musculotendinous tissue <ref type="bibr" target="#b1">[2]</ref>. The stress placed on skaters' feet increases the risk of bone ove ruse injuries, which may lead to long lay-off periods and worse overall athlete health. Other skating sports such as inline speed skating or rink hockey, report the highest occurrence of lower limb injuries, with injury incidence ranging from 1.3 to 2.1 injuries per 1,000 hours of exposure, which is significantly higher than for other body areas <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4]</ref>. The dispa rity compared to upper body injuries may be explained by the frontal plane instability caused by the skate width, which places high stress on the stabilizing muscles and ligaments <ref type="bibr" target="#b4">[5]</ref>. Injury characteristics are si milar in gymnastics, where ankle injuries represent 18% of all injuries and ligament injuries are the most frequent tissue affected <ref type="bibr" target="#b5">[6]</ref>. On the contrary, injury incidence ranges from 8.5 to 8.8 per 1000 hours of ex posure <ref type="bibr" target="#b6">[7]</ref>. Given the similarities to other skating or artistic disciplines, it is expected that injuries in ARS align with the aforementioned sports.</p><p>It must be noted that extrapolating results from one sport to ano ther should be done cautiously, since each discipline presents specific characteristics. The International Olympic Committee (IOC) recently released a consensus statement on recording and reporting of epide miological sport data <ref type="bibr" target="#b4">[5]</ref>, and none of the studies on injuries in figure skating adhere to this framework. Thus, based on the paucity in the data available around ARS, the aim of this study is to describe the epidemio logical characteristics of artistic roller skating. Our specific objectives were to describe the type of injury (situation, tissue affected, onset) and anatomic location, while comparing injury rates.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Material and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study design</head><p>The reporting of the present cross-sectional study follows the STROBE (Strengthening the Reporting of Observational studies in Epi demiology) statement <ref type="bibr" target="#b7">[8]</ref>. This epidemiological study consisted of a self-reported electronic questionnaire created to be filled by the partici pating athletes. It registered all training and competition-related injuries occurring during the past season (10 months) to retrospectively collect injury data. The questionnaire was designed by two researchers (NC and HO) experienced in ARS and in sports epidemiological studies, and no information that could identify participants was collected. Ethical ap proval was obtained from the corresponding institutional review board (code: 2024.390). All participants gave their consent to participate prior to the starting of data collection. Given the anonymity of the data collec tion form, no additional parental consent was deemed necessary by the local ethics committee when participants were underage. The principles of the Helsinki declaration were followed at all times.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Participants</head><p>Female artistic roller skaters competing in the National League of the Spanish Federation of Skating (RFEP) were directly contacted by the se cond author (NC) via email or phone call during November-December 2023. To be considered for inclusion, the athlete had to be competing in the current season and needed to have a minimum of two-year ex perience in ARS. Injuries that happened during the previous season and forced the athlete to start preseason later than the rest of the participants were not considered <ref type="bibr" target="#b2">[3]</ref>. Due to the unbalanced distribution of athletes by sex in this sport, we decided to include only female participants to obtain a representative sample of injuries. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Definitions</head><p>An injury was defined as tissue damage or other disorder of nor mal physical function due to participation in sports, as a result of a rapid or repetitive transfer of kinetic energy <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b4">5]</ref>. All injuries had to cause absence from skating practice at least for one complete session, ei ther competition or training (i.e., time-loss injury definition). Individual skating exposure was calculated by combining training (week training time (h) × Season duration (No. of exposure weeks) and competitive (No. of competitions × 0.057 h) exposure. Injury incidence and burden were calculated using the following formulas <ref type="bibr" target="#b8">[9]</ref>.</p><formula xml:id="formula_0">Injury incidence = ⎛ ⎝ ⎛ ⎝ ∑ injuries ∑ exposure hours ⎞ ⎠ × 1000 ⎞ ⎠ Injuryburden = ⎛ ⎝ ⎛ ⎝ ∑ days lost ∑ exposure hours ⎞ ⎠ × 1000 ⎞ ⎠</formula><p>Head/trunk injuries comprised those to the head, neck, chest, ab domen, spine, and back; upper limb injuries comprised those to the shoulder, arm, elbow, forearm, wrist, and hand; and lower limb inju ries comprised those to the hip/groin, thigh, knee, leg, ankle, and foot. Gradual-onset injuries were defined as those occurring without a known trauma, whereas acute injuries were characterized by an identifiable cause. Definitions according to the International Olympic Committee for injuries per tissue affected are presented in Table 1 <ref type="bibr" target="#b4">[5]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Statistical analysis</head><p>All statistical analyses were conducted in R (version 4.3.3) using the Positron integrated development environment (version 2025.08.0), with the epitools package <ref type="bibr" target="#b9">[10]</ref>. Normality of continuous variables was checked using the Kolmogorov-Smirnov test and by visually inspec ting histograms and Q-Q plots. Quantitative variables were presented as mean and standard deviation (SD), while categorical variables were presented as absolute (n) and relative frequencies (%). Training and competition incidence rates, injury incidence according to body area, and mode of onset were compared using the incidence rate ratios (IRRs). The IRR and corresponding 95% confidence intervals (CIs) were calcula ted using the epitab function with the Wald method, assuming a Poisson distribution that presumes injuries occur independently of each other <ref type="bibr" target="#b10">[11]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Study population</head><p>One hundred fifty-two artistic roller skaters completed the online form. Participants' demographic characteristics can be found in Table <ref type="table" target="#tab_1">2</ref> . Participants were exposed to 44,178 h of artistic roller skating, of which 44,119 h were dedicated to training and 59 h were dedicated to compe tition.  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Injury incidence, prevalence, and burden</head><p>A total of 228 time-loss injuries were registered, of which 184 occur red during training sessions and 44 during competitions. Ninety-seven athletes sustained an injury during the season, accounting for an overall prevalence of 64%. Fifty-three (34.8%) participants suffered one injury, 28 (18.4%) suffered two injuries, seven (4.6%) suffered three injuries, and the rest sustained four to eight injuries (5%). The general incidence was 5.2 (95% CI: 4.5 to 5.8) injuries per 1,000 h. Injury incidence for training sessions was 4.2 (95% CI: 3.5 to 4.8), while competition inci dence was 741 (95% CI: 522 to 960). Injury incidence was significantly higher during competitions compared to training sessions (IRR = 178.8, 95% CI = 128.7 to 248.4, P &lt; 0.001). The general injury burden was 89 per 1,000 h, with 74.5 per 1,000 h for training sessions and 11,081 per 1,000 h for competitions (P &lt; 0.001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3.">Injury location, tissue affected, and mode of onset</head><p>Players reported injuries in all possible areas except the abdomi nal region. The body areas with the most number of injuries were the knee (33 [14.5%]), ankle (30 [13%]), and wrist <ref type="bibr">(25 [11%]</ref>). In juries affecting the lower limb were significantly more frequent than the head/trunk (IRR = 14.14, 95% CI = 6.57 to 30.43, P &lt; 0.001) and upper limb (IRR = 2.02, 95% CI = 1.43 to 2.84, P &lt; 0.001) injuries. Head/trunk and upper and lower limb incidences can be seen cluste red in Fig. <ref type="figure" target="#fig_1">1</ref>. Table <ref type="table" target="#tab_2">3</ref> presents frequence of each individual injured region along injury incidence and IRR, the reference body location was the knee.</p><p>Injury incidence was 0.7/1,000 h (95% CI: 0.47 to 1) for musculo tendinous injuries; 0.74 (95% CI: 0.51 to 1.04) for ligaments; 0.65 (95% CI: 0.43 to 0.94) for contusions; 0.36 (95% CI: 0.2 to 0.58) for bone; and 0.1 (95% CI: 0.03 to 0.26) for nerve injuries. Injury incidence was 2.3 (95% CI: 1.8 to 2.8) and 0.65 (95% CI: 0.44 to 0.94) for acute-onset and gradual-onset injuries, respectively (IRR = 3.51, 95% CI = 2.32 to 5.31, P &lt; 0.001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>This study describes the epidemiology of injuries that occurred in artistic roller skaters across one season. It represents the largest study sample of athletes from this discipline to date. The main findings were: (1) an overall injury incidence of 5.2 per 1,000 h of exposure; (2) a significantly higher injury incidence in competitions (741/1,000 h) com pared to training sessions (4.2/1,000 h); (3) a high incidence of ligament and muscle injuries (0.7/1,000 h); and (4) the two most common injury sites were the knee (14%) and ankle (13%). This is the first study presenting injury data in artistic roller ska ting according to the consensus statement on reporting epidemiological data from the International Olympic Committee <ref type="bibr" target="#b4">[5]</ref>. Our participants show a higher overall injury incidence compared to other skating sports, such as rink hockey (4 to 4.5 injuries per 1,000 hours) or inline speed skating (1.6 injuries per 1,000 hours) <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b11">12]</ref>. Unfortunately, injury in cidence per 1000 hours is not available in figure skating, and, to the authors' knowledge, no prior ARS studies exist, making direct compari son impossible. The fact that artistic roller skaters suffer more injuries than hockey or speed skating athletes could be explained by the lon ger exposure hours to the sport. Athletes in artistic disciplines often train for extended periods of up to 30 hours per week to master proper technique, increasing their risk of injury due to greater exposure to po tentially harmful events, while weekly training in rink hockey or speed skating rarely exceeds 10 hours. Compared to a different artistic sport such as gymnastics, our athletes had a lower overall injury incidence, with gymnasts experiencing up to 9 injuries per 1,000 hours of exposure <ref type="bibr" target="#b6">[7]</ref>. This higher rate in this sport may be due to the prevalence of upper body injuries, such as shoulder instability or wrist pathology, as well as a significant number of lower body injuries <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b13">14]</ref>. In contrast, ARS athletes primarily suffer from lower body injuries. Taken together, the evidence suggests that ARS has a moderate injury incidence rate com pared with other artistic or skate-based sports. Apart from the general injury incidence, the comparison between training and competition in juries yielded significant differences in favour of the second (P &lt; 0.001). This difference is primarily due to the high number of injuries (n = 44) combined with low exposure time (59 hours). Injury incidence is a com pound rate, so both the number of injuries and exposure time should be taken into consideration, since less than 20% of injuries occurred du ring competition. It is important to note that the results may be biased due to the low exposure hours in competitive sessions. Therefore, it is recommended to interpret these findings with caution <ref type="bibr" target="#b10">[11]</ref>.</p><p>Musculotendinous and ligament injuries displayed identical results (0.7/1,000 h). Previous research in figure skaters have found large rates of ligament injuries (55%) <ref type="bibr" target="#b1">[2]</ref>. Injuries affecting these structures are common in sports that require plyometric actions where the passive structures have to cope with large forces from the lower limb joints, however, rates presented in other skating sports show a higher inci dence of muscle over ligament injuries <ref type="bibr" target="#b3">[4]</ref>. This discrepancy could be explained by the higher speed reached by speed skaters and rink hockey players, since muscle injuries happen during actions that are closed to maximal velocity <ref type="bibr" target="#b14">[15]</ref>, while submaximal speed may be sufficient to practise ARS without posing excessive strain on the muscle tissue <ref type="bibr" target="#b15">[16]</ref>. A larger amount of ligament injuries have been presented in epidemio logical data from female football, both adult and adolescents, where ligamentous knee and ankle injuries are amongst the most common in juries <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref>. Our sample was formed by female athletes, which could be the cause why we have recorded this substantial amount of ligament injuries, epidemiological studies on female populations have shown a trend towards higher rates of ligament injuries over muscle injuries, al though both types of injuries are common <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b19">20]</ref>. Given the propensity of female athletes to suffer from ligament injuries, it is essential to mo nitor for symptoms indicative of these injuries in order to prevent them before they occur <ref type="bibr" target="#b20">[21]</ref>.</p><p>One in four injuries affected the ankle or knee joints, while there was also a high incidence of wrist injuries. Our rates are lower than previous figure skating data, which reported 28% of injuries affecting the ankle and 18% affecting the knee <ref type="bibr" target="#b1">[2]</ref>. ARS is characterised by intermittent acceleration and jumping movements, landing from a pirouette could stress the soft tissues in these joints when braking the body's speed, or result in a loss of balance and falling, which may explain the high rate of wrist injuries as skaters try to avoid damaging other body areas. Knee and ankle injuries, although common, might be more severe, as ligamentous injuries in these areas require long recovery periods <ref type="bibr" target="#b19">[20]</ref>. Including neuromuscular warm-up programmes could mitigate the risk of ankle and knee injuries, as shown in previous randomised control led trials, although the effectiveness in artistic roller skating is yet to be determined <ref type="bibr" target="#b21">[22,</ref><ref type="bibr" target="#b22">23]</ref>. Additionally, training of falling skills should be encouraged, as it could also reduce the number of injuries to the wrists <ref type="bibr" target="#b3">[4]</ref>.</p><p>There are some limitations that should be acknowledged. First, a time-loss definition was used, which may have overlooked some mi nor issues that compromise performance without affecting participation. Due to the cross-sectional design, using questionnaires like the Oslo Sports Trauma Research Center (OSTRC) was not feasible and thus, non-time-loss injuries could not be captured. Second, injuries were selfreported, leading to missing data on certain fields due to limited access to medical professionals, such as affected tissue, which might have unde restimated some incidence calculations. Third, some severe injuries may have been missed if they led to sport abandonment due to the study de sign, prospective studies could address this point in the future. Finally, due to the anonymity of the survey, it is unknown how many athletes received the survey <ref type="bibr" target="#b23">[24]</ref>.</p><p>Certain strengths should also be stated. This is the first epidemiolo gical study reporting ARS injury data. Sample size was large, providing a representative number of injuries for most body regions, making the injury incidence results reliable. The IOC terminology facilitated com parison with other sports that follow the same consensus statement on reporting of epidemiological data. Finally, the inclusion of data on fe male athletes is particularly significant, as their representation in sports research remains limited, underscoring the importance of addressing this gap <ref type="bibr" target="#b24">[25]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>Injury incidence in female artistic roller skating is moderate. A large number of injuries affect the lower limbs, with knee and ankle injuries being the most common. Injury incidence is higher in competitions com pared to training sessions. Results from the present study represent the first step towards the design and implementation of preventative pro grammes. Efforts should focus on the lower body, since this area is at higher risk of sustaining artistic roller skating related injuries.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Collecting epidemiological https://doi.org/10.1016/j.scispo.2026.01.011 Reçu le 30 octobre 2025 ; Accepté le 18 janvier 2026 Disponible en ligne le 1 May 2026 0765-1597/© 2026 The Author(s). Published by Elsevier Masson SAS. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/li censes/by-nc-nd/4.0/).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Aggregated injury incidence. Data are reported as n/1,000 hours (95% confidence interval).</figDesc><graphic coords="3,312.03,56.47,237.60,284.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Injury definitions for tissue affected.</figDesc><table><row><cell>Injury</cell><cell>Definition</cell></row><row><cell>Muscle/tendon</cell><cell>Muscle injury, contusion, tendinopathy or tendon</cell></row><row><cell></cell><cell>rupture</cell></row><row><cell>Ligament</cell><cell>Joint sprain including partial or complete ligament tears</cell></row><row><cell></cell><cell>and joint capsule injuries</cell></row><row><cell>Bone</cell><cell>Fractures or bone stress injuries, including teeth injuries</cell></row><row><cell>Nervous</cell><cell>Including concussion and all forms of brain/spinal cord</cell></row><row><cell></cell><cell>injuries, also peripheral nerve injuries</cell></row><row><cell>Contusion</cell><cell>Superficial tissue/skin injuries</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Demographic characteristics.Data is presented as mean and standard deviation.</figDesc><table><row><cell>Variable</cell><cell>Total (n = 152)</cell></row><row><cell>Age (years)</cell><cell>15.2 ± 5</cell></row><row><cell>Height (cm)</cell><cell>156 ± 17</cell></row><row><cell>Body mass (kg)</cell><cell>49 ± 13</cell></row><row><cell>Body mass index (kg/m 2 )</cell><cell>21 ± 2</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Injury incidence according to body region.</figDesc><table><row><cell>Location</cell><cell>n (%)</cell><cell>Incidence (95% CI)*</cell><cell>IRR (95% CI)**</cell></row><row><cell>Head</cell><cell>2 (0.9%)</cell><cell>0.04 (-)</cell><cell>0.06 (0.01 to 0.25)</cell></row><row><cell>Trunk</cell><cell>5 (2.2%)</cell><cell>0.11 (0.01 to 0.21)</cell><cell>0.15 (0.06 to 0.38)</cell></row><row><cell>Back</cell><cell>12 (5.2%)</cell><cell>0.27 (0.14 to 0.47)</cell><cell>0.36 (0.18 to 0.7)</cell></row><row><cell>Shoulder</cell><cell>6 (2.6%)</cell><cell>0.13 (0.05 to 0.29)</cell><cell>0.18 (0.07 to 0.43)</cell></row><row><cell>Arm</cell><cell>5 (2.2%)</cell><cell>0.11 (0.01 to 0.21)</cell><cell>0.15 (0.06 to 0.38)</cell></row><row><cell>Elbow</cell><cell>3 (1.3%)</cell><cell>0.07 (-)</cell><cell>0.09 (0.03 to 0.3)</cell></row><row><cell>Forearm</cell><cell>2 (0.9%)</cell><cell>0.04 (-)</cell><cell>0.06 (0.01 to 0.25)</cell></row><row><cell>Wrist</cell><cell>25 (11%)</cell><cell>0.56 (0.36 to 0.83)</cell><cell>0.75 (0.45 to 1.27)</cell></row><row><cell>Hand/fingers</cell><cell>7 (3%)</cell><cell>0.15 (0.06 to 0.32)</cell><cell>0.21 (0.09 to 0.48)</cell></row><row><cell>Hip/groin</cell><cell>15 (6.6%)</cell><cell>0.34 (0.19 to 0.56)</cell><cell>0.45 (0.25 to 0.83)</cell></row><row><cell>Thigh</cell><cell>13 (5.7%)</cell><cell>0.29 (0.15 to 0.5)</cell><cell>0.39 (0.2 to 0.74)</cell></row><row><cell>Knee</cell><cell>33 (14.5%)</cell><cell>0.74 (0.51 to 1)</cell><cell>-</cell></row><row><cell>Leg</cell><cell>10 (4.4%)</cell><cell>0.22 (0.11 to 0.41)</cell><cell>0.3 (0.15 to 0.61)</cell></row><row><cell>Ankle</cell><cell>30 (13.2%)</cell><cell>0.68 (0.45 to 0.96)</cell><cell>0.9 (0.55 to 1.49)</cell></row><row><cell>Foot</cell><cell>13 (5.7%)</cell><cell>0.29 (0.15 to 0.5)</cell><cell>0.39 (0.2 to 0.74)</cell></row></table><note><p>IRR: incidence rate ratio; *: confidence interval for injury incidence is reported when there was a minimum of 5 injuries in a certain area; **: reference group is the knee joint for IRR comparisons.</p></note></figure>
+		</body>
+		<back>
+
+			
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgements</head><p>The authors would like to thank all participating athletes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Références</head></div>
+			</div>
+
+
+			
+			<div type="funding">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Funding</head><p>The authors report there is no funding associated with the work featured in this article.</p></div>
+			</div>
+
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure of interest</head><p>The authors declare that they have no competing interest.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Incidence, severity, aetiology and preven tion of sports injuries: a review of concepts</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Van Mechelen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hlobil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hcg</forename><surname>Kemper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="82" to="99" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Van Mechelen W, Hlobil H, Kemper HCG. Incidence, severity, aetiology and preven tion of sports injuries: a review of concepts. Sports Med 1992;14:82-99.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Epidemiology of figure skating injuries: a review of the literature</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Geminiani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Micheli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports Health</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="532" to="537" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Han JS, Geminiani ET, Micheli LJ. Epidemiology of figure skating injuries: a review of the literature. Sports Health 2018;10:532-7.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Ol medillas H. Injury characteristics of young elite inline speed skaters: a one season retrospective study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quintana-Cepedal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Á</forename><surname>Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nuño-Iglesias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Crespo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="181" to="186" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Quintana-Cepedal M, Rodríguez MÁ, Nuño-Iglesias N, Del Valle M, Crespo I, Ol medillas H. Injury characteristics of young elite inline speed skaters: a one season retrospective study. Phys Sports Med 2024;52:181-6.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Epidemio logy of rink hockey-related injuries</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quintana-Cepedal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Á</forename><surname>Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Crespo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Olmedillas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sport Rehab</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="70" to="75" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Quintana-Cepedal M, Rodríguez MÁ, Crespo I, Del Valle M, Olmedillas H. Epidemio logy of rink hockey-related injuries. J Sport Rehab 2023;32:70-5.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">International Olympic Committee consensus statement: methods for recording and reporting of epidemiological data on injury and illness in sport 2020 (including STROBE Ex tension for Sport Injury and Illness Surveillance [STROBE-SIIS])</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bahr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Clarsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Derman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dvorak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Emery</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Finch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="372" to="389" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bahr R, Clarsen B, Derman W, Dvorak J, Emery CA, Finch CF, et al. International Olympic Committee consensus statement: methods for recording and reporting of epidemiological data on injury and illness in sport 2020 (including STROBE Ex tension for Sport Injury and Illness Surveillance [STROBE-SIIS]). Br J Sports Med 2020;54:372-89.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Epidemiology of natio nal collegiate athletic association women&apos;s gymnastics injuries</title>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">Y</forename><surname>Kerr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hayden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Klossner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Dompier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Athl Train</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="870" to="878" />
+			<date type="published" when="2009">2009-2010 through 2013. 2014. 2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kerr ZY, Hayden R, Barr M, Klossner DA, Dompier TP. Epidemiology of natio nal collegiate athletic association women&apos;s gymnastics injuries, 2009-2010 through 2013-2014. J Athl Train 2015;50:870-8.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A systematic review of injuries in gymnastics</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="96" to="121" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thomas RE, Thomas BC. A systematic review of injuries in gymnastics. Phys Sports Med 2019;47:96-121.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Strengthening the reporting of observational studies in epidemiology (STROBE): explanation and elaboration</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Vandenbroucke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Elm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Gøtzsche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Mulrow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Pocock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="805" to="835" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Vandenbroucke JP, Von Elm E, Altman DG, Gøtzsche PC, Mulrow CD, Pocock SJ, et al. Strengthening the reporting of observational studies in epidemiology (STROBE): explanation and elaboration. Epidemiology 2007;18:805-35.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Injury rates decreased in men&apos;s professio nal football: an 18-year prospective cohort study of almost 12,000 injuries sustained during 1.8 million hours of play</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ekstrand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Spreco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bengtsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bahr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1084" to="1092" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ekstrand J, Spreco A, Bengtsson H, Bahr R. Injury rates decreased in men&apos;s professio nal football: an 18-year prospective cohort study of almost 12,000 injuries sustained during 1.8 million hours of play. Br J Sports Med 2021;55:1084-92.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Epitools: epidemiology tools</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Aragon</surname></persName>
+		</author>
+		<ptr target="https://CRAN.R-project.org/package=epitools" />
+		<imprint>
+			<date type="published" when="2004">2004. 0.5-10.1. citado 2025 oct 20</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aragon TJ. Epitools: epidemiology tools 2004 [0.5-10.1. citado 2025 oct 20. Avai lable from: https://CRAN.R-project.org/package=epitools].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Analysis of injuries during the 2019 Rink Hockey World Championship</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>De Pablo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sugimoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Arboix-Alio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rodas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Casals</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="442" to="448" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">De Pablo B, Sugimoto D, Arboix-Alio J, Rodas G, Casals M. Analysis of injuries during the 2019 Rink Hockey World Championship. Phys Sports Med 2023;51:442-8.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Epidemiology of inju ries in elite female rink hockey players: a two season observational study</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quintana-Cepedal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Roces-Vila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Olmedillas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Ther Sport</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="7" to="12" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Quintana-Cepedal M, Roces-Vila I, Del Valle M, Olmedillas H. Epidemiology of inju ries in elite female rink hockey players: a two season observational study. Phys Ther Sport 2024;67:7-12.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Artistic gymnastics injuries; epide miology, evaluation, and treatment</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Desai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Vance</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Rosenwasser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Ahmad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Acad Orthop Surg</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="459" to="467" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Desai N, Vance DD, Rosenwasser MP, Ahmad CS. Artistic gymnastics injuries; epide miology, evaluation, and treatment. J Am Acad Orthop Surg 2019;27:459-67.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Gymnastics injuries</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Caine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Nassar</surname></persName>
+		</author>
+		<ptr target="https://karger.com/books/book/2502/chapter/5739361" />
+	</analytic>
+	<monogr>
+		<title level="m">Medicine and sport science. S. Karger AG; 2005 [citado 2024 ago 6. página 18-58</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Caine</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Maffulli</surname></persName>
+		</editor>
+		<imprint/>
+	</monogr>
+	<note type="raw_reference">Caine DJ, Nassar L. Gymnastics injuries. In: Caine DJ, Maffulli N, editors. Medicine and sport science. S. Karger AG; 2005 [citado 2024 ago 6. página 18-58.Available from: https://karger.com/books/book/2502/chapter/5739361].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Do non-contact injuries occur during high-speed running in elite football? Preliminary results from a novel GPS and video-based method</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Aiello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Claudio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fanchini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Impellizzeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Mccall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sharp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sci Med Sport</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="465" to="470" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aiello F, Di Claudio C, Fanchini M, Impellizzeri FM, McCall A, Sharp C, et al. Do non-contact injuries occur during high-speed running in elite football? Preliminary results from a novel GPS and video-based method. J Sci Med Sport 2023;26:465-70.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Quantification of external load of elite rink hockey players in official matches</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Varo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Carmona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Reche</surname></persName>
+		</author>
+		<ptr target="https://www.minervamedica.it/" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Med Phys Fit</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note>in dex2.php?show=R40Y2020N12A1520</note>
+	<note type="raw_reference">Fernández D, Varo F, Carmona G, Reche X. Quantification of external load of elite rink hockey players in official matches. J Sports Med Phys Fit 2020;60 [citado 2024 ago 6. Available from: https://www.minervamedica.it/in dex2.php?show=R40Y2020N12A1520].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Injury incidence and characteristics in adolescent female footballplayers: a systematic review with meta-analysis of prospectivestudies</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quintana-Cepedal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>López-Aguado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fernández-Somoano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Á</forename><surname>Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Del</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Olmedillas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">bs</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="137" to="151" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Quintana-Cepedal M, López-Aguado I, Fernández-Somoano A, Rodríguez MÁ, Del Valle M, Olmedillas H. Injury incidence and characteristics in adolescent female footballplayers: a systematic review with meta-analysis of prospectivestudies. bs 2024;41:137-51.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Injury profile in women&apos;s football: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>López-Valenciano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Raya-González</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Garcia-Gómez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aparicio-Sarmiento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sainz</forename><surname>De Baranda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Ste Croix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="423" to="442" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">López-Valenciano A, Raya-González J, Garcia-Gómez JA, Aparicio-Sarmiento A, Sainz De Baranda P, De Ste Croix M, et al. Injury profile in women&apos;s football: a systematic review and meta-analysis. Sports Med 2021;51:423-42.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">UEFA Women&apos;s Elite Club Injury Study: a prospective study on 1,527 inju ries over four consecutive seasons 2018/2019 to 2021/2022 reveals thigh muscle injuries to be most common and ACL injuries most burdensome</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hallén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tomás</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ekstrand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Bengtsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Van Den Steen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hägglund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="128" to="136" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hallén A, Tomás R, Ekstrand J, Bengtsson H, Van Den Steen E, Hägglund M, et al. UEFA Women&apos;s Elite Club Injury Study: a prospective study on 1,527 inju ries over four consecutive seasons 2018/2019 to 2021/2022 reveals thigh muscle injuries to be most common and ACL injuries most burdensome. Br J Sports Med 2024;58:128-36.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">#Rea dyToPlay: health problems in women&apos;s football -a two-season prospective cohort study in the Norwegian premier league</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Amundsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thorarinsdottir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Clarsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Møller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bahr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="4" to="10" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Amundsen R, Thorarinsdottir S, Clarsen B, Andersen TE, Møller M, Bahr R. #Rea dyToPlay: health problems in women&apos;s football -a two-season prospective cohort study in the Norwegian premier league. Br J Sports Med 2024;58:4-10.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Do niggles matter? -Increased injury risk follo wing physical complaints in football (soccer)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Whalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lovell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Sampson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sci Med Football</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="216" to="224" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Whalan M, Lovell R, Sampson JA. Do niggles matter? -Increased injury risk follo wing physical complaints in football (soccer). Sci Med Football 2020;4:216-24.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">High compliance with the injury prevention exercise programme Knee Control is associated with a greater injury preventive effect in male, but not in female, youth floorball players</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Åkerlund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Waldén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sonesson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lindblom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hägglund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Knee Surg Sports Traumatol Arthrosc</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1480" to="1490" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Åkerlund I, Waldén M, Sonesson S, Lindblom H, Hägglund M. High compliance with the injury prevention exercise programme Knee Control is associated with a greater injury preventive effect in male, but not in female, youth floorball players. Knee Surg Sports Traumatol Arthrosc 2022;30:1480-90.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Extended Knee Control programme lowers weekly hamstring, knee and ankle injury prevalence compared with an adductor strength programme or self-selected injury preven tion exercises in adolescent and adult amateur football players: a two-armed cluster-randomised trial with an additional comparison arm</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lindblom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sonesson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Torvaldsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Waldén</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hägglund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="83" to="90" />
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lindblom H, Sonesson S, Torvaldsson K, Waldén M, Hägglund M. Extended Knee Control programme lowers weekly hamstring, knee and ankle injury prevalence compared with an adductor strength programme or self-selected injury preven tion exercises in adolescent and adult amateur football players: a two-armed cluster-randomised trial with an additional comparison arm. Br J Sports Med 2023;57:83-90.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">High prevalence of hip and groin problems in profes sional ice hockey players, regardless of playing position</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wörner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thorborg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Eek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Knee Surg Sports Traumatol Arthrosc</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2302" to="2308" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wörner T, Thorborg K, Eek F. High prevalence of hip and groin problems in profes sional ice hockey players, regardless of playing position. Knee Surg Sports Traumatol Arthrosc 2020;28:2302-8.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Under-representation of women is alive and well in sport and exercise medi cine: what it looks like and what we can do about it</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Verhagen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fagher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Edouard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rojas-Valverde</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open Sport Exerc Med</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">1606</biblScope>
+			<date type="published" when="2023">2023</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anderson N, Robinson DG, Verhagen E, Fagher K, Edouard P, Rojas-Valverde D, et al. Under-representation of women is alive and well in sport and exercise medi cine: what it looks like and what we can do about it. BMJ Open Sport Exerc Med 2023;9:e001606.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

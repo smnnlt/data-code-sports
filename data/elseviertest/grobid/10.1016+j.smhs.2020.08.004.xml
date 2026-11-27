@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Changes in markers of body composition of professional male soccer players during pre-season</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2020-09-06">6 September 2020</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct status="extracted">
+					<analytic>
+						<author>
+							<persName><forename type="first">Gary</forename><forename type="middle">Paul</forename><surname>Mcewan</surname></persName>
+							<email>gary.mcewan@uws.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Sport and Exercise</orgName>
+								<orgName type="institution">University of the West of Scotland</orgName>
+								<address>
+									<postCode>G72 0LH</postCode>
+									<settlement>Glasgow</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Franchek</forename><surname>Drobnic</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="department">Medical Department</orgName>
+								<orgName type="institution">Shanghai Greenland Shenhua FC</orgName>
+								<address>
+									<settlement>Shanghai</settlement>
+									<country key="CN">China</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">Medical, Sport Science and Health Department</orgName>
+								<orgName type="institution">FC Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonia</forename><surname>Lizarraga</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department">Medical, Sport Science and Health Department</orgName>
+								<orgName type="institution">FC Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><forename type="middle">G</forename><surname>Omez Díaz</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Sports Performance Department</orgName>
+								<orgName type="institution">FC Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eduard</forename><surname>Pons</surname></persName>
+							<affiliation key="aff3">
+								<orgName type="department">Sports Performance Department</orgName>
+								<orgName type="institution">FC Barcelona</orgName>
+								<address>
+									<settlement>Barcelona</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><surname>Dello Iacon</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Sport and Exercise</orgName>
+								<orgName type="institution">University of the West of Scotland</orgName>
+								<address>
+									<postCode>G72 0LH</postCode>
+									<settlement>Glasgow</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Viswanath</forename><surname>Unnithan</surname></persName>
+							<email>vish.unnithan@uws.ac.uk</email>
+							<affiliation key="aff0">
+								<orgName type="department">Division of Sport and Exercise</orgName>
+								<orgName type="institution">University of the West of Scotland</orgName>
+								<address>
+									<postCode>G72 0LH</postCode>
+									<settlement>Glasgow</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Changes in markers of body composition of professional male soccer players during pre-season</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2020-09-06">6 September 2020</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">010C4463B9D82B429B0334FAB3B81D86</idno>
+					<idno type="DOI">10.1016/j.smhs.2020.08.004</idno>
+					<note type="submission">Received 27 July 2020; Received in revised form 31 August 2020; Accepted 31 August 2020</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.9.0" ident="GROBID" when="2026-11-27T14:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0.9.0</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>DXA Association football Team sport GPS</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>To evaluate changes achieved in whole-body and regional (upper limbs, lower limbs, and trunk) estimates of body composition, twenty professional male soccer players (7 defenders, 7 midfielders, 6 forwards) underwent dualenergy x-ray absorptiometry (DXA) analysis at the beginning and end of pre-season. Measures included: mass, fat mass (FM), fat-free mass (FFM), and body fat per cent (BF%). Players' activity during on-field training sessions was monitored using Global Positioning System (GPS) units, with GPS data used to obtain estimations of energy expenditure (EE). Whole-body mass remained unchanged across the pre-season. Moderate significant increases and decreases were achieved in whole-body FFM (Pre: 59.58 AE 5.27 kg; Post: 60.61 AE 5.18 kg; p ¼ 0.001; d ¼ 0.87) and FM (Pre: 10.60 AE 1.88 kg; Post: 9.56 AE 1.81 kg; p ¼ 0.001; d ¼ 0.85), respectively. Moderate significant decreases were achieved in whole-body BF% (Pre: 14.4 AE 2.3%; Post: 12.9 AE 2.0%; p &lt; 0.001; d ¼ 0.94). No significant inter-positional differences were observed for the changes achieved in any global or regional estimate of body composition. Total EE was significantly correlated with ΔFM (r ¼ 0.65, p ¼ 0.002), ΔFFM (r ¼ 0.46, p ¼ 0.03), and ΔBF% (r ¼ 0.67, p ¼ 0.002). The total EE of pre-season training accounted for 42%, 21%, and 45% of the variance in ΔFM, ΔFFM, and ΔBF%, respectively. These findings suggest that the pre-season period is a suitable time for initiating favourable alterations in body composition following the off-season in elite soccer players.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The maintenance of an appropriate body composition is an important requisite in the physical conditioning of elite soccer players. <ref type="bibr" target="#b0">1</ref> Intuitively, excess body fat represents an inert load likely to impair physical performance and predispose players to a heightened risk of all-cause injury. <ref type="bibr" target="#b1">2</ref> Conversely, the fat-free compartment of the body, constituting lean muscle and bone mineral mass, plays a key role in strength and power performance and forms an integral component of the physical make-up of the elite soccer player. <ref type="bibr" target="#b2">3</ref> The routine measurement of body composition is therefore a useful practice in professional soccer and is commonly undertaken to assess players' readiness for competition and monitor the effectiveness of dietary and training interventions. <ref type="bibr" target="#b0">1</ref> As is commonplace within many team sports, soccer adopts a cyclical pattern of competition, where the cessation of the competitive season is followed by a period of planned rest and recuperation. This period of inactivity and reduced training, the so-called off-season, typically lasts between 4 and 6 weeks, and may adversely affect measures of body composition. <ref type="bibr" target="#b3">4</ref> In a recent study of 19 elite male soccer players, significant increases in body fat per cent (BF%) were observed following a 6-week off-season period, with changes mediated through increases in whole-body fat mass (FM) and reductions in the fat-free mass (FFM) of the lower limbs. <ref type="bibr" target="#b4">5</ref> Given the deleterious effects that such outcomes may have on parameters of match-related fitness such as speed, power, and high-intensity running performance, <ref type="bibr" target="#b5">6</ref> reversing such trends prior to the return to competition is desirable.</p><p>To facilitate the return to competition and provide players with the opportunity to establish the physical base from which technical and tactical development can occur, an intensive pre-season training programme is commonly undertaken. <ref type="bibr" target="#b6">7</ref> In comparison to the in-season where professional players may complete an average of three training sessions per week, <ref type="bibr" target="#b7">8</ref> training loads (TL) are generally increased up to 2-4 times during the pre-season. <ref type="bibr" target="#b8">9</ref> Consequently, energy expenditure (EE) will be elevated during this phase of the season. <ref type="bibr" target="#b9">10</ref> Accordingly, energy intake (EI) should be modified in relation to the body composition goals of the player. <ref type="bibr" target="#b10">11</ref> During the in-season, players typically match EI with their daily energy requirements to avoid hindering performance. <ref type="bibr" target="#b11">12</ref> However, when alterations in FM and body composition are sought, energy deficits may be necessary. <ref type="bibr" target="#b12">13</ref> Pre-season therefore represents a unique opportunity to reverse the negative changes observed in markers of body composition following the off-season through the systematic increase of TL and the provision of individualised dietary regimes.</p><p>In contrast to the volume of research concerning the impact of preseason training on parameters of physical fitness, <ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15</ref> a dearth of information appears available on its impact on markers of body composition. Literature examining seasonal changes in the body composition of professional soccer players have typically observed decreases in FM and increases in FFM from the beginning of pre-season to mid-season. <ref type="bibr" target="#b15">16</ref> However, without a post pre-season assessment of body composition, the role of the pre-season in these changes is unclear. Additionally, studies utilising two-compartment techniques such as skinfolds and bioelectrical impedance analysis (BIA) have returned conflicting results. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b17">18</ref> Although such techniques represent practical methods within the field, the accuracy in which BF% may be estimated from skinfold thicknesses can vary greatly depending upon the anthropometric equation utilised. <ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b19">20</ref> Dual-energy x-ray absorptiometry (DXA), however, is widely regarded as the criterion reference standard for assessing body composition within team sport athletes given its potential to provide a three-compartmental overview of body composition. <ref type="bibr" target="#b18">19</ref> Nevertheless, the use of DXA within most sports settings is often limited due to its associated logistical and financial costs. <ref type="bibr" target="#b19">20</ref> To our knowledge, two studies have previously utilised DXA to document body composition changes during the pre-season within elite soccer players. <ref type="bibr" target="#b20">21,</ref><ref type="bibr" target="#b21">22</ref> In a cohort of 18 A-League soccer players, improvements in body composition were achieved following a ~3-month pre-season . <ref type="bibr" target="#b21">22</ref> Similarly, favourable alterations (decreases/increases in FM/FFM, respectively) were observed within English Premier League players following 6 weeks of pre-season training. <ref type="bibr" target="#b20">21</ref> However, given the potential impact that differences in culture, competition demands and playing position have upon playing style and training practices, <ref type="bibr" target="#b22">23</ref> additional research is required to document the changes incurred in body composition during the pre-season amongst elite cohorts from varying competitions. Furthermore, the extent to which changes in body composition may be attributed to the TL and EE induced during pre-season remains unclear. Understanding such relationships may be of benefit to support staff working with elite soccer players during the pre-season, and provide valuable information from which to base the prescription of TL and nutritional guidelines. This investigation therefore aimed to expand upon the available literature and document body composition changes induced during the pre-season within players belonging to one of Europe's leading soccer clubs (FC Barcelona). Accordingly, we sought to: 1) evaluate changes in global and regional markers of body composition over the pre-season period; 2) examine the impact of playing position upon these changes; and 3) explore what proportion of the variability in changes in body composition may be explained by the total EE associated with pre-season training.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Participants</head><p>Twenty male soccer players (age: 25.1 AE 4.1 y; stature: 177.0 AE 6.9 cm; body mass: 73.8 AE 6.0 kg) belonging to the first team of FC Barcelona provided informed consent to participate in this study.</p><p>Players were separated into their outfield playing positions for analyses (defenders: n ¼ 7; midfielders: n ¼ 7; forwards: n ¼ 6). Over the course of the two competitive seasons evaluated (2014-2015 and 2015-2016), the club achieved considerable success, winning two La Liga titles, two Copa del Rey titles, and one UEFA Champions League title. Whilst assessments of body composition were completed as part of the routine medical screening of players, data procurement and handling conformed to the recommendations outlined within the Declaration of Helsinki and the study received approval from the Ethics Committee for Clinical Research of the Catalan Sports Council.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Design</head><p>Measures of whole-body and regional (upper limb, lower limb, trunk) mass, FM, FFM, and BF% were assessed by DXA (GE Healthcare Lunar, Madison, WI). Assessments were undertaken 38 AE 10 days apart at the start and end of the pre-season during either the 2014-2015 (n ¼ 16) or 2015-2016 (n ¼ 4) competitive seasons. These timeframes were dictated by the club and reflect previous literature. <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b20">21</ref> In accordance with standardised protocols that are recognised as best practice, scans were performed and analysed by the same trained operator and were undertaken in a rested and hydrated state. <ref type="bibr" target="#b23">24</ref> Specifically, players presented to the lab having not undertaken any exercise on the morning of the scans and had refrained from the consumption of food in the 3-4 h previous. <ref type="bibr" target="#b23">24</ref> The players had also been instructed to consume fluids ad-libitum prior to scans. The test-retest reliability of the DXA scanner for measurement of whole-body and regional body composition in non-obese adults, with repositioning between scans, has been previously documented. <ref type="bibr" target="#b24">25</ref> Briefly, the coefficient of variation (CV) for whole-body FM and FFM were 1.0% and 0.5%, respectively. Regional reliability estimates for FM were as follows: upper limbs, 2.8%; lower limbs, 1.6%; and trunk, 2.0%. Regional reliability estimates for FFM were: upper limbs, 1.6%; lower limbs, 1.3%; and trunk, 1.0%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Pre-season training and nutritional practices</head><p>Pre-season training, as programmed and directed by the coaching staff, was comparable prior to the start of both the 2014-2015 (36 sessions, 5 matches) and 2015-2016 (33 sessions, 8 matches) competitive seasons. The mean number of on-field training sessions performed was 21 AE 10 sessions, with variation attributable to each player's unique circumstances (date of return to pre-season following international competition, injury, fatigue management etc.). In line with the unique playing and training philosophy embedded at FC Barcelona, training sessions incorporated integrated content whereby tactical, technical, and physical factors were amalgamated. <ref type="bibr" target="#b22">23</ref> Players' locomotive activities were recorded during each training session using portable 10-H z Global Positioning System (GPS) units (Viper Pod, Statsports, Northern Ireland). To avoid inter-unit error, each player wore the same device during the entirety of the study period. <ref type="bibr" target="#b25">26</ref> Following each training session, GPS data were extracted and analysed using propriety software (Viper, Statsports) to derive: total distance (TD); high-speed running distance (HSR; 19.8-25.09 km⋅h À1 ); sprinting distance (SPR; !25.1 km⋅h À1 ); and number of accelerations (ACC; &gt;3 m⋅s À2 ) and decelerations (DEC; &gt;3 m⋅s À2 ). Intensity thresholds were established based upon previous literature and are consistent with those commonly used by professional soccer clubs. <ref type="bibr" target="#b26">27,</ref><ref type="bibr" target="#b27">28</ref> GPS data were also used to estimate the average metabolic power (AMP; W⋅kg À1 ), total energy cost (EC; kJ⋅kg À1 ), and EE (kcal) associated with on-field training sessions according to the approach of di Prampero and Osgnach. <ref type="bibr" target="#b28">29</ref> In particular, this approach relies on the theoretical construct that metabolic demands can be estimated from the instantaneous speed and acceleration, and the known EC of accelerated/decelerated locomotion which characterise soccer-related activities. <ref type="bibr" target="#b29">30</ref> Acceptable accuracy and validity have been advocated in support of these metabolic estimates as practical tools in team-sport demands analysis, especially following a recent update of the original model, <ref type="bibr" target="#b30">31</ref> which now differentiates between the EC of running and walking, and also considers the cost of air resistance. The full GPS data set included 18 players with weekly analyses inclusive only of those who completed !75% of on-field sessions for that week.</p><p>Nutritional practices were informed by the club's nutritional adviser and remained consistent across each pre-season. The general objective of the nutritional advice provided to the players was to support an optimal adaptation to the enhanced TL induced during pre-season as well as promote decreases/increases in FM/FFM, respectively. Additionally, players were provided with individualised nutritional goals based upon the result of their baseline DXA measurement. Subject to the specific nutritional goals of the player, recommended macronutrient intakes were as follows: carbohydrate (4.0-6.0 g/kg/day); protein (1.8-2.0 g/kg/ day); and fat (1.0 g/kg/day). Based upon these guidelines, the recommended daily EI was ~2795 kcal (range: 2648-3080 kcal). During preseason, all meals and snacks were provided by the club and players were encouraged to work closely with the club's nutritional advisor to translate their recommended nutrient guidelines into food equivalents.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical analysis</head><p>Prior to the use of parametric statistical test procedures, normality of distribution and homogeneity of variance were verified using Shapiro-Wilk's and Levene's tests, respectively. Changes in estimates of body composition were assessed using one-way analysis of variance (ANOVA) with two-way ANOVAs (factor: time; playing position) used to examine whether the changes achieved in estimates of body composition were related to playing position. Mean standardised differences are reported as Cohen's d with the following criteria used to interpret the practical significance of findings: trivial, &lt;0.2; small, 0.21-0.6; moderate, 0.61-1.2; large, 1.21-1.99; and very large, !2.0. <ref type="bibr" target="#b31">32</ref> In addition, the smallest worthwhile change (SWC) was calculated for each variable as the between-player standard deviation multiplied by 0.2. <ref type="bibr" target="#b32">33</ref> To assess the relationship between independent (total EE of pre-season training) and dependent (ΔFM, ΔFFM, ΔBF%) variables, multiple linear regressions were performed. Prior to regression analyses, Pearson's correlation coefficients (r) were used to indicate whether the magnitude of the relationship between variables was small (0.10-0.29), moderate (0.30-0.49), large (0.50-0.69), very large (0.70-0.89), and nearly perfect (!0.90). <ref type="bibr" target="#b31">32</ref> Data are presented as means and standard deviations (mean AE SD). Weekly TL and EE data are presented for descriptive purposes only. Statistical procedures were completed using Statistical Package for Social Sciences (SPSS 22.0, IBM, USA) and statistical significance was set at p &lt; 0.05.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Changes in global and regional markers of body composition</head><p>Table <ref type="table">1</ref> reports the changes in markers of body composition between the beginning and end of pre-season.</p><p>Whole-body total mass remained unchanged following pre-season (d ¼ 0.00; 95% CI: À0.66 to 0.66 kg; p ¼ 0.99). When analysed regionally, no differences were observed in total mass of the upper limbs (d ¼ 0.37; 95% CI: À0.15 to 0.02 kg; p¼ 0.11), lower limbs (d ¼ 0.19; 95% CI: À0.36 to 0.15 kg; p ¼ 0.41), or trunk (d ¼ 0.34; 95% CI: À0.12 to 0.76 kg; p ¼ 0.14).</p><p>Moderate significant reductions in whole-body FM (d ¼ 0.85; 95% CI: À0.47 to À0.28 kg; p¼ 0.001) were observed following pre-season with reductions occurring in the upper limbs (d ¼ 0.69; 95% CI: À0.18 to À0.04 kg; p ¼ 0.006), lower limbs (d ¼ 0.97; 95% CI: À0.53 to À0.19 kg; p &lt; 0.001) and trunk (d ¼ 0.70; 95% CI: À0.91 to À0.18 kg; p ¼ 0.006).</p><p>Moderate significant increases in whole-body FFM (d ¼ 0.87; 95% CI: 0.48-1.59 kg; p ¼ 0.001) were mediated through increases in FFM of the lower limbs (d ¼ 0.51; 95% CI: 0.02-0.48 kg; p ¼ 0.03) and trunk (d ¼ 1.17; 95% CI: 0.52-1.21 kg; p &lt; 0.001). The FFM of the upper limbs remained unchanged (d ¼ 0.22; 95% CI: À0.05 to 0.13 kg; p ¼ 0.34) following pre-season.</p><p>Moderate significant decreases occurred in whole-body BF% following pre-season (d ¼ 0.94; 95% CI: À2.2 to À0.7%; p &lt; 0.001) with reductions occurring in the upper limbs (d ¼ 0.68; 95% CI: À2.1 to À0.4%; p ¼ 0.006), lower limbs (d ¼ 1.03; 95% CI: À1.89 to À0.70%;</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Table 1</head><p>Changes in global (whole-body) and regional (upper limbs, lower limbs, trunk) markers of body composition between start and end of pre-season within outfield players (n ¼ 20).</p><p>Defenders (n ¼ 7) Midfielders (n ¼ 7) Forwards (n¼ 6) All players (n ¼ 20) SWC Start End Start End Start End Start End Global Whole-body Total mass (kg) 75.37 AE 5.64 74.79 AE 5.85 72.34 AE 4.35 73.76 AE 4.64 73.51 AE 8.15 75.25 AE 9.14 73.75 AE 5.93 73.75 AE 6.35 1.19 FM (kg) 9.84 AE 1.89 8.62 AE 1.77 11.55 AE 2.07 10.43 AE 1.65 10.40 AE 1.36 10.04 AE 1.75 10.60 AE 1.88 9.56 AE 1.81 ¥ 0.38 FFM (kg) 61.83 AE 4.58 62.49 AE 4.47 57.36 AE 2.72 59.81 AE 3.10 59.54 AE 7.58 61.55 AE 7.99 59.58 AE 5.27 60.61 AE 5.18 ¥ 1.05 BF% (%) 13.0 AE 1.9 11.5 AE 1.7 16.0 AE 1.8 14.1 AE 1.5 14.0 AE 2.3 13.4 AE 2.0 14.4 AE 2.3 12.9 AE 2.0 # 0.5 Regional Upper limbs Total mass (kg) 8.54 AE 0.56 8.41 AE 0.54 8.01 AE 0.59 8.18 AE 0.63 8.20 AE 0.98 8.31 AE 1.06 8.25 AE 0.72 8.19 AE 0.73 0.14 FM (kg) 0.98 AE 0.12 0.86 AE 0.11 1.13 AE 0.16 1.00 AE 0.19 0.94 AE 0.11 0.89 AE 0.15 1.02 AE 0.15 0.91 AE 0.14 ¥ 0.03 FFM (kg) 7.10 AE 0.54 7.09 AE 0.47 6.47 AE 0.47 6.75 AE 0.46 6.83 AE 0.98 6.97 AE 1.04 6.80 AE 0.70 6.84 AE 0.66 0.14 BF% (%) 11.6 AE 1.6 10.2 AE 1.2 14.0 AE 1.5 12.1 AE 1.7 11.6 AE 2.4 10.9 AE 2.3 12.4 AE 2.1 11.1 AE 1.9 ¥ 0.4 Lower limbs Total mass (kg) 27.81 AE 2.33 27.46 AE 2.14 26.72 AE 1.95 27.21 AE 2.30 27.23 AE 2.52 27.92 AE 3.25 27.25 AE 2.19 27.15 AE 2.35 0.44 FM (kg) 3.36 AE 0.69 2.99 AE 0.55 4.05 AE 0.64 3.71 AE 0.69 3.51 AE 0.52 3.37 AE 0.42 3.65 AE 0.67 3.29 AE 0.58 # 0.13 FFM (kg) 22.91 AE 2.20 22.93 AE 1.92 21.25 AE 1.43 22.04 AE 1.63 22.24 AE 2.46 23.02 AE 3.03 22.13 AE 2.07 22.38 AE 2.08* 0.41 BF% (%) 12.1 AE 2.6 10.9 AE 1.9 15.1 AE 1.8 13.6 AE 1.6 13.0 AE 2.5 12.2 AE 2.0 13.4 AE 2.5 12.1 AE 2.0 # 0.5 Trunk Total mass (kg) 33.41 AE 3.21 33.45 AE 3.41 31.81 AE 2.16 32.70 AE 2.01 32.48 AE 4.43 33.52 AE 4.56 32.57 AE 3.22 32.89 AE 3.36 0.64 FM (kg) 4.50 AE 1.12 3.81 AE 1.18 5.32 AE 1.43 4.71 AE 0.90 4.95 AE 1.12 4.79 AE 1.30 4.92 AE 1.23 4.38 AE 1.21 ¥ 0.25 FFM (kg) 27.82 AE 2.29 28.56 AE 2.31 25.46 AE 1.37 26.93 AE 1.35 26.45 AE 3.90 27.62 AE 3.69 26.58 AE 2.70 27.44 AE 2.55 # 0.54 BF% (%) 13.4 AE 2.3 11.2 AE 2.3 16.6 AE 3.4 14.3 AE 2.0 15.3 AE 3.3 14.3 AE 2.8 15.1 AE 3.2 13.2 AE 2.7 ¥ 0.6 Data presented as mean AE SD. FM, fat mass; FFM, fat-free mass; BF%, body fat per cent; SWC, smallest worthwhile change. *significantly different from start of pre-season (p &lt; 0.05). ¥ significantly different from start of pre-season (p &lt; 0.01). # significantly different from start of pre-season (p &lt; 0.001).</p><p>p &lt; 0.001), and trunk (d ¼ 0.87; 95% CI: À2.91 to À0.87%; p ¼ 0.001).</p><p>No significant inter-positional differences were observed for any global (p ! 0.10; d 0.50) or regional (p ! 0.08; d 0.59) estimate of body composition across the pre-season period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Weekly training load (TL) and energy cost (EC) of on-field training sessions</head><p>An overview of the TL accumulated across weeks 1-6 of the preseason is presented in Table <ref type="table" target="#tab_0">2</ref> whilst the mean EC of on-field training sessions during each of these weeks is presented within Table <ref type="table" target="#tab_1">3</ref>. The data presented pertains to on-field training sessions only and does not include data from pre-season match play.</p><p>Relationship between changes in body composition and the total energy expenditure (EE) associated with pre-season training.</p><p>The total EE of pre-season training was 9369 AE 5424 kcal. Total EE was significantly correlated with ΔFM (r ¼ 0.65, p ¼ 0.002), ΔFFM (r ¼ 0.46, p ¼ 0.032), and ΔBF% (r ¼ 0.67, p ¼ 0.002). The total EE of pre-season training accounted for 42%, 21%, and 45% of the variance in ΔFM, ΔFFM, and ΔBF%, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>We sought to investigate the changes incurred in global and regional markers of body composition during the pre-season within a cohort of elite male soccer players. At the global level, reductions in BF% were mediated through reductions in FM and increases in FFM. Regionally, reductions in the FM of the upper limbs, lower limbs and trunk were accompanied by concomitant increases in the FFM of the lower limbs and trunk. Moreover, the changes observed in all global and regional estimates of body composition were similar between playing positions. An additional aim was to identify what proportion of the variability in changes in body composition could be explained by the total EE associated with pre-season training. The total EE of pre-season training  accounted for 42%, 21%, and 45% of the variance in ΔFM, ΔFFM, and ΔBF%, respectively. As evidenced, pre-season presents a suitable time by which favourable alterations in body composition may be achieved within elite soccer players. Our findings support those observed within English Premier League players whereby reductions (~2%) in BF% were achieved following a 6-week pre-season. <ref type="bibr" target="#b20">21</ref> Conversely, the FFM and BF% of French League 1 players remained unchanged following pre-season. <ref type="bibr" target="#b16">17</ref> Although we are unable to discount whether such discrepancies are simply an artefact of the different assessment methods, one explanation may reside in potential disparities in the pre-season duration. In the present study, measurements were obtained ~6 weeks apart; however, the duration of the pre-season employed by Carling and Orhant was not noted. <ref type="bibr" target="#b16">17</ref> The duration of pre-season employed within the aforementioned study may therefore have been insufficient to promote such changes; however, without such information, this remains speculative. Another explanation likely relates to the type and intensity of the pre-season training stimulus. As shown, differences in the total EE associated with pre-season training accounted for 42% of the variance in ΔFM. The increased energy cost of training reflects the up-regulation of oxidative metabolism, with exercise intensity representing the greatest moderator of substrate utilization. <ref type="bibr" target="#b33">34</ref> Additionally, the intermittent nature of soccer-specific exercise has been found to promote a high rate of lipolysis and the release of free fatty acids into the blood. <ref type="bibr" target="#b34">35</ref> In the context of the studied club, a unique training philosophy is embedded whereby there is a marked disposition for on-field game-related training, through which tactical, technical and physical factors are amalgamated. <ref type="bibr" target="#b22">23</ref> Conversely, only 21% of the variance in ΔFFM was attributable to the total EE associated with pre-season training. This is perhaps unsurprising given that training-induced increases in muscle hypertrophy are not driven by EE per se. <ref type="bibr" target="#b35">36</ref> As discussed, favourable alterations in DXA-derived estimates of body composition have previously been reported within elite English Premier League players following ~6-weeks of pre-season training. <ref type="bibr" target="#b20">21</ref> Nevertheless, as differences in culture and competition demands may result in distinct training practices, data derived from additional competitions is warranted. <ref type="bibr" target="#b22">23</ref> Additionally, the present investigation is the first to report body composition changes induced during pre-season within elite soccer players, in relation to metrics of TL. This represents an important contribution to the literature as indications of TL and the associated EE are necessary when interpreting alterations in body composition. <ref type="bibr" target="#b10">11</ref> When considering the TL accumulated across each week of pre-season, the mean weekly TD and HSR distance observed in the present study was 23193 m and 1048 m, respectively. Such values exceed those reported for elite players during the in-season, <ref type="bibr" target="#b11">12</ref> thus supporting observations of enhanced TL during the pre-season in comparison to the in-season. <ref type="bibr" target="#b8">9</ref> Interestingly, the mean weekly TD observed within the present study is substantially lower than that reported for elite English Premier League players during pre-season. <ref type="bibr" target="#b8">9</ref> As FC Barcelona adopt a unique playing style, such discrepancies in loading patterns likely relate to differences in training practices. <ref type="bibr" target="#b22">23</ref> Based upon measures of metabolic power, the mean EC of on-field training during weeks 1-3 was ~36 kJ⋅kg À1 . <ref type="bibr" target="#b28">29</ref> Whilst such figures remain below those associated with match play, <ref type="bibr" target="#b26">27</ref> they exceed the ~25 kJ⋅kg À1 reported for elite players during the in-season. <ref type="bibr" target="#b36">37</ref> Conversely, the reduced training volume observed during weeks 4-6 resulted in a mean EC of training more closely aligned with that of the in-season. A likely explanation for this pertains to the more frequent scheduling of matches during the latter stages of pre-season. Whilst we report TL and EE data to aid the interpretation of our findings, this data relates to on-field sessions only, and is not reflective of gym-based training sessions or the load associated with match play. Consequently, a conservative account of the demands imposed during pre-season is presented. Nevertheless, given that the estimated EE of match play ranges from 1200 to 1500 kcal, <ref type="bibr" target="#b26">27</ref> the greater match participation exhibited during weeks 4-6 is likely to have compensated for the reduced training volume. This represents an important consideration for applied practitioners preparing athletes during the pre-season, as the scheduling of matches will impact upon the programming of training, and will ultimately contribute towards their physical conditioning.</p><p>Several limitations warrant consideration when interpreting these results. Whilst we provide surrogate markers of EE to contextualise our findings, the limitations of the adopted approach should be acknowledged in comparison to the doubly labelled water method. Additionally, although we provide details concerning the nutritional guidelines provided to the players, we are unable to confirm their actual EI. Future research incorporating direct measurements of EE and EI is therefore necessary in order to fully examine the interaction of energy balance and body composition changes within elite soccer players during the preseason. Another limitation relates to our relatively small sample size, a challenge commonly encountered when conducting applied research with elite cohorts. In the context of the present investigation, the two studied pre-seasons coincided with international competitions (FIFA World Cup 2014 and CONMEBOL Copa Am erica 2015). Consequently, although we report the impact of ~6 weeks of pre-season (38 AE 10 days) on markers of body composition, the return of players to the club for preseason training was dictated by the player's individual commitments to their national teams. This represents an important consideration in the applied setting as the timing of a player's return will influence the programming of pre-season training. Future research may wish to examine the impact that such logistical challenges have upon the loading patterns programmed during the pre-season and their subsequent impact upon markers of physical performance and body composition.</p><p>The present findings provide additional evidence supporting the preseason to be a suitable period for elite soccer players to achieve concomitant reductions/increases in FM/FFM, respectively. These findings have practical implications for support staff working to prepare elite soccer players for the upcoming competitive season and further demonstrate the potential for favourable alterations in body composition to be achieved during a ~6-week pre-season period.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Submission statement</head><p>The data reported in this manuscript have not been published elsewhere and the manuscript is not under consideration for publication in another journal.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 2</head><label>2</label><figDesc>Accumulated training loads (TL) reported across each 1-week microcycle of the pre-season.</figDesc><table><row><cell></cell><cell>Duration (min)</cell><cell>TD (m)</cell><cell>HSR (m)</cell><cell>SPR (m)</cell><cell>ACC (n)</cell><cell>DEC (n)</cell></row><row><cell>Week 1</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 1)</cell><cell>565 AE 0</cell><cell>32,752 AE 0</cell><cell>942 AE 0</cell><cell>6 1 AE 0</cell><cell>938 AE 0</cell><cell>860 AE 0</cell></row><row><cell>MID (n ¼ 3)</cell><cell>535 AE 45</cell><cell>30,219 AE 3568</cell><cell>1467 AE 1307</cell><cell>112 AE 157</cell><cell>896 AE 77</cell><cell>842 AE 81</cell></row><row><cell>ATT (n ¼ 2)</cell><cell>655 AE 346</cell><cell>27,740 AE 2161</cell><cell>830 AE 337</cell><cell>85 AE 74</cell><cell>250 AE 45</cell><cell>273 AE 18</cell></row><row><cell>ALL (n ¼ 6)</cell><cell>580 AE 168</cell><cell>29,815 AE 3094</cell><cell>1167 AE 903</cell><cell>95 AE 107</cell><cell>688 AE 344</cell><cell>655 AE 301</cell></row><row><cell>Week 2</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 2)</cell><cell>529 AE 250</cell><cell>31,354 AE 14,137</cell><cell>907 AE 341</cell><cell>130 AE 93</cell><cell>1035 AE 540</cell><cell>953 AE 538</cell></row><row><cell>MID (n ¼ 7)</cell><cell>544 AE 176</cell><cell>31,013 AE 10,533</cell><cell>1736 AE 1439</cell><cell>76 AE 79</cell><cell>962 AE 388</cell><cell>870 AE 431</cell></row><row><cell>ATT (n ¼ 3)</cell><cell>262 AE 114</cell><cell>14,507 AE 5617</cell><cell>523 AE 342</cell><cell>65 AE 58</cell><cell>262 AE 311</cell><cell>281 AE 270</cell></row><row><cell>ALL (n ¼ 12)</cell><cell>471 AE 202</cell><cell>26,943 AE 11,861</cell><cell>1294 AE 1215</cell><cell>82 AE 73</cell><cell>799 AE 482</cell><cell>737 AE 466</cell></row><row><cell>Week 3</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 2)</cell><cell>645 AE 175</cell><cell>36,580 AE 6205</cell><cell>1061 AE 1</cell><cell>231 AE 123</cell><cell>1049 AE 268</cell><cell>961 AE 212</cell></row><row><cell>MID (n ¼ 7)</cell><cell>739 AE 39</cell><cell>39,933 AE 3531</cell><cell>2144 AE 1502</cell><cell>32 AE 27</cell><cell>1114 AE 158</cell><cell>1079 AE 109</cell></row><row><cell>ATT (n ¼ 4)</cell><cell>363 AE 301</cell><cell>21,370 AE 15,834</cell><cell>832 AE 580</cell><cell>144 AE 174</cell><cell>467 AE 529</cell><cell>394 AE 534</cell></row><row><cell>ALL (n ¼ 13)</cell><cell>609 AE 237</cell><cell>33,705 AE 12,118</cell><cell>1574 AE 1277</cell><cell>97 AE 124</cell><cell>905 AE 426</cell><cell>850 AE 428</cell></row><row><cell>Week 4</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 5)</cell><cell>215 AE 108</cell><cell>12,437 AE 6327</cell><cell>454 AE 229</cell><cell>84 AE 161</cell><cell>351 AE 164</cell><cell>323 AE 158</cell></row><row><cell>MID (n ¼ 7)</cell><cell>332 AE 105</cell><cell>17,644 AE 6358</cell><cell>976 AE 658</cell><cell>71 AE 75</cell><cell>483 AE 195</cell><cell>446 AE 204</cell></row><row><cell>ATT (n ¼ 4)</cell><cell>258 AE 102</cell><cell>16,104 AE 5225</cell><cell>653 AE 295</cell><cell>153 AE 134</cell><cell>318 AE 248</cell><cell>304 AE 225</cell></row><row><cell>ALL (n ¼ 16)</cell><cell>277 AE 111</cell><cell>15,632 AE 6137</cell><cell>732 AE 510</cell><cell>96 AE 118</cell><cell>400 AE 201</cell><cell>372 AE 195</cell></row><row><cell>Week 5</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 5)</cell><cell>242 AE 51</cell><cell>14,835 AE 2722</cell><cell>424 AE 124</cell><cell>88 AE 92</cell><cell>410 AE 79</cell><cell>377 AE 67</cell></row><row><cell>MID (n ¼ 7)</cell><cell>248 AE 97</cell><cell>14,762 AE 5684</cell><cell>795 AE 641</cell><cell>16 AE 14</cell><cell>383 AE 146</cell><cell>383 AE 144</cell></row><row><cell>ATT (n ¼ 4)</cell><cell>204 AE 109</cell><cell>12,231 AE 6799</cell><cell>520 AE 146</cell><cell>83 AE 105</cell><cell>274 AE 218</cell><cell>277 AE 203</cell></row><row><cell>ALL (n ¼ 16)</cell><cell>235 AE 85</cell><cell>14,152 AE 5046</cell><cell>611 AE 450</cell><cell>55 AE 76</cell><cell>364 AE 151</cell><cell>355 AE 141</cell></row><row><cell>Week 6</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 5)</cell><cell>386 AE 44</cell><cell>22,468 AE 2292</cell><cell>895 AE 169</cell><cell>228 AE 87</cell><cell>572 AE 43</cell><cell>535 AE 59</cell></row><row><cell>MID (n ¼ 7)</cell><cell>379 AE 84</cell><cell>20,365 AE 5572</cell><cell>956 AE 502</cell><cell>61 AE 66</cell><cell>494 AE 186</cell><cell>474 AE 184</cell></row><row><cell>ATT (n ¼ 4)</cell><cell>256 AE 175</cell><cell>13,323 AE 8547</cell><cell>854 AE 1146</cell><cell>121 AE 65</cell><cell>301 AE 284</cell><cell>279 AE 266</cell></row><row><cell>ALL (n ¼ 16)</cell><cell>345 AE 119</cell><cell>18,912 AE 6772</cell><cell>908 AE 657</cell><cell>128 AE 98</cell><cell>460 AE 214</cell><cell>435 AE 206</cell></row></table><note><p>Data presented as mean AE SD and are stratified by playing position (DEF, defender; MID, midfielder; ATT, attacker; ALL, all positions). TD, total distance; HSR, high-speed running distance (m &gt; 19.8 km⋅h À1 ); SPR, sprinting distance (m &gt; 25.2 km⋅h À1 ); ACC, number of accelerations (&gt;3 m⋅s À2 ); DEC, number of decelerations (&lt;-3 m⋅s À2 ).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Mean estimated energy cost of on-field training sessions during each 1-week microcycle of the pre-season.</figDesc><table><row><cell></cell><cell>AMP (W⋅kg À1 )</cell><cell>EC (kJ⋅kg À1 )</cell><cell>EE (kcal)</cell></row><row><cell>Week 1</cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 1)</cell><cell>5.5 AE 0.5</cell><cell>46.1 AE 12.4</cell><cell>824 AE 222</cell></row><row><cell>MID (n ¼ 3)</cell><cell>5.5 AE 0.2</cell><cell>42.8 AE 12.3</cell><cell>727 AE 223</cell></row><row><cell>ATT (n ¼ 2)</cell><cell>6.8 AE 0.7</cell><cell>31.9 AE 11.1</cell><cell>581 AE 201</cell></row><row><cell>ALL (n ¼ 6)</cell><cell>5.9 AE 0.2</cell><cell>36.6 AE 10.8</cell><cell>641 AE 179</cell></row><row><cell>Week 2</cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 2)</cell><cell>5.6 AE 0.5</cell><cell>40.0 AE 14.4</cell><cell>715 AE 258</cell></row><row><cell>MID (n ¼ 7)</cell><cell>5.5 AE 0.4</cell><cell>36.8 AE 9.2</cell><cell>636 AE 162</cell></row><row><cell>ATT (n ¼ 3)</cell><cell>5.6 AE 1.2</cell><cell>26.7 AE 11.6</cell><cell>435 AE 189</cell></row><row><cell>ALL (n ¼ 12)</cell><cell>5.5 AE 0.5</cell><cell>35.4 AE 8.4</cell><cell>611 AE 148</cell></row><row><cell>Week 3</cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 2)</cell><cell>5.0 AE 1.0</cell><cell>46.7 AE 22.9</cell><cell>836 AE 409</cell></row><row><cell>MID (n ¼ 7)</cell><cell>5.0 AE 0.8</cell><cell>46.1 AE 21.1</cell><cell>796 AE 363</cell></row><row><cell>ATT (n ¼ 4)</cell><cell>5.6 AE 0.8</cell><cell>40.7 AE 27.9</cell><cell>644 AE 400</cell></row><row><cell>ALL (n ¼ 13)</cell><cell>5.2 AE 0.8</cell><cell>37.5 AE 24.0</cell><cell>650 AE 399</cell></row><row><cell>Week 4</cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 5)</cell><cell>5.0 AE 0.4</cell><cell>23.4 AE 9.8</cell><cell>421 AE 171</cell></row><row><cell>MID (n ¼ 7)</cell><cell>4.9 AE 0.5</cell><cell>27.4 AE 13.7</cell><cell>477 AE 239</cell></row><row><cell>ATT (n ¼ 4)</cell><cell>6.4 AE 1.8</cell><cell>22.7 AE 8.7</cell><cell>368 AE 134</cell></row><row><cell>ALL (n ¼ 16)</cell><cell>6.1 AE 1.7</cell><cell>24.6 AE 10.2</cell><cell>418 AE 172</cell></row><row><cell>Week 5</cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 5)</cell><cell>5.6 AE 0.1</cell><cell>38.6 AE 16.3</cell><cell>708 AE 310</cell></row><row><cell>MID (n ¼ 7)</cell><cell>5.4 AE 0.5</cell><cell>43.1 AE 17.2</cell><cell>780 AE 258</cell></row><row><cell>ATT (n ¼ 4)</cell><cell>6.0 AE 1.3</cell><cell>25.7 AE 19.7</cell><cell>422 AE 314</cell></row><row><cell>ALL (n ¼ 16)</cell><cell>6.0 AE 1.3</cell><cell>24.2 AE 16.9</cell><cell>418 AE 302</cell></row><row><cell>Week 6</cell><cell></cell><cell></cell><cell></cell></row><row><cell>DEF (n ¼ 5)</cell><cell>5.3 AE 1.2</cell><cell>26.8 AE 7.1</cell><cell>490 AE 134</cell></row><row><cell>MID (n ¼ 7)</cell><cell>5.1 AE 1.2</cell><cell>25.1 AE 7.8</cell><cell>433 AE 135</cell></row><row><cell>ATT (n ¼ 4)</cell><cell>5.1 AE 0.9</cell><cell>23.3 AE 5.8</cell><cell>424 AE 114</cell></row><row><cell>ALL (n ¼ 16)</cell><cell>5.2 AE 1.2</cell><cell>25.2 AE 7.0</cell><cell>447 AE 129</cell></row><row><cell cols="4">Data presented as mean AE SD and are stratified by playing position (DEF, de-</cell></row><row><cell cols="3">fender; MID, midfielder; ATT, attacker; ALL, all positions).</cell><cell></cell></row><row><cell cols="4">AMP, average metabolic power; EC, energy cost; EE, energy expenditure.</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors wish to express their gratitude to all the players who participated in this investigation and would like to thank <rs type="person">FC Barcelona</rs> for their cooperation and input to this article.</p></div>
+			</div>
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflict of interest</head><p>The authors report no conflicts of interest.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors' contributions</head><p>All authors have participated in the research and/or article preparation. All authors have approved the final submitted article. Study concept and design: GPM, FD, VU; Data collection: FD, AL, AGD, EP; Data analysis: GPM, ADI, VU; Manuscript development: GPM, VU; Contribution to manuscript: FD, AL, AGD, EP, ADI.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics statement</head><p>The study received approval from the Ethics Committee for Clinical Research of the Catalan Sports Council and all players provided informed written consent to participate in the study.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Body composition of English Premier League soccer players: Influence of playing position, international status, and ethnicity</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sutton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Reilly</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02640410903030305</idno>
+		<ptr target="https://doi.org/10.1080/02640410903030305" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1019" to="1026" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sutton L, Scott M, Wallace J, Reilly T. Body composition of English Premier League soccer players: Influence of playing position, international status, and ethnicity. J Sports Sci. 2009;27(10):1019-1026. https://doi.org/10.1080/ 02640410903030305.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Association between body mass index, body fat per cent and muscle power output in soccer players</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">T</forename><surname>Nikolaidis</surname></persName>
+		</author>
+		<idno type="DOI">10.2478/s11536-012-0057-1</idno>
+		<idno>11536-012-0057-1</idno>
+		<ptr target="https://doi.org/10.2478/s" />
+	</analytic>
+	<monogr>
+		<title level="j">Cent Eur J Med</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="783" to="789" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nikolaidis PT. Association between body mass index, body fat per cent and muscle power output in soccer players. Cent Eur J Med. 2012;7(8):783-789. https://doi.org/ 10.2478/s11536-012-0057-1.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Body composition assessment of English Premier League players: A comparative DXA analysis of first team, U21 and U18 squads</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Milsom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Naughton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Boyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/02640414.2015.1012101</idno>
+		<ptr target="https://doi.org/10.1080/02640414.2015.1012101" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">17</biblScope>
+			<biblScope unit="page" from="1799" to="1806" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Milsom J, Naughton R, O&apos;Boyle A, et al. Body composition assessment of English Premier League players: A comparative DXA analysis of first team, U21 and U18 squads. J Sports Sci. 2015;33(17):1799-1806. https://doi.org/10.1080/ 02640414.2015.1012101.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The transition period in soccer: A window of opportunity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Akenhead</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Nassis</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40279-015-0419-3</idno>
+		<ptr target="https://doi.org/10.1007/s40279-015-0419-3" />
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="305" to="313" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Silva JR, Brito J, Akenhead R, Nassis GP. The transition period in soccer: A window of opportunity. Sports Med. 2016;46(3):305-313. https://doi.org/10.1007/s40279- 015-0419-3.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Off-season effects on functional performance, body composition, and blood parameters in top-level professional soccer players</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Requena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Su Arez-Arrones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Villarreal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Naranjo</forename><surname>Orellana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Santalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0000000000001568</idno>
+		<ptr target="https://doi.org/10.1519/JSC.0000000000001568" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="939" to="946" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Requena B, García I, Su arez-Arrones L, S aez de Villarreal E, Naranjo Orellana J, Santalla A. Off-season effects on functional performance, body composition, and blood parameters in top-level professional soccer players. J Strength Condit Res. 2017; 31(4):939-946. https://doi.org/10.1519/JSC.0000000000001568.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Field-based performance tests are related to body fat percentage and fat-free mass, but not body mass index, in youth soccer players</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Esco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Fedewa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">S</forename><surname>Cicone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">A</forename><surname>Sinelnikov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sekulic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Holmes</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/sports6040105</idno>
+		<ptr target="https://doi.org/10.3390/sports6040105" />
+	</analytic>
+	<monogr>
+		<title level="j">Sports (Basel)</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">105</biblScope>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Esco MR, Fedewa MV, Cicone ZS, Sinelnikov OA, Sekulic D, Holmes CJ. Field-based performance tests are related to body fat percentage and fat-free mass, but not body mass index, in youth soccer players. Sports (Basel). 2018;6(4):105. https://doi.org/ 10.3390/sports6040105.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Seasonal variation in physiological fitness of a semiprofessional soccer team</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Caldwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Peters</surname></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0b013e3181a4e82f</idno>
+		<ptr target="https://doi.org/10.1519/JSC.0" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1370" to="1377" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>b013e3181a4e82f</note>
+	<note type="raw_reference">Caldwell BP, Peters DM. Seasonal variation in physiological fitness of a semiprofessional soccer team. J Strength Condit Res. 2009;26(5):1370-1377. https:// doi.org/10.1519/JSC.0b013e3181a4e82f.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Factors influencing perception of effort (session rating of perceived exertion) during elite soccer training</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gaudino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Iaia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Strudwick</surname></persName>
+		</author>
+		<idno type="DOI">10.1123/ijspp.2014-0518</idno>
+		<ptr target="https://doi.org/10.1123/ijspp.2014-0518" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Physiol Perform</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="860" to="864" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gaudino P, Iaia FM, Strudwick AJ, et al. Factors influencing perception of effort (session rating of perceived exertion) during elite soccer training. Int J Sports Physiol Perform. 2015;10(7):860-864. https://doi.org/10.1123/ijspp.2014-0518.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Seasonal training-load quantification in elite English premier league soccer players</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Malone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Michele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Morgans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Burgess</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Motron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Drust</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+		<idno type="DOI">10.1123/ijspp.2014-0352</idno>
+		<ptr target="https://doi.org/10.1123/ijspp.2014-0352" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Physiol Perform</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="489" to="497" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Malone JJ, Di Michele R, Morgans R, Burgess D, Motron JP, Drust B. Seasonal training-load quantification in elite English premier league soccer players. Int J Sports Physiol Perform. 2015;10(4):489-497. https://doi.org/10.1123/ijspp.2014-0352.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Pre-season dietary intake of professional soccer players</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Raizel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Da Mata Godois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Coqueiro</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0260106017737014</idno>
+		<ptr target="https://doi.org/10.1177/0260106017737014" />
+	</analytic>
+	<monogr>
+		<title level="j">Nutr Health</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="215" to="222" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Raizel R, da Mata Godois A, Coqueiro AY, et al. Pre-season dietary intake of professional soccer players. Nutr Health. 2017;23(4):215-222. https://doi.org/ 10.1177/0260106017737014.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Energy availability in athletes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Loucks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Kiens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Wright</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02640414.2011.588958</idno>
+		<ptr target="https://doi.org/10.1080/02640414.2011.588958" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">S1</biblScope>
+			<biblScope unit="page" from="7" to="S15" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Loucks AB, Kiens BK, Wright HH. Energy availability in athletes. J Sports Sci. 2011; 29(S1):S7-S15. https://doi.org/10.1080/02640414.2011.588958.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Energy intake and expenditure of professional soccer players of the English Premier League: Evidence of carbohydrate periodization</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Orme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Naughton</surname></persName>
+		</author>
+		<idno type="DOI">10.1123/ijsnem.2016-0259</idno>
+		<ptr target="https://doi.org/10.1123/ijsnem.2016-0259" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metabol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="228" to="238" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anderson L, Orme P, Naughton RJ, et al. Energy intake and expenditure of professional soccer players of the English Premier League: Evidence of carbohydrate periodization. Int J Sport Nutr Exerc Metabol. 2017;27(3):228-238. https://doi.org/ 10.1123/ijsnem.2016-0259.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Weight management for athletes and active individuals: A brief review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Manore</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40279-015-0401-0</idno>
+		<ptr target="https://doi.org/10.1007/s40279-015-0401-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">Suppl 1</biblScope>
+			<biblScope unit="page" from="83" to="S92" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Manore MM. Weight management for athletes and active individuals: A brief review. Sports Med. 2015;45(Suppl 1):S83-S92. https://doi.org/10.1007/s40279-015-0401- 0.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Monitoring fitness, fatigue and running performance during a pre-season training camp in elite football players</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Buchheit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Racinais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Bilsborough</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jsams.2012.12.003</idno>
+		<ptr target="https://doi.org/10.1016/j.jsams.2012.12.003" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sci Med Sport</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="550" to="555" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Buchheit M, Racinais S, Bilsborough JC, et al. Monitoring fitness, fatigue and running performance during a pre-season training camp in elite football players. J Sci Med Sport. 2013;16(6):550-555. https://doi.org/10.1016/j.jsams.2012.12.003.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Relationships between training load indicators and training outcomes in professional soccer</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jaspers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Brink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sgm</forename><surname>Probst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wgp</forename><surname>Frencken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Helsen</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s40279-016-0591-0</idno>
+		<ptr target="https://doi.org/10.1007/s40279-016-0591-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="533" to="544" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jaspers A, Brink MS, Probst SGM, Frencken WGP, Helsen WF. Relationships between training load indicators and training outcomes in professional soccer. Sports Med. 2017;47:533-544. https://doi.org/10.1007/s40279-016-0591-0.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Seasonal DXAmeasured body composition changes in professional male soccer players</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Milanese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Cavedon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Corradini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Vita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zancanaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<idno type="DOI">10.1080/02640414.2015.1022573</idno>
+		<ptr target="https://doi.org/10.1080/02640414.2015.1022573" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1219" to="1228" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Milanese C, Cavedon V, Corradini G, De Vita F, Zancanaro C. Seasonal DXA- measured body composition changes in professional male soccer players. J Sports Sci. 2015;33(12):1219-1228. https://doi.org/10.1080/02640414.2015.1022573.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Variation in body composition in professional soccer players: interseasonal and intraseasonal changes and the effects of exposure time and player position</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Carling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Orhant</surname></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0b013e3181cc6154</idno>
+		<ptr target="https://doi.org/10.1519/JSC" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">6154</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Carling C, Orhant E. Variation in body composition in professional soccer players: interseasonal and intraseasonal changes and the effects of exposure time and player position. J Strength Condit Res. 2010;24(5):1332-1339. https://doi.org/10.1519/ JSC.0b013e3181cc6154.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Seasonal body composition variation amongst elite European professional soccer players: An approach of talent identification</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lago-Penas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dunlop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Mehdi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chtara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dellal</surname></persName>
+		</author>
+		<idno type="DOI">10.1515/hukin-2017-0132</idno>
+		<ptr target="https://doi.org/10.1515/hukin-2017-0132" />
+	</analytic>
+	<monogr>
+		<title level="j">J Hum Kinet</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="177" to="184" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Owen AL, Lago-Penas C, Dunlop G, Mehdi R, Chtara M, Dellal A. Seasonal body composition variation amongst elite European professional soccer players: An approach of talent identification. J Hum Kinet. 2018;62:177-184. https://doi.org/ 10.1515/hukin-2017-0132.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">How well do skinfold equations predict percent body fat in elite soccer players?</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marfell-Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sutton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Wallace</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/s-0029-1202353</idno>
+		<ptr target="https://doi.org/10.1055/s-0029-1202353" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="607" to="613" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reilly T, George K, Marfell-Jones M, Scott M, Sutton L, Wallace JA. How well do skinfold equations predict percent body fat in elite soccer players? Int J Sports Med. 2009;30:607-613. https://doi.org/10.1055/s-0029-1202353.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Body fat assessment in elite soccer players: cross-validation of different field methods</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Su Arez-Arrones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Petri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Maldonado</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02640414.2018.1551045</idno>
+		<ptr target="https://doi.org/10.1080/02640414.2018.1551045" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci Med Football</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="203" to="208" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Su arez-Arrones L, Petri C, Maldonado RA, et al. Body fat assessment in elite soccer players: cross-validation of different field methods. Sci Med Football. 2018;2(3): 203-208. https://doi.org/10.1080/02640414.2018.1551045.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Body composition and bone mineral density changes during a premier league season as measures by dual-energy x-ray absorptiometry</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Egan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wallace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Reilly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chantler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lawler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Body Compos Res</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="61" to="66" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Egan E, Wallace J, Reilly T, Chantler P, Lawler J. Body composition and bone mineral density changes during a premier league season as measures by dual-energy x-ray absorptiometry. Int J Body Compos Res. 2006;4(2):61-66.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Seasonal changes in soccer players&apos; body composition and dietary intake practices</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Devlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kingsley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Leveritt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Belski</surname></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0000000000001751</idno>
+		<ptr target="https://doi.org/10.1519/JSC.0000000000001751" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3319" to="3326" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Devlin BL, Kingsley M, Leveritt MD, Belski R. Seasonal changes in soccer players&apos; body composition and dietary intake practices. J Strength Condit Res. 2017;31(12): 3319-3326. https://doi.org/10.1519/JSC.0000000000001751.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Quantification of a professional football team&apos;s external load using a microcycle structure</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Martín-García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Omez Díaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Morera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Casamichana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<idno type="DOI">10.1519/JSC.0000000000002816</idno>
+		<ptr target="https://doi.org/10.1519/JSC.0000000000002816" />
+	</analytic>
+	<monogr>
+		<title level="j">J Strength Condit Res</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3511" to="3518" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Martín-García A, G omez Díaz A, Bradley PS, Morera F, Casamichana D. Quantification of a professional football team&apos;s external load using a microcycle structure. J Strength Condit Res. 2018;32(12):3511-3518. https://doi.org/10.1519/ JSC.0000000000002816.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Importance of standardised DXA protocol for assessing physique changes in athletes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Slater</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Hopkins</surname></persName>
+		</author>
+		<idno type="DOI">10.1123/ijsnem.2013-0111</idno>
+		<ptr target="https://doi.org/10.1123/ijsnem.2013-0111" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Nutr Exerc Metabol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="259" to="267" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nana A, Slater GJ, Hopkins WG, et al. Importance of standardised DXA protocol for assessing physique changes in athletes. Int J Sport Nutr Exerc Metabol. 2016;26(3): 259-267. https://doi.org/10.1123/ijsnem.2013-0111.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Precision of GE Lunar iDXA for the measurement of total and regional body composition in nonobese adults</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Rothney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Xia</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jocd.2012.02.009</idno>
+		<ptr target="https://doi.org/10.1016/j.jocd.2012.02.009" />
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Densitom</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="399" to="404" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rothney MP, Martin FP, Xia Y, et al. Precision of GE Lunar iDXA for the measurement of total and regional body composition in nonobese adults. J Clin Densitom. 2012; 15(4):399-404. https://doi.org/10.1016/j.jocd.2012.02.009.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Monitoring accelerations with GPS in football: time to slow down?</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Buchheit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Al</forename><surname>Haddad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Simpson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename></persName>
+		</author>
+		<idno type="DOI">10.1123/ijspp.2013-0187</idno>
+		<ptr target="https://doi.org/10.1123/ijspp.2013-0187" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Physiol Perform</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="442" to="445" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Buchheit M, Al Haddad H, Simpson BM, et al. Monitoring accelerations with GPS in football: time to slow down? Int J Sports Physiol Perform. 2014;9(3):442-445. https:// doi.org/10.1123/ijspp.2013-0187.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Energy cost and metabolic power in elite soccer: A new match analysis approach</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Osgnach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Poser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bernardini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rinaldo</forename><forename type="middle">R</forename><surname>Di Prampero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename></persName>
+		</author>
+		<idno type="DOI">10.1249/MSS.0b013e3181ae5cfd</idno>
+		<ptr target="https://doi.org/10.1249/MSS.0b013e3181ae5cfd" />
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="170" to="178" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Osgnach C, Poser S, Bernardini R, Rinaldo R, di Prampero PE. Energy cost and metabolic power in elite soccer: A new match analysis approach. Med Sci Sports Exerc. 2010;42(1):170-178. https://doi.org/10.1249/MSS.0b013e3181ae5cfd.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">A contemporary multi-modal mechanical approach to training monitoring in elite professional soccer</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Owen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Djaoui</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Newton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mendes</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/24733938.2017.1334958</idno>
+		<ptr target="https://doi.org/10.1080/24733938.2017.1334958" />
+	</analytic>
+	<monogr>
+		<title level="j">Sci Med Football</title>
+		<imprint>
+			<biblScope unit="page" from="216" to="221" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Owen AL, Djaoui L, Newton M, Malone S, Mendes B. A contemporary multi-modal mechanical approach to training monitoring in elite professional soccer. Sci Med Football. 2017:216-221. https://doi.org/10.1080/24733938.2017.1334958.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Metabolic power in team sportspart 1: An update</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Di Prampero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Osgnach</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/a-0592-7660</idno>
+		<ptr target="https://doi.org/10.1055/a-0592-7660" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="581" to="587" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">di Prampero PE, Osgnach C. Metabolic power in team sports -part 1: An update. Int J Sports Med. 2018;39(8):581-587. https://doi.org/10.1055/a-0592-7660.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Energy cost of walking and running at extreme uphill and downhill slopes</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Minetti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Moia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Roi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Susta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ferretti</surname></persName>
+		</author>
+		<idno type="DOI">10.1152/japplphysiol.01177.2001</idno>
+		<ptr target="https://doi.org/10.1152/japplphysiol.01177.2001" />
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Physiol</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1039" to="1046" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Minetti AE, Moia C, Roi GS, Susta D, Ferretti G. Energy cost of walking and running at extreme uphill and downhill slopes. J Appl Physiol. 2002;93(3):1039-1046. https://doi.org/10.1152/japplphysiol.01177.2001.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Metabolic power: a step in the right direction for team sports</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Polglaze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Hoppe</surname></persName>
+		</author>
+		<idno type="DOI">10.1123/ijspp.2018-0661</idno>
+		<ptr target="https://doi.org/10.1123/ijspp.2018-0661" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Physiol Perform</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="407" to="411" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Polglaze T, Hoppe MW. Metabolic power: a step in the right direction for team sports. Int J Sports Physiol Perform. 2019;14(3):407-411. https://doi.org/10.1123/ ijspp.2018-0661.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Progressive statistics for studies in sports medicine and exercise science</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Hopkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Batterham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hanin</surname></persName>
+		</author>
+		<idno type="DOI">10.1249/MSS.0b013e31818cb278</idno>
+		<ptr target="https://doi.org/10.1249/MSS.0b013e31818cb278" />
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="13" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hopkins WG, Marshall SW, Batterham AM, Hanin J. Progressive statistics for studies in sports medicine and exercise science. Med Sci Sports Exerc. 2009;41(1):3-13. https://doi.org/10.1249/MSS.0b013e31818cb278.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The numbers will love you back in return -I promise</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Buchheit</surname></persName>
+		</author>
+		<idno type="DOI">10.1123/ijspp.2016-0214</idno>
+		<ptr target="https://doi.org/10.1123/ijspp.2016-0214" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Physiol Perform</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="551" to="554" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Buchheit M. The numbers will love you back in return -I promise. Int J Sports Physiol Perform. 2016;11(4):551-554. https://doi.org/10.1123/ijspp.2016-0214.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The effects of increasing exercise intensity on muscle fuel utilisation in humans</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J</forename><surname>Van Loon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Greenhaff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Constantin-Teodosiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Saris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Wagenmakers</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1469-7793.2001.00295.x</idno>
+		<ptr target="https://doi.org/10.1111/j.1469-7793.2001.00295.x" />
+	</analytic>
+	<monogr>
+		<title level="j">J Physiol</title>
+		<imprint>
+			<biblScope unit="volume">536</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="295" to="304" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">van Loon LJ, Greenhaff PL, Constantin-Teodosiu D, Saris WH, Wagenmakers AJ. The effects of increasing exercise intensity on muscle fuel utilisation in humans. J Physiol. 2001;536(1):295-304. https://doi.org/10.1111/j.1469-7793.2001.00295.x.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Physical and metabolic demands of training and match-play in the elite soccer player</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bangsbo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mohr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Krustrup</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/02640410500482529</idno>
+		<ptr target="https://doi.org/10.1080/02640410500482529" />
+	</analytic>
+	<monogr>
+		<title level="j">J Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="665" to="674" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Bangsbo J, Mohr M, Krustrup P. Physical and metabolic demands of training and match-play in the elite soccer player. J Sports Sci. 2006;24(7):665-674. https:// doi.org/10.1080/02640410500482529.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Control of the size of the human muscle mass</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Rennie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wackerhage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Spangenburg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Booth</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.physiol.66.052102.134444</idno>
+		<ptr target="https://doi.org/10.1146/annurev.physiol.66.052102.134444" />
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Physiol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="799" to="828" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rennie MJ, Wackerhage H, Spangenburg EE, Booth FW. Control of the size of the human muscle mass. Annu Rev Physiol. 2004;66:799-828. https://doi.org/10.1146/ annurev.physiol.66.052102.134444.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Monitoring training in elite soccer players: systematic bias between running speed and metabolic power data</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gaudino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Iaia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Alberti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Strudwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Atkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gregson</surname></persName>
+		</author>
+		<idno type="DOI">10.1055/s-0033-1337943</idno>
+		<ptr target="https://doi.org/10.1055/s-0033-1337943" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="963" to="969" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gaudino P, Iaia FM, Alberti G, Strudwick AJ, Atkinson G, Gregson W. Monitoring training in elite soccer players: systematic bias between running speed and metabolic power data. Int J Sports Med. 2013;34(11):963-969. https://doi.org/10.1055/s- 0033-1337943.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

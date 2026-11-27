@@ -1,0 +1,2285 @@
+{
+  "paper_id": "10.1016+j.scispo.2025.09.002",
+  "info": [
+    {
+      "title": "Hip function and golf swing characteristics differ in golfers with and without a previous history of low back pain",
+      "keywords": ["Lumbar spine", "Hip flexibility", "External rotation strength", "Three-dimensional motion analysis"],
+      "doi": "10.1016/j.scispo.2025.09.002",
+      "file_hash": "0766663fc8cb77b1",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.scispo.2025.09.002.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Y",
+      "family": "Hamada",
+      "affiliation": "Saitama Medical University Graduate School of Medicine\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMoroyama\n\t\t\t\t\t\t\t\t\tJapan",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "K",
+      "family": "Akasaka",
+      "affiliation": "Saitama Medical University Graduate School of Medicine\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMoroyama\n\t\t\t\t\t\t\t\t\tJapan",
+      "email": "akasaka@saitama-med.ac.jp",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "T",
+      "family": "Otsudo",
+      "affiliation": "Major of Physical Therapy\n\t\t\t\t\t\t\t\tDepartment of Rehabilitation\n\t\t\t\t\t\t\t\tTokyo University of Technology\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tKamata\n\t\t\t\t\t\t\t\t\tJapan",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "Y",
+      "family": "Sawada",
+      "affiliation": "School of Physical Therapy\n\t\t\t\t\t\t\t\tSaitama Medical University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMoroyama\n\t\t\t\t\t\t\t\t\tJapan",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "H",
+      "family": "Hattori",
+      "affiliation": "Saitama Medical University Graduate School of Medicine\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMoroyama\n\t\t\t\t\t\t\t\t\tJapan",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 6,
+      "given": "Y",
+      "family": "Kikuchi",
+      "affiliation": "Saitama Medical University Graduate School of Medicine\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMoroyama\n\t\t\t\t\t\t\t\t\tJapan",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 7,
+      "given": "T",
+      "family": "Hall",
+      "affiliation": "Curtin School of Allied Health\n\t\t\t\t\t\t\t\tCurtin University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPerth\n\t\t\t\t\t\t\t\t\tAustralia",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 8,
+      "given": "Mots",
+      "family": "Clés",
+      "affiliation": "",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Low back pain (LBP) has been identified as a prevalent condition among athletes, with a particularly high incidence observed in sports that involve repetitive trunk rotation, such as golf [1]. Robinson et al. conducted a prospective study of injury incidence in over 900 amateur golfers, revealing that lumbosacral injuries were the most common [2].",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Low back pain (LBP) has been identified as a prevalent condition among athletes, with a particularly high incidence observed in sports that involve repetitive trunk rotation, such as golf <ref type=\"bibr\" target=\"#b0\">[1]<\/ref>. <ref type=\"bibr\">Robinson et al.<\/ref> conducted a prospective study of injury incidence in over 900 amateur golfers, revealing that lumbosacral injuries were the most common <ref type=\"bibr\" target=\"#b1\">[2]<\/ref>."
+    },
+    {
+      "text": "The golf swing is a complex whole-body motion that requires coordinated movements of the lower extremities, pelvis, spine, and upper extremities, among others [3].",
+      "text_id": 2,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The golf swing is a complex whole-body motion that requires coordinated movements of the lower extremities, pelvis, spine, and upper extremities, among others <ref type=\"bibr\" target=\"#b2\">[3]<\/ref>."
+    },
+    {
+      "text": "A number of factors have been identified as being associated with LBP in golfers.",
+      "text_id": 3,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These factors include age, a history of LBP, body weight, repeated incorrect swing biomechanics, excessive physical activity, and poor physical function [1].",
+      "text_id": 4,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "These factors include age, a history of LBP, body weight, repeated incorrect swing biomechanics, excessive physical activity, and poor physical function <ref type=\"bibr\" target=\"#b0\">[1]<\/ref>."
+    },
+    {
+      "text": "A study of physical function in golfers concluded that factors associated with LBP include impairment of hip internal rotation (IR) range of motion (ROM) and trunk muscle weakness [4] [5] [6].",
+      "text_id": 5,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "A study of physical function in golfers concluded that factors associated with LBP include impairment of hip internal rotation (IR) range of motion (ROM) and trunk muscle weakness <ref type=\"bibr\" target=\"#b3\">[4]<\/ref> <ref type=\"bibr\" target=\"#b4\">[5]<\/ref> <ref type=\"bibr\" target=\"#b5\">[6]<\/ref>."
+    },
+    {
+      "text": "These factors have also been identified in patients with LBP outside of golf [7] [8] [9] [10].",
+      "text_id": 6,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "These factors have also been identified in patients with LBP outside of golf <ref type=\"bibr\" target=\"#b6\">[7]<\/ref> <ref type=\"bibr\" target=\"#b7\">[8]<\/ref> <ref type=\"bibr\" target=\"#b8\">[9]<\/ref> <ref type=\"bibr\" target=\"#b9\">[10]<\/ref>."
+    },
+    {
+      "text": "Further support for the association between LBP and hip muscle strength in golfers, is shown by the identification of weakness of the lead-side hip abductor and adductor muscle groups in LBP [11].",
+      "text_id": 7,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Further support for the association between LBP and hip muscle strength in golfers, is shown by the identification of weakness of the lead-side hip abductor and adductor muscle groups in LBP <ref type=\"bibr\" target=\"#b10\">[11]<\/ref>."
+    },
+    {
+      "text": "Despite this evidence no studies have comprehensively examined hip flexibility and strength as factors in golf associated LBP.",
+      "text_id": 8,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A number of issues have been identified in the biomechanics of the golf swing, which is associated with the presence of LBP.",
+      "text_id": 9,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The ''Address'' angle is defined as the body position immediately before striking the ball.",
+      "text_id": 10,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A study revealed that at the Address position golfers complaining of LBP exhibited diminished knee joint flexion and ankle dorsiflexion angle in comparison to golfers without LBP.",
+      "text_id": 11,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The investigation revealed that the spine angles at Address did not exhibit significant disparities between the groups with and without LBP [12].",
+      "text_id": 12,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The investigation revealed that the spine angles at Address did not exhibit significant disparities between the groups with and without LBP <ref type=\"bibr\" target=\"#b11\">[12]<\/ref>."
+    },
+    {
+      "text": "During the golf swing, golfers with LBP had decreased maximum whole trunk right rotation ROM and increased maximum whole spine left lateral flexion ROM.",
+      "text_id": 13,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Other reports have reported varied results [11, 13].",
+      "text_id": 14,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Other reports have reported varied results <ref type=\"bibr\" target=\"#b10\">[11,<\/ref> <ref type=\"bibr\" target=\"#b12\">13]<\/ref>."
+    },
+    {
+      "text": "One explanation for this is that previous studies have only evaluated the entire spine as a unit and do not reveal the detailed behavior of the lumbar spine.",
+      "text_id": 15,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "When evaluating LBP, it would be useful to know what is happening in the lumbar spine, the presumed nociceptive source of pain.",
+      "text_id": 16,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A more comprehensive evaluation of the lumbar spine's maximum ROM during the golf swing may offer novel insights into LBP in golf.",
+      "text_id": 17,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The objective of this pilot study was to identify differences in hip flexibility, hip muscle strength, and golf swing motion in amateur golfers with and without LBP.",
+      "text_id": 18,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The present study will examine the role of the hip and lumbar spine in LBP for golfers and provide fundamental data for future studies aimed at identifying prevention and treatment methods for this population.",
+      "text_id": 19,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Methods",
+      "text_id": 20,
+      "paragraph_id": 4,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Methods<\/head>"
+    },
+    {
+      "text": "Participants were recruited through posters displayed at four golf driving ranges from May to November 2021.",
+      "text_id": 21,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Prior to the commencement of the measurement process, participants were required to provide written consent.",
+      "text_id": 22,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Inclusion criteria were that they had no current symptoms of LBP and were not currently receiving hospital treatment for their condition.",
+      "text_id": 23,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, subjects were required to have participated in a minimum of five rounds of golf, with a maximum score of 110 or less over 18 holes.",
+      "text_id": 24,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A paper questionnaire was administered to collect data on subjects' height, weight, golf scores, and history of LBP due to golf.",
+      "text_id": 25,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It is noteworthy that the subjects with LBP were included if they experienced LBP exclusively while golfing, and were excluded if LBP occurred in daily life or in another sport.",
+      "text_id": 26,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Passive hip IR and external rotation (ER) ROM was measured using an inclinometer placed on the prone subjects shin, with their hip positioned in mid adduction/abduction and their knee flexed to 90 • .",
+      "text_id": 27,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This measurement method has been reported to have high intra-and inter-examiner reliability [14].",
+      "text_id": 28,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "This measurement method has been reported to have high intra-and inter-examiner reliability <ref type=\"bibr\" target=\"#b13\">[14]<\/ref>."
+    },
+    {
+      "text": "Hamstring and hip flexor muscle extensibility was evaluated by the straight leg raise (SLR) and Thomas test respectively.",
+      "text_id": 29,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For the SLR test, the subject lay supine, an inclinometer was placed on their shin and used to record SLR ROM.",
+      "text_id": 30,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The measurement of SLR was obtained with their knee held in extension and their hip passively flexed to maximum range.",
+      "text_id": 31,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Extensibility of the hip flexor muscles was determined by the Thomas test where contralateral hip flexion ROM was recorded while the subject's opposite hip was maintained in maximal flexion.",
+      "text_id": 32,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Compensatory movement of pelvic rotation was corrected by the examiner.",
+      "text_id": 33,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Intra-individual variability of the SLR test and Thomas test was determined by ICC (1, 3).",
+      "text_id": 34,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Intra-individual variability of the SLR test and Thomas test was determined by ICC <ref type=\"bibr\" target=\"#b0\">(1,<\/ref> <ref type=\"bibr\" target=\"#b2\">3)<\/ref>."
+    },
+    {
+      "text": "All values were above 0.9, indicating excellent reliability.",
+      "text_id": 35,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "ROM and flexibility tests were measured three times, and the average value used for measurements.",
+      "text_id": 36,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hip isometric muscle strength was measured using a hand-held dynamometer.",
+      "text_id": 37,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Two parameters were evaluated: IR and ER.",
+      "text_id": 38,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Replicating previous studies, strength measurements were evaluated in a seated position and all muscle strength measurements taken twice [15].",
+      "text_id": 39,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Replicating previous studies, strength measurements were evaluated in a seated position and all muscle strength measurements taken twice <ref type=\"bibr\" target=\"#b14\">[15]<\/ref>."
+    },
+    {
+      "text": "The golf swing was measured using a three-dimensional motion analyzer (Vicon MX System; Vicon Motion Systems Ltd., Oxford, UK).",
+      "text_id": 40,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A Plug-in-Gait AI model was used to calculate the lower limb kinematic data.",
+      "text_id": 41,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, ten markers were added to measure spine motion.",
+      "text_id": 42,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This set of markers can be used to separate the upper and lower lumbar spine and calculate data for the lumbar spine [16].",
+      "text_id": 43,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "This set of markers can be used to separate the upper and lower lumbar spine and calculate data for the lumbar spine <ref type=\"bibr\" target=\"#b15\">[16]<\/ref>."
+    },
+    {
+      "text": "The upper lumbar spine was defined as L1 to L3, and the lower lumbar spine as L4 to L5.",
+      "text_id": 44,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lumbar spine motion data were calculated using Visual 3D (C-Motion, Germantown, MD, USA).",
+      "text_id": 45,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The sampling frequency was set at 240 Hz, while the cutoff frequency was 6 Hz.",
+      "text_id": 46,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "During data collection participants performed the golf swing with their own golf clubs, shoes, and gloves.",
+      "text_id": 47,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Prior to the initiation of the golf swing measurements, the participants engaged in a three-minute warm-up period during which they were permitted to swing the golf club with any intensity and method they deemed appropriate.",
+      "text_id": 48,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The measurement process involved the use of a driver and the execution of five full swings.",
+      "text_id": 49,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The participants were instructed to imagine that they were situated on a golf tee and they should attempt to strike the ball towards a net positioned approximately three meters in front of them.",
+      "text_id": 50,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The data from three of the five successful golf swing trials were used to calculate the average values.",
+      "text_id": 51,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The data from the latter three was primarily utilized.",
+      "text_id": 52,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In instances where data accuracy was deemed inadequate, data from the first or second was adopted.",
+      "text_id": 53,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For right-handed golfers, the left side was designated as the lead side, and the right side was designated as the trail side.",
+      "text_id": 54,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The posture of the golf swing prior to the movement of the golf club was defined as Address.",
+      "text_id": 55,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The angles of the hip joints and the upper and lower lumbar spine were calculated.",
+      "text_id": 56,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The maximum range during the golf swing was calculated for both hip IR as well as lateral flexion, rotation, and extension of the upper and lower lumbar spine.",
+      "text_id": 57,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Normality of the data was determined.",
+      "text_id": 58,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For each measurement item, independent t-tests or Mann-Whitney U-tests were employed, depending on the statistical assumptions of the test.",
+      "text_id": 59,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The calculation of effect sizes and power was conducted for all test results.",
+      "text_id": 60,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The calculation of effect sizes employed Cohen's d for the independent t-test and effect size r for the Mann-Whitney U-test.",
+      "text_id": 61,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The statistical software utilized was IBM SPSS Statistics for Mac, version 29.0 (Armonk, NY, USA: IBM Corp²020).",
+      "text_id": 62,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A significance level of P < 0.05 was employed.",
+      "text_id": 63,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "A significance level of P &lt; 0.05 was employed."
+    },
+    {
+      "text": "The demographic characteristics of the participants are shown in Table 1.",
+      "text_id": 64,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "The demographic characteristics of the participants are shown in Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>."
+    },
+    {
+      "text": "All participants were right-handed with 9 in the LBP group and 13 in the Non-LBP group.",
+      "text_id": 65,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A subsequent analysis revealed that there was no statistically significant difference in the basic demographics between the two groups (P > 0.05).",
+      "text_id": 66,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "A subsequent analysis revealed that there was no statistically significant difference in the basic demographics between the two groups (P &gt; 0.05)."
+    },
+    {
+      "text": "Table 2 presents the hip joint function characteristics of the 2 groups.",
+      "text_id": 67,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Table <ref type=\"table\" target=\"#tab_1\">2<\/ref> presents the hip joint function characteristics of the 2 groups."
+    },
+    {
+      "text": "There were no statistically significant differences in hip IR and ER ROM, or ROM on the SLR or Thomas test (P > 0.05).",
+      "text_id": 68,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "There were no statistically significant differences in hip IR and ER ROM, or ROM on the SLR or Thomas test (P &gt; 0.05)."
+    },
+    {
+      "text": "However, a statistically significant difference was observed in hip ER strength, with the LBP group exhibiting lower strength compared to the Non-LBP group (P < 0.05).",
+      "text_id": 69,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "However, a statistically significant difference was observed in hip ER strength, with the LBP group exhibiting lower strength compared to the Non-LBP group (P &lt; 0.05)."
+    },
+    {
+      "text": "Tables 3 and 4 present the three-dimensional motion analysis data for the hip and lumbar spine, respectively.",
+      "text_id": 70,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Tables <ref type=\"table\" target=\"#tab_2\">3<\/ref> and <ref type=\"table\" target=\"#tab_3\">4<\/ref> present the three-dimensional motion analysis data for the hip and lumbar spine, respectively."
+    },
+    {
+      "text": "At Address significantly higher values were noted for the LBP group in both left and right side hip flexion angle (P < 0.05).",
+      "text_id": 71,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "At Address significantly higher values were noted for the LBP group in both left and right side hip flexion angle (P &lt; 0.05)."
+    },
+    {
+      "text": "Furthermore, the upper lumbar spine left-right rotation maximum ROM during the golf swing was found to be significantly higher in the LBP",
+      "text_id": 72,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The objective of this study was to identify potential disparities in hip joint function and golf swing parameters among golfers with LBP compared to those without pain.",
+      "text_id": 73,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The investigation yielded several noteworthy findings.",
+      "text_id": 74,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Significantly lower hip ER muscle strength was observed in the LBP group.",
+      "text_id": 75,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, the LBP group exhibited significantly greater upper lumbar spine left and right rotation ROM during the golf swing.",
+      "text_id": 76,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Similar studies have reported that individuals with LBP exhibit reduced hip muscle strength compared to those without LBP [9], and LBP has been associated with atrophy of the gluteus maximus muscle [17, 18].",
+      "text_id": 77,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Similar studies have reported that individuals with LBP exhibit reduced hip muscle strength compared to those without LBP <ref type=\"bibr\" target=\"#b8\">[9]<\/ref>, and LBP has been associated with atrophy of the gluteus maximus muscle <ref type=\"bibr\" target=\"#b16\">[17,<\/ref> <ref type=\"bibr\" target=\"#b17\">18]<\/ref>."
+    },
+    {
+      "text": "Hip ER muscle force generated during the golf swing is greater in the forward swing phase on the lead side and in the acceleration phase on the trail side [19].",
+      "text_id": 78,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Hip ER muscle force generated during the golf swing is greater in the forward swing phase on the lead side and in the acceleration phase on the trail side <ref type=\"bibr\" target=\"#b18\">[19]<\/ref>."
+    },
+    {
+      "text": "These phases are of importance in accelerating the golf club and generating ball carry distance.",
+      "text_id": 79,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It is reported that golf driving distance is more closely correlated with hip muscle strength than trunk core muscle strength [20].",
+      "text_id": 80,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "It is reported that golf driving distance is more closely correlated with hip muscle strength than trunk core muscle strength <ref type=\"bibr\" target=\"#b19\">[20]<\/ref>."
+    },
+    {
+      "text": "This would infer that the hip ER muscles are important for the golf swing.",
+      "text_id": 81,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It has been hypothesized that individuals who suffer with LBP may have sought to enhance their golf performance by employing greater lumbar rotation movement to compensate for diminished strength in both left and right side hip ER muscle groups.",
+      "text_id": 82,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Consequently, it can be considered potentially important to incorporate the hip ER muscle group into the evaluation and rehabilitation framework for golfers with LBP.",
+      "text_id": 83,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A previous study similarly identified the hip and trunk muscle function as important for golfers with LBP [11].",
+      "text_id": 84,
+      "paragraph_id": 10,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "A previous study similarly identified the hip and trunk muscle function as important for golfers with LBP <ref type=\"bibr\" target=\"#b10\">[11]<\/ref>."
+    },
+    {
+      "text": "To the best of our knowledge, there is no difference in lumbar kyphosis angle or pelvic tilt angle between golfers with and without LBP [9].",
+      "text_id": 85,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "To the best of our knowledge, there is no difference in lumbar kyphosis angle or pelvic tilt angle between golfers with and without LBP <ref type=\"bibr\" target=\"#b8\">[9]<\/ref>."
+    },
+    {
+      "text": "Furthermore, no significant difference in hip or spine angle has been reported at the golf swing position Address [12].",
+      "text_id": 86,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Furthermore, no significant difference in hip or spine angle has been reported at the golf swing position Address <ref type=\"bibr\" target=\"#b11\">[12]<\/ref>."
+    },
+    {
+      "text": "However, a notable finding in our study was a significant increase in hip flexion angle at Address observed in the LBP group.",
+      "text_id": 87,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We consider this observation as an important finding of our study, however the underlying reasons for the distinctive posture at Address in golfers with LBP remains to be determined.",
+      "text_id": 88,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It has been shown that the gluteus maximus muscles undergo both stretching and increased muscle activity when the hip joint is flexed [21].",
+      "text_id": 89,
+      "paragraph_id": 12,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "It has been shown that the gluteus maximus muscles undergo both stretching and increased muscle activity when the hip joint is flexed <ref type=\"bibr\" target=\"#b20\">[21]<\/ref>."
+    },
+    {
+      "text": "This finding suggests that one of the characteristics of the altered Address position in the LBP group may be as a compensatory mechanism due to a decrease in hip ER muscle strength.",
+      "text_id": 90,
+      "paragraph_id": 12,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, it has been documented that golfers with LBP exhibit a significantly faster onset of the erector spinae muscle activation during the back swing and with greater muscle activity [22].",
+      "text_id": 91,
+      "paragraph_id": 12,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Additionally, it has been documented that golfers with LBP exhibit a significantly faster onset of the erector spinae muscle activation during the back swing and with greater muscle activity <ref type=\"bibr\" target=\"#b21\">[22]<\/ref>."
+    },
+    {
+      "text": "This phenomenon could be attributed to the increased hip flexion angle, which has been observed to stretch the erector spinae muscles, thereby potentially augmenting the load on these muscles.",
+      "text_id": 92,
+      "paragraph_id": 12,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In light of these considerations, it would appear to be useful to educate golfers who have experienced LBP about their altered Address posture.",
+      "text_id": 93,
+      "paragraph_id": 12,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No substantial differences were identified between groups with respect to hip IR and ER ROM, SLR test ROM, and Thomas test ROM outcomes.",
+      "text_id": 94,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A well-documented risk factor for LBP is reduced flexibility of the hip muscles, including hamstrings and iliopsoas muscles [7, 8, 23].",
+      "text_id": 95,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "A well-documented risk factor for LBP is reduced flexibility of the hip muscles, including hamstrings and iliopsoas muscles <ref type=\"bibr\" target=\"#b6\">[7,<\/ref> <ref type=\"bibr\" target=\"#b7\">8,<\/ref> <ref type=\"bibr\" target=\"#b22\">23]<\/ref>."
+    },
+    {
+      "text": "Golf is a sport requiring predominantly trunk and pelvis rotation.",
+      "text_id": 96,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Consequently, the flexibility of the aforementioned muscles, while important limiting factors in hip flexion and extension, may not have a substantial impact on the load on the lumbar spine during the golf swing.",
+      "text_id": 97,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Previous reports have indicated that golfers with LBP demonstrate diminished hip IR ROM [5, 6].",
+      "text_id": 98,
+      "paragraph_id": 14,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Previous reports have indicated that golfers with LBP demonstrate diminished hip IR ROM <ref type=\"bibr\" target=\"#b4\">[5,<\/ref> <ref type=\"bibr\" target=\"#b5\">6]<\/ref>."
+    },
+    {
+      "text": "Given the established correlation between diminished hip IR ROM and augmented lumbar rotation ROM [24], a plausible hypothesis is proposed that links LBP and hip IR ROM in golf.",
+      "text_id": 99,
+      "paragraph_id": 14,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Given the established correlation between diminished hip IR ROM and augmented lumbar rotation ROM <ref type=\"bibr\" target=\"#b23\">[24]<\/ref>, a plausible hypothesis is proposed that links LBP and hip IR ROM in golf."
+    },
+    {
+      "text": "However, the findings of our study did not demonstrate such a correlation.",
+      "text_id": 100,
+      "paragraph_id": 14,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The discrepancy between the findings of our study and those previous ones may be attributed to the distinct characteristics of the participants in the two studies, particularly their varying levels of competitive engagement.",
+      "text_id": 101,
+      "paragraph_id": 14,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In contrast, Kim et al.'s study focused on young professional golfers.",
+      "text_id": 102,
+      "paragraph_id": 14,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In contrast, the present study's participants were amateur golfers.",
+      "text_id": 103,
+      "paragraph_id": 14,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It has been documented that the golf swing movement style varies according to the level of competition [25].",
+      "text_id": 104,
+      "paragraph_id": 14,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "It has been documented that the golf swing movement style varies according to the level of competition <ref type=\"bibr\" target=\"#b24\">[25]<\/ref>."
+    },
+    {
+      "text": "Consequently, it was proposed that varying levels of competition may be associated with distinct factors contributing to LBP.",
+      "text_id": 105,
+      "paragraph_id": 14,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although this study does not establish a causal relationship between LBP and hip function, the findings provide clinically relevant implications for sports medicine.",
+      "text_id": 106,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The assessment of hip ER muscle strength, posture at Address, and excessive upper lumbar spine rotation ROM during the golf swing may serve as useful screening items in clinical and field settings.",
+      "text_id": 107,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For golfers with a history of LBP, monitoring these checkpoints may potentially help reduce lumbar load, prevent recurrence of injury, and support the maintenance of competitive performance.",
+      "text_id": 108,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The present study is not without its limitations.",
+      "text_id": 109,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Firstly, the nature of this study, being cross-sectional and observational, precludes the establishment of a clear causal relationship between LBP and hip joint function.",
+      "text_id": 110,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Future studies should employ longitudinal research designs to more thoroughly examine the interaction between LBP and hip joint function.",
+      "text_id": 111,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Secondly, the study did not include data on muscle activity, center of gravity position, and ground reaction force during the golf swing.",
+      "text_id": 112,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Consequently, the investigation of how these factors were influenced by LBP was precluded.",
+      "text_id": 113,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These data may offer insights into the underlying mechanisms of LBP and should be considered in future studies.",
+      "text_id": 114,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thirdly, the study's participants were limited to amateur golfers, and the external validity of the results for professional golfers and players with higher levels of competition is unclear.",
+      "text_id": 115,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study demonstrated an association between LBP and specific physical characteristics and golf swing mechanics in amateur golfers.",
+      "text_id": 116,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Golfers with LBP demonstrated increased hip flexion angles during the Address position and greater upper lumbar spine rotation ROM during the golf swing compared to golfers without LBP.",
+      "text_id": 117,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, reduced hip ER muscle strength was observed in golfers with LBP, suggesting the presence of compensatory movement patterns and physical characteristics that may contribute to LBP.",
+      "text_id": 118,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The cross-sectional design and the participants' characteristics of this study limit the ability to establish causal relationships between LBP and its associated factors.",
+      "text_id": 119,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, the findings highlight the potential importance of addressing hip function and golf swing mechanics in golfers with LBP.",
+      "text_id": 120,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Consequently, therapists and instructors may benefit from assessing hip ER muscle strength, Address position, and excessive lumbar rotation ROM during the golf swing to reduce LBP in amateur golfers.",
+      "text_id": 121,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We would like to express our gratitude to all the golfers who participated in this study.",
+      "text_id": 122,
+      "paragraph_id": 18,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that they have no competing interests.",
+      "text_id": 123,
+      "paragraph_id": 19,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "back pain; CI, confidence interval; mean ± standard deviation; median (25-75 percentile), flexion, abduction, internal rotation, left lateral flexion and left rotation were recorded as positive. a P < 0.05. group (P < 0.05).",
+      "text_id": 124,
+      "paragraph_id": 20,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "back pain; CI, confidence interval; mean ± standard deviation; median (25-75 percentile), flexion, abduction, internal rotation, left lateral flexion and left rotation were recorded as positive. a P &lt; 0.05. group (P &lt; 0.05)."
+    },
+    {
+      "text": "No statistically significant differences were observed in the lower lumbar spine left-right rotation ROM, upper and lower lateral flexion ROM, extension ROM, and left-right hip IR ROM (P > 0.05).",
+      "text_id": 125,
+      "paragraph_id": 20,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "No statistically significant differences were observed in the lower lumbar spine left-right rotation ROM, upper and lower lateral flexion ROM, extension ROM, and left-right hip IR ROM (P &gt; 0.05)."
+    },
+    {
+      "text": "Baseline characteristics.",
+      "text_id": 126,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Differences in hip joint function between the group with and without LBP.",
+      "text_id": 127,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Differences in Address during golf swing angle between the group with and without LBP.",
+      "text_id": 128,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Differences in maximum angle during golf swing between the group with and without LBP.",
+      "text_id": 129,
+      "paragraph_id": 24,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Smith JA, Hawkins A, Grant-Beuttler M, Beuttler R, Lee S-P. Risk Factors Associated With Low Back Pain in Golfers: A Systematic Review and Meta-analysis. Sports Health 2018;10:538-46.",
+      "text_id": 130,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Robinson PG, Clarsen B, Murray A, Junge A, Mountjoy ML, Drobny T, et al. A prospective study of injuries and illnesses among 910 amateur golfers during one season. BMJ Open Sport Exerc Med 2024;10:e001844.",
+      "text_id": 131,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cole MH, Grimshaw PN. The biomechanics of the modern Golf Swing: implications for lower back injuries. Sports Med 2016;46:339-51.",
+      "text_id": 132,
+      "paragraph_id": 27,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lindsay DM, Horton JF. Trunk rotation strength and endurance in healthy normals and elite male golfers with and without low back pain. N Am J Sports Phys Ther 2006;1:80-9.",
+      "text_id": 133,
+      "paragraph_id": 28,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Murray E, Birley E, Twycross-Lewis R, Morrissey D. The relation- ship between hip rotation range of movement and low back pain prevalence in amateur golfers: an observational study. Phys Ther Sport 2009;10:131-5.",
+      "text_id": 134,
+      "paragraph_id": 29,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vad VB, Bhat AL, Basrai D, Gebeh A, Aspergren DD, Andrews JR. Low back pain in professional golfers: the role of associated hip and low back range-of-motion deficits. Am J Sports Med 2004;32:494-7.",
+      "text_id": 135,
+      "paragraph_id": 30,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Adegoke B, Fapojuwo O. Range of active hip motion in low back pain patients and apparently healthy controls. Int J Allied Health Scie Pract 2010;8:1-8.",
+      "text_id": 136,
+      "paragraph_id": 31,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Van Dillen LR, McDonnell MK, Fleming DA, Sahrmann SA. Effect of knee and hip position on hip extension range of motion in individuals with and without low back pain. J Orthop Sports Phys Ther 2000;30:307-16.",
+      "text_id": 137,
+      "paragraph_id": 32,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nourbakhsh MR, Arab AM. Relationship between mechanical factors and incidence of low back pain. J Orthop Sports Phys Ther 2002;32:447-60.",
+      "text_id": 138,
+      "paragraph_id": 33,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vad VB, Gebeh A, Dines D, Altchek D, Norris B. Hip and shoulder internal rotation range of motion deficits in professional tennis players. J Sci Med Sport 2003;6:71-5.",
+      "text_id": 139,
+      "paragraph_id": 34,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tsai Y-S, Sell TC, Smoliga JM, Myers JB, Learman KE, Lephart SM. A comparison of physical characteristics and swing mechan- ics between golfers with and without a history of low back pain. J Orthop Sports Phys Ther 2010;40:430-8.",
+      "text_id": 140,
+      "paragraph_id": 35,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Quinn S-L, Olivier B, McKinon W. Lower quadrant swing biome- chanics identifies golfers with increased risk of low back pain: a prospective longitudinal cohort study. J Sport Rehabil 2022;31:1041-51.",
+      "text_id": 141,
+      "paragraph_id": 36,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lindsay D, Horton J. Comparison of spine motion in elite golfers with and without low back pain. J Sports Sci 2002;20:599-605.",
+      "text_id": 142,
+      "paragraph_id": 37,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Murray E, Birley E, Twycross-Lewis R, Morrissey D. The relation- ship between hip rotation range of movement and low back pain prevalence in amateur golfers: an observational study. Phys Ther Sport 2009;10:131-5.",
+      "text_id": 143,
+      "paragraph_id": 38,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bazett-Jones DM, Squier K. Measurement properties of hip strength measured by handheld dynamometry: Reliability and validity across the range of motion. Phys Ther Sport 2020;42:100-6.",
+      "text_id": 144,
+      "paragraph_id": 39,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gombatto SP, Brock T, DeLork A, Jones G, Madden E, Rinere C. Lumbar spine kinematics during walking in people with and people without low back pain. Gait Posture 2015;42:539-44.",
+      "text_id": 145,
+      "paragraph_id": 40,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Amabile AH, Bolte JH, Richter SD. Atrophy of gluteus maximus among women with a history of chronic low back pain. PLoS One 2017;12:e0177008.",
+      "text_id": 146,
+      "paragraph_id": 41,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Skorupska E, Keczmer P, Łochowski RM, Tomal P, Rychlik M, Samborski W. Reliability of MR-Based volumetric 3-D analysis of pelvic muscles among subjects with low back with leg pain and healthy volunteers. PLoS One 2016;11:e0159587.",
+      "text_id": 147,
+      "paragraph_id": 42,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Marta S, Silva L, Castro MA, Pezarat-Correia P, Cabri J. Elec- tromyography variables during the golf swing: a literature review. J Electromyogr Kinesiol 2012;22:803-13.",
+      "text_id": 148,
+      "paragraph_id": 43,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Suhara H, Nariai M, Takagi T, Akiyama K, Nagashima J, Shiraki H. Relationship of clubhead speed with explosive power and muscle strength of the hip and trunk joints of elite golfers. J Strength Cond Res 2023;37:859-65.",
+      "text_id": 149,
+      "paragraph_id": 44,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lee S, Schultz J, Timgren J, Staelgraeve K, Miller M, Liu Y. An electromyographic and kinetic comparison of conventional and Romanian deadlifts. J Exerc Sci Fit 2018;16:87-93.",
+      "text_id": 150,
+      "paragraph_id": 45,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cole MH, Grimshaw PN. Trunk muscle onset and cessa- tion in golfers with and without low back pain. J Biomech 2008;41:2829-33.",
+      "text_id": 151,
+      "paragraph_id": 46,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Roach SM, San Juan JG, Suprak DN, Lyda M, Bies AJ, Boydston CR. Passive hip range of motion is reduced in active subjects with chronic low back pain compared to controls. Int J Sports Phys Ther 2015;10:13-20.",
+      "text_id": 152,
+      "paragraph_id": 47,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kim S-B, You JSH, Kwon O-Y, Yi C-H. Lumbopelvic kinematic characteristics of golfers with limited hip rotation. Am J Sports Med 2015;43:113-20.",
+      "text_id": 153,
+      "paragraph_id": 48,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zheng N, Barrentine SW, Fleisig GS, Andrews JR. Kinematic analysis of swing in pro and amateur golfers. Int J Sports Med 2008;29:487-93.",
+      "text_id": 154,
+      "paragraph_id": 49,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Participants",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Hip joint function assessment",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.3. Golf swing analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.4. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "5. Conclusion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "Acknowledgments",
+      "parent_section_id": null,
+      "section_type": "acknowledgement",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "Disclosure of interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "Table 3",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "Table 4",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Risk Factors Associated With Low Back Pain in Golfers: A Systematic Review and Meta-analysis",
+      "authors": "Smith, J A; Hawkins, A; Grant-Beuttler, M; Beuttler, R; Lee, S-P",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "10",
+      "issue": "",
+      "first_page": "538",
+      "last_page": "546",
+      "container": "Sports Health",
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 130
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "A prospective study of injuries and illnesses among 910 amateur golfers during one season",
+      "authors": "Robinson, P G; Clarsen, B; Murray, A; Junge, A; Mountjoy, M L; Drobny, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "10",
+      "issue": "",
+      "first_page": "1844",
+      "last_page": null,
+      "container": "BMJ Open Sport Exerc Med",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 131
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The biomechanics of the modern Golf Swing: implications for lower back injuries",
+      "authors": "Cole, M H; Grimshaw, P N",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "46",
+      "issue": "",
+      "first_page": "339",
+      "last_page": "351",
+      "container": "Sports Med",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 132
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Trunk rotation strength and endurance in healthy normals and elite male golfers with and without low back pain",
+      "authors": "Lindsay, D M; Horton, J F",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "1",
+      "issue": "",
+      "first_page": "80",
+      "last_page": "89",
+      "container": "N Am J Sports Phys Ther",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 133
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The relationship between hip rotation range of movement and low back pain prevalence in amateur golfers: an observational study",
+      "authors": "Murray, E; Birley, E; Twycross-Lewis, R; Morrissey, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "10",
+      "issue": "",
+      "first_page": "131",
+      "last_page": "135",
+      "container": "Phys Ther Sport",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 134
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Low back pain in professional golfers: the role of associated hip and low back range-of-motion deficits",
+      "authors": "Vad, V B; Bhat, A L; Basrai, D; Gebeh, A; Aspergren, D D; Andrews, J R",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "32",
+      "issue": "",
+      "first_page": "494",
+      "last_page": "497",
+      "container": "Am J Sports Med",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 135
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Range of active hip motion in low back pain patients and apparently healthy controls",
+      "authors": "Adegoke, B; Fapojuwo, O",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "8",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "8",
+      "container": "Int J Allied Health Scie Pract",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 136
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Effect of knee and hip position on hip extension range of motion in individuals with and without low back pain",
+      "authors": "Van Dillen, L R; Mcdonnell, M K; Fleming, D A; Sahrmann, S A",
+      "editors": "",
+      "publisher": "",
+      "year": 2000,
+      "volume": "30",
+      "issue": "",
+      "first_page": "307",
+      "last_page": "316",
+      "container": "J Orthop Sports Phys Ther",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 137
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Relationship between mechanical factors and incidence of low back pain",
+      "authors": "Nourbakhsh, M R; Arab, A M",
+      "editors": "",
+      "publisher": "",
+      "year": 2002,
+      "volume": "32",
+      "issue": "",
+      "first_page": "447",
+      "last_page": "460",
+      "container": "J Orthop Sports Phys Ther",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 138
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Hip and shoulder internal rotation range of motion deficits in professional tennis players",
+      "authors": "Vad, V B; Gebeh, A; Dines, D; Altchek, D; Norris, B",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "6",
+      "issue": "",
+      "first_page": "71",
+      "last_page": "75",
+      "container": "J Sci Med Sport",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 139
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "A comparison of physical characteristics and swing mechanics between golfers with and without a history of low back pain",
+      "authors": "Tsai, Y-S; Sell, T C; Smoliga, J M; Myers, J B; Learman, K E; Lephart, S M",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "40",
+      "issue": "",
+      "first_page": "430",
+      "last_page": "438",
+      "container": "J Orthop Sports Phys Ther",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 140
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Lower quadrant swing biomechanics identifies golfers with increased risk of low back pain: a prospective longitudinal cohort study",
+      "authors": "Quinn, S-L; Olivier, B; Mckinon, W",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "31",
+      "issue": "",
+      "first_page": "1041",
+      "last_page": "1051",
+      "container": "J Sport Rehabil",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 141
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Comparison of spine motion in elite golfers with and without low back pain",
+      "authors": "Lindsay, D; Horton, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2002,
+      "volume": "20",
+      "issue": "",
+      "first_page": "599",
+      "last_page": "605",
+      "container": "J Sports Sci",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 142
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The relationship between hip rotation range of movement and low back pain prevalence in amateur golfers: an observational study",
+      "authors": "Murray, E; Birley, E; Twycross-Lewis, R; Morrissey, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "10",
+      "issue": "",
+      "first_page": "131",
+      "last_page": "135",
+      "container": "Phys Ther Sport",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 143
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Measurement properties of hip strength measured by handheld dynamometry: Reliability and validity across the range of motion",
+      "authors": "Bazett-Jones, D M; Squier, K",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "42",
+      "issue": "",
+      "first_page": "100",
+      "last_page": "106",
+      "container": "Phys Ther Sport",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 144
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Lumbar spine kinematics during walking in people with and people without low back pain",
+      "authors": "Gombatto, S P; Brock, T; Delork, A; Jones, G; Madden, E; Rinere, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "42",
+      "issue": "",
+      "first_page": "539",
+      "last_page": "544",
+      "container": "Gait Posture",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 145
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Atrophy of gluteus maximus among women with a history of chronic low back pain",
+      "authors": "Amabile, A H; Bolte, J H; Richter, S D",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "12",
+      "issue": "",
+      "first_page": "177008",
+      "last_page": null,
+      "container": "PLoS One",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 146
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Reliability of MR-Based volumetric 3-D analysis of pelvic muscles among subjects with low back with leg pain and healthy volunteers",
+      "authors": "Skorupska, E; Keczmer, P; Łochowski, R M; Tomal, P; Rychlik, M; Samborski, W",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "11",
+      "issue": "",
+      "first_page": "159587",
+      "last_page": null,
+      "container": "PLoS One",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 147
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Electromyography variables during the golf swing: a literature review",
+      "authors": "Marta, S; Silva, L; Castro, M A; Pezarat-Correia, P; Cabri, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "22",
+      "issue": "",
+      "first_page": "803",
+      "last_page": "813",
+      "container": "J Electromyogr Kinesiol",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 148
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Relationship of clubhead speed with explosive power and muscle strength of the hip and trunk joints of elite golfers",
+      "authors": "Suhara, H; Nariai, M; Takagi, T; Akiyama, K; Nagashima, J; Shiraki, H",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "37",
+      "issue": "",
+      "first_page": "859",
+      "last_page": "865",
+      "container": "J Strength Cond Res",
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 149
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "An electromyographic and kinetic comparison of conventional and Romanian deadlifts",
+      "authors": "Lee, S; Schultz, J; Timgren, J; Staelgraeve, K; Miller, M; Liu, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "16",
+      "issue": "",
+      "first_page": "87",
+      "last_page": "93",
+      "container": "J Exerc Sci Fit",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 150
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Trunk muscle onset and cessation in golfers with and without low back pain",
+      "authors": "Cole, M H; Grimshaw, P N",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "41",
+      "issue": "",
+      "first_page": "2829",
+      "last_page": "2833",
+      "container": "J Biomech",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 151
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Passive hip range of motion is reduced in active subjects with chronic low back pain compared to controls",
+      "authors": "Roach, S M; Juan, San; Suprak, J G; Lyda, D N; Bies, M; Boydston, A J; , C R",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "10",
+      "issue": "",
+      "first_page": "13",
+      "last_page": "20",
+      "container": "Int J Sports Phys Ther",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 152
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Lumbopelvic kinematic characteristics of golfers with limited hip rotation",
+      "authors": "Kim, S-B; You, Jsh; Kwon, O-Y; Yi, C-H",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "43",
+      "issue": "",
+      "first_page": "113",
+      "last_page": "120",
+      "container": "Am J Sports Med",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 153
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Kinematic analysis of swing in pro and amateur golfers",
+      "authors": "Zheng, N; Barrentine, S W; Fleisig, G S; Andrews, J R",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "29",
+      "issue": "",
+      "first_page": "487",
+      "last_page": "493",
+      "container": "Int J Sports Med",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 154
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "[1]",
+      "text_id": 1
+    },
+    {
+      "xref_id": null,
+      "xref_type": "bibr",
+      "contents": "Robinson et al.",
+      "text_id": 1
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 1
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 2
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "[1]",
+      "text_id": 4
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 5
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 5
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "[6]",
+      "text_id": 5
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 6
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "[8]",
+      "text_id": 6
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "[9]",
+      "text_id": 6
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "[10]",
+      "text_id": 6
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 7
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11,",
+      "text_id": 14
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13]",
+      "text_id": 14
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "[14]",
+      "text_id": 28
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "(1,",
+      "text_id": 34
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3)",
+      "text_id": 34
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 39
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 43
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 64
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 67
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 70
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "table",
+      "contents": "4",
+      "text_id": 70
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "[9]",
+      "text_id": 77
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17,",
+      "text_id": 77
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18]",
+      "text_id": 77
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "[19]",
+      "text_id": 78
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[20]",
+      "text_id": 80
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 84
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "[9]",
+      "text_id": 85
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 86
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "[21]",
+      "text_id": 89
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "[22]",
+      "text_id": 91
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7,",
+      "text_id": 95
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8,",
+      "text_id": 95
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5,",
+      "text_id": 98
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6]",
+      "text_id": 98
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "[24]",
+      "text_id": 99
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "[25]",
+      "text_id": 104
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 12,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 13,
+      "html": "<table>\n  <row>\n    <cell>LBP group (n = 9)<\/cell>\n    <cell>Non-LBP group (n = 13)<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["LBP group (n = 9)", "Non-LBP group (n = 13)"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 14,
+      "html": "<table>\n  <row>\n    <cell>Parameter<\/cell>\n    <cell/>\n    <cell>LBP group (n = 9)<\/cell>\n    <cell>Non-LBP group (n = 13)<\/cell>\n    <cell>95% CI<\/cell>\n    <cell/>\n    <cell>Effect size<\/cell>\n  <\/row>\n  <row>\n    <cell>Hip IR ROM ( • )<\/cell>\n    <cell>Lead<\/cell>\n    <cell>30.1 ± 10.0<\/cell>\n    <cell>27.2 ± 8.7<\/cell>\n    <cell>-11.27<\/cell>\n    <cell>5.44<\/cell>\n    <cell>0.32<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Trail<\/cell>\n    <cell>28.7 ± 7.2<\/cell>\n    <cell>25.1 ± 7.7<\/cell>\n    <cell>-10.39<\/cell>\n    <cell>3.17<\/cell>\n    <cell>0.48<\/cell>\n  <\/row>\n  <row>\n    <cell>Hip ER ROM ( • )<\/cell>\n    <cell>Lead<\/cell>\n    <cell>29.4 ± 5.9<\/cell>\n    <cell>26.8 ± 5.8<\/cell>\n    <cell>-7.90<\/cell>\n    <cell>2.62<\/cell>\n    <cell>0.45<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Trail<\/cell>\n    <cell>31.3 ± 4.7<\/cell>\n    <cell>26.6 ± 6.1<\/cell>\n    <cell>-9.73<\/cell>\n    <cell>0.45<\/cell>\n    <cell>0.83<\/cell>\n  <\/row>\n  <row>\n    <cell>SLR test ROM ( • )<\/cell>\n    <cell>Lead<\/cell>\n    <cell>58.0 (56.0-62.0)<\/cell>\n    <cell>70.0 (64.7-72.7)<\/cell>\n    <cell>-<\/cell>\n    <cell>-<\/cell>\n    <cell>0.36<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Trail<\/cell>\n    <cell>58.0 (58.0-62.0)<\/cell>\n    <cell>68.0 (66.0-72.0)<\/cell>\n    <cell>-<\/cell>\n    <cell>-<\/cell>\n    <cell>0.35<\/cell>\n  <\/row>\n  <row>\n    <cell>Thomas test ROM ( • )<\/cell>\n    <cell>Lead<\/cell>\n    <cell>6.9 ±2.6<\/cell>\n    <cell>5.6 ± 2.5<\/cell>\n    <cell>-3.54<\/cell>\n    <cell>1.04<\/cell>\n    <cell>0.49<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Trail<\/cell>\n    <cell>7.3 ±4.0<\/cell>\n    <cell>5.4 ± 2.9<\/cell>\n    <cell>-4.91<\/cell>\n    <cell>1.16<\/cell>\n    <cell>0.56<\/cell>\n  <\/row>\n  <row>\n    <cell>Hip IR muscle strength (N/kg)<\/cell>\n    <cell>Lead<\/cell>\n    <cell>1.76 ± 0.40<\/cell>\n    <cell>1.95 ± 0.47<\/cell>\n    <cell>-0.14<\/cell>\n    <cell>0.68<\/cell>\n    <cell>0.44<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Trail<\/cell>\n    <cell>2.03 ± 0.42<\/cell>\n    <cell>2.30 ± 0.48<\/cell>\n    <cell>-0.21<\/cell>\n    <cell>0.59<\/cell>\n    <cell>0.28<\/cell>\n  <\/row>\n  <row>\n    <cell>Hip ER muscle strength (N/kg)<\/cell>\n    <cell>Lead a<\/cell>\n    <cell>1.66 ± 0.25<\/cell>\n    <cell>2.13 ± 0.12<\/cell>\n    <cell>0.17<\/cell>\n    <cell>0.64<\/cell>\n    <cell>0.52<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Trail a<\/cell>\n    <cell>1.75 ± 0.29<\/cell>\n    <cell>2.15 ± 0.25<\/cell>\n    <cell>0.19<\/cell>\n    <cell>0.75<\/cell>\n    <cell>0.55<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Parameter", "", "LBP group (n = 9)", "Non-LBP group (n = 13)", "95% CI", "", "Effect size"],
+        ["Hip IR ROM ( • )", "Lead", "30.1 ± 10.0", "27.2 ± 8.7", "-11.27", "5.44", "0.32"],
+        ["", "Trail", "28.7 ± 7.2", "25.1 ± 7.7", "-10.39", "3.17", "0.48"],
+        ["Hip ER ROM ( • )", "Lead", "29.4 ± 5.9", "26.8 ± 5.8", "-7.90", "2.62", "0.45"],
+        ["", "Trail", "31.3 ± 4.7", "26.6 ± 6.1", "-9.73", "0.45", "0.83"],
+        ["SLR test ROM ( • )", "Lead", "58.0 (56.0-62.0)", "70.0 (64.7-72.7)", "-", "-", "0.36"],
+        ["", "Trail", "58.0 (58.0-62.0)", "68.0 (66.0-72.0)", "-", "-", "0.35"],
+        ["Thomas test ROM ( • )", "Lead", "6.9 ±2.6", "5.6 ± 2.5", "-3.54", "1.04", "0.49"],
+        ["", "Trail", "7.3 ±4.0", "5.4 ± 2.9", "-4.91", "1.16", "0.56"],
+        ["Hip IR muscle strength (N/kg)", "Lead", "1.76 ± 0.40", "1.95 ± 0.47", "-0.14", "0.68", "0.44"],
+        ["", "Trail", "2.03 ± 0.42", "2.30 ± 0.48", "-0.21", "0.59", "0.28"],
+        ["Hip ER muscle strength (N/kg)", "Lead a", "1.66 ± 0.25", "2.13 ± 0.12", "0.17", "0.64", "0.52"],
+        ["", "Trail a", "1.75 ± 0.29", "2.15 ± 0.25", "0.19", "0.75", "0.55"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 3,
+      "section_id": 15,
+      "html": "<table>\n  <row>\n    <cell>Parameter<\/cell>\n    <cell/>\n    <cell cols=\"3\">LBP group (n = 9) Non-LBP group (n = 13) 95% CI<\/cell>\n    <cell/>\n    <cell>Effect size<\/cell>\n  <\/row>\n  <row>\n    <cell>Hip flexion/extension angle ( • )<\/cell>\n    <cell cols=\"2\">Lead a 44.3 ± 7.7<\/cell>\n    <cell>35.7 ± 8.7<\/cell>\n    <cell cols=\"3\">-16.08 -1.00 1.02<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"2\">Trail a 45.7 ± 6.2<\/cell>\n    <cell>35.1 ± 9.5<\/cell>\n    <cell cols=\"3\">-18.18 -3.10 1.28<\/cell>\n  <\/row>\n  <row>\n    <cell>Hip abduction/adduction angle ( • )<\/cell>\n    <cell>Lead<\/cell>\n    <cell>17.1 ± 2.9<\/cell>\n    <cell>14.0 ± 5.2<\/cell>\n    <cell>-0.87<\/cell>\n    <cell>7.10<\/cell>\n    <cell>0.71<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Trail<\/cell>\n    <cell>12.4 ± 4.2<\/cell>\n    <cell>13.1 ± 5.4<\/cell>\n    <cell>-5.20<\/cell>\n    <cell>3.80<\/cell>\n    <cell>0.14<\/cell>\n  <\/row>\n  <row>\n    <cell>Hip internal/external rotation angle ( • )<\/cell>\n    <cell>Lead<\/cell>\n    <cell>26.6 (7.8-29.5)<\/cell>\n    <cell>13.1 (7.2-18.1)<\/cell>\n    <cell>-<\/cell>\n    <cell>-<\/cell>\n    <cell>0.18<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Trail<\/cell>\n    <cell>15.7 ± 16.3<\/cell>\n    <cell>12.1 ± 15.9<\/cell>\n    <cell cols=\"3\">-18.07 10.99 0.22<\/cell>\n  <\/row>\n  <row>\n    <cell>Lumbar flexion/extension angle ( • )<\/cell>\n    <cell cols=\"2\">Upper 6.9 (3.1-9.1)<\/cell>\n    <cell>8.5 (2.4-7.4)<\/cell>\n    <cell>-<\/cell>\n    <cell>-<\/cell>\n    <cell>0.21<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"2\">Lower -5.8 ± 7.0<\/cell>\n    <cell>-2.4 ± -2.2<\/cell>\n    <cell>-4.28<\/cell>\n    <cell>7.89<\/cell>\n    <cell>0.27<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"3\">Lumbar left/right lateral flexion angle ( • ) Upper 0.9 ± 1.9<\/cell>\n    <cell>0.1 ± 5.1<\/cell>\n    <cell>-4.04<\/cell>\n    <cell>2.51<\/cell>\n    <cell>0.18<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Lower<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Parameter", "", "LBP group (n = 9) Non-LBP group (n = 13) 95% CI", "LBP group (n = 9) Non-LBP group (n = 13) 95% CI", "LBP group (n = 9) Non-LBP group (n = 13) 95% CI", "", "Effect size"],
+        ["Hip flexion/extension angle ( • )", "Lead a 44.3 ± 7.7", "Lead a 44.3 ± 7.7", "35.7 ± 8.7", "-16.08 -1.00 1.02", "-16.08 -1.00 1.02", "-16.08 -1.00 1.02"],
+        ["", "Trail a 45.7 ± 6.2", "Trail a 45.7 ± 6.2", "35.1 ± 9.5", "-18.18 -3.10 1.28", "-18.18 -3.10 1.28", "-18.18 -3.10 1.28"],
+        ["Hip abduction/adduction angle ( • )", "Lead", "17.1 ± 2.9", "14.0 ± 5.2", "-0.87", "7.10", "0.71"],
+        ["", "Trail", "12.4 ± 4.2", "13.1 ± 5.4", "-5.20", "3.80", "0.14"],
+        ["Hip internal/external rotation angle ( • )", "Lead", "26.6 (7.8-29.5)", "13.1 (7.2-18.1)", "-", "-", "0.18"],
+        ["", "Trail", "15.7 ± 16.3", "12.1 ± 15.9", "-18.07 10.99 0.22", "-18.07 10.99 0.22", "-18.07 10.99 0.22"],
+        ["Lumbar flexion/extension angle ( • )", "Upper 6.9 (3.1-9.1)", "Upper 6.9 (3.1-9.1)", "8.5 (2.4-7.4)", "-", "-", "0.21"],
+        ["", "Lower -5.8 ± 7.0", "Lower -5.8 ± 7.0", "-2.4 ± -2.2", "-4.28", "7.89", "0.27"],
+        ["Lumbar left/right lateral flexion angle ( • ) Upper 0.9 ± 1.9", "Lumbar left/right lateral flexion angle ( • ) Upper 0.9 ± 1.9", "Lumbar left/right lateral flexion angle ( • ) Upper 0.9 ± 1.9", "0.1 ± 5.1", "-4.04", "2.51", "0.18"],
+        ["", "Lower", "", "", "", "", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 4,
+      "section_id": 16,
+      "html": "<table>\n  <row>\n    <cell>Parameter<\/cell>\n    <cell/>\n    <cell>LBP group (n = 9)<\/cell>\n    <cell>Non-LBP group (n = 13)<\/cell>\n    <cell>95% CI<\/cell>\n    <cell/>\n    <cell>Effect size<\/cell>\n  <\/row>\n  <row>\n    <cell>Hip internal rotation ( • )<\/cell>\n    <cell>Lead<\/cell>\n    <cell>17.0 ± 2.4<\/cell>\n    <cell>14.5 ± 7.7<\/cell>\n    <cell>-2.40<\/cell>\n    <cell>7.38<\/cell>\n    <cell>0.40<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Trail<\/cell>\n    <cell>12.1 ± 3.3<\/cell>\n    <cell>12.1 ± 6.5<\/cell>\n    <cell>-4.99<\/cell>\n    <cell>4.87<\/cell>\n    <cell>0.11<\/cell>\n  <\/row>\n  <row>\n    <cell>Upper lumbar lateral flexion ( • )<\/cell>\n    <cell>Left<\/cell>\n    <cell>5.0 ± 1.9<\/cell>\n    <cell>7.3 ± 3.6<\/cell>\n    <cell>-0.40<\/cell>\n    <cell>5.06<\/cell>\n    <cell>0.81<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Right<\/cell>\n    <cell>10.1 ± 3.4<\/cell>\n    <cell>7.5 ± 3.2<\/cell>\n    <cell>-0.28<\/cell>\n    <cell>5.66<\/cell>\n    <cell>0.77<\/cell>\n  <\/row>\n  <row>\n    <cell>Lower lumbar lateral flexion ( • )<\/cell>\n    <cell>Left<\/cell>\n    <cell>5.5 ± 2.7<\/cell>\n    <cell>5.4 ± 4.2<\/cell>\n    <cell>-3.34<\/cell>\n    <cell>3.28<\/cell>\n    <cell>0.11<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Right<\/cell>\n    <cell>5.7 ± 3.5<\/cell>\n    <cell>6.5 ± 4.2<\/cell>\n    <cell>-3.97<\/cell>\n    <cell>3.13<\/cell>\n    <cell>0.01<\/cell>\n  <\/row>\n  <row>\n    <cell>Upper lumbar rotation ( • )<\/cell>\n    <cell>Left a<\/cell>\n    <cell>7.8 ± 2.1<\/cell>\n    <cell>5.9 ± 2.1<\/cell>\n    <cell>0.06<\/cell>\n    <cell>3.85<\/cell>\n    <cell>0.93<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Right a<\/cell>\n    <cell>10.8 ± 2.1<\/cell>\n    <cell>8.6 ± 2.7<\/cell>\n    <cell>-4.49<\/cell>\n    <cell>-0.01<\/cell>\n    <cell>0.91<\/cell>\n  <\/row>\n  <row>\n    <cell>Lower lumbar rotation ( • )<\/cell>\n    <cell>Left<\/cell>\n    <cell>7.7 ± 2.6<\/cell>\n    <cell>7.1 ± 2.9<\/cell>\n    <cell>-1.86<\/cell>\n    <cell>3.19<\/cell>\n    <cell>0.24<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Right<\/cell>\n    <cell>6.9 (6.7-9.3)<\/cell>\n    <cell>5.6 (3.6-7.4)<\/cell>\n    <cell>-<\/cell>\n    <cell>-<\/cell>\n    <cell>0.70<\/cell>\n  <\/row>\n  <row>\n    <cell>Upper lumbar extension ( • )<\/cell>\n    <cell/>\n    <cell>2.0 ± 4.6<\/cell>\n    <cell>1.5 ± 4.4<\/cell>\n    <cell>-4.63<\/cell>\n    <cell>3.52<\/cell>\n    <cell>0.12<\/cell>\n  <\/row>\n  <row>\n    <cell>Lower lumbar extension ( • )<\/cell>\n    <cell/>\n    <cell>8.9 ± 4.3<\/cell>\n    <cell>6.3 ± 5.5<\/cell>\n    <cell>-7.15<\/cell>\n    <cell>2.04<\/cell>\n    <cell>0.50<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"5\">LBP: low back pain; CI: confidence interval; mean ± standard deviation; median (25-75 percentile).<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Parameter", "", "LBP group (n = 9)", "Non-LBP group (n = 13)", "95% CI", "", "Effect size"],
+        ["Hip internal rotation ( • )", "Lead", "17.0 ± 2.4", "14.5 ± 7.7", "-2.40", "7.38", "0.40"],
+        ["", "Trail", "12.1 ± 3.3", "12.1 ± 6.5", "-4.99", "4.87", "0.11"],
+        ["Upper lumbar lateral flexion ( • )", "Left", "5.0 ± 1.9", "7.3 ± 3.6", "-0.40", "5.06", "0.81"],
+        ["", "Right", "10.1 ± 3.4", "7.5 ± 3.2", "-0.28", "5.66", "0.77"],
+        ["Lower lumbar lateral flexion ( • )", "Left", "5.5 ± 2.7", "5.4 ± 4.2", "-3.34", "3.28", "0.11"],
+        ["", "Right", "5.7 ± 3.5", "6.5 ± 4.2", "-3.97", "3.13", "0.01"],
+        ["Upper lumbar rotation ( • )", "Left a", "7.8 ± 2.1", "5.9 ± 2.1", "0.06", "3.85", "0.93"],
+        ["", "Right a", "10.8 ± 2.1", "8.6 ± 2.7", "-4.49", "-0.01", "0.91"],
+        ["Lower lumbar rotation ( • )", "Left", "7.7 ± 2.6", "7.1 ± 2.9", "-1.86", "3.19", "0.24"],
+        ["", "Right", "6.9 (6.7-9.3)", "5.6 (3.6-7.4)", "-", "-", "0.70"],
+        ["Upper lumbar extension ( • )", "", "2.0 ± 4.6", "1.5 ± 4.4", "-4.63", "3.52", "0.12"],
+        ["Lower lumbar extension ( • )", "", "8.9 ± 4.3", "6.3 ± 5.5", "-7.15", "2.04", "0.50"],
+        ["LBP: low back pain; CI: confidence interval; mean ± standard deviation; median (25-75 percentile).", "LBP: low back pain; CI: confidence interval; mean ± standard deviation; median (25-75 percentile).", "LBP: low back pain; CI: confidence interval; mean ± standard deviation; median (25-75 percentile).", "LBP: low back pain; CI: confidence interval; mean ± standard deviation; median (25-75 percentile).", "LBP: low back pain; CI: confidence interval; mean ± standard deviation; median (25-75 percentile).", "", ""]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 63,
+      "grp_id": 1,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 66,
+      "grp_id": 2,
+      "lhs": "P",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 3,
+      "lhs": "P",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 69,
+      "grp_id": 4,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 71,
+      "grp_id": 5,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 124,
+      "grp_id": 6,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 124,
+      "grp_id": 6,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 125,
+      "grp_id": 7,
+      "lhs": "P",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    }
+  ]
+}

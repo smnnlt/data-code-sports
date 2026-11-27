@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Higher physical activity is associated with lower activity limitation: Cross-sectional analyses among the Spanish working population Une activité physique plus intense est associée à une limitation d&apos;activité plus faible : analyses transversales parmi la population active espagnole</title>
+				<funder>
+					<orgName type="full">Spanish Ministry of Health, Social Services and Equality</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct status="extracted">
+					<analytic>
+						<author>
+							<persName><forename type="first">R</forename><surname>López-Bueno</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Physical Medicine and Nursing</orgName>
+								<orgName type="institution">University of Zaragoza</orgName>
+								<address>
+									<settlement>Zaragoza</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="institution">National Research Centre for the Working Environment</orgName>
+								<address>
+									<settlement>Copenhagen</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>López-Sánchez</surname></persName>
+							<affiliation key="aff2">
+								<orgName type="department" key="dep1">Division of Preventive Medicine and Public Health</orgName>
+								<orgName type="department" key="dep2">Department of Public Health Sciences</orgName>
+								<orgName type="department" key="dep3">School of Medicine</orgName>
+								<orgName type="institution">University of Murcia</orgName>
+								<address>
+									<settlement>Murcia</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">L</forename><surname>Smith</surname></persName>
+							<email>lee.smith@aru.ac.uk</email>
+							<affiliation key="aff3">
+								<orgName type="institution">Centre for Health</orgName>
+								<address>
+									<addrLine>Performance, and Wellbeing</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">E</forename><surname>Sundstrup</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Research Centre for the Working Environment</orgName>
+								<address>
+									<settlement>Copenhagen</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Andersen</surname></persName>
+							<affiliation key="aff1">
+								<orgName type="institution">National Research Centre for the Working Environment</orgName>
+								<address>
+									<settlement>Copenhagen</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Department of Health Science and Technology</orgName>
+								<orgName type="institution">Aalborg University</orgName>
+								<address>
+									<settlement>Aalborg</settlement>
+									<country key="DK">Denmark</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Casajús</surname></persName>
+							<affiliation key="aff6">
+								<orgName type="department">Faculty of Health Sciences</orgName>
+								<orgName type="institution">University of Zaragoza</orgName>
+								<address>
+									<settlement>Zaragoza</settlement>
+									<country key="ES">Spain</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="institution">Anglia Ruskin University</orgName>
+								<address>
+									<settlement>Cambridge</settlement>
+									<country key="GB">UK</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Higher physical activity is associated with lower activity limitation: Cross-sectional analyses among the Spanish working population Une activité physique plus intense est associée à une limitation d&apos;activité plus faible : analyses transversales parmi la population active espagnole</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BE856182D9CB129B3A54BC48D62FB562</idno>
+					<idno type="DOI">10.1016/j.scispo.2021.12.010</idno>
+					<note type="submission">Rec ¸u le 9 juin 2020 ; accepté le 1 er décembre 2021</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.9.0" ident="GROBID" when="2026-11-27T14:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0.9.0</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>were divided into two categories: 1) Less than 600 MET-minutes/week. 2). At least 600 MET-minutes/week. We conducted a multivariable logistic regression to assess associations. Covariates were age, sex, education, occupation, smoking habits, BMI, diabetes, hypertension, neck pain, low back pain, chronic depression, and anxiety.</p><p>Results. -The overall prevalence of AL was 10.7%, whereas the overall prevalence of workers performing less than 600 MET-minutes/week of PA was 29.6%. In final adjusted models, those workers performing less than 600 MET-minutes/week of PA subgroup were associated with significantly higher odds for AL (OR 1.33,. This association was strongest in workers aged 37-43 (OR 1.75, 95%CI 1.27-2.41), and 53-69 years (OR 1.67, 95%CI 1.22-2.28).</p><p>Conclusions. -The results suggest that reaching ≥600 MET-minutes/week of PA is associated with lower odds of AL among a general working population, especially among specific age ranges.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The boundaries between impairment, disability, and functional and activity limitation (AL) are not clear. From a holistic view, the frontiers between health and illness are fragile and represent a continuum and reversible process across life. According to the International Classification of Functioning, Disability, and Health (ICF), ''an activity limitation is a difficulty encountered by an individual in executing a task or action'' <ref type="bibr" target="#b0">[1]</ref>. That could range from slight to a severe deviation regarding quantity or quality in the manner or the extent that is expected of people without the health condition <ref type="bibr" target="#b0">[1]</ref>. The notion of AL is usually considered under the umbrella of disability, involving daily activity restrictions (e.g. showering or dressing), and, in some cases, assistance for health care <ref type="bibr" target="#b1">[2]</ref>. The severity of that disability depends on a wide variety of factors <ref type="bibr" target="#b2">[3]</ref> (i.e. type of disease/disorder, symptoms, and health service support), and comprises a wide range of status from total dependence up to timely assistance <ref type="bibr" target="#b3">[4]</ref>. Further, that disability status preventing from performing daily and usual activities could even lead to a general practitioner to certificate a sickness absence or, in the worst-case scenario, a disability pension <ref type="bibr" target="#b2">[3]</ref>.</p><p>Normally, research about AL has focused more on the types of usual task restrictions, using a long-term reference for those (i.e. 6 months) <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref>. However, we have no knowledge about shorter-term values of AL (≤ 14 days), which are also important to estimate since these might precede more frequent or more extended periods of AL. It is a well-known fact that either illnesses or critical injuries lead to a reduction or limitation of the usual activity (i.e. working, housework, leisure-time activities, and studying) <ref type="bibr" target="#b8">[9,</ref><ref type="bibr" target="#b9">10]</ref>. Thus, work ability and sickness absence might result in a temporary loss of physical or mental capabilities. Because either moderate or severe AL also contribute extensively to higher health care expenditures in the absence of chronic conditions <ref type="bibr" target="#b10">[11]</ref>, those assuming high burden (i.e. governments and companies) want to reduce it. However, not only it is a question of financial costs but also a health and well-being issue as global AL (i.e. health disorders and conditions impacting people's usual activities) has also been associated with mortality <ref type="bibr" target="#b4">[5]</ref>.</p><p>While AL has been previously studied with older populations or particular conditions during long periods <ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref>, little is known about the AL prevalence among other specific populations such as workers. An onset of AL might involve restrictions related to work, although it does not necessarily lead to sickness absence, because it could solely occur during leisure or non-working days (e.g. affecting housework, education, and leisure-time activities). Further, suffering from an illness or condition does not strictly mean to remain in bed, since prior research has reported a third of workers had gone to work two or more times a year when feeling sick instead of taking sick leave <ref type="bibr" target="#b16">[17]</ref>. Thus, to investigate both prevalence and potential ways of preventing AL among a general working population covers a research gap between sickness absence and sickness presenteeism, two of the highest-ranked costs for both governments and companies <ref type="bibr" target="#b17">[18]</ref>.</p><p>On the other hand, living a healthy lifestyle could contribute to reducing AL since physical activity (PA), normal BMI, and smoking deprivation have shown to associate with better-perceived health <ref type="bibr" target="#b18">[19]</ref>. Particularly, PA has been found to significantly reduce all-cause mortality <ref type="bibr" target="#b19">[20]</ref>, long-term sickness absence <ref type="bibr" target="#b20">[21]</ref>, and presenteeism <ref type="bibr" target="#b21">[22]</ref> risks; therefore, we hypothesised that higher PA might associate with a lower prevalence of AL. Also, vigorous PA has been estimated to achieve higher all-cause mortality risk reductions <ref type="bibr" target="#b22">[23]</ref>, thus, the intensity of PA might play a critical role in this association. Regarding other possible variables influencing AL, we assumed that those behind the highest risk for sickness absence <ref type="bibr" target="#b23">[24]</ref>, such as cardiovascular diseases (i.e. hypertension), and musculoskeletal (i.e. back pain) or mental disorders (i.e. chronic depression and anxiety) <ref type="bibr" target="#b23">[24]</ref> might also influence AL.</p><p>The primary aim of this research was to examine the association of different levels of PA with AL (≤ 14 days) among the general Spanish working population.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head><p>This study consists of a survey assessing general health among a Spanish population of citizens, in which the 2017 round was analyzed to investigate potential associations between PA and short AL. In order to ensure comprehensive reporting of the data for the present cross-sectional study, the STROBE guidelines were followed <ref type="bibr" target="#b24">[25]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">The survey</head><p>Data from the Spanish National Health Survey 2017 was employed for this analysis. Data were collected through a survey carried out in Spain from October 2016 to October 2017 <ref type="bibr" target="#b25">[26]</ref>. A stratified three-stage sampling considering census sections, family dwellings, and adults (15 years or more) was respectively implemented. The dwellings were chosen using systematic sampling, whereas the random Kish method was used to select the participants who were going to complete the Adult Questionnaire. A computer-assisted personal interview (CAPI) was conducted in the homes of the selected participants, who were assisted by trained interviewers. A total of 30.1% (n = 11,287) of the chosen dwellings did not reply to the survey due to different reasons (i.e. empty dwelling, absence, refusal, or inability to answer). As a result, a representative sample of the adult population resident in Spain was collected and consisted of 23,089 adults aged 15-103 years. All the participants signed an informed consent form before responding to the survey.</p><p>Because the age group of adults ≥ 70 years did not fulfill the IPAQ (International Physical Activity Questionnaire) short form (i.e. the tool used for assessing PA) embedded in the Adult Questionnaire, we excluded them for the present analyses (n = 5,310). Of the remaining population, those participants not working at data collection were also excluded (n = 7,894). Thus, a total of 9,885 workers, comprising a wide range of job roles (i.e. from white and blue-collar workers to self-employees) were included in the present study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Activity limitation (Outcome)</head><p>Measures on AL were obtained through the following question ''Have you had to reduce or limit your usual activity during the last two weeks, for at least half a day, due to either one or several pains or symptoms?''. Those participants responding ''yes'' to this question were considered to have had an AL onset during that term. According to the survey methodology, that usual activity comprised working activities, housework, attendance to learning centres or leisure-time events usually shared with family and friends.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Physical activity (Exposure)</head><p>The short version of the IPAQ served to assess PA <ref type="bibr" target="#b26">[27]</ref>. The IPAQ has proved to have good validity ( = 0.30, 95%CI 0.23-0.36) and reliability (Spearman's = 0.81, 95%CI 0.79-0.82) when used in different adult populations worldwide <ref type="bibr" target="#b26">[27]</ref>. Total PA MET (Metabolic Equivalent of Task, i.e. a caloric expenditure unit) minutes/week were calculated adding the METS from three types of PA with the formula: sum of Vigorous + Moderate + Walking MET-minutes/week scores <ref type="bibr" target="#b27">[28]</ref>. To further check the PA association with AL, we also categorised PA into quartiles regarding METS.</p><p>In consonance with the data processing and analysis protocol of the IPAQ, the respondents were divided into two categories: ''1) fewer than 600 MET-minutes/week'' and ''2) at least 600 MET-minutes/week'' <ref type="bibr" target="#b27">[28]</ref>, which is equivalent to achieve the current WHO guidelines.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Covariates</head><p>According to research in the field of occupational health, the selected covariates included sociodemographic (age, sex, education, and job role), lifestyle (body mass index and smoking), and health variables (diabetes, hypertension, neck pain, low back pain, chronic depression, and anxiety) <ref type="bibr" target="#b28">[29,</ref><ref type="bibr" target="#b29">30]</ref>.</p><p>Measurements on BMI (Body Mass Index, i.e. weight in kilograms divided by height in squared meters), in which obesity was set at BMI ≥ 30 kg/m 2 , derived from the self-reported height and weight. The smoking status was categorised as a current smoker, former smoker, and never. Education was divided into three categories regarding the highest achieved level, corresponding the highest rank to university studies (≤ primary, secondary, and ≥ tertiary). The categorisation of job role (168 different groups) was made in accordance with the Spanish national list of occupations <ref type="bibr" target="#b30">[31]</ref>.</p><p>Regarding the health-related covariates, those who answered ''yes'' to the question ''Have you suffered from neck pain within the last twelve months?'' were considered to have neck pain. The same question and procedure were used for assessing the prevalence of the remaining health variables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Statistical analysis</head><p>We conducted a statistical analysis using SPSS 22.0. Differences in the prevalence of AL by sample characteristics were assessed by Chi 2 tests. The association between PA (exposure) and AL (outcome) was estimated through multivariable logistic regression analysis conducted for the whole sample as well as by age subgroups (15-36, 37-43, 44-52, and 53-69 years). Age-segmented analyses were adjusted for sex, BMI, education, smoking, job role, diabetes, hypertension, neck pain, low back pain, depression, and anxiety, while the analysis for the overall sample was also adjusted for age. Except for age, included as a continuous variable, all variables were included in the models as categorical variables. Participants with missing data (n = 190) were not considered for the analyses. Cut-off points for age-segmentation and METS were estimated through equal percentile based on explored data option from the SPSS visual grouping procedure. As a result of the logistic regression analyses, we calculated odds ratios (ORs) with 95% confidence intervals (CIs). The level of statistical significance was set at P 0.05.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>Table <ref type="table" target="#tab_0">1</ref> shows the baseline characteristics of the study population. The cohort includes a population of Spanish general workers (47.4% women) on average 44.4 (SD 10.4) years old. Concerning lifestyle, 56.8% of the cohort is linked to smoking habits, and 51.1% show overweight or obesity. The overall prevalence of AL is 10.7%, whereas the overall prevalence of people doing less than 600 MET-minutes/week of PA is 29.6%. Regarding PA guidelines subgroups, workers doing less and more than 600 MET-minutes/week of PA present a 13.2% and a 9.7% prevalence of AL, respectively. In estimates without adjustment, women, former smokers, less PA, diabetes, hypertension, neck pain, low back pain, depression, and anxiety were associated with a significantly higher prevalence of AL.</p><p>Fig. <ref type="figure" target="#fig_0">1</ref> shows an upward trend in the prevalence of AL, from 10.9% to 17.4%, when age increasing with those participants in the first PA quartile. The fourth PA quartile observes the less prevalent values for AL for the three older subgroups.</p><p>When performing adjusted overall analysis, the less than 600 MET-minutes/week of PA subgroup was associated with significantly higher odds (OR 1.33, 95%CI 1.15-1.54) for AL (Table <ref type="table" target="#tab_1">2</ref>). Advanced age, former smoker, hypertension, neck pain, low back pain, depression, and anxiety were also associated with significantly higher odds for AL (Table <ref type="table" target="#tab_1">2</ref>). The full adjusted association between PA and AL remains significant among those subgroups formed by workers aged 37 to 43, and 53 to 69 when age-stratified (Table <ref type="table" target="#tab_2">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>In the present sample of Spanish general workers, those workers performing less than 600 MET-minutes/week of PA had significantly higher odds of AL. In the age-stratified analyses, AL remained only significant for both 1) 37-43 years, and 2) 53-69 yearś subgroups achieving PA guidelines. The prevalence of AL observed a clear trend to diminish with the ageing process when achieving very high levels of PA, whereas those workers performing low levels of PA presented the highest odds of AL in the three subgroups with older workers (Fig. <ref type="figure" target="#fig_0">1</ref>). Therefore, in order to reduce AL values, PA strategies aiming at the older population of workers would be desirable.</p><p>Prevalence of several of the most common cardiovascular, metabolic, physical, and mental disorders among the workforce observed significant values regarding AL for the present sample. Except for diabetes, all the diseases showed significantly increased odds for AL in the adjusted model, although both low back pain and depression presented the highest significant association with AL.</p><p>Owing to the use of the IPAQ short-form tool, the present study focus PA on the quantitative (i.e. total amount of METS) instead of the qualitative element (i.e. intensity) of the exposure. Thus, achieving a meaningful value of METS such as those recommended in the WHO guidelines <ref type="bibr" target="#b31">[32]</ref>, regardless of the way those have been achieved (i.e. different possible combinations of high, moderate PA and walking to get the same value), could result in a significant reduction of odds for AL. Although we have not found specific research investigating the association between PA and AL, several studies have suggested the inverse relationship of both quantitative and qualitative aspects of PA with short (≤ 14 days) and long-term sickness absence (&gt; 14 days) <ref type="bibr" target="#b32">[33,</ref><ref type="bibr" target="#b33">34]</ref>, even with a different population of workers <ref type="bibr" target="#b20">[21,</ref><ref type="bibr" target="#b34">35]</ref>.</p><p>When adjusted for occupational class (i.e. job role), our proposed model did not show significant modifications in the association between PA and AL; this finding contrasts with those observed in other studies carried out with a general population of Danish workers, in which high levels of occupational PA were observed to significantly increase the risk of worse global health <ref type="bibr" target="#b20">[21]</ref>.</p><p>Regarding age, we found a clear trend to increase odds for AL when adjusted by the rest of the variables. When unadjusted and categorised into quartiles (Fig. <ref type="figure" target="#fig_0">1</ref>), the odds of AL remained higher for the older workers performing low PA and lower for those older workers achieving very high levels of PA. Thus, the age factor seems to take its part when explaining AL, and older but not younger workers could be more sensitive to PA. Similar findings were observed among female eldercare workers, in which physical exertion increased the disability pension risk in older but not in younger workers <ref type="bibr" target="#b35">[36]</ref>.    Several of the health confounders used in our study have been ranked as one of the most prevalent among the workforce <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b37">38]</ref>. However, despite the high influence of hypertension, back pain, and mental disorders in the proposed model, the association between PA and AL remained significant for this study. Furthermore, the significantly increased AL odds for five out of six of the health variables suggests that those highlighted health risk factors for long-term sickness absence could also be substantial for AL. Except for the category of former smokers, current smokers or other confounders such as BMI or education did not find a substantial increase of odds for AL when adjusted for the remaining variables. These results differ from the findings of other studies outlining the association of both current smoking habits and obesity with a higher risk of general sickness absence in specific populations of workers (i.e. local employees and health workers) <ref type="bibr" target="#b38">[39,</ref><ref type="bibr" target="#b39">40]</ref>.</p><p>Overall, achieving a minimum of 600 weekly METS of PA may contribute to reducing AL among a general population of workers. Health strategies aiming at older workers performing low levels of PA or those suffering from anxiety, depression, or back pain might reduce AL. Future research on AL might investigate its use as a potential marker for the two of them, although longitudinal research would be first required to confirm the suggested association.</p><p>The strengths of the current study comprise using a large random sample of Spanish workers, as well as measuring the exposure variable with a reliable tool. To further avoid a possible recall bias in the outcome variable, only onsets, instead of days, of AL were contemplated. In addition, a representative set of confounders covering a wide range of possible risk factors for AL were considered for the implemented logistic model. However, several limitations make this research to be carefully considered. First, the observational design of the study does not permit the inspection of a causal relationship between PA and AL. Thus, low levels of PA may lead to AL, but the reverse association may also be present, i.e. those with activity limitations are more prone to not being sufficiently physically active. Second, the subjective nature of the measured variables, which represents an inherent risk of information bias. Particularly, the question used to estimate the main outcome (AL) was not validated, which can exacerbate the aforementioned information bias. Also, self-reported data on PA usually lead to overestimating overall PA. Last, according to the IPAQ protocol, the final values of that tool do not discriminate among vigorous or moderate PA, which limits the scope of the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>All things considered, the results of the present study suggest a determined level of PA (≥ 600 METS/week) to associate with lower AL, particularly among older workers. Health strategies aiming at this specific population might reduce levels of AL.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Prevalence of activity limitation (AL) by level of physical activity (PA) and by age groups.</figDesc><graphic coords="6,116.63,55.76,361.20,208.94" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characteristics of the study population.</figDesc><table><row><cell>Activity limitation a</cell></row></table><note><p>a Number (and percentage) of individuals with that sample characteristic who have had an activity limitation spell b P-value was calculated with Chi 2 tests.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Association of physical activity and other covariates with activity limitation (outcome) estimated by multivariable logistic regression.Estimates are odds ratio [95% confidence interval]. Models are adjusted for all variables in the Table and job role.</figDesc><table><row><cell>Characteristic</cell></row></table><note><p>a P &lt; 0.05. b P &lt; 0.01. c P &lt; 0.001.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3</head><label>3</label><figDesc>Association between different levels of physical activity and activity limitation (outcome) estimated by multivariable logistic regression.</figDesc><table><row><cell>Age (years)</cell><cell cols="2">Association between</cell></row><row><cell></cell><cell cols="2">physical activity (&lt; 600</cell></row><row><cell></cell><cell cols="2">MET-minutes/week) and</cell></row><row><cell></cell><cell cols="2">activity limitation</cell></row><row><cell>17-36</cell><cell>1.09</cell><cell>[0.78, 1.51]</cell></row><row><cell>37-43</cell><cell>1.75**</cell><cell>[1.27, 2.41]</cell></row><row><cell>44-52</cell><cell>1.10</cell><cell>[0.82, 1.48]</cell></row><row><cell>53-69</cell><cell>1.67**</cell><cell>[1.22, 2.28]</cell></row><row><cell cols="3">Estimates are odds ratio [95% confidence interval]. Models</cell></row><row><cell cols="3">are adjusted for sex, education, BMI, smoking, job role,</cell></row><row><cell cols="3">diabetes, hypertension, neck pain, low back pain, depression</cell></row><row><cell cols="3">and anxiety. * P &lt; 0.05. ** P &lt; 0.01. *** P &lt; 0.001.</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Science &amp; Sports 38 (2023) 247-254</p></note>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>Funding</head><p>The survey was funded by the <rs type="funder">Spanish Ministry of Health, Social Services and Equality</rs>, and the <rs type="institution">National Institute of Statistics</rs> as a part of an assessment program on general health.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure of interest</head><p>The authors declare that they have no competing interest.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted" xml:id="b0">
+	<monogr>
+		<title level="m" type="main">International classification of functioning, disability and health world</title>
+		<ptr target="https://apps.who.int/iris/bitstream/handle/10665/42407/9241545429.pdf" />
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>World Health Organization</publisher>
+			<pubPlace>Geneva; Disponible sur</pubPlace>
+		</imprint>
+	</monogr>
+	<note>cité le 16 avr 2019</note>
+	<note type="raw_reference">World Health Organization (WHO). International clas- sification of functioning, disability and health world. Geneva; 2001. Disponible sur: https://apps.who.int/ iris/bitstream/handle/10665/42407/9241545429.pdf [cité le 16 avr 2019].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Monitoring population disability: evaluation of a new Global Activity Limitation Indicator (GALI)</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Van Oyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Heyden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Perenboom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jagger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Soz Praventivmed</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="153" to="161" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Van Oyen H, Heyden J, Perenboom R, Jagger C. Monitoring population disability: evaluation of a new Global Activity Limi- tation Indicator (GALI). Soz Praventivmed 2006;51:153-61.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Health problems and disability in long-term sickness absence: ICF coding of medical certificates</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Morgell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Backlund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Arrelöv</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Strender</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Nilsson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="page">11</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Morgell R, Backlund LG, Arrelöv B, Strender LE, Nilsson GH. Health problems and disability in long-term sickness absence: ICF coding of medical certificates. BMC Public Health 2011:11.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Assessing and adjusting for cross-cultural validity of impairment and activity limitation scales through differential item functioning within the framework of the Rasch model: the PRO-ESOR project</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tennant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Penta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tesio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Grimby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Thonnard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Slade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Care</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="37" to="48" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tennant A, Penta M, Tesio L, Grimby G, Thonnard JL, Slade A, et al. Assessing and adjusting for cross-cultural validity of impairment and activity limitation scales through differential item functioning within the framework of the Rasch model: the PRO-ESOR project. Med Care 2004;42:37-48.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The global activity limitation indicator and self-rated health: two complementary predictors of mortality</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Der Heyden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Van Oyen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Public Heal</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berger N, Van der Heyden J, Van Oyen H. The global activity limitation indicator and self-rated health: two complementary predictors of mortality. Arch Public Heal 2015;73:1-7.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The Global Activity Limitation Index measured function and disability similarly across European countries</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jagger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gillies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cambois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Van Oyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Nusselder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="892" to="899" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Jagger C, Gillies C, Cambois E, Van Oyen H, Nusselder W, Robine JM. The Global Activity Limitation Index measured function and disability similarly across European countries. J Clin Epidemiol 2010;63:892-9.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Assessing the validity of the global activity limitation indicator in fourteen European countries</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Van Oyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cambois</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fouweather</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Jagger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Nusselder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Med Res Methodol</title>
+		<imprint>
+			<biblScope unit="page">15</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Berger N, Van Oyen H, Cambois E, Fouweather T, Jagger C, Nusselder W, et al. Assessing the validity of the global activity limitation indicator in fourteen European countries. BMC Med Res Methodol 2015:15.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Limitations to usual activities due to health problems in Germany</title>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Der Lippe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fehr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lange</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Heal Monit</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="84" to="90" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von der Lippe E, Fehr A, Lange C. Limitations to usual acti- vities due to health problems in Germany. J Heal Monit 2017;2:84-90.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Impairments, activity limitations and participation restrictions experienced in the first year following a critical illness: protocol for a systematic review</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Ohtake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Coffey</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hinman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Open</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ohtake PJ, Coffey Scott J, Hinman RS, Lee AC, Smith JM. Impairments, activity limitations and participation restrictions experienced in the first year following a critical illness: proto- col for a systematic review. BMJ Open 2017;7:1-5.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Non-fatal injuries among adults with activity limitations and participation restrictions</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Xiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Leff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Stallones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Inj Prev</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="157" to="162" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Xiang H, Leff M, Stallones L. Non-fatal injuries among adults with activity limitations and participation restrictions. Inj Prev 2005;11:157-62.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Activity limitations predict health care expenditures in the general population in Belgium</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Van Der Heyden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Van Oyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Berger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Bacquer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Herck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Public Health</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Van Der Heyden J, Van Oyen H, Berger N, De Bacquer D, Van Herck K. Activity limitations predict health care expendi- tures in the general population in Belgium. BMC Public Health 2015;15:1-12.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Health status, activity limitations, and disability in work and housework among Latinos and non-Latinos with arthritis: an analysis of national data</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Abraído-Lanza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Armbrister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Link</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Care Res</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="442" to="450" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Abraído-Lanza AF, White K, Armbrister AN, Link BG. Health sta- tus, activity limitations, and disability in work and housework among Latinos and non-Latinos with arthritis: an analysis of national data. Arthritis Care Res 2006;55:442-50.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Activity limitation in rheumatoid arthritis correlates with reduced grip force regardless of sex: The Swedish TIRA project</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Thyberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Uam</forename><surname>Hass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Nordenskiöld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Gerdle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Skogh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arthritis Care Res</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="886" to="896" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Thyberg I, Hass UAM, Nordenskiöld U, Gerdle B, Skogh T. Acti- vity limitation in rheumatoid arthritis correlates with reduced grip force regardless of sex: The Swedish TIRA project. Arthritis Care Res 2005;53:886-96.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Factors that moderate activity limitation and participation restriction in people with multiple sclerosis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Goverover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Strober</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Chiaravalloti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Deluca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Occup Ther</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Goverover Y, Strober L, Chiaravalloti N, DeLuca J. Factors that moderate activity limitation and participation restriction in people with multiple sclerosis. Am J Occup Ther 2015;69:1-9.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Chukwu goz JN, Odole hristian AC, Okeke foem AI. Establishing the reliability and construct validity of the Igbo version of Screening Activity Limitation and Safety Awareness scale in persons with Hansen disease</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">O</forename><surname>Ibikunle Lanrewaj</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Oladipo</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Se</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lepr Rev</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="220" to="228" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ibikunle lanrewaj PO, Oladipo kunday SE, Chukwu goz JN, Odole hristian AC, Okeke foem AI. Establishing the reliability and construct validity of the Igbo version of Screening Activity Limitation and Safety Awareness scale in persons with Hansen disease. Lepr Rev 2015;86:220-8.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Factors affecting activity limitation in the elderly: data processed from the Korea National Health and Nutrition Examination Survey</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Moon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Osong Public Heal Res Perspect</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="117" to="122" />
+			<date type="published" when="2016">2016. 2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Moon JH. Factors affecting activity limitation in the elderly: data processed from the Korea National Health and Nutri- tion Examination Survey, 2016. Osong Public Heal Res Perspect 2019;10:117-22.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Sick but Yet at Work. An empirical study of sickness presenteeism sick but yet at work. An sickness presenteeism empirical study of</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Aronsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gustafsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dallner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="502" to="509" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Aronsson G, Gustafsson K, Dallner M. Sick but Yet at Work. An empirical study of sickness presenteeism sick but yet at work. An sickness presenteeism empirical study of 2014;54:502-9.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Total health-related costs due to absenteeism, presenteeism, and medical and pharmaceutical expenses in Japanese employers</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nagata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ohtani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nagata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kajiki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Fujino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Occup Environ Med</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="273" to="280" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Nagata T, Mori K, Ohtani M, Nagata M, Kajiki S, Fujino Y, et al. Total health-related costs due to absenteeism, presen- teeism, and medical and pharmaceutical expenses in Japanese employers. J Occup Environ Med 2018;60:e273-80.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Socioeconomic conditions, lifestyle factors, and self-rated health among men and women in Sweden</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Molarius</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Berglund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Eriksson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lambe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Nordström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Eriksson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="125" to="133" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Molarius A, Berglund K, Eriksson C, Lambe M, Nordström E, Eriksson HG, et al. Socioeconomic conditions, lifestyle factors, and self-rated health among men and women in Sweden. Eur J Public Health 2007;17:125-33.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Association of leisure-time physical activity across the adult life course with all-cause and cause-specific mortality</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Saint-Maurice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Coughlan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Kelly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Keadle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Carlson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Netw Open</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="2019">2019. 190355</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Saint-Maurice PF, Coughlan D, Kelly SP, Keadle SK, Cook MB, Carlson SA, et al. Association of leisure-time physical activity across the adult life course with all-cause and cause-specific mortality. JAMA Netw Open 2019;2:e190355.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The health paradox of occupational and leisure-time physical activity</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Holtermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Hansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Burr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Søgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sjøgaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="291" to="295" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Holtermann A, Hansen JV, Burr H, Søgaard K, Sjøgaard G. The health paradox of occupational and leisure-time physical acti- vity. Br J Sports Med 2012;46:291-5.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The longitudinal relation between selfreported physical activity and presenteeism</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Walker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Virol</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="175" to="185" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Walker TJ. The longitudinal relation between self- reported physical activity and presenteeism. J Med Virol 2010;82:175-85.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Effect of moderate to vigorous physical activity on all-cause mortality in middle-aged and older Australians</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gebel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Stamatakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">J</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Bauman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="page" from="970" to="977" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Gebel K, Ding D, Chey T, Stamatakis E, Brown WJ, Bauman AE. Effect of moderate to vigorous physical activity on all-cause mortality in middle-aged and older Australians. JAMA Intern Med 2015;175:970-7.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Joint association of multimorbidity and work ability with risk of longterm sickness absence: a prospective cohort study with register follow-up</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sundstrup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Due</forename><surname>Jakobsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Mortensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Work Environ Heal</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="146" to="154" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sundstrup E, Due Jakobsen M, Mortensen OS, Andersen LL. Joint association of multimorbidity and work ability with risk of long- term sickness absence: a prospective cohort study with register follow-up. Scand J Work Environ Heal 2017;43:146-54.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The strengthening the reporting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Von Elm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Egger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Pocock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Gøtzsche</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Vandenbroucke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="800" to="804" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP. The strengthening the repor- ting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies. Epidemiology 2007;18:800-4.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b25">
+	<analytic>
+		<title/>
+		<ptr target="https://www.ine.es/en/metodologia/t15/t153041917en.pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Methodology</title>
+		<imprint>
+			<date type="published" when="2017">2017. 2017</date>
+			<publisher>Ministerio de Sanidad Servicios Sociales e Igualdad Instituto Nacional de Estadística</publisher>
+		</imprint>
+	</monogr>
+	<note>cité le 25 avr 2019</note>
+	<note type="raw_reference">Ministerio de Sanidad Servicios Sociales e Igualdad Instituto Nacional de Estadística. Spanish National Health Survey 2017: Methodology; 2017. Disponible sur: https://www.ine.es/en/metodologia/t15/t153041917 en.pdf [cité le 25 avr 2019].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">International physical activity questionnaire: 12-Country reliability and validity</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Craig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Marshall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sjöström</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Bauman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Ainsworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1381" to="1395" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, et al. International physical activity question- naire: 12-Country reliability and validity. Med Sci Sports Exerc 2003;35:1381-95.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Guidelines for data processing and analysis of the international physical activity questionnaire (IPAQ)-short and long forms</title>
+		<author>
+			<persName><surname>Ipaq</surname></persName>
+		</author>
+		<ptr target="https://sites.google.com/site/theipaq/scoring-protocol" />
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="1" to="15" />
+			<pubPlace>Disponible sur</pubPlace>
+		</imprint>
+	</monogr>
+	<note>cité le 15 avr 2019</note>
+	<note type="raw_reference">Ipaq. Guidelines for data processing and analysis of the international physical activity questionnaire (IPAQ)-short and long forms. Ipaq; 2005. p. 1-15. Disponible sur: https://sites.google.com/site/theipaq/scoring-protocol [cité le 15 avr 2019].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">High leisure-time physical activity reduces the risk of longterm sickness absence</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>López-Bueno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Sundstrup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vinstrup</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Casajús</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Andersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Med Sci Sport</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="939" to="946" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">López-Bueno R, Sundstrup E, Vinstrup J, Casajús JA, Andersen LL. High leisure-time physical activity reduces the risk of long- term sickness absence. Scand J Med Sci Sport 2020;30:939-46.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Association between physical activity and odds of chronic conditions among workers in Spain</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>López-Bueno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bláfoss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Calatayud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>López-Sánchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Andersen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prev Chronic Dis</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<date type="published" when="2020">2020. 200105</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">López-Bueno R, Bláfoss R, Calatayud J, López-Sánchez GF, Smith L, Andersen LL, et al. Association between physical acti- vity and odds of chronic conditions among workers in Spain. Prev Chronic Dis 2020;17:200105.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Clasificación Nacional de Ocupaciones (CNO)</title>
+		<ptr target="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica" />
+		<imprint>
+			<date type="published" when="2011">2011. C&amp;cid=1254736177033&amp;menu=ultiDatos&amp;idp=12547 35976614</date>
+			<publisher>Instituto Nacional de Estadística</publisher>
+		</imprint>
+	</monogr>
+	<note>Inst Nac Estadística cité le 9 avr 2019</note>
+	<note type="raw_reference">Instituto Nacional de Estadística. Clasificación Nacional de Ocupaciones (CNO). Inst Nac Estadística; 2011. Disponible sur: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c= Estadistica C&amp;cid=1254736177033&amp;menu=ultiDatos&amp;idp=12547 35976614 [cité le 9 avr 2019].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b31">
+	<monogr>
+		<title level="m" type="main">Global recommendations on physical activity for health</title>
+		<ptr target="https://www.who.int/publications/i/item/9789241599979" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>World Health Organization (WHO)</publisher>
+			<pubPlace>Geneva; Disponible sur</pubPlace>
+		</imprint>
+	</monogr>
+	<note>cité le 11 avr 2019</note>
+	<note type="raw_reference">World Health Organization (WHO). Global recommendations on physical activity for health. Geneva; 2014. Disponible sur: https://www.who.int/publications/i/item/9789241599979 [cité le 11 avr 2019].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Physical activity and unplanned illness-related work absenteeism: data from an employee wellness program</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Losina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">Y</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Deshpande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Katz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Collins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="13" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Losina E, Yang HY, Deshpande BR, Katz JN, Collins JE. Physical activity and unplanned illness-related work absenteeism: data from an employee wellness program. PLoS One 2017;12:1-13.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The impact of physical activity on sickness absence</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lahelma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Rahkonen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Med Sci Sport</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="191" to="199" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lahti J, Laaksonen M, Lahelma E, Rahkonen O. The impact of physical activity on sickness absence. Scand J Med Sci Sport 2010;20:191-9.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Leisure-time physical activity and direct cost of short-term sickness absence among Finnish municipal employees</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tolonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Rahkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lahti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Environ Occup Heal</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="93" to="98" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Tolonen A, Rahkonen O, Lahti J. Leisure-time physical activity and direct cost of short-term sickness absence among Finnish municipal employees. Arch Environ Occup Heal 2017;72:93-8.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Influence of physical and psychosocial working conditions for the risk of disability pension among healthy female eldercare workers: Prospective cohort</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Villadsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Clausen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="460" to="467" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Andersen L, Villadsen E, Clausen T. Influence of physical and psychosocial working conditions for the risk of disability pen- sion among healthy female eldercare workers: Prospective cohort. Scand J Public Health 2020;48:460-7.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Burden of sickness absence due to chronic disease in the Dutch workforce from 2007 to 2011</title>
+		<author>
+			<persName><forename type="first">Emm</forename><surname>De Vroome</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Uegaki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cpb</forename><surname>Van Der Ploeg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Treutlein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Steenbeek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Weerd</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Occup Rehabil</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="675" to="684" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">de Vroome EMM, Uegaki K, van der Ploeg CPB, Treutlein DB, Steenbeek R, de Weerd M, et al. Burden of sickness absence due to chronic disease in the Dutch workforce from 2007 to 2011. J Occup Rehabil 2015;25:675-84.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Calculating the cost of work-related stress and psychosocial risks</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hassard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Teoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Cox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dewe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cosmar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gründler</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Luxembourg</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hassard J, Teoh K, Cox T, Dewe P, Cosmar M, Gründler R, et al. Calculating the cost of work-related stress and psychosocial risks. Luxembourg; 2014.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Health-related behaviours and sickness absence from work</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Laaksonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Piha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Martikainen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Rahkonen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lahelma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Occup Environ Med</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="840" to="847" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Laaksonen M, Piha K, Martikainen P, Rahkonen O, Lahelma E. Health-related behaviours and sickness absence from work. Occup Environ Med 2009;66:840-7.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Smoking and sickness absence among public health workers</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Torres Lana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cabrera</forename><surname>De León</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marco</forename><surname>García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aguirre</forename><surname>Jaime</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page" from="144" to="149" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Torres Lana A, Cabrera de León A, Marco García MT, Aguirre Jaime A. Smoking and sickness absence among public health workers. Public Health 2005;119:144-9.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

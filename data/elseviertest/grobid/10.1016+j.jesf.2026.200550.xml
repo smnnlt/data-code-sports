@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Explainable machine learning analyses uncover nonlinear associations between 24-hour movement behavior composition and cardiometabolic risk among Korean adults</title>
+				<funder ref="#_NtsZtwQ">
+					<orgName type="full">FSU-SKKU</orgName>
+				</funder>
+				<funder ref="#_rAdQymr">
+					<orgName type="full">National Institutes of Health</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">College of Sport Science at Sungkyunkwan University</orgName>
+				</funder>
+				<funder ref="#_XQcqJyU">
+					<orgName type="full">Anne Spencer Daves College of Education, Health</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2026-11-19">19 November 2026</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct status="extracted">
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Jaehoon</forename><surname>Seol</surname></persName>
+							<email>seol.jaehoon@skku.edu</email>
+							<affiliation key="aff0">
+								<orgName type="department">College of Sport Science</orgName>
+								<orgName type="institution">Sungkyunkwan University</orgName>
+								<address>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<region>Gyeonggi</region>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">International Institute for Integrative Sleep Medicine (WPI-IIIS)</orgName>
+								<orgName type="institution" key="instit1">Tsukuba Institute for Advanced Research (TIAR)</orgName>
+								<orgName type="institution" key="instit2">University of Tsukuba</orgName>
+								<address>
+									<postCode>305-8575</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<orgName type="department">R&amp;D Center for Tailor-Made QOL</orgName>
+								<orgName type="institution">University of Tsukuba</orgName>
+								<address>
+									<postCode>305-8550</postCode>
+									<settlement>Tsukuba</settlement>
+									<region>Ibaraki</region>
+									<country key="JP">Japan</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jinkyung</forename><surname>Cho</surname></persName>
+							<idno type="ORCID">0000-0003-3441-4191</idno>
+							<affiliation key="aff0">
+								<orgName type="department">College of Sport Science</orgName>
+								<orgName type="institution">Sungkyunkwan University</orgName>
+								<address>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<region>Gyeonggi</region>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Joseph</forename><forename type="middle">C</forename><surname>Watso</surname></persName>
+							<idno type="ORCID">0000-0002-4500-3622</idno>
+							<affiliation key="aff3">
+								<orgName type="department">Department of Health, Nutrition, and Food Sciences</orgName>
+								<orgName type="laboratory">Cardiovascular and Applied Physiology Laboratory</orgName>
+								<orgName type="institution" key="instit1">Anne Spencer Daves College of Education, Health, and Human Sciences</orgName>
+								<orgName type="institution" key="instit2">Florida State University</orgName>
+								<address>
+									<settlement>Tallahassee</settlement>
+									<region>FL</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<orgName type="department">Institute of Sports Sciences and Medicine</orgName>
+								<orgName type="institution">Florida State University</orgName>
+								<address>
+									<settlement>Tallahassee</settlement>
+									<region>FL</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<orgName type="department">Institute for Successful Longevity</orgName>
+								<orgName type="institution">Florida State University</orgName>
+								<address>
+									<settlement>Tallahassee</settlement>
+									<region>FL</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<orgName type="department">Institute for Connecting Nutrition and Health</orgName>
+								<orgName type="institution">Florida State University</orgName>
+								<address>
+									<settlement>Tallahassee</settlement>
+									<region>FL</region>
+									<country key="US">United States</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<orgName type="department">College of Sport Science</orgName>
+								<orgName type="institution">Sungkyunkwan University</orgName>
+								<address>
+									<postCode>16419</postCode>
+									<settlement>Suwon</settlement>
+									<region>Gyeonggi</region>
+									<country key="KR">Republic of Korea</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Explainable machine learning analyses uncover nonlinear associations between 24-hour movement behavior composition and cardiometabolic risk among Korean adults</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2026-11-19">19 November 2026</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C4526E4EC45A58A482EA9A04DDBBD003</idno>
+					<idno type="DOI">10.1016/j.jesf.2026.200550</idno>
+					<note type="submission">Received 14 August 2026; Received in revised form 17 November 2026; Accepted 18 November 2026</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.9.0" ident="GROBID" when="2026-11-27T14:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0.9.0</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Cardiovascular diseases Compositional data analysis Exercise Machine learning Sedentary behavior Sleep</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background/objective: To examine associations between 24-h movement behavior composition and cardiometabolic risk and explore nonlinear associations and favorable compositions using explainable machine learning. Methods: This cross-sectional study included 41,288 adults from the Korea National Health and Nutrition Examination Survey (2016-2024). Sleep, sedentary behavior, moderate-to-vigorous physical activity (MVPA), and other activities formed a 24-h composition. Cardiometabolic risk was assessed using a cardiometabolic risk score (CmRS). Survey-weighted compositional data analysis examined associations and time reallocation; extreme gradient boosting with SHapley Additive exPlanations explored nonlinear associations. Grid-search identified favorable model-derived compositions. Results: The 24-h composition was associated with CmRS (p &lt; 0.001). Greater relative sleep (β = -0.073, 95% CI -0.095 to -0.051) and MVPA (β = -0.017, 95% CI -0.020 to -0.013) were associated with lower CmRS, whereas greater relative sedentary behavior was associated with higher CmRS (β = 0.086, 95% CI 0.070 to 0.102). Reallocating 30 min/day toward MVPA showed the largest reduction in CmRS (-0.0221, 95% CI -0.0264 to -0.0178). The machine-learning model achieved an R 2 of 0.321, with MVPA leading among movement behaviors. Unrestricted grid-search identified model-derived favorable compositions characterized by approximately 450 min/day of sleep, 480 min/day of sedentary behavior, and 80 min/day of MVPA. Constrained analyses favored greater MVPA within the specified search range, although these model-derived values should not be interpreted as population-wide optimal targets. Conclusion: Twenty-four-hour movement composition was associated with cardiometabolic risk, with greater relative sleep and MVPA and lower sedentary behavior associated with favorable profiles. Explainable machine learning identified nonlinear associations and favorable model-derived compositions requiring longitudinal evaluation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Cardiovascular disease remains the leading cause of death worldwide, <ref type="bibr" target="#b0">1</ref> with obesity, hypertension, dyslipidemia, and impaired glucose metabolism contributing to cardiometabolic risk. <ref type="bibr" target="#b1">2</ref> Sleep, sedentary behavior, and physical activity are important modifiable behaviors associated with cardiometabolic health through distinct but interconnected pathways. <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref> .</p><p>These behaviors collectively occupy the finite 24-h day, such that time spent in one behavior necessarily displaces another. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> Although isotemporal substitution models address time reallocation, <ref type="bibr" target="#b9">10</ref> compositional data analysis (CoDA) explicitly accounts for the relative and codependent nature of 24-h movement behaviors. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b10">11</ref> Previous CoDA studies have demonstrated associations of movement compositions with cardiometabolic health, obesity, and mortality. <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> However, conventional regression-based approaches may not fully characterize nonlinear patterns and favorable ranges. <ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b16">[17]</ref> Machine-learning algorithms such as extreme gradient boosting (XGBoost) can flexibly model complex nonlinear relationships but may be difficult to interpret. <ref type="bibr" target="#b17">18</ref> Explainable approaches such as SHapley Additive exPlanations (SHAP) address this limitation by quantifying predictor contributions and characterizing the direction and shape of model-derived associations. <ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref> .</p><p>To our knowledge, few studies have integrated survey-weighted CoDA and explainable machine learning to characterize nonlinear associations and complete 24-h movement compositions. Therefore, we examined (1) associations between 24-h movement behavior composition and cardiometabolic health using survey-weighted CoDA and (2) nonlinear associations, model-derived favorable ranges, and favorable compositions using explainable machine learning and grid-search analyses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Study design and participants</head><p>This cross-sectional study used data from the Korea National Health and Nutrition Examination Survey (KNHANES) collected between 2016 and 2024. KNHANES is a nationally representative survey using a complex, multistage, stratified cluster sampling design. <ref type="bibr" target="#b21">22</ref> Of 67,019 participants, those aged &lt;19 years, with missing cardiometabolic biomarkers, with incomplete or invalid movement-behavior data, or with missing covariate data were excluded, resulting in 41,288 adults (Fig. <ref type="figure" target="#fig_0">1</ref>). All procedures were performed in accordance with the ethical standards of the relevant institutional and/or national research committee and with the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards. The KNHANES protocol was approved by the Institutional Review Board of the Korea Disease Control and Prevention Agency (2018-01-03-P-A, 2018-01-03-C-A, 2018-01-03-2C-A, 2018-01-03-5C-A, 2018-01-03-4C-A, 2022-11-16-R-A, and 2022-11-16-R-03), whereas the 2016 and 2017 surveys were exempt from IRB review according to the Bioethics and Safety Act. All participants provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Movement behaviors</head><p>Daily movement behaviors were derived from self-reported sleep duration, sedentary behavior, and physical activity data. Participants reported their usual weekday and weekend sleep durations, from which average daily sleep duration was calculated as a weighted average (5 weekdays and 2 weekend days). Physical activity was assessed using the Global Physical Activity Questionnaire (GPAQ). <ref type="bibr" target="#b22">23</ref> In accordance with the GPAQ analysis framework, physical activity was assessed across three domains: work, transportation, and recreation. Moderate-and vigorous-intensity activities were identified separately for the work and recreation domains, while walking and cycling for transportation were classified as moderate-intensity activity, consistent with the GPAQ convention assigning these activities an intensity of 4.0 METs. Daily minutes of moderate-to-vigorous physical activity (MVPA) were calculated by summing time spent in moderate-and vigorous-intensity activities across these domains and averaging weekly activity over seven days. <ref type="bibr" target="#b22">23</ref> Sedentary behavior was assessed directly using the sedentary-behavior item of the GPAQ as self-reported total sitting time per day and was not derived as residual time. A four-part 24-h composition consisting of sleep, sedentary behavior, MVPA, and other activities was constructed such that the sum of all components equaled 1440 min per day. After excluding participants with missing movement-behavior data (n = 4296), we additionally excluded those whose combined reported sleep duration, sedentary time, and MVPA exceeded 1440 min/day (n = 144) or left zero residual time for other activities (n = 31; Fig. <ref type="figure" target="#fig_0">1</ref>). Other activities were calculated as the residual time remaining after subtracting sleep, sedentary behavior, and MVPA from 1440 min/day (Supplementary Table <ref type="table" target="#tab_0">S1</ref>). Within the 24-h movement behavior framework, this residual "other activities" component was intended to represent light-intensity physical activity (LPA) and standing. However, because neither behavior was directly measured, we retained the term "other activities" rather than labeling this derived residual component as measured LPA or standing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Cardiometabolic health</head><p>Cardiometabolic risk was assessed using a continuous cardiometabolic risk score (CmRS), calculated as the mean of standardized waist circumference, systolic and diastolic blood pressure, fasting glucose, triglycerides, and inverted high-density lipoprotein cholesterol (HDL-C). <ref type="bibr" target="#b23">24</ref> Waist circumference and HDL-C were standardized by sex and the remaining components using the pooled sample. <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25</ref> Higher scores indicated less favorable cardiometabolic profiles. <ref type="bibr" target="#b24">25</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Covariates</head><p>Covariates included age, sex, survey year, household income, education, occupation, smoking status, alcohol consumption frequency, and total energy intake. Age and energy intake were continuous; other covariates were categorized according to KNHANES definitions. All were included as potential confounders.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.5.">Statistical analysis</head><p>CoDA was used to account for the compositional nature of daily movement behaviors. Sleep, sedentary behavior, other activities, and MVPA were treated as a four-part composition summing to 1440 min/ day. Zero values in MVPA and other activities were replaced using the count-zero multiplicative method <ref type="bibr" target="#b25">26</ref> before isometric log-ratio (ilr) transformation. <ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b26">27</ref> Survey-weighted linear regression incorporated KNHANES weights, strata, and primary sampling units and adjusted for all covariates. Overall compositional effects were evaluated using joint tests of ilr coordinates, <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b10">11</ref> and pivot coordinates estimated the relative contribution of each behavior. Compositional isotemporal substitution estimated time-reallocation effects. <ref type="bibr" target="#b27">28</ref> Time reallocations were evaluated relative to the reference composition. An increase of 5-30 min/day in the target behavior was offset by proportional reductions in the remaining three behaviors, preserving the total of 1440 min/day.</p><p>Nonlinear associations were investigated using XGBoost. <ref type="bibr" target="#b19">20</ref> Predictors included the four movement behaviors and all covariates; categorical predictors were one-hot encoded and continuous predictors entered without transformation. Data were randomly divided into training (80%) and test (20%) sets. Hyperparameters were optimized using Optuna with 100 trials and five-fold cross-validation, minimizing RMSE, which was selected because CmRS was continuous and RMSE penalizes larger prediction errors; search ranges, final selected values, and fixed settings are provided in Supplementary Table <ref type="table" target="#tab_1">S2</ref>. <ref type="bibr" target="#b28">29</ref> Performance was evaluated using root mean square error (RMSE), mean absolute error (MAE), and R 2 . Linear regression and random forest were evaluated as benchmarks using the same predictors, training/test partition, and test-set performance metrics. XGBoost was used for prediction and explanation without survey weighting; thus, estimates reflect model-based associations within the observed sample rather than national estimates. SHAP values quantified predictor importance and characterized nonlinear associations. <ref type="bibr" target="#b20">21</ref> SHAP values were calculated for 5000 randomly selected participants from the test set, and contributions from one-hot-encoded levels were summed within each categorical predictor. Locally weighted scatterplot smoothing (LOWESS) curves with 300 bootstrap resamples were used to summarize SHAP dependence patterns and 95% confidence intervals (CIs) around the smoothed estimates. These intervals characterize uncertainty in the model-derived SHAP patterns and should not be interpreted as CIs for the underlying epidemiological associations. <ref type="bibr" target="#b29">[30]</ref><ref type="bibr" target="#b30">[31]</ref><ref type="bibr" target="#b31">[32]</ref> Bootstrap resampling was applied to the SHAP observations while keeping the fitted XGBoost model fixed. For visualization in Fig. <ref type="figure" target="#fig_3">4</ref>, observations above the 99th percentile of each movement behavior were excluded from the displayed SHAP dependence curves to reduce the influence of sparsely populated upper tails. Feature-importance stability was assessed across five cross-validation folds. Sex-and age-stratified (19-39, 40-59, and ≥60 years) SHAP patterns from the overall XGBoost model were additionally examined as sensitivity analyses (Supplementary Fig. <ref type="figure" target="#fig_2">S3</ref>).</p><p>Finally, feasible 24-h compositions were evaluated using the final XGBoost model with continuous and categorical covariates fixed at median and modal values, respectively. Accordingly, the resulting favorable compositions represent model-based predictions conditional on these specified covariate values and should not be interpreted as population-wide optimal movement behavior compositions. Compositions with predicted CmRS values at or below the fifth-percentile cutoff were defined as model-derived favorable compositions, with ties retained. <ref type="bibr" target="#b32">33,</ref><ref type="bibr" target="#b33">34</ref> As a sensitivity analysis, a constrained grid search allowed each behavior to vary by ±30 min/day from a representative composition based on the observed compositional center (sleep: 460, sedentary behavior: 505, other activities: 465, and MVPA: 10 min/day), in 5-min increments, while maintaining a total of 1440 min/day and nonnegative component values. For calculation of the compositional center, zero values were replaced by half the minimum observed positive value.</p><p>For regression-based analyses, statistical significance was defined as a two-sided α &lt; 0.05, and 95% CIs were reported where applicable.</p><p>Compositional analyses were conducted using R (version 4.5.3; R Foundation for Statistical Computing, Vienna, Austria) within RStudio, whereas machine-learning analyses were performed using Python (version 3.11.15) in Visual Studio Code, including XGBoost, SHAP, and grid-search procedures.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>The final sample included 41,288 adults (Table <ref type="table" target="#tab_0">1</ref>). The overall 24-h movement composition was associated with CmRS (p &lt; 0.001); greater relative sleep and MVPA were associated with lower CmRS, whereas sedentary behavior was associated with higher CmRS (Table <ref type="table" target="#tab_1">2</ref>). Reallocating time toward sleep or MVPA was associated with lower CmRS and toward sedentary behavior with higher CmRS (Fig. <ref type="figure" target="#fig_1">2</ref>; Supplementary Table <ref type="table">S3</ref>). For 30-min reallocations, changes were -0.0060 (95% CI -0.0077 to -0.0043) for sleep, +0.0069 (0.0058 to 0.0080) for sedentary behavior, and -0.0221 (-0.0264 to -0.0178) for MVPA; other activities were not significant.</p><p>The optimized XGBoost model achieved an RMSE of 0.530, an MAE of 0.428, and an R 2 of 0.321 in the independent test dataset. In benchmark analyses using the same predictor set and training/test partition, XGBoost showed better predictive performance than random forest (RMSE = 0.558, MAE = 0.439, R 2 = 0.249) and linear regression (RMSE = 0.573, MAE = 0.453, R 2 = 0.209) (Supplementary Table <ref type="table">S4</ref>). SHAP analyses identified age as the strongest contributor to model predictions, followed by sex, education level, survey year, and MVPA (Fig. <ref type="figure" target="#fig_2">3</ref>). However, among the four modifiable movement behaviors, MVPA exhibited the highest importance (mean absolute SHAP value = 0.029), followed by other activities (0.018), sleep duration (0.017), and sedentary behavior (0.016) (Supplementary Fig. <ref type="figure" target="#fig_0">S1</ref>). Similar rankings were observed when the SHAP analysis was restricted to the four movement behaviors alone (Supplementary Fig. <ref type="figure" target="#fig_0">S1</ref>). Feature importance showed high reproducibility across folds, with mean overlap, Spearman rank correlation, and Kendall's τ values of 0.85, 0.93, and 0.87, respectively (Supplementary Fig. <ref type="figure" target="#fig_1">S2</ref>). In sensitivity analyses stratified by sex and age group, the overall SHAP-derived patterns for the movement behaviors were broadly consistent across subgroups (Supplementary Fig. <ref type="figure" target="#fig_2">S3A-H</ref>). Sleep showed a U-shaped pattern and sedentary behavior a monotonic positive pattern across both sexes and all age groups. MVPA showed a steep inverse association at lower activity levels across subgroups, although differences in the magnitude of the association emerged at higher MVPA levels, particularly across age groups.</p><p>Nonlinear associations were observed for sleep, sedentary behavior, and MVPA (Fig. <ref type="figure" target="#fig_3">4</ref>). Sleep demonstrated a U-shaped association with predicted CmRS. The lowest predicted risk was observed at approximately 425 min/day, with a model-derived favorable range extending from approximately 369 to 514 min/day (Fig. <ref type="figure" target="#fig_3">4A</ref>). Sedentary behavior showed a monotonic positive association with predicted CmRS, with a steeper increase at lower-to-moderate levels and a more gradual increase at higher levels (Fig. <ref type="figure" target="#fig_3">4B</ref>). In contrast, MVPA showed a steep inverse association with predicted CmRS at lower activity levels, with the steepest decline occurring up to approximately 15 min/day, followed by a more gradual decline at higher levels (Fig. <ref type="figure" target="#fig_3">4C</ref>). Associations for other activities were comparatively weak and showed a gradual inverse relation with predicted CmRS (Fig. <ref type="figure" target="#fig_3">4D</ref>). A total of 2194 participants reported MVPA ≥100 min/day, representing 6.03% of the surveyweighted population (Supplementary Table <ref type="table">S5</ref>). At the extremes of the full analytical sample, only 11 participants reported MVPA ≥500 min/ day (0.04% of the survey-weighted population), and 12 participants reported sedentary behavior ≤30 min/day (0.03%). No participants reported zero sedentary time (Supplementary Table <ref type="table">S5</ref>). A total of 12,730 feasible compositions were generated, of which 637 met the fifth-percentile cutoff for predicted CmRS and were classified as favorable. One of the compositions with the lowest predicted CmRS consisted of 440 min/day of sleep, 510 min/day of sedentary behavior, 410 min/day of other activities, and 80 min/day of MVPA (predicted CmRS = -0.352) (Supplementary Table <ref type="table">S6</ref>). Across all favorable compositions, median values were 450 min/day of sleep (IQR 440-470), 480 min/day of sedentary behavior (IQR 430-540), 425 min/day of other activities (IQR 385-475), and 80 min/day of MVPA (IQR 75-85), as illustrated in Supplementary Fig. <ref type="figure" target="#fig_3">S4</ref>. To contextualize this modelderived MVPA level, the survey-weighted median MVPA in the analytical sample was 17.1 min/day, and the 90th percentile was 74.3 min/ day. A total of 3306 participants reported ≥80 min/day of MVPA, representing 9.05% of the survey-weighted population. Thus, the favorable MVPA level identified by the unrestricted search was within the observed distribution but was relatively uncommon (Supplementary Table <ref type="table">S5</ref>). In the constrained sensitivity analysis, which limited changes in each movement behavior to ±30 min/day from the representative composition, the model continued to favor greater MVPA within the permitted range. MVPA reached the upper boundary of the constrained range (40 min/day), while favorable values for sleep, sedentary behavior, and other activities remained within their permitted ranges (Supplementary Table <ref type="table">S7</ref>). Thus, 40 min/day should not be interpreted as an estimated optimum but as the upper bound of the constrained search.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>In this nationally representative sample of Korean adults, 24-h movement behavior composition was associated with cardiometabolic risk, with greater relative sleep and MVPA associated with lower CmRS and sedentary behavior with higher CmRS. Machine-learning analyses identified nonlinear associations and model-derived favorable ranges, while grid-search analyses identified favorable 24-h compositions.</p><p>The observed associations are broadly consistent with previous compositional studies showing that a greater relative proportion of the 24-h day spent in sleep and MVPA is associated with more favorable cardiometabolic health, whereas sedentary behavior shows the opposite pattern. <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> Because time-use behaviors are codependent within a finite 24-h day, compositional approaches provide a more realistic representation than conventional regression models. <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> Among the modifiable movement behaviors, MVPA contributed most to model predictions, followed by other activities, sleep duration, and sedentary behavior.</p><p>Beyond the linear associations identified by CoDA, SHAP analyses revealed a nonlinear relation between sleep duration and predicted cardiometabolic risk. Predicted CmRS was lowest at approximately 425 min/day (~7.1 h), and favorable values were observed across a broader range extending from 369 to 514 min/day. This range is broadly consistent with adult sleep recommendations and prior epidemiological evidence showing U-shaped associations between sleep duration and cardiometabolic outcomes. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b34">35,</ref><ref type="bibr" target="#b35">36</ref> A recent UK Biobank analysis similarly identified an optimal sleep duration of 6.4-7.8 h/day, suggesting convergence around 7 h/day despite differences in populations and outcomes. <ref type="bibr" target="#b36">37</ref> Because Korean adults tend to report shorter sleep durations than several Western populations, <ref type="bibr" target="#b37">38</ref> the generalizability of this model-derived range warrants further investigation.</p><p>Predicted cardiometabolic risk increased progressively with greater sedentary time, although the magnitude of increase became more gradual at higher sedentary durations. This observation is consistent with previous evidence indicating that prolonged sedentary time is independently associated with obesity, dyslipidemia, insulin resistance, and cardiovascular disease risk, even after accounting for physical activity levels. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b5">6</ref> MVPA exhibited the strongest contribution among the four movement behaviors. This finding is consistent with the established cardiometabolic benefits of MVPA. 7 ˒ <ref type="bibr" target="#b16">17</ref> The inverse association with predicted CmRS was steepest among individuals reporting very low Note: Results are presented from s urvey-weighted compositional data analysis adjusted for age, sex, survey year, household income, education, occupation, smoking status, alcohol consumption frequency, and total energy intake. β coefficients represent pivot coordinate estimates for the relative contribution of each movement behavior while accounting for the remaining behaviors within the 24-h composition. The overall p value represents the joint significance test of the compositional model. CmRS, cardiometabolic risk score; SB, sedentary behavior; MVPA, moderate-tovigorous physical activity; HDL-C, high-density lipoprotein cholesterol.</p><p>MVPA levels (approximately 0-15 min/day), followed by a more gradual decline at higher activity levels. This pattern suggests that individuals with very low MVPA may be an important target population for future physical activity interventions. However, the approximately 15-min/day transition should be interpreted as a descriptive feature of the model-derived SHAP pattern rather than a clinically established threshold or minimum effective dose. Given the cross-sectional design, these findings do not establish the causal benefits of increasing MVPA. Associations for other activities were weak. Within the 24-h movement behavior framework, this residual component was intended to represent LPA and standing. However, because neither behavior was directly measured in KNHANES, the residual may also reflect reporting errors in sleep, sedentary behavior, or MVPA. Accordingly, this component should not be interpreted as directly measured LPA or standing, and its association with predicted CmRS should be interpreted cautiously. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b24">25</ref> The grid-search analyses further characterized model-derived favorable 24-h movement behavior compositions. Rather than recommending isolated behavioral targets, the grid-search approach estimated complete daily movement behavior compositions associated with lower predicted cardiometabolic risk. Favorable compositions were generally characterized by approximately 7.5 h of sleep, 8 h of sedentary behavior, and relatively high levels of MVPA (median 80 min/day). Interpretation of the MVPA component requires some caution. In KNHANES, MVPA assessed using the GPAQ reflects the combined contribution of occupational, transportation-related, and leisure-time activities. Consequently, the estimated 80 min/day should be viewed as total daily MVPA rather than structured exercise alone. <ref type="bibr" target="#b38">39</ref> Moreover, this level exceeded the survey-weighted 90th percentile of MVPA in the study population, highlighting that it represents a relatively high activity level rather than a typical daily activity pattern. Emerging evidence suggests that activity domain may influence health outcomes, with occupational physical activity not necessarily providing the same cardiometabolic benefits as leisure-time physical activity, a phenomenon often referred to as the "physical activity paradox". <ref type="bibr" target="#b39">40</ref> Importantly, the relatively high MVPA level identified in the unrestricted grid search should not be interpreted as an optimal behavioral target or public-health recommendation. To examine whether this pattern persisted under more practically constrained behavioral changes, we additionally restricted each movement-behavior component to vary by no more than 30 min/day from a representative composition. Under these constraints, MVPA consistently reached the upper end of the permitted range, whereas the other movement behaviors remained within their respective bounds. Thus, both the unrestricted and constrained analyses favored greater MVPA within their respective search spaces, while the exact model-derived value depended on the range of behavioral changes permitted. These findings should therefore be interpreted as model-derived patterns of complete 24-h movement compositions rather than specific behavioral recommendations.</p><p>Several strengths of this study should be highlighted. The large nationally representative sample provides population-level evidence from more than 40,000 Korean adults, complementing device-based studies that often involve smaller samples. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b11">12</ref> A key methodological strength was the integration of three complementary approaches. CoDA quantified relative associations and time-reallocation effects within the fixed 24-h day, <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b27">28</ref> XGBoost and SHAP characterized nonlinear patterns and  model-derived favorable ranges, and the grid-search procedure identified complete model-derived favorable 24-h compositions. <ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b18">19,</ref><ref type="bibr" target="#b20">21</ref> The consistency of SHAP-derived feature importance rankings across cross-validation folds supports the robustness of the model-based findings, with mean overlap, Spearman's ρ, and Kendall's τ values of 0.85, 0.93, and 0.87, respectively. The overall nonlinear patterns were also broadly consistent across age and sex strata, indicating that the principal model-derived associations were generally maintained across demographic subgroups, although some heterogeneity in the magnitude of the MVPA association was observed across age groups. Consistent conclusions obtained from both CoDA and SHAP analyses provide complementary evidence supporting the observed associations.</p><p>Several limitations should be acknowledged. First, the crosssectional design precludes causal inference; longitudinal and intervention studies are needed to confirm these associations. Second, sleep duration, sedentary behavior, and physical activity were assessed using self-reported questionnaires and are therefore subject to recall bias and measurement error. <ref type="bibr" target="#b22">23,</ref><ref type="bibr" target="#b40">41</ref> In addition, because physical activity data in KNHANES were derived from the GPAQ, direct assessment of LPA was not available. <ref type="bibr" target="#b22">23</ref> Consequently, the residual "other activities" component was intended to represent LPA and standing, although neither behavior was directly measured. Because this component was derived from self-reported durations, it may also reflect measurement error in the reported movement behaviors. Furthermore, sleep was represented by duration only, and other dimensions such as sleep quality, timing, and regularity were not considered. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b41">42</ref> Future studies incorporating device-based assessments may provide more precise estimates of 24-h movement behaviors. <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b15">16</ref> Third, the model-derived ranges and favorable compositions were obtained from the XGBoost model and should not be interpreted as universally applicable recommendations. External validation is needed before clinical or public-health application. Furthermore, the bootstrap confidence intervals for the SHAP dependence curves were obtained with the fitted XGBoost model held fixed and therefore did not account for uncertainty arising from model fitting or hyperparameter selection. SHAP patterns at the extremes of the observed movement-behavior distributions should also be interpreted cautiously because relatively few participants contributed data at these levels. Moreover, because survey weights were not incorporated into the machine-learning models, these estimates reflect patterns within the observed sample rather than national population estimates. Finally, unmeasured biological, behavioral, and environmental factors may contribute to residual confounding and limit model performance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusions</head><p>In conclusion, 24-h movement behavior composition was significantly associated with cardiometabolic risk in Korean adults. Greater relative sleep and MVPA and lower sedentary behavior were associated with more favorable cardiometabolic health profiles. Explainable machine-learning analyses further suggested nonlinear associations and identified model-derived favorable ranges and daily movement behavior compositions that warrant evaluation in longitudinal and intervention studies.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data access statement</head><p>The datasets analyzed during the current study are available from the Korea National Health and Nutrition Examination Survey (KNHANES) upon application to and approval by the Korea Disease Control and Prevention Agency. The analytic code used in this study is available from the corresponding author on reasonable request. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Participant selection flow diagram.</figDesc><graphic coords="2,126.94,169.53,341.42,556.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Time reallocation and predicted cardiometabolic risk. Changes in predicted cardiometabolic risk score (CmRS) were estimated using compositional isotemporal substitution models. Lines represent the predicted change in CmRS associated with reallocating 5-30 min/day to sleep, sedentary behavior, other activities, or moderate-to-vigorous physical activity (MVPA), relative to the reference composition. Shaded areas indicate 95% confidence intervals.</figDesc><graphic coords="6,126.94,55.43,341.42,150.48" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. SHAP feature importance and summary plots for the XGBoost model predicting cardiometabolic risk score (CmRS). (A) Mean absolute SHAP values indicating the overall contribution of each predictor to model output. Larger values indicate greater influence on predicted cardiometabolic risk. (B) SHAP summary plot showing the distribution of SHAP values for each predictor. Each point represents one participant included in the SHAP analysis sample. Color indicates the relative feature value (blue = low, red = high). Positive SHAP values indicate higher predicted cardiometabolic risk, whereas negative values indicate lower predicted risk.</figDesc><graphic coords="6,126.94,263.64,341.42,124.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 4 .</head><label>4</label><figDesc>Fig. 4. Nonlinear associations between individual movement behaviors and predicted cardiometabolic risk. SHAP values for sleep duration, sedentary behavior, other activities, and moderate-to-vigorous physical activity (MVPA) are plotted against observed values. Red lines represent LOWESS-smoothed trends estimated from SHAP values. Shaded areas indicate bootstrap 95% confidence intervals (300 resamples). Positive SHAP values indicate higher predicted cardiometabolic risk, whereas negative SHAP values indicate lower predicted risk. Vertical dashed lines indicate model-derived favorable-range boundaries for sleep or an approximate transition point in the SHAP pattern for MVPA; these should not be interpreted as clinical thresholds. For visualization, observations above the 99th percentile of each movement behavior were omitted from the displayed curves. Bootstrap confidence intervals represent uncertainty in the smoothed SHAP patterns conditional on the fitted model, rather than confidence intervals for epidemiological associations.</figDesc><graphic coords="7,63.16,55.40,469.01,272.74" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Characteristics of the study participants (n = 41,288).</figDesc><table><row><cell></cell><cell>Mean ± SD</cell><cell>Median (IQR)</cell></row><row><cell>Demographics</cell><cell></cell><cell></cell></row><row><cell>Age, years BMI, kg/m 2</cell><cell>47.8 ± 16.5 24.1 ± 3.7</cell><cell>48.0 (34.0-60.0) 23.7 (21.5-26.2)</cell></row><row><cell>Sex, n [%]</cell><cell></cell><cell></cell></row><row><cell>Male</cell><cell>17,735 [50.1]</cell><cell></cell></row><row><cell>Female</cell><cell>23,553 [49.9]</cell><cell></cell></row><row><cell>Education level, n [%]</cell><cell></cell><cell></cell></row><row><cell>Elementary school or less</cell><cell>7314 [11.9]</cell><cell></cell></row><row><cell>Middle school</cell><cell>4083 [7.8]</cell><cell></cell></row><row><cell>High school</cell><cell>13,679 [35.7]</cell><cell></cell></row><row><cell>College or higher</cell><cell>16,212 [44.7]</cell><cell></cell></row><row><cell>Occupation, n [%]</cell><cell></cell><cell></cell></row><row><cell>Professional/Managerial</cell><cell>6007 [16.9]</cell><cell></cell></row><row><cell>Clerical</cell><cell>4427 [12.5]</cell><cell></cell></row><row><cell>Service/Sales</cell><cell>5445 [14.0]</cell><cell></cell></row><row><cell>Agriculture</cell><cell>1615 [2.5]</cell><cell></cell></row><row><cell>Skilled Manual</cell><cell>3977 [11.0]</cell><cell></cell></row><row><cell>Elementary occupations</cell><cell>3889 [8.1]</cell><cell></cell></row><row><cell>Not employed</cell><cell>15,928 [35.0]</cell><cell></cell></row><row><cell>Household income, n [%]</cell><cell></cell><cell></cell></row><row><cell>Low</cell><cell>7446 [14.0]</cell><cell></cell></row><row><cell>Lower-middle</cell><cell>10,073 [22.9]</cell><cell></cell></row><row><cell>Upper-middle</cell><cell>11,452 [29.8]</cell><cell></cell></row><row><cell>High</cell><cell>12,317 [33.3]</cell><cell></cell></row><row><cell>Smoking habit, n [%]</cell><cell></cell><cell></cell></row><row><cell>Current</cell><cell>6492 [18.7]</cell><cell></cell></row><row><cell>Former</cell><cell>9375 [23.7]</cell><cell></cell></row><row><cell>Never</cell><cell>25,421 [57.6]</cell><cell></cell></row><row><cell>Drinking frequency, n [%]</cell><cell></cell><cell></cell></row><row><cell>Lifetime abstainer</cell><cell>4406 [8.0]</cell><cell></cell></row><row><cell>Never in past year</cell><cell>7391 [15.8]</cell><cell></cell></row><row><cell>&lt;1/month</cell><cell>7956 [19.3]</cell><cell></cell></row><row><cell>1/month</cell><cell>4267 [10.9]</cell><cell></cell></row><row><cell>2-4/month</cell><cell>8904 [24.0]</cell><cell></cell></row><row><cell>2-3/week</cell><cell>5893 [15.8]</cell><cell></cell></row><row><cell>≥4/week</cell><cell>2471 [6.1]</cell><cell></cell></row><row><cell>Energy intake, kcal/day</cell><cell>1942.9 ± 877.7</cell><cell>1792.1 (1342.0-2359.9)</cell></row><row><cell>Anthropometric/Cardiometabolic</cell><cell></cell><cell></cell></row><row><cell>Waist circumference, cm</cell><cell>83 ± 11</cell><cell>83 (76-90)</cell></row><row><cell>SBP, mmHg</cell><cell>118 ± 16</cell><cell>116 (107-127)</cell></row><row><cell>DBP, mmHg</cell><cell>75 ± 10</cell><cell>74 (68-82)</cell></row><row><cell>Glucose, mg/dL</cell><cell>100 ± 22</cell><cell>95 (89-103)</cell></row><row><cell>Triglycerides, mg/dL</cell><cell>132 ± 106</cell><cell>105 (73-157)</cell></row><row><cell>HDL cholesterol, mg/dL</cell><cell>54 ± 14</cell><cell>52 (44-62)</cell></row><row><cell>CmRS, index</cell><cell>-0.05 ± 0.65</cell><cell>-0.07 (-0.53-0.39)</cell></row><row><cell>Movement Behaviors</cell><cell></cell><cell></cell></row><row><cell>Sleep duration, min/day</cell><cell>426 ± 73</cell><cell>420 (377-480)</cell></row><row><cell>Sedentary behavior, min/day</cell><cell>516 ± 204</cell><cell>515 (360-660)</cell></row><row><cell>Other activities, min/day</cell><cell>467 ± 209</cell><cell>463 (309-626)</cell></row><row><cell>MVPA, min/day</cell><cell>31 ± 45</cell><cell>17 (0-43)</cell></row></table><note><p>Note: Values are presented as survey-weighted mean ± SD, survey-weighted median (IQR), or unweighted n [survey-weighted %]. BMI, body mass index; SBP, systolic blood pressure; DBP, diastolic blood pressure; HDL, high-density lipoprotein cholesterol; CmRS, cardiometabolic risk score; MVPA, moderateto-vigorous physical activity; IQR, interquartile range.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Associations of relative 24-h movement behaviors with cardiometabolic risk.</figDesc><table><row><cell></cell><cell></cell><cell>Pivot</cell><cell>95% CI</cell><cell>p-value</cell></row><row><cell></cell><cell></cell><cell>coefficient (β)</cell><cell></cell><cell></cell></row><row><cell>CmRS, index</cell><cell>Sleep</cell><cell>-0.073</cell><cell>-0.095,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>-0.051</cell><cell></cell></row><row><cell></cell><cell>SB</cell><cell>0.086</cell><cell>0.070,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>0.102</cell><cell></cell></row><row><cell></cell><cell>Other</cell><cell>0.004</cell><cell>-0.006,</cell><cell>0.446</cell></row><row><cell></cell><cell>activities</cell><cell></cell><cell>0.014</cell><cell></cell></row><row><cell></cell><cell>MVPA</cell><cell>-0.017</cell><cell>-0.020,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>-0.013</cell><cell></cell></row><row><cell></cell><cell>Overall</cell><cell></cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>Waist circumference,</cell><cell>Sleep</cell><cell>-1.650</cell><cell>-2.037,</cell><cell>&lt;0.001</cell></row><row><cell>cm</cell><cell></cell><cell></cell><cell>-1.262</cell><cell></cell></row><row><cell></cell><cell>SB</cell><cell>1.613</cell><cell>1.352,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>1.875</cell><cell></cell></row><row><cell></cell><cell>Other</cell><cell>0.180</cell><cell>-0.018,</cell><cell>0.075</cell></row><row><cell></cell><cell>activities</cell><cell></cell><cell>0.379</cell><cell></cell></row><row><cell></cell><cell>MVPA</cell><cell>-0.144</cell><cell>-0.204,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>-0.084</cell><cell></cell></row><row><cell></cell><cell>Overall</cell><cell></cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>Systolic blood</cell><cell>Sleep</cell><cell>-1.095</cell><cell>-1.584,</cell><cell>&lt;0.001</cell></row><row><cell>pressure, mmHg</cell><cell></cell><cell></cell><cell>-0.607</cell><cell></cell></row><row><cell></cell><cell>SB</cell><cell>0.851</cell><cell>0.466,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>1.236</cell><cell></cell></row><row><cell></cell><cell>Other</cell><cell>0.136</cell><cell>-0.051,</cell><cell>0.154</cell></row><row><cell></cell><cell>activities</cell><cell></cell><cell>0.323</cell><cell></cell></row><row><cell></cell><cell>MVPA</cell><cell>0.108</cell><cell>0.023,</cell><cell>0.013</cell></row><row><cell></cell><cell></cell><cell></cell><cell>0.194</cell><cell></cell></row><row><cell></cell><cell>Overall</cell><cell></cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>Diastolic blood</cell><cell>Sleep</cell><cell>-1.214</cell><cell>-1.579,</cell><cell>&lt;0.001</cell></row><row><cell>pressure, mmHg</cell><cell></cell><cell></cell><cell>-0.848</cell><cell></cell></row><row><cell></cell><cell>SB</cell><cell>0.759</cell><cell>0.496,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>1.021</cell><cell></cell></row><row><cell></cell><cell>Other</cell><cell>0.502</cell><cell>0.334,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell>activities</cell><cell></cell><cell>0.669</cell><cell></cell></row><row><cell></cell><cell>MVPA</cell><cell>-0.047</cell><cell>-0.105,</cell><cell>0.112</cell></row><row><cell></cell><cell></cell><cell></cell><cell>0.011</cell><cell></cell></row><row><cell></cell><cell>Overall</cell><cell></cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>Fasting blood glucose,</cell><cell>Sleep</cell><cell>-0.870</cell><cell>-1.736,</cell><cell>0.049</cell></row><row><cell>mg/dL</cell><cell></cell><cell></cell><cell>-0.004</cell><cell></cell></row><row><cell></cell><cell>SB</cell><cell>1.179</cell><cell>0.533,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>1.825</cell><cell></cell></row><row><cell></cell><cell>Other</cell><cell>0.029</cell><cell>-0.315,</cell><cell>0.867</cell></row><row><cell></cell><cell>activities</cell><cell></cell><cell>0.373</cell><cell></cell></row><row><cell></cell><cell>MVPA</cell><cell>-0.338</cell><cell>-0.468,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>-0.208</cell><cell></cell></row><row><cell></cell><cell>Overall</cell><cell></cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>HDL-C, mg/dL</cell><cell>Sleep</cell><cell>0.046</cell><cell>-0.385,</cell><cell>0.834</cell></row><row><cell></cell><cell></cell><cell></cell><cell>0.476</cell><cell></cell></row><row><cell></cell><cell>SB</cell><cell>-0.746</cell><cell>-1.076,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>-0.416</cell><cell></cell></row><row><cell></cell><cell>Other</cell><cell>0.324</cell><cell>0.138,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell>activities</cell><cell></cell><cell>0.511</cell><cell></cell></row><row><cell></cell><cell>MVPA</cell><cell>0.376</cell><cell>0.301,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>0.450</cell><cell></cell></row><row><cell></cell><cell>Overall</cell><cell></cell><cell></cell><cell>&lt;0.001</cell></row><row><cell>log Triglycerides, mg/</cell><cell>Sleep</cell><cell>-4.822</cell><cell>-8.885,</cell><cell>0.020</cell></row><row><cell>dL</cell><cell></cell><cell></cell><cell>-0.759</cell><cell></cell></row><row><cell></cell><cell>SB</cell><cell>6.580</cell><cell>3.630,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>9.529</cell><cell></cell></row><row><cell></cell><cell>Other</cell><cell>0.222</cell><cell>-1.718,</cell><cell>0.822</cell></row><row><cell></cell><cell>activities</cell><cell></cell><cell>2.162</cell><cell></cell></row><row><cell></cell><cell>MVPA</cell><cell>-1.980</cell><cell>-2.636,</cell><cell>&lt;0.001</cell></row><row><cell></cell><cell></cell><cell></cell><cell>-1.324</cell><cell></cell></row><row><cell></cell><cell>Overall</cell><cell></cell><cell></cell><cell>&lt;0.001</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors acknowledge the support of the <rs type="programName">FSU-SKKU Collaborative Research Program</rs> facilitated by the <rs type="funder">Anne Spencer Daves College of Education, Health</rs>, and <rs type="person">Human Sciences</rs> at <rs type="affiliation">Florida State University (FSU</rs>) and the <rs type="funder">College of Sport Science at Sungkyunkwan University</rs> (SKKU).</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding statement</head><p>J.S. and J.C.W. were supported by the <rs type="funder">FSU-SKKU</rs> <rs type="programName">Collaborative Research Program</rs>. J.C.W. was also supported by the <rs type="funder">National Institutes of Health</rs> [<rs type="grantNumber">K01HL160772</rs>]. The funders had no role in the design of the study; collection, analysis, or interpretation of data; writing of the manuscript; or decision to submit the manuscript for publication.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_XQcqJyU">
+					<orgName type="program" subtype="full">FSU-SKKU Collaborative Research Program</orgName>
+				</org>
+				<org type="funding" xml:id="_NtsZtwQ">
+					<orgName type="program" subtype="full">Collaborative Research Program</orgName>
+				</org>
+				<org type="funding" xml:id="_rAdQymr">
+					<idno type="grant-number">K01HL160772</idno>
+				</org>
+			</listOrg>
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of conflicts of interest</head><p>Jaehoon Seol and Jinkyung Cho declare no competing interests. Joseph C. Watso provides consulting services through Watso Health LLC.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>CRediT authorship contribution statement J.S.: Conceptualization, Methodology, Formal analysis, Data curation, Visualization, Writing-original draft. J.C.: Interpretation of data, Validation, Writing-review &amp; editing. J.C.W.: Conceptualization, Supervision, Interpretation of data, Writing-review &amp; editing.</p><p>All authors read and approved the final manuscript.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ethics approval statement</head><p>This cross-sectional study used data from the Korea National Health and Nutrition Examination Survey (KNHANES) collected between 2016 and 2024. All procedures were performed in accordance with the ethical standards of the relevant institutional and/or national research committee and with the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards. The KNHANES protocol was approved by the Institutional Review Board of the Korea Disease Control and Prevention Agency (2018-01-03-P-A, 2018-01-03-C-A, 2018-01-03-2C-A, 2018-01-03-5C-A, 2018-01-03-4C-A, 2022-11-16-R-A, and 2022-11-16-R-03), whereas the 2016 and 2017 surveys were exempt from IRB review according to the Bioethics and Safety Act. All participants provided written informed consent.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Supplementary data</head><p>Supplementary data to this article can be found online at <ref type="url" target="https://doi.org/10.1016/j.jesf.2026.200550">https://doi.  org/10.1016/j.jesf.2026.200550</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023</title>
+		<idno type="DOI">10.1016/S0140-6736(25)01917-8</idno>
+		<ptr target="https://doi.org/10.1016/S0140-6736(25)01917-8" />
+	</analytic>
+	<monogr>
+		<title level="j">Lancet</title>
+		<imprint>
+			<biblScope unit="volume">406</biblScope>
+			<biblScope unit="page" from="1811" to="1872" />
+			<date type="published" when="2025">2025. 10513</date>
+			<publisher>GBD 2023 Causes of Death Collaborators</publisher>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">GBD 2023 Causes of Death Collaborators. Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023. Lancet. 2025;406 (10513):1811-1872. https://doi.org/10.1016/S0140-6736(25)01917-8.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Worldwide trends in metabolic syndrome from 2000 to 2023: a systematic review and modelling analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Noubiap</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Nansseu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">F</forename><surname>Nyaga</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/s41467-025-67268-5</idno>
+		<ptr target="https://doi.org/10.1038/s41467-025-67268-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Nat Commun</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">573</biblScope>
+			<date type="published" when="2026">2026</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Noubiap JJ, Nansseu JR, Nyaga UF, et al. Worldwide trends in metabolic syndrome from 2000 to 2023: a systematic review and modelling analysis. Nat Commun. 2026; 17:573. https://doi.org/10.1038/s41467-025-67268-5.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Sedentary behaviour and cardiometabolic health: integrating the potential underlying molecular health aspects</title>
+		<author>
+			<persName><forename type="first">Wma</forename><surname>Franssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Nieste</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Verboven</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.metabol.2025.156320</idno>
+		<ptr target="https://doi.org/10.1016/j.metabol.2025.156320" />
+	</analytic>
+	<monogr>
+		<title level="j">Metabolism</title>
+		<imprint>
+			<biblScope unit="volume">170</biblScope>
+			<biblScope unit="page">156320</biblScope>
+			<date type="published" when="2025">2025</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Franssen WMA, Nieste I, Verboven K, et al. Sedentary behaviour and cardiometabolic health: integrating the potential underlying molecular health aspects. Metabolism. 2025;170, 156320. https://doi.org/10.1016/j. metabol.2025.156320.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Reallocating 24-hour movement behaviors and cardiometabolic health in adults: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yue</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/s13690-026-01885-4</idno>
+		<ptr target="https://doi.org/10.1186/s13690-026-01885-4" />
+		<imprint>
+			<date type="published" when="2026">2026</date>
+			<publisher>Arch Public Health</publisher>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">92</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Zhang Y, Zhang J, Yue J, et al. Reallocating 24-hour movement behaviors and cardiometabolic health in adults: a systematic review and meta-analysis. Arch Public Health. 2026;84(1):92. https://doi.org/10.1186/s13690-026-01885-4.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Sleep duration and quality: impact on lifestyle behaviors and cardiometabolic health: a scientific statement From the American heart association</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>St-Onge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Grandner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brown</surname></persName>
+		</author>
+		<idno type="DOI">10.1161/CIR.0000000000000444</idno>
+		<ptr target="https://doi.org/10.1161/CIR.0000000000000444" />
+	</analytic>
+	<monogr>
+		<title level="j">Circulation</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="issue">18</biblScope>
+			<biblScope unit="page" from="367" to="e386" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">St-Onge MP, Grandner MA, Brown D, et al. Sleep duration and quality: impact on lifestyle behaviors and cardiometabolic health: a scientific statement From the American heart association. Circulation. 2016;134(18):e367-e386. https://doi.org/ 10.1161/CIR.0000000000000444.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Sedentary time and its association with risk for disease incidence, mortality, and hospitalization in adults: a systematic review and meta-analysis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Biswas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Oh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Faulkner</surname></persName>
+		</author>
+		<idno type="DOI">10.7326/M14-1651</idno>
+		<ptr target="https://doi.org/10.7326/M14-1651" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="123" to="132" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Biswas A, Oh PI, Faulkner GE, et al. Sedentary time and its association with risk for disease incidence, mortality, and hospitalization in adults: a systematic review and meta-analysis. Ann Intern Med. 2015;162(2):123-132. https://doi.org/10.7326/ M14-1651.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Lack of exercise is a major cause of chronic diseases</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Laye</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cphy.c110025</idno>
+		<ptr target="https://doi.org/10.1002/cphy.c110025" />
+	</analytic>
+	<monogr>
+		<title level="j">Compr Physiol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1143" to="1211" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Booth FW, Roberts CK, Laye MJ. Lack of exercise is a major cause of chronic diseases. Compr Physiol. 2012;2(2):1143-1211. https://doi.org/10.1002/cphy. c110025.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Compositional data analysis for physical activity, sedentary time and sleep research</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dumuid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Stanford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martin</forename><forename type="middle">-</forename><surname>Fernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1177/0962280217710835</idno>
+		<ptr target="https://doi.org/10.1177/0962280217710835" />
+	</analytic>
+	<monogr>
+		<title level="j">Stat Methods Med Res</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="3726" to="3738" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dumuid D, Stanford TE, Martin-Fernández JA, et al. Compositional data analysis for physical activity, sedentary time and sleep research. Stat Methods Med Res. 2018;27 (12):3726-3738. https://doi.org/10.1177/0962280217710835.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Importance of all movement behaviors in a 24 hour period for overall health</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Chaput</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Carson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Gray</surname></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph111212575</idno>
+		<ptr target="https://doi.org/10.3390/ijerph111212575" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Environ Res Publ Health</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="12575" to="12581" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chaput JP, Carson V, Gray CE, et al. Importance of all movement behaviors in a 24 hour period for overall health. Int J Environ Res Publ Health. 2014;11(12): 12575-12581. https://doi.org/10.3390/ijerph111212575.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Isotemporal substitution paradigm for physical activity epidemiology and weight change</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mekary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Willett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Hu</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/aje/kwp163</idno>
+		<ptr target="https://doi.org/10.1093/aje/kwp163" />
+	</analytic>
+	<monogr>
+		<title level="j">Am J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">170</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="519" to="527" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Mekary RA, Willett WC, Hu FB, et al. Isotemporal substitution paradigm for physical activity epidemiology and weight change. Am J Epidemiol. 2009;170(4):519-527. https://doi.org/10.1093/aje/kwp163.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Combined effects of time spent in physical activity, sedentary behaviors and sleep on obesity and cardio-metabolic health markers: a novel compositional data analysis approach</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Chastin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Palarea-Albaladejo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Dontje</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0139984</idno>
+		<ptr target="https://doi.org/10.1371/journal.pone.0139984" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">139984</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chastin SF, Palarea-Albaladejo J, Dontje ML, et al. Combined effects of time spent in physical activity, sedentary behaviors and sleep on obesity and cardio-metabolic health markers: a novel compositional data analysis approach. PLoS One. 2015;10 (10), e0139984. https://doi.org/10.1371/journal.pone.0139984.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Associations of 24 h time-use compositions of sitting, standing, physical activity and sleeping with optimal cardiometabolic risk and glycaemic control: the Maastricht Study</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Brakenridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Koster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>De Galan</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00125-024-06145-0</idno>
+		<ptr target="https://doi.org/10.1007/s00125-024-06145-0" />
+	</analytic>
+	<monogr>
+		<title level="j">Diabetologia</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1356" to="1367" />
+			<date type="published" when="2024">2024</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brakenridge CJ, Koster A, de Galan BE, et al. Associations of 24 h time-use compositions of sitting, standing, physical activity and sleeping with optimal cardiometabolic risk and glycaemic control: the Maastricht Study. Diabetologia. 2024;67(7):1356-1367. https://doi.org/10.1007/s00125-024-06145-0.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Compositional analysis of the association between mortality and 24-hour movement behaviour from NHANES</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Mcgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Palarea-Albaladejo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Dall</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/2047487319867783</idno>
+		<ptr target="https://doi.org/10.1177/2047487319867783" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Prev Cardiol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="791" to="798" />
+			<date type="published" when="2021">2021</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">McGregor DE, Palarea-Albaladejo J, Dall PM, et al. Compositional analysis of the association between mortality and 24-hour movement behaviour from NHANES. Eur J Prev Cardiol. 2021;28(7):791-798. https://doi.org/10.1177/2047487319867783.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Cardiovascular disease, 24-h movement behaviors and all-cause mortality: a compositional mediation analysis based on a prospective cohort</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Cai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Liang</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesf.2026.200457</idno>
+		<ptr target="https://doi.org/10.1016/j.jesf.2026" />
+	</analytic>
+	<monogr>
+		<title level="j">J Exerc Sci Fit</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2026">2026. 200457. 200457</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cai Y, Lin Z, Liang M, et al. Cardiovascular disease, 24-h movement behaviors and all-cause mortality: a compositional mediation analysis based on a prospective cohort. J Exerc Sci Fit. 2026;24(2), 200457. https://doi.org/10.1016/j. jesf.2026.200457.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Cappuccio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D'</forename><surname>Elia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Strazzullo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+		<idno type="DOI">10.1093/sleep/33.5.585</idno>
+		<ptr target="https://doi.org/10.1093/sleep/33.5.585" />
+	</analytic>
+	<monogr>
+		<title level="j">Sleep</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="585" to="592" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cappuccio FP, D&apos;Elia L, Strazzullo P, et al. Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies. Sleep. 2010;33(5): 585-592. https://doi.org/10.1093/sleep/33.5.585.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Dose-response associations between accelerometry measured physical activity and sedentary time and all cause mortality: systematic review and harmonised meta-analysis</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Ekelund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tarp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Steene-Johannessen</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bmj.l4570</idno>
+		<ptr target="https://doi.org/10.1136/bmj.l4570" />
+	</analytic>
+	<monogr>
+		<title level="j">Br Med J</title>
+		<imprint>
+			<biblScope unit="volume">366</biblScope>
+			<biblScope unit="page">4570</biblScope>
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ekelund U, Tarp J, Steene-Johannessen J, et al. Dose-response associations between accelerometry measured physical activity and sedentary time and all cause mortality: systematic review and harmonised meta-analysis. Br Med J. 2019;366, l4570. https://doi.org/10.1136/bmj.l4570.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Leisure time physical activity and mortality: a detailed pooled analysis of the dose-response relationship</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Arem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Patel</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jamainternmed.2015.0533</idno>
+		<ptr target="https://doi.org/10.1001/jamainternmed.2015.0533" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA Intern Med</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="959" to="967" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Arem H, Moore SC, Patel A, et al. Leisure time physical activity and mortality: a detailed pooled analysis of the dose-response relationship. JAMA Intern Med. 2015; 175(6):959-967. https://doi.org/10.1001/jamainternmed.2015.0533.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Big data and machine learning in health care</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Beam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">S</forename><surname>Kohane</surname></persName>
+		</author>
+		<idno type="DOI">10.1001/jama.2017.18391</idno>
+		<ptr target="https://doi.org/10.1001/jama.2017.18391" />
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">319</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1317" to="1318" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Beam AL, Kohane IS. Big data and machine learning in health care. JAMA. 2018;319 (13):1317-1318. https://doi.org/10.1001/jama.2017.18391.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Machine learning in medicine</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rajkomar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Kohane</surname></persName>
+		</author>
+		<idno type="DOI">10.1056/NEJMra1814259</idno>
+		<ptr target="https://doi.org/10.1056/NEJMra1814259" />
+	</analytic>
+	<monogr>
+		<title level="j">N Engl J Med</title>
+		<imprint>
+			<biblScope unit="volume">380</biblScope>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="1347" to="1358" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Rajkomar A, Dean J, Kohane I. Machine learning in medicine. N Engl J Med. 2019; 380(14):1347-1358. https://doi.org/10.1056/NEJMra1814259.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b19">
+	<analytic>
+		<title level="a" type="main">XGBoost: a scalable tree boosting system</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Guestrin</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/2939672.2939785</idno>
+		<ptr target="https://doi.org/10.1145/2939672.2939785" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</title>
+		<meeting>the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</meeting>
+		<imprint>
+			<publisher>Association for Computing Machinery</publisher>
+			<biblScope unit="volume">2016</biblScope>
+			<biblScope unit="page" from="785" to="794" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen T, Guestrin C. XGBoost: a scalable tree boosting system. In: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Association for Computing Machinery; 2016:785-794. https://doi.org/10.1145/ 2939672.2939785.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">A unified approach to interpreting model predictions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lundberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">I</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Neural Information Processing Systems</title>
+		<editor>
+			<persName><forename type="first">S</forename><surname>Bengio</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Curran Associates Inc</publisher>
+			<date type="published" when="2017">2017</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="4765" to="4774" />
+		</imprint>
+	</monogr>
+	<note>Guyon I, Luxburg UV</note>
+	<note type="raw_reference">Lundberg SM, Lee SI. A unified approach to interpreting model predictions. In: Guyon I, Luxburg UV, Bengio S, et al., eds. Advances in Neural Information Processing Systems 30 (NIPS 2017). Curran Associates Inc; 2017:4765-4774.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Data resource profile: the Korea National Health and Nutrition Examination Survey (KNHANES)</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kweon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Jang</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/ije/dyt228</idno>
+		<ptr target="https://doi.org/10.1093/ije/dyt228" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Epidemiol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="69" to="77" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kweon S, Kim Y, Jang MJ, et al. Data resource profile: the Korea National Health and Nutrition Examination Survey (KNHANES). Int J Epidemiol. 2014;43(1):69-77. https://doi.org/10.1093/ije/dyt228.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Development of the World Health Organization Global Physical Activity Questionnaire (GPAQ)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bull</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s10389-006-0024-x</idno>
+		<ptr target="https://doi.org/10.1007/s10389-006-0024-x" />
+	</analytic>
+	<monogr>
+		<title level="j">J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="66" to="70" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Armstrong T, Bull F. Development of the World Health Organization Global Physical Activity Questionnaire (GPAQ). J Public Health. 2006;14(2):66-70. https://doi.org/ 10.1007/s10389-006-0024-x.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Sedentary behaviour, physical activity and a continuous metabolic syndrome risk score in adults</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wijndaele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Duvigneaud</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Matton</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/sj.ejcn.1602944</idno>
+		<ptr target="https://doi.org/10.1038/sj.ejcn.1602944" />
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="421" to="429" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wijndaele K, Duvigneaud N, Matton L, et al. Sedentary behaviour, physical activity and a continuous metabolic syndrome risk score in adults. Eur J Clin Nutr. 2009;63 (3):421-429. https://doi.org/10.1038/sj.ejcn.1602944.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Association of domain-specific physical activity and sedentary behavior with cardiometabolic health among office workers</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Kitano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Jindo</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/sms.14165</idno>
+		<ptr target="https://doi.org/10.1111/sms.14165" />
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Med Sci Sports</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1224" to="1235" />
+			<date type="published" when="2022">2022</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kitano N, Kai Y, Jindo T, et al. Association of domain-specific physical activity and sedentary behavior with cardiometabolic health among office workers. Scand J Med Sci Sports. 2022;32(8):1224-1235. https://doi.org/10.1111/sms.14165.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Dealing with zeros and missing values in compositional data sets using nonparametric imputation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Martín-Fernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barceló-</forename><surname>Vidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pawlowsky-Glahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename></persName>
+		</author>
+		<idno type="DOI">10.1023/A:1023866030544</idno>
+		<ptr target="https://doi.org/10.1023/A:1023866030544" />
+	</analytic>
+	<monogr>
+		<title level="j">Math Geol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="253" to="278" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Martín-Fernández JA, Barceló-Vidal C, Pawlowsky-Glahn V. Dealing with zeros and missing values in compositional data sets using nonparametric imputation. Math Geol. 2003;35(3):253-278. https://doi.org/10.1023/A:1023866030544.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Isometric logratio transformations for compositional data analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Egozcue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Pawlowsky-Glahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Mateu-Figueras</surname></persName>
+		</author>
+		<idno type="DOI">10.1023/A:1023818214614</idno>
+		<ptr target="https://doi.org/10.1023/A:1023818214614" />
+	</analytic>
+	<monogr>
+		<title level="j">Math Geol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="279" to="300" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Egozcue JJ, Pawlowsky-Glahn V, Mateu-Figueras G, et al. Isometric logratio transformations for compositional data analysis. Math Geol. 2003;35(3):279-300. https://doi.org/10.1023/A:1023818214614.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The compositional isotemporal substitution model: a method for estimating changes in a health outcome for reallocation of time between sleep, physical activity and sedentary behaviour</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dumuid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ž</forename><surname>Pedišić</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Stanford</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/0962280217737805</idno>
+		<ptr target="https://doi.org/10.1177/0962280217737805" />
+	</analytic>
+	<monogr>
+		<title level="j">Stat Methods Med Res</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="846" to="857" />
+			<date type="published" when="2019">2019</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dumuid D, Pedišić Ž, Stanford TE, et al. The compositional isotemporal substitution model: a method for estimating changes in a health outcome for reallocation of time between sleep, physical activity and sedentary behaviour. Stat Methods Med Res. 2019;28(3):846-857. https://doi.org/10.1177/0962280217737805.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Optuna: a next-generation hyperparameter optimization framework</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Akiba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Yanase</surname></persName>
+		</author>
+		<idno type="DOI">10.1145/3292500.3330701</idno>
+		<ptr target="https://doi.org/10.1145/3292500.3330701" />
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</title>
+		<meeting>the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</meeting>
+		<imprint>
+			<publisher>Association for Computing Machinery</publisher>
+			<biblScope unit="volume">2019</biblScope>
+			<biblScope unit="page" from="2623" to="2631" />
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Akiba T, Sano S, Yanase T, et al. Optuna: a next-generation hyperparameter optimization framework. In: Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Association for Computing Machinery; 2019:2623-2631. https://doi.org/10.1145/3292500.3330701.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Robust locally weighted regression and smoothing scatterplots</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Cleveland</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/01621459.1979.10481038</idno>
+		<ptr target="https://doi.org/10.1080/01621459.1979.10481038" />
+	</analytic>
+	<monogr>
+		<title level="j">J Am Stat Assoc</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="issue">368</biblScope>
+			<biblScope unit="page" from="829" to="836" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cleveland WS. Robust locally weighted regression and smoothing scatterplots. J Am Stat Assoc. 1979;74(368):829-836. https://doi.org/10.1080/ 01621459.1979.10481038.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Machine learning-based time-to-event survival analysis in pediatric patients with severe sepsis. Front Pediatr</title>
+		<author>
+			<persName><forename type="first">Q</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Zheng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cai</surname></persName>
+		</author>
+		<idno type="DOI">10.3389/fped.2025.1688416</idno>
+		<ptr target="https://doi.org/10.3389/fped.2025.1688416" />
+		<imprint>
+			<date type="published" when="2025-10-23">2025. 2025 Oct 23</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">1688416</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Huang Q, Zheng L, Cai R, et al. Machine learning-based time-to-event survival analysis in pediatric patients with severe sepsis. Front Pediatr. 2025;13, 1688416. https://doi.org/10.3389/fped.2025.1688416. Published 2025 Oct 23.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">NHANES-Derived machine learning model for early identification of frailty risk in CKM: optimizing resource allocation through predictive analytics</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Ding</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Shi</surname></persName>
+		</author>
+		<idno type="DOI">10.1155/cdr/7296443</idno>
+		<ptr target="https://doi.org/10.1155/cdr/7296443" />
+	</analytic>
+	<monogr>
+		<title level="j">Cardiovasc Ther</title>
+		<imprint>
+			<biblScope unit="volume">2026</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">7296443</biblScope>
+			<date type="published" when="2026">2026</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Ding W, Fang C, Shi F, et al. NHANES-Derived machine learning model for early identification of frailty risk in CKM: optimizing resource allocation through predictive analytics. Cardiovasc Ther. 2026;2026(1), e7296443. https://doi.org/ 10.1155/cdr/7296443.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b32">
+	<analytic>
+		<title level="a" type="main">The &quot;Goldilocks Day&quot; for children&apos;s Skeletal Health: Compositional Data Analysis of 24-Hour Activity Behaviors</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dumuid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wake</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jbmr.4143</idno>
+		<ptr target="https://doi.org/10.1002/jbmr.4143" />
+	</analytic>
+	<monogr>
+		<title level="j">J Bone Miner Res</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="2393" to="2403" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Dumuid D, Simm P, Wake M, et al. The &quot;Goldilocks Day&quot; for children&apos;s Skeletal Health: Compositional Data Analysis of 24-Hour Activity Behaviors. J Bone Miner Res. 2020;35(12):2393-2403. https://doi.org/10.1002/jbmr.4143.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The Goldilocks day for preschoolers&apos; health outcomes: a compositional data analysis of 24-H movement behaviors on weekdays and weekends</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Yu</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.jesf.2025.11.004</idno>
+		<ptr target="https://doi.org/10.1016/j.jesf.2025.11.004" />
+	</analytic>
+	<monogr>
+		<title level="j">J Exerc Sci Fit</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">100425</biblScope>
+			<date type="published" when="2026">2026</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Wang X, Zhang X, Yu JJ, et al. The Goldilocks day for preschoolers&apos; health outcomes: a compositional data analysis of 24-H movement behaviors on weekdays and weekends. J Exerc Sci Fit. 2026;24(1), 100425. https://doi.org/10.1016/j. jesf.2025.11.004.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Recommended amount of sleep for a healthy adult: a joint consensus statement of the American academy of sleep medicine and sleep research society</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Badr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Belenky</surname></persName>
+		</author>
+		<idno type="DOI">10.5665/sleep.4716</idno>
+		<ptr target="https://doi.org/10.5665/sleep.4716" />
+	</analytic>
+	<monogr>
+		<title level="j">Sleep</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="843" to="844" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American academy of sleep medicine and sleep research society. Sleep. 2015;38(6):843-844. https://doi.org/10.5665/ sleep.4716.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b35">
+	<analytic>
+		<title level="a" type="main">National Sleep Foundation&apos;s sleep time duration recommendations: methodology and results summary</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hirshkowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Whiton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Albert</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.sleh.2014.12.010</idno>
+		<ptr target="https://doi.org/10.1016/j.sleh.2014.12.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Health</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="40" to="43" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hirshkowitz M, Whiton K, Albert SM, et al. National Sleep Foundation&apos;s sleep time duration recommendations: methodology and results summary. Sleep Health. 2015;1 (1):40-43. https://doi.org/10.1016/j.sleh.2014.12.010.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Sleep chart of biological ageing clocks in middle and late life</title>
+		<author>
+			<persName><forename type="first">Multi</forename><surname>Consortium</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Toole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Song</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename></persName>
+		</author>
+		<idno type="DOI">10.1038/s41586-026-10524-5</idno>
+		<ptr target="https://doi.org/10.1038/s41586-026-10524-5" />
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<date type="published" when="2026">2026</date>
+		</imprint>
+	</monogr>
+	<note>Published online May</note>
+	<note type="raw_reference">Multi Consortium, O&apos;Toole CK, Song Z, et al. Sleep chart of biological ageing clocks in middle and late life. Nature. 2026;13. https://doi.org/10.1038/s41586-026- 10524-5. Published online May.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Trends of self-reported sleep duration in Korean adults: results from the Korea National Health and Nutrition Examination Survey 2007-2015</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Cho</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.sleep.2018.08.008</idno>
+		<ptr target="https://doi.org/10.1016/j.sleep.2018.08.008" />
+	</analytic>
+	<monogr>
+		<title level="j">Sleep Med</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="103" to="106" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shin D, Hur J, Cho KH, et al. Trends of self-reported sleep duration in Korean adults: results from the Korea National Health and Nutrition Examination Survey 2007- 2015. Sleep Med. 2018;52:103-106. https://doi.org/10.1016/j.sleep.2018.08.008.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Levels of domain-specific physical activity at work, in the household, for travel and for leisure among 327,789 adults from 104 countries</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Strain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Wijndaele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Garcia</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bjsports-2020-102601</idno>
+		<ptr target="https://doi.org/10.1136/bjsports-2020-102601" />
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="1488" to="1497" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Strain T, Wijndaele K, Garcia L, et al. Levels of domain-specific physical activity at work, in the household, for travel and for leisure among 327,789 adults from 104 countries. Br J Sports Med. 2020;54(24):1488-1497. https://doi.org/10.1136/ bjsports-2020-102601.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b39">
+	<analytic>
+		<title level="a" type="main">The physical activity paradox: six reasons why occupational physical activity (OPA) does not confer the cardiovascular health benefits that leisure time physical activity does</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Holtermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Krause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Van Der Beek</surname></persName>
+		</author>
+		<idno type="DOI">10.1136/bjsports-2017-097965</idno>
+		<ptr target="https://doi.org/10.1136/bjsports-2017-097965" />
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="149" to="150" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Holtermann A, Krause N, van der Beek AJ, et al. The physical activity paradox: six reasons why occupational physical activity (OPA) does not confer the cardiovascular health benefits that leisure time physical activity does. Br J Sports Med. 2018;52(3): 149-150. https://doi.org/10.1136/bjsports-2017-097965.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b40">
+	<monogr>
+		<title level="m" type="main">Validity of the global physical activity questionnaire (GPAQ) in assessing levels and change in moderate-vigorous physical activity and sedentary behaviour</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Cleland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kee</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2458-14-1255</idno>
+		<ptr target="https://doi.org/10.1186/1471-2458-14-1255" />
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>BMC Public Health</publisher>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">1255</biblScope>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Cleland CL, Hunter RF, Kee F, et al. Validity of the global physical activity questionnaire (GPAQ) in assessing levels and change in moderate-vigorous physical activity and sedentary behaviour. BMC Public Health. 2014;14:1255. https://doi. org/10.1186/1471-2458-14-1255.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Sleep timing, sleep consistency, and health in adults: a systematic review</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Chaput</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dutil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Featherstone</surname></persName>
+		</author>
+		<idno type="DOI">10.1139/apnm-2020-0032</idno>
+		<ptr target="https://doi.org/10.1139/apnm-2020-0032" />
+	</analytic>
+	<monogr>
+		<title level="j">Appl Physiol Nutr Metab</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="232" to="S247" />
+			<date type="published" when="2020">2020</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chaput JP, Dutil C, Featherstone R, et al. Sleep timing, sleep consistency, and health in adults: a systematic review. Appl Physiol Nutr Metab. 2020;45(10):S232-S247. https://doi.org/10.1139/apnm-2020-0032.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

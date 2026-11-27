@@ -1,0 +1,3899 @@
+{
+  "paper_id": "10.1016+j.smhs.2025.03.003",
+  "info": [
+    {
+      "title": "The immediate effects of wrist extensor training with blood flow restriction on pain perception in middle-aged patients with lateral elbow tendinopathy: A cross-over randomized controlled trial",
+      "keywords": null,
+      "doi": "10.1016/j.smhs.2025.03.003",
+      "file_hash": "436c644ebefa520b",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.smhs.2025.03.003.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Stefanos",
+      "family": "Karanasios",
+      "affiliation": "Physiotherapy Department\n\t\t\t\t\t\t\t\tSchool of Health and Care Sciences\n\t\t\t\t\t\t\t\tUniversity of West Attica\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAigaleo\n\t\t\t\t\t\t\t\t\tGreece",
+      "email": "skaranasios@uniwa.gr",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "Thomas",
+      "family": "Sampsonis",
+      "affiliation": "Physiotherapy Department\n\t\t\t\t\t\t\t\tSchool of Health and Care Sciences\n\t\t\t\t\t\t\t\tUniversity of West Attica\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAigaleo\n\t\t\t\t\t\t\t\t\tGreece",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "Ioannis",
+      "family": "Lignos",
+      "affiliation": "Physiotherapy Department\n\t\t\t\t\t\t\t\tUniversity of Patras\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTh. Diligianni 44\n\t\t\t\t\t\t\t\t\t14562\n\t\t\t\t\t\t\t\t\tKifisia Athens\n\t\t\t\t\t\t\t\t\tGreece Greece",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "George",
+      "family": "Gioftsos",
+      "affiliation": "Physiotherapy Department\n\t\t\t\t\t\t\t\tSchool of Health and Care Sciences\n\t\t\t\t\t\t\t\tUniversity of West Attica\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAigaleo\n\t\t\t\t\t\t\t\t\tGreece",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Blood flow restriction (BFR) training provides a new means of musculoskeletal rehabilitation, suggesting significant outcomes in muscle hypertrophy, strength intensity, and pain reduction.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We aimed to evaluate the immediate hypolagesic effects of a single wrist extensor training session with BFR compared to non-BFR training in patients with lateral elbow tendinopathy (LET).",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: Twenty patients with LET (12 men and 8 women; mean age: [49.6 AE 6.6] years) participated in the study.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants performed a wrist extensor exercise (30-15-15-15 repetitions) in a randomized order, using either a BFR or a non-BFR condition, one week apart.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The primary outcome was the change in pressure pain thresholds (PPTs) at local and distal body sites immediately after training.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Secondary outcomes included pain-free grip strength (PFGS), blood pressure, and rating of perceived exertion.",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: No significant differences were found between BFR and non-BFR conditions in PPTs at any measurement site (p > 0.05).",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Results: No significant differences were found between BFR and non-BFR conditions in PPTs at any measurement site (p &gt; 0.05)."
+    },
+    {
+      "text": "While there was a statistically significant difference in PFGS favoring BFR training (4.4, 95% Confidence Intervals [CI]: 1.9 to 16.9; p < 0.001), this was influenced by participants' baseline characteristics (i.e., age and body mass index).",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "While there was a statistically significant difference in PFGS favoring BFR training (4.4, 95% Confidence Intervals [CI]: 1.9 to 16.9; p &lt; 0.001), this was influenced by participants' baseline characteristics (i.e., age and body mass index)."
+    },
+    {
+      "text": "No significant differences were found in blood pressure or perceived exertion between interventions (p > 0.05).",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "No significant differences were found in blood pressure or perceived exertion between interventions (p &gt; 0.05)."
+    },
+    {
+      "text": "Conclusions: A single session of wrist extensor training with BFR does not produce a significant reduction in pain sensitivity compared to the same training without BFR in patients with LET.",
+      "text_id": 10,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Further research is needed to investigate the long-term effects of the method in LET management.",
+      "text_id": 11,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lateral elbow tendinopathy (LET), or tennis elbow, is the most common cause of elbow pain, resulting in high levels of disability and a substantial healthcare burden. 1 It affects 1%-3% of the general population, predominantly individuals between 45 and 54 years old. 2, 3 LET is often caused by an injury of the wrist extensors through overuse, and patients experience increased pain over the lateral epicondyle during gripping or other forceful wrist activities. 4 Non-invasive therapies are the first-line treatment options for the condition, including exercise, bracing, shockwave therapy, acupuncture, manual therapy, and oral drugs. 1 Although exercise-based interventions are considered the cornerstone for the management of LET, they fail to provide a significant clinical benefit compared with passive interventions or a wait-and-see policy at the one-year follow-up. 5, 6 This has been attributed mostly to the complex pathophysiology of the condition, which includes local tendinopathic changes of the common wrist extensor origin and features indicative of secondary hyperalgesia. 7 Recently, a novel modality using low-load resistance training with blood flow restriction (BFR) has been proposed to produce similar outcomes in muscle hypertrophy and strength intensity compared with higher load training. 8, 9 There is also growing evidence suggesting that this type of training produces a significant pain modulation effect. [10] [11] [12] [13] [14] [15] [16] The bioplausible rationale of this effect includes central and peripheral mechanisms such as exercise-induced hypoalgesia, endogenous opioid and endocannabinoid mechanisms, the recruitment of high-threshold motor units, baroreceptor-related mechanisms, and ischaemic and stress-induced hypoalgesic mechanisms. 11, [16] [17] [18] [19] [20] [21] [22] Considering the promising results of BFR in reducing mechanical pain sensitivity in healthy individuals, 23 we hypothesized that employing a comprehensive method for wrist extensors may provide significant hypoalgesic effects in patients with LET.",
+      "text_id": 12,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Lateral elbow tendinopathy (LET), or tennis elbow, is the most common cause of elbow pain, resulting in high levels of disability and a substantial healthcare burden. <ref type=\"bibr\" target=\"#b0\">1<\/ref> It affects 1%-3% of the general population, predominantly individuals between 45 and 54 years old. <ref type=\"bibr\" target=\"#b1\">2,<\/ref> <ref type=\"bibr\" target=\"#b2\">3<\/ref> LET is often caused by an injury of the wrist extensors through overuse, and patients experience increased pain over the lateral epicondyle during gripping or other forceful wrist activities. <ref type=\"bibr\" target=\"#b3\">4<\/ref> Non-invasive therapies are the first-line treatment options for the condition, including exercise, bracing, shockwave therapy, acupuncture, manual therapy, and oral drugs. <ref type=\"bibr\" target=\"#b0\">1<\/ref> Although exercise-based interventions are considered the cornerstone for the management of LET, they fail to provide a significant clinical benefit compared with passive interventions or a wait-and-see policy at the one-year follow-up. <ref type=\"bibr\" target=\"#b4\">5,<\/ref> <ref type=\"bibr\" target=\"#b5\">6<\/ref> This has been attributed mostly to the complex pathophysiology of the condition, which includes local tendinopathic changes of the common wrist extensor origin and features indicative of secondary hyperalgesia. <ref type=\"bibr\" target=\"#b6\">7<\/ref> Recently, a novel modality using low-load resistance training with blood flow restriction (BFR) has been proposed to produce similar outcomes in muscle hypertrophy and strength intensity compared with higher load training. <ref type=\"bibr\" target=\"#b7\">8,<\/ref> <ref type=\"bibr\" target=\"#b8\">9<\/ref> There is also growing evidence suggesting that this type of training produces a significant pain modulation effect. <ref type=\"bibr\" target=\"#b9\">[10]<\/ref> <ref type=\"bibr\" target=\"#b10\">[11]<\/ref> <ref type=\"bibr\" target=\"#b11\">[12]<\/ref> <ref type=\"bibr\" target=\"#b12\">[13]<\/ref> <ref type=\"bibr\" target=\"#b13\">[14]<\/ref> <ref type=\"bibr\" target=\"#b14\">[15]<\/ref> <ref type=\"bibr\" target=\"#b15\">[16]<\/ref> The bioplausible rationale of this effect includes central and peripheral mechanisms such as exercise-induced hypoalgesia, endogenous opioid and endocannabinoid mechanisms, the recruitment of high-threshold motor units, baroreceptor-related mechanisms, and ischaemic and stress-induced hypoalgesic mechanisms. <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b15\">[16]<\/ref> <ref type=\"bibr\" target=\"#b16\">[17]<\/ref> <ref type=\"bibr\" target=\"#b17\">[18]<\/ref> <ref type=\"bibr\" target=\"#b18\">[19]<\/ref> <ref type=\"bibr\" target=\"#b19\">[20]<\/ref> <ref type=\"bibr\" target=\"#b20\">[21]<\/ref> <ref type=\"bibr\" target=\"#b21\">[22]<\/ref> Considering the promising results of BFR in reducing mechanical pain sensitivity in healthy individuals, <ref type=\"bibr\" target=\"#b22\">23<\/ref> we hypothesized that employing a comprehensive method for wrist extensors may provide significant hypoalgesic effects in patients with LET."
+    },
+    {
+      "text": "Our hypothesis was based on previous studies suggesting that pain perception differs substantially between pain-free healthy adults and individuals suffering from chronic pain, possibly due to baseline inflammation status. 24 It is well documented that patients with LET present lower mechanical pain thresholds at local and distal body sites, as well as spinal cord hyperexcitability. [25] [26] [27] In addition to its multiple effects, BFR training is thought to induce the release of muscle metabolites during exercise, which can stimulate anti-inflammatory cytokines. 28 These cytokines, in response to localized metabolic changes, may help modulate inflammatory processes and contribute to pain relief. 29 Therefore, the aim of this cross-over randomized controlled trial (RCT) was to evaluate the immediate effects of a single wrist extensor training programme with BFR, compared with the same training programme without BFR, on pain perception and pain-free grip strength in patients diagnosed with lateral elbow tendinopathy.",
+      "text_id": 13,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Our hypothesis was based on previous studies suggesting that pain perception differs substantially between pain-free healthy adults and individuals suffering from chronic pain, possibly due to baseline inflammation status. <ref type=\"bibr\" target=\"#b23\">24<\/ref> It is well documented that patients with LET present lower mechanical pain thresholds at local and distal body sites, as well as spinal cord hyperexcitability. <ref type=\"bibr\" target=\"#b24\">[25]<\/ref> <ref type=\"bibr\" target=\"#b25\">[26]<\/ref> <ref type=\"bibr\" target=\"#b26\">[27]<\/ref> In addition to its multiple effects, BFR training is thought to induce the release of muscle metabolites during exercise, which can stimulate anti-inflammatory cytokines. <ref type=\"bibr\" target=\"#b27\">28<\/ref> These cytokines, in response to localized metabolic changes, may help modulate inflammatory processes and contribute to pain relief. <ref type=\"bibr\" target=\"#b28\">29<\/ref> Therefore, the aim of this cross-over randomized controlled trial (RCT) was to evaluate the immediate effects of a single wrist extensor training programme with BFR, compared with the same training programme without BFR, on pain perception and pain-free grip strength in patients diagnosed with lateral elbow tendinopathy."
+    },
+    {
+      "text": " >Methods",
+      "text_id": 14,
+      "paragraph_id": 3,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Methods<\/head>"
+    },
+    {
+      "text": "The study was reviewed and received approval by the Research Ethics Committee of the University of West Attica (9150/01-02-2023).",
+      "text_id": 15,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Before participation, all patients signed an informed consent form.",
+      "text_id": 16,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study was conducted in compliance with the Declaration of Helsinki.",
+      "text_id": 17,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A cross-over RCT was conducted in a community setting, including patients diagnosed with LET by medical consultants.",
+      "text_id": 18,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Prospective participants were recruited from February 2023 to August 2024 via electronic invitations at the University of West Attica and physiotherapy clinics based in Athens, Greece.",
+      "text_id": 19,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One physiotherapist with 18 years of experience in musculoskeletal problems provided both interventions in a clinical setting.",
+      "text_id": 20,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study was registered at http://ClinicalTrials.gov (NCT02664714).",
+      "text_id": 21,
+      "paragraph_id": 5,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "The study was registered at <ref type=\"url\" target=\"http://ClinicalTrials.gov\">ClinicalTrials.gov<\/ref> (NCT02664714)."
+    },
+    {
+      "text": "Eligible participants were between 18 and 60 years old, men and women, with symptoms of LET lasting for over two weeks.",
+      "text_id": 22,
+      "paragraph_id": 6,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The diagnosis of the condition required more than two of the following tests to be positive: i) pain on palpation over the lateral epicondyle, ii) positive Cozen's, iii) Maudsley's, iv) and/or Mill's test, and v) decrease (> 10%) in grip strength while the elbow is extended compared to when the elbow is flexed. 30 Patients were excluded if they presented shoulder tendinopathy, cervical radiculopathy, rheumatoid arthritis, neurological deficits, radial nerve entrapment, a history of cardiovascular disease, heart surgery, cancer, lymphoedema, surgery in the upper limb during the last six months, thrombosis or venous deficiency, pulmonary embolism, body mass index !",
+      "text_id": 23,
+      "paragraph_id": 6,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "The diagnosis of the condition required more than two of the following tests to be positive: i) pain on palpation over the lateral epicondyle, ii) positive Cozen's, iii) Maudsley's, iv) and/or Mill's test, and v) decrease (&gt; 10%) in grip strength while the elbow is extended compared to when the elbow is flexed. <ref type=\"bibr\" target=\"#b29\">30<\/ref> Patients were excluded if they presented shoulder tendinopathy, cervical radiculopathy, rheumatoid arthritis, neurological deficits, radial nerve entrapment, a history of cardiovascular disease, heart surgery, cancer, lymphoedema, surgery in the upper limb during the last six months, thrombosis or venous deficiency, pulmonary embolism, body mass index !"
+    },
+    {
+      "text": "30 kg⋅m -2 , or Crohn's syndrome. 31, 32 At the initial visit, potential participants were assessed for eligibility by a musculoskeletal physiotherapist (IL) with 20 years of experience.",
+      "text_id": 24,
+      "paragraph_id": 6,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "30 kg⋅m -2 , or Crohn's syndrome. <ref type=\"bibr\" target=\"#b30\">31,<\/ref> <ref type=\"bibr\" target=\"#b31\">32<\/ref> At the initial visit, potential participants were assessed for eligibility by a musculoskeletal physiotherapist (IL) with 20 years of experience."
+    },
+    {
+      "text": "An independent researcher who did not participate in any other stage of the trial performed randomization of the two interventions in two sequences (wrist extensor training with BFR followed by wrist extensor training without BFR, or vice versa) using online randomization software (https://www.randomizer.org/) with a 1:1 allocation ratio.",
+      "text_id": 25,
+      "paragraph_id": 7,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "An independent researcher who did not participate in any other stage of the trial performed randomization of the two interventions in two sequences (wrist extensor training with BFR followed by wrist extensor training without BFR, or vice versa) using online randomization software (<ref type=\"url\" target=\"https://www.randomizer.org/\">https://www.randomizer.org/<\/ref>) with a 1:1 allocation ratio."
+    },
+    {
+      "text": "Another independent researcher (AD) was responsible for contacting patients and allocating them to groups according to each condition using consecutively numbered, sealed, opaque envelopes.",
+      "text_id": 26,
+      "paragraph_id": 7,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The researcher (AD) instructed these individuals not to talk with the assessor or any other participant about the type of exercises performed.",
+      "text_id": 27,
+      "paragraph_id": 7,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "An independent assessor (IL), who was blinded to the interventions provided, recorded the demographic characteristics (age, duration of symptoms, body mass index [BMI], and dominant/affected side).",
+      "text_id": 28,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, the assessor recorded the participants' disability score using the patient-rated tennis elbow evaluation (PRTEE) questionnaire, pain intensity over the preceding week using a numeric pain rating scale (0 for no pain and 10 for the worst pain), blood pressure, pain-free grip strength (PFGS), and pressure pain thresholds (PPTs) at baseline.",
+      "text_id": 29,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Initially, participants rested for 10 minutes (min), and the non-painful upper limb was used for the blood pressure measurements. 33 Subsequently, measurements of PPTs were taken, and then the subjects visited another room where the exercise programme was delivered.",
+      "text_id": 30,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "Initially, participants rested for 10 minutes (min), and the non-painful upper limb was used for the blood pressure measurements. <ref type=\"bibr\" target=\"#b32\">33<\/ref> Subsequently, measurements of PPTs were taken, and then the subjects visited another room where the exercise programme was delivered."
+    },
+    {
+      "text": "Due to the study design (cross-over trial), the physiotherapist (SK) delivering both interventions was not blinded to the group allocation; however, he was instructed to provide equal motivation and treatment for both groups.",
+      "text_id": 31,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants performed a wrist extensor exercise in a randomized order, using either BFR or non-BFR conditions.",
+      "text_id": 32,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Based on best practice recommendations for applying BFR resistance training, participants performed the exercise (30-15-15-15 reps) using BFR at 40%-50% of the complete limb occlusion pressure (LOP). 28, 34 At the beginning of each session, participants performed 5-10 warmup repetitions of wrist extension with a dumbbell and were instructed to increase the load using a pain monitoring approach (acceptable pain during the exercise < 2 out of 10 on a numeric pain rating scale).",
+      "text_id": 33,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Based on best practice recommendations for applying BFR resistance training, participants performed the exercise (30-15-15-15 reps) using BFR at 40%-50% of the complete limb occlusion pressure (LOP). <ref type=\"bibr\" target=\"#b27\">28,<\/ref> <ref type=\"bibr\" target=\"#b33\">34<\/ref> At the beginning of each session, participants performed 5-10 warmup repetitions of wrist extension with a dumbbell and were instructed to increase the load using a pain monitoring approach (acceptable pain during the exercise &lt; 2 out of 10 on a numeric pain rating scale)."
+    },
+    {
+      "text": "For the application of BFR, the automatic tourniquet system Mad-Up Pro (France) was used.",
+      "text_id": 34,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The participants rested in a standing position for 3 min to ensure the restoration of blood flow circulation, and subsequently, the arterial occlusion pressure was calibrated. 33 Based on arm circumference, an appropriate cuff was placed in the most proximal part of the upper limb, as shown in Fig. 1.",
+      "text_id": 35,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "The participants rested in a standing position for 3 min to ensure the restoration of blood flow circulation, and subsequently, the arterial occlusion pressure was calibrated. <ref type=\"bibr\" target=\"#b32\">33<\/ref> Based on arm circumference, an appropriate cuff was placed in the most proximal part of the upper limb, as shown in Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref>."
+    },
+    {
+      "text": "The session included four sets (30-15-15-15 repetitions) of concentric-eccentric exercises of the wrist extensors with the shoulder held at 90 degrees of flexion and the elbow Abbreviations list BFR blood flow restriction LET lateral elbow tendinopathy RCTs randomized controlled trials PPTs pressure pain thresholds LOP limb occlusion pressure PFGS pain-free grip strength SD standard deviation IQR interquartile range PRTEE patient rated tennis elbow evaluation NRPS numerical rating pain scale BMI Body Mass Index WET wrist extensors training LE lateral epicondyle C4 Cervical 4 vertebra ECRB extensor carpi radialis brevis WET-BFR wrist extensor training with blood flow restriction CONSORT Consolidated Standards of Reporting Trials extended (Fig. 1).",
+      "text_id": 36,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "The session included four sets (30-15-15-15 repetitions) of concentric-eccentric exercises of the wrist extensors with the shoulder held at 90 degrees of flexion and the elbow Abbreviations list BFR blood flow restriction LET lateral elbow tendinopathy RCTs randomized controlled trials PPTs pressure pain thresholds LOP limb occlusion pressure PFGS pain-free grip strength SD standard deviation IQR interquartile range PRTEE patient rated tennis elbow evaluation NRPS numerical rating pain scale BMI Body Mass Index WET wrist extensors training LE lateral epicondyle C4 Cervical 4 vertebra ECRB extensor carpi radialis brevis WET-BFR wrist extensor training with blood flow restriction CONSORT Consolidated Standards of Reporting Trials extended (Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref>)."
+    },
+    {
+      "text": "A metronome was used to keep the same pace during the exercises (2 seconds [s] for each contraction).",
+      "text_id": 37,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A 30-s interval was implemented between the sets, during which the patients rested their arms in a neutral position, and the cuff was inflated during the break periods.",
+      "text_id": 38,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We utilized the selected pressures (40%-50% of AOP) based on a previous trial suggesting similar exercise-induced hypoalgesia following an elbow flexion low-load resistance exercise with BFR compared to high-load resistance exercise alone in healthy individuals. 35 In the control condition, participants performed the same exercise without the BFR technique, ensuring that the parameters regarding position, load, pace, sets, repetitions, and rest periods were consistent with those of the experimental condition.",
+      "text_id": 39,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "We utilized the selected pressures (40%-50% of AOP) based on a previous trial suggesting similar exercise-induced hypoalgesia following an elbow flexion low-load resistance exercise with BFR compared to high-load resistance exercise alone in healthy individuals. <ref type=\"bibr\" target=\"#b34\">35<\/ref> In the control condition, participants performed the same exercise without the BFR technique, ensuring that the parameters regarding position, load, pace, sets, repetitions, and rest periods were consistent with those of the experimental condition."
+    },
+    {
+      "text": "Following the completion of each exercise programme, participants conducted wrist extensor stretching (3 times for 30 s each).",
+      "text_id": 40,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Each session lasted 30 min, with interventions occurring on a weekly basis.",
+      "text_id": 41,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Adverse effects were documented after each intervention through personal communication.",
+      "text_id": 42,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The primary outcome measure was the changes in PPTs before and after the interventions.",
+      "text_id": 43,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were in a seated position with their arms resting on their thighs and their hips flexed at 90 .",
+      "text_id": 44,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The blinded assessor (IL) conducted all PPT measurements using a handheld digital algometer (Baoshishan ZP-1000 N 20/22806, China).",
+      "text_id": 45,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A metronome was used to pace the rate of pressure application.",
+      "text_id": 46,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were instructed to give a verbal response when the pressure was considered painful.",
+      "text_id": 47,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Measurements were collected in the same order on each occasion (preand post-intervention) starting from the non-affected side to the affected side.",
+      "text_id": 48,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The following body sites were used: i) the lateral epicondyle, 25 ii) the extensor carpi radialis brevis (4 cm from the lateral epicondyle towards the 2 nd metacarpal), 36 iii) the transverse process of the cervical 4 vertebra, 25 and iv) the muscle belly of the tibialis anterior (i.e., 30% the distance between the head and lateral malleolus of the fibula). 16 We allowed a 30-s break period between the administrations, and the mean value (kg⋅cm À2 ) of three measurements at each site was calculated.",
+      "text_id": 49,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "The following body sites were used: i) the lateral epicondyle, <ref type=\"bibr\" target=\"#b24\">25<\/ref> ii) the extensor carpi radialis brevis (4 cm from the lateral epicondyle towards the 2 nd metacarpal), <ref type=\"bibr\" target=\"#b35\">36<\/ref> iii) the transverse process of the cervical 4 vertebra, <ref type=\"bibr\" target=\"#b24\">25<\/ref> and iv) the muscle belly of the tibialis anterior (i.e., 30% the distance between the head and lateral malleolus of the fibula). <ref type=\"bibr\" target=\"#b15\">16<\/ref> We allowed a 30-s break period between the administrations, and the mean value (kg⋅cm À2 ) of three measurements at each site was calculated."
+    },
+    {
+      "text": "A familiarization process was used before the main measurements of PPTs, including two measurements with a 10-min interval between administrations, to calculate intra-rater reliability (intraclass correlation coefficients [ICC] ¼ 0.93-0.99).",
+      "text_id": 50,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We assessed the PFGS before and after each intervention using a Jamar hand dynamometer while the participants were in a supine position with their elbows fully extended. 37, 38 The current test has demonstrated excellent reliability in patients with LET (ICC ¼ 0.86-0.96). 39 We estimated the mean value in kilograms from three contractions, allowing a 30-s break between each effort.",
+      "text_id": 51,
+      "paragraph_id": 12,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "We assessed the PFGS before and after each intervention using a Jamar hand dynamometer while the participants were in a supine position with their elbows fully extended. <ref type=\"bibr\" target=\"#b36\">37,<\/ref> <ref type=\"bibr\" target=\"#b37\">38<\/ref> The current test has demonstrated excellent reliability in patients with LET (ICC ¼ 0.86-0.96). <ref type=\"bibr\" target=\"#b38\">39<\/ref> We estimated the mean value in kilograms from three contractions, allowing a 30-s break between each effort."
+    },
+    {
+      "text": "The minimal clinically important difference of pain-free grip strength has been reported to be > 6.5 kg relative to the pooled mean normative value of grip strength (38.4 kg) for men and women aged 40-50 years across geographically relevant studies. 5, 40 Arterial blood pressure served as a secondary outcome measure to investigate a potential hypoalgesic effect via baroreceptor pathway stimulation, based on the overlapping neural circuitry controlling antinociception and cardiovascular function activation. 41, 42 Systolic and diastolic blood pressure was also measured before and after each intervention at the brachial artery of the non-painful side with participants resting in a seated position.",
+      "text_id": 52,
+      "paragraph_id": 12,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "The minimal clinically important difference of pain-free grip strength has been reported to be &gt; 6.5 kg relative to the pooled mean normative value of grip strength (38.4 kg) for men and women aged 40-50 years across geographically relevant studies. <ref type=\"bibr\" target=\"#b4\">5,<\/ref> <ref type=\"bibr\" target=\"#b39\">40<\/ref> Arterial blood pressure served as a secondary outcome measure to investigate a potential hypoalgesic effect via baroreceptor pathway stimulation, based on the overlapping neural circuitry controlling antinociception and cardiovascular function activation. <ref type=\"bibr\" target=\"#b40\">41,<\/ref> <ref type=\"bibr\" target=\"#b41\">42<\/ref> Systolic and diastolic blood pressure was also measured before and after each intervention at the brachial artery of the non-painful side with participants resting in a seated position."
+    },
+    {
+      "text": "For the measurements, an electronic device was used (Omron M6 Comfort HEM-7321).",
+      "text_id": 53,
+      "paragraph_id": 12,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We included two administrations with a 30-s rest in between, and the average value was computed. 43 We recorded perceived exertion using the Borg 6-20 scale, which is a self-reporting tool designed to monitor effort and exertion during physical activity.",
+      "text_id": 54,
+      "paragraph_id": 12,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "We included two administrations with a 30-s rest in between, and the average value was computed. <ref type=\"bibr\" target=\"#b42\">43<\/ref> We recorded perceived exertion using the Borg 6-20 scale, which is a self-reporting tool designed to monitor effort and exertion during physical activity."
+    },
+    {
+      "text": "The Borg scale has demonstrated strong reliability and validity. 13, 44 Participants were instructed to evaluate their effort following each set of exercises on a scale from 6 (no exertion) to 20 (maximum exertion). 44",
+      "text_id": 55,
+      "paragraph_id": 12,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "The Borg scale has demonstrated strong reliability and validity. <ref type=\"bibr\" target=\"#b12\">13,<\/ref> <ref type=\"bibr\" target=\"#b43\">44<\/ref> Participants were instructed to evaluate their effort following each set of exercises on a scale from 6 (no exertion) to 20 (maximum exertion). <ref type=\"bibr\" target=\"#b43\">44<\/ref>"
+    },
+    {
+      "text": "GPower 3.1 was used for the sample size calculation.",
+      "text_id": 56,
+      "paragraph_id": 13,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We set a statistical power of 80% and an alpha level of 5% to detect a difference between wrist extensor training with BFR and the same training without BFR in PPTs.",
+      "text_id": 57,
+      "paragraph_id": 13,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The calculation was based on effect size (d) of 0.6 for the change in PPTs with dynamic resistance exercises with and without BFR, as reported in previous studies. 12, 45 A total sample of 20 patients per group was considered necessary.",
+      "text_id": 58,
+      "paragraph_id": 13,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "The calculation was based on effect size (d) of 0.6 for the change in PPTs with dynamic resistance exercises with and without BFR, as reported in previous studies. <ref type=\"bibr\" target=\"#b11\">12,<\/ref> <ref type=\"bibr\" target=\"#b44\">45<\/ref> A total sample of 20 patients per group was considered necessary."
+    },
+    {
+      "text": "For the data analysis, the IBM Statistical Package for Social Sciences, version 29 was utilized.",
+      "text_id": 59,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The normality of the data was assessed with Q-Q plots and the Shapiro-Wilk test.",
+      "text_id": 60,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The participants' baseline characteristics were summarized using means, standard deviations, and ratios.",
+      "text_id": 61,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Differences between groups were evaluated using mixed-effects models, with participant-specific random effects applied to the pre-and post-intervention measurements.",
+      "text_id": 62,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The fixed effects considered included group, time, and the interaction between group and time.",
+      "text_id": 63,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Parameter estimates were adjusted for confounding factors such as sex, age, BMI, duration of symptoms, pain intensity, and PRTEE score.",
+      "text_id": 64,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We used the Brown-Forsythe test to evaluate the assumption of homogeneity of variance and assessed the homogeneity of regression coefficients to examine the relationship between the covariates and the independent variable.",
+      "text_id": 65,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The rating of perceived exertion between the groups was analyzed using a repeatedmeasures ANOVA test.",
+      "text_id": 66,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Twenty-six patients with LET were assessed for eligibility, and six of them were excluded (two declined to participate and four did not meet the inclusion criteria) (Fig. 2).",
+      "text_id": 67,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Twenty-six patients with LET were assessed for eligibility, and six of them were excluded (two declined to participate and four did not meet the inclusion criteria) (Fig. <ref type=\"figure\" target=\"#fig_1\">2<\/ref>)."
+    },
+    {
+      "text": "Finally, 20 subjects (12 men and 8 women) were included and completed all the experimental procedures.",
+      "text_id": 68,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No adverse events were reported.",
+      "text_id": 69,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The mean age (AE standard deviation [SD]) of the participants was (49.6 AE 6.6) years, with a mean body mass index (AESD) of (25.8 AE 3.1) kg⋅m À2 .",
+      "text_id": 70,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The median (IQR) duration of symptoms was 10 (6-24) weeks (Table 1).",
+      "text_id": 71,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "The median (IQR) duration of symptoms was 10 (6-24) weeks (Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>)."
+    },
+    {
+      "text": "The homogeneity of variance indicated non-significant differences in all outcomes except for the PPT in the affected lateral epicondyle.",
+      "text_id": 72,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Accordingly, we utilized a compound symmetry variance-covariance structure for most outcomes and an unstructured covariance structure for the PPT of the affected lateral epicondyle.",
+      "text_id": 73,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Also, we transformed the dependent variable to stabilize variance and applied Restricted Maximum Likelihood estimation to accurately estimate model parameters.",
+      "text_id": 74,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The results of the homogeneity of variance, as well as the unadjusted and adjusted main effects, interactions, and significant effects of covariates, are presented in the Supplementary Table 1.",
+      "text_id": 75,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "The results of the homogeneity of variance, as well as the unadjusted and adjusted main effects, interactions, and significant effects of covariates, are presented in the Supplementary Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>."
+    },
+    {
+      "text": "There were non-significant differences between wrist extensor training with and without BFR in PPTs at the affected and non-affected side of the lateral epicondyle (À0.7, 95% Confidence intervals [CI]: À0.5 to 1.9 & 0.4, 95% CI: À1.7 to 0.9, respectively), extensor carpi radialis brevis (1, 95% CI: À0.2 to 2.2 & 0.8, 95% CI: À0.5 to 2.2, respectively), cervical 4 vertebra (0.4, 95% CI: À1.8 to 1 & 0.5, 95% CI: À2.7 to 1.6, respectively) and anterior tibialis (0.1, 95% CI: À1.1 to 1.3 & À0.9, 95% CI: À2.4 to 0.4, respectively) post-intervention.",
+      "text_id": 76,
+      "paragraph_id": 16,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "There were non-significant differences between wrist extensor training with and without BFR in PPTs at the affected and non-affected side of the lateral epicondyle (À0.7, 95% Confidence intervals [CI]: À0.5 to 1.9 &amp; 0.4, 95% CI: À1.7 to 0.9, respectively), extensor carpi radialis brevis (1, 95% CI: À0.2 to 2.2 &amp; 0.8, 95% CI: À0.5 to 2.2, respectively), cervical 4 vertebra (0.4, 95% CI: À1.8 to 1 &amp; 0.5, 95% CI: À2.7 to 1.6, respectively) and anterior tibialis (0.1, 95% CI: À1.1 to 1.3 &amp; À0.9, 95% CI: À2.4 to 0.4, respectively) post-intervention."
+    },
+    {
+      "text": "The summary statistics of adjusted mean values and between-group differences are presented in Table 2 and Supplementary Figs. 1a-h.",
+      "text_id": 77,
+      "paragraph_id": 16,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "The summary statistics of adjusted mean values and between-group differences are presented in Table <ref type=\"table\" target=\"#tab_1\">2<\/ref> and Supplementary Figs. <ref type=\"figure\" target=\"#fig_0\">1a-h<\/ref>."
+    },
+    {
+      "text": "A statistically significant within-group change was found only in the BFR group between pre-and post-exercise at the extensor carpi radialis brevis (À1.6, 95% CI: À2.6 to À0.5; p ¼ 0.011).",
+      "text_id": 78,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The within-group comparisons at the remaining measurement sites resulted in nonsignificant differences for both intervention groups (Supplementary Table 2).",
+      "text_id": 79,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "The within-group comparisons at the remaining measurement sites resulted in nonsignificant differences for both intervention groups (Supplementary Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>)."
+    },
+    {
+      "text": "The main interaction effects (type of intervention and time) in PFGS were not statistically significant (p ¼ 0.06), while the covariates of age and BMI showed a statistically significant interaction (p < 0.05).",
+      "text_id": 80,
+      "paragraph_id": 18,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "The main interaction effects (type of intervention and time) in PFGS were not statistically significant (p ¼ 0.06), while the covariates of age and BMI showed a statistically significant interaction (p &lt; 0.05)."
+    },
+    {
+      "text": "A statistically significant difference was found in favour of BFR exercise (4.4, 95% CI: 1.9 to 6.9; p < 0.001) post-intervention.",
+      "text_id": 81,
+      "paragraph_id": 18,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "A statistically significant difference was found in favour of BFR exercise (4.4, 95% CI: 1.9 to 6.9; p &lt; 0.001) post-intervention."
+    },
+    {
+      "text": "No significant between-group differences were observed in systolic (À3, 95% CI: 6.8 to 0.7) and diastolic (0.9, 95% CI: À2.4 to 4.5) blood pressures.",
+      "text_id": 82,
+      "paragraph_id": 19,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Summary statistics of adjusted mean values and betweengroup differences in PFGS and blood pressure are presented in Table 3 and Supplementary Fig. 2.",
+      "text_id": 83,
+      "paragraph_id": 19,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Summary statistics of adjusted mean values and betweengroup differences in PFGS and blood pressure are presented in Table <ref type=\"table\" target=\"#tab_2\">3<\/ref> and Supplementary Fig. <ref type=\"figure\" target=\"#fig_1\">2<\/ref>."
+    },
+    {
+      "text": "An increased rating of perceived exertion was found for both interventions after each set of exercises (p < 0.001, Table 4).",
+      "text_id": 84,
+      "paragraph_id": 19,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "An increased rating of perceived exertion was found for both interventions after each set of exercises (p &lt; 0.001, Table <ref type=\"table\" target=\"#tab_3\">4<\/ref>)."
+    },
+    {
+      "text": "There was no significant interaction between time and type of intervention in the rating of perceived exertion (F ¼ 1.452, p ¼ 0.244).",
+      "text_id": 85,
+      "paragraph_id": 19,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No significant differences were recorded between interventions when compared set by set (Table 4).",
+      "text_id": 86,
+      "paragraph_id": 19,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "No significant differences were recorded between interventions when compared set by set (Table <ref type=\"table\" target=\"#tab_3\">4<\/ref>)."
+    },
+    {
+      "text": "To the best of our knowledge, this is the first study evaluating the immediate effects on pain perception of BFR training compared with conventional training in patients with LET.",
+      "text_id": 87,
+      "paragraph_id": 20,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Contrary to our predefined hypothesis, no significant differences were found in pain sensitivity between a single bout of wrist extensor training, with and without BFR.",
+      "text_id": 88,
+      "paragraph_id": 20,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After accounting for the confounding effects of covariates (i.e., age and BMI), there was evidence for a significant improvement in PFGS in favor of BFR training.",
+      "text_id": 89,
+      "paragraph_id": 20,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, no significant differences were found between the two types of exercise in terms of blood pressure or the rating of perceived exertion.",
+      "text_id": 90,
+      "paragraph_id": 20,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A pain-monitoring training approach for wrist extensors with or without BFR does not decrease pain sensitivity in LET Overall, we observed no exercise-induced changes in pain sensitivity using a wrist extensor exercise with or without BFR.",
+      "text_id": 91,
+      "paragraph_id": 21,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although there was an effect of time with significant decreases in PPTs at the extensor carpi radialis brevis immediately after training, no between-group differences   were found.",
+      "text_id": 92,
+      "paragraph_id": 21,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Our results were discouraging when compared to earlier studies that showed significant hypoalgesic effects of high-and lowintensity elbow training with or without BFR in healthy individuals. 12, 22, 23, 46 A previous trial indicated significant hypoalgesic effects on the exercising limb after a bout of either a low-load resistance exercise with BFR or a high-load resistance exercise for elbow flexors. 23 Similar results have been recorded following lower-limb exercises with BFR (i.e., leg press and bicycling), explaining the induced hypoalgesia due to the activation of the endogenous opioid system (release of beta-endorphins), conditioned pain modulation, high-threshold motor unit recruitment during exercise, or a psychological input. 12, [47] [48] [49] Based on a single trial, the addition of blood flow restriction (BFR) to low-load exercise induces a similar hypoalgesic response compared to the same exercise performed without BFR while maintaining similar exertion and work volume but with a fewer number of repetitions. 16 In the present study, we used a pain monitoring approach (< 2 out of 10) to avoid symptom flare-up due to the increased volume of loading.",
+      "text_id": 93,
+      "paragraph_id": 21,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Our results were discouraging when compared to earlier studies that showed significant hypoalgesic effects of high-and lowintensity elbow training with or without BFR in healthy individuals. <ref type=\"bibr\" target=\"#b11\">12,<\/ref> <ref type=\"bibr\" target=\"#b21\">22,<\/ref> <ref type=\"bibr\" target=\"#b22\">23,<\/ref> <ref type=\"bibr\" target=\"#b45\">46<\/ref> A previous trial indicated significant hypoalgesic effects on the exercising limb after a bout of either a low-load resistance exercise with BFR or a high-load resistance exercise for elbow flexors. <ref type=\"bibr\" target=\"#b22\">23<\/ref> Similar results have been recorded following lower-limb exercises with BFR (i.e., leg press and bicycling), explaining the induced hypoalgesia due to the activation of the endogenous opioid system (release of beta-endorphins), conditioned pain modulation, high-threshold motor unit recruitment during exercise, or a psychological input. <ref type=\"bibr\" target=\"#b11\">12,<\/ref> <ref type=\"bibr\" target=\"#b46\">[47]<\/ref> <ref type=\"bibr\" target=\"#b47\">[48]<\/ref> <ref type=\"bibr\" target=\"#b48\">[49]<\/ref> Based on a single trial, the addition of blood flow restriction (BFR) to low-load exercise induces a similar hypoalgesic response compared to the same exercise performed without BFR while maintaining similar exertion and work volume but with a fewer number of repetitions. <ref type=\"bibr\" target=\"#b15\">16<\/ref> In the present study, we used a pain monitoring approach (&lt; 2 out of 10) to avoid symptom flare-up due to the increased volume of loading."
+    },
+    {
+      "text": "Consequently, the mean rating of perceived effort ranged in the 'hard zone' (13.3-15.8) in both training groups, which differed substantially from previous studies that reported an exertion in the 'very hard zone' (> 16 out of 20). 11, 16, 50 This discrepancy may explain the lack of significant reduction in pain sensitivity in our study, as the relative underloading of the wrist extensors may have prevented participants from reaching the 'exercise to failure' threshold.",
+      "text_id": 94,
+      "paragraph_id": 21,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Consequently, the mean rating of perceived effort ranged in the 'hard zone' (13.3-15.8) in both training groups, which differed substantially from previous studies that reported an exertion in the 'very hard zone' (&gt; 16 out of 20). <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b15\">16,<\/ref> <ref type=\"bibr\" target=\"#b49\">50<\/ref> This discrepancy may explain the lack of significant reduction in pain sensitivity in our study, as the relative underloading of the wrist extensors may have prevented participants from reaching the 'exercise to failure' threshold."
+    },
+    {
+      "text": "Nevertheless, a recent trial has demonstrated significant benefits of the BFR component when submaximal exercise protocols were tailored to individual endurance capacities. 51 Also, evidence suggests that ischemic preconditioning, which involves supra-arterial occlusion pressure, can enhance PPTs in healthy individuals and post-operative patients as well. 52, 53 Potentially, the use of lower levels of pressure (40%-50% of LOP) during upper limb exercises in our trial has significantly diminished the hypoalgesic effects of the BFR component.",
+      "text_id": 95,
+      "paragraph_id": 21,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Nevertheless, a recent trial has demonstrated significant benefits of the BFR component when submaximal exercise protocols were tailored to individual endurance capacities. <ref type=\"bibr\" target=\"#b50\">51<\/ref> Also, evidence suggests that ischemic preconditioning, which involves supra-arterial occlusion pressure, can enhance PPTs in healthy individuals and post-operative patients as well. <ref type=\"bibr\" target=\"#b51\">52,<\/ref> <ref type=\"bibr\" target=\"#b52\">53<\/ref> Potentially, the use of lower levels of pressure (40%-50% of LOP) during upper limb exercises in our trial has significantly diminished the hypoalgesic effects of the BFR component."
+    },
+    {
+      "text": "Although exercise-induced hypoalgesia at local and remote sites is a well-recognized phenomenon, several factors influencing the magnitude of this effect remain inconclusive. 54, 55 Different exercise characteristics have been found to influence the relative contribution of the underlying hypoalgesic mechanisms of action such as the exercising limb (upper or lower), 12, 23 dose or work volume (failure or not), 16, 51, 56 type of muscle contraction (isometric or dynamic), 57,58 duration, 59 and temperature. 60 Most importantly, whether the hypoalgesic effects of exercise with or without BFR are similar between patient populations and healthy controls has not yet been defined.",
+      "text_id": 96,
+      "paragraph_id": 22,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Although exercise-induced hypoalgesia at local and remote sites is a well-recognized phenomenon, several factors influencing the magnitude of this effect remain inconclusive. <ref type=\"bibr\" target=\"#b53\">54,<\/ref> <ref type=\"bibr\" target=\"#b54\">55<\/ref> Different exercise characteristics have been found to influence the relative contribution of the underlying hypoalgesic mechanisms of action such as the exercising limb (upper or lower), <ref type=\"bibr\" target=\"#b11\">12,<\/ref> <ref type=\"bibr\" target=\"#b22\">23<\/ref> dose or work volume (failure or not), <ref type=\"bibr\" target=\"#b15\">16,<\/ref> <ref type=\"bibr\" target=\"#b50\">51,<\/ref> <ref type=\"bibr\" target=\"#b55\">56<\/ref> type of muscle contraction (isometric or dynamic), 57,58 duration, <ref type=\"bibr\" target=\"#b58\">59<\/ref> and temperature. <ref type=\"bibr\" target=\"#b59\">60<\/ref> Most importantly, whether the hypoalgesic effects of exercise with or without BFR are similar between patient populations and healthy controls has not yet been defined."
+    },
+    {
+      "text": "For example, Slater et al. reported that a repeated programme of low-intensity exercises, including concentric-eccentric or eccentric contractions alone for the wrist extensors, induces significant mechanical hypoalgesia in the lateral elbow. 46 However, based on the present findings, low-intensity exercise did not have similar responses in patients with tendon pain.",
+      "text_id": 97,
+      "paragraph_id": 22,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "For example, Slater et al. reported that a repeated programme of low-intensity exercises, including concentric-eccentric or eccentric contractions alone for the wrist extensors, induces significant mechanical hypoalgesia in the lateral elbow. <ref type=\"bibr\" target=\"#b45\">46<\/ref> However, based on the present findings, low-intensity exercise did not have similar responses in patients with tendon pain."
+    },
+    {
+      "text": "Also, despite the fact that incorporating BFR into resistance training results in superior recovery outcomes in specific patient populations (post-anterior cruciate ligament reconstruction) compared to traditional training, there are no clinical benefits of the same approach in the management of other patient groups such as knee osteoarthritis. [61] [62] [63] This discrepancy has been linked to various factors, including the pathophysiology of the condition, symptom severity, or the methods used for BFR involving occlusion pressure, frequency, and work volume. 35",
+      "text_id": 98,
+      "paragraph_id": 22,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Also, despite the fact that incorporating BFR into resistance training results in superior recovery outcomes in specific patient populations (post-anterior cruciate ligament reconstruction) compared to traditional training, there are no clinical benefits of the same approach in the management of other patient groups such as knee osteoarthritis. <ref type=\"bibr\" target=\"#b60\">[61]<\/ref> <ref type=\"bibr\" target=\"#b61\">[62]<\/ref> <ref type=\"bibr\" target=\"#b62\">[63]<\/ref> This discrepancy has been linked to various factors, including the pathophysiology of the condition, symptom severity, or the methods used for BFR involving occlusion pressure, frequency, and work volume. <ref type=\"bibr\" target=\"#b34\">35<\/ref>"
+    },
+    {
+      "text": "The clinical implications of our findings suggest no significant benefits of the current method in reducing pain sensitivity or improving PFGS.",
+      "text_id": 99,
+      "paragraph_id": 23,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Contrary to the present results, a previous trial suggested clinically significant improvements in the PFGS ratio in favour of low-intensity BFR training compared to low-intensity exercise alone in patients with LET. 64 Considering that the present investigation did not confirm the hypothesis of an immediate hypoalgesic effect for BFR, the potential clinical benefits in the previous study can be attributed mostly to the progressive exercise loading programme that lasted longer than six weeks. 64 Our results indicated a lack of significant intervention effects during time in the PFGS, which was paired with statistically significant differences in covariates such as age and BMI.",
+      "text_id": 100,
+      "paragraph_id": 23,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "Contrary to the present results, a previous trial suggested clinically significant improvements in the PFGS ratio in favour of low-intensity BFR training compared to low-intensity exercise alone in patients with LET. <ref type=\"bibr\" target=\"#b63\">64<\/ref> Considering that the present investigation did not confirm the hypothesis of an immediate hypoalgesic effect for BFR, the potential clinical benefits in the previous study can be attributed mostly to the progressive exercise loading programme that lasted longer than six weeks. <ref type=\"bibr\" target=\"#b63\">64<\/ref> Our results indicated a lack of significant intervention effects during time in the PFGS, which was paired with statistically significant differences in covariates such as age and BMI."
+    },
+    {
+      "text": "Consequently, the significant between-group improvements in favour of BFR training should be interpreted with caution due to the influence of the participants' baseline characteristics on the outcomes.",
+      "text_id": 101,
+      "paragraph_id": 23,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We recognize as a limitation that our study included only a single measure of exercise-induced hypoalgesia (mechanical pain sensitivity).",
+      "text_id": 102,
+      "paragraph_id": 24,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Potentially, other measures, such as sensitivity to hot and cold stimuli, baroreceptor activity, or biomarkers (i.e., β-endorphin), could have offered more insights into the present evaluation.",
+      "text_id": 103,
+      "paragraph_id": 24,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although we aimed to explore the hypoalgesic effects of two particular exercise conditions, our trial did not incorporate a non-exercise group.",
+      "text_id": 104,
+      "paragraph_id": 24,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Also, the inclusion of six covariates in our analysis may be considered a limitation, as the current sample size may not adequately support this level of complexity. 65 Future studies with larger samples are recommended to further investigate the effects of these covariates on the outcomes.",
+      "text_id": 105,
+      "paragraph_id": 24,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "Also, the inclusion of six covariates in our analysis may be considered a limitation, as the current sample size may not adequately support this level of complexity. <ref type=\"bibr\" target=\"#b64\">65<\/ref> Future studies with larger samples are recommended to further investigate the effects of these covariates on the outcomes."
+    },
+    {
+      "text": "Previous studies have demonstrated that low-intensity exercises with BFR produce no significant effects on most cardiovascular parameters, except for cardiac output and heart rate. 66 This lack of significant effects was primarily attributed to the use of deflated cuffs during BFR breaks and the measurement of blood pressure only at pre-and post-exercise time points. 67 Therefore, these factors may represent significant limitations that may have prevented a thorough investigation of baroreceptor pathway activation during BFR exercises.",
+      "text_id": 106,
+      "paragraph_id": 25,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "Previous studies have demonstrated that low-intensity exercises with BFR produce no significant effects on most cardiovascular parameters, except for cardiac output and heart rate. <ref type=\"bibr\" target=\"#b65\">66<\/ref> This lack of significant effects was primarily attributed to the use of deflated cuffs during BFR breaks and the measurement of blood pressure only at pre-and post-exercise time points. <ref type=\"bibr\" target=\"#b67\">67<\/ref> Therefore, these factors may represent significant limitations that may have prevented a thorough investigation of baroreceptor pathway activation during BFR exercises."
+    },
+    {
+      "text": "Also, due to the nature of the study design, patients and exercise providers could not be blinded to the treatment group.",
+      "text_id": 107,
+      "paragraph_id": 25,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We suggest that future RCTs should investigate further the effect of BFR training, including alternative measures of exercise-induced hypoalgesia, different exercise parameters (work volume), and longer follow-up periods.",
+      "text_id": 108,
+      "paragraph_id": 25,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The present study demonstrated that a single session of wrist extensor training with BFR does not produce a significant reduction in pain sensitivity compared to the same training without BFR in patients with LET.",
+      "text_id": 109,
+      "paragraph_id": 26,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although there were immediate changes in PFGS in favour of BFR training, these were dependent on participants' baseline characteristics rather than the intervention itself.",
+      "text_id": 110,
+      "paragraph_id": 26,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Further research is necessary using additional measures of exercise-induced hypoalgesia and long-term follow-up periods.",
+      "text_id": 111,
+      "paragraph_id": 26,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors received no financial support for the conduction of the study.",
+      "text_id": 112,
+      "paragraph_id": 27,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+      "text_id": 113,
+      "paragraph_id": 28,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CRediT authorship contribution statement Stefanos Karanasios: Writingoriginal draft, Project administration, Data curation, Conceptualization.",
+      "text_id": 114,
+      "paragraph_id": 29,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thomas Sampsonis: Writingreview & editing, Investigation.",
+      "text_id": 115,
+      "paragraph_id": 29,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": "Thomas Sampsonis: Writingreview &amp; editing, Investigation."
+    },
+    {
+      "text": "Ioannis Lignos: Project administration, Methodology.",
+      "text_id": 116,
+      "paragraph_id": 29,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "George Gioftsos: Writingreview & editing, Validation, Resources, Project administration.",
+      "text_id": 117,
+      "paragraph_id": 29,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": "George Gioftsos: Writingreview &amp; editing, Validation, Resources, Project administration."
+    },
+    {
+      "text": "University of West Attica Ethics Committee: 9150/01-02-2023, ClinicalTrials.gov: NCT05919914.",
+      "text_id": 118,
+      "paragraph_id": 30,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study was reviewed and received approval by the Research Ethics Committee of the University of West Attica (9150/01-02-2023).",
+      "text_id": 119,
+      "paragraph_id": 31,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Before participation, all patients signed an informed consent form.",
+      "text_id": 120,
+      "paragraph_id": 31,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study was conducted in compliance with the Declaration of Helsinki.",
+      "text_id": 121,
+      "paragraph_id": 31,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Appendix A. Supplementary data Supplementary data to this article can be found online at https://doi.org/10.1016/j.smhs.2025.03.003.",
+      "text_id": 122,
+      "paragraph_id": 32,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Appendix A. Supplementary data Supplementary data to this article can be found online at <ref type=\"url\" target=\"https://doi.org/10.1016/j.smhs.2025.03.003\">https://do  i.org/10.1016/j.smhs.2025.03.003<\/ref>."
+    },
+    {
+      "text": "Fig 1.",
+      "text_id": 123,
+      "paragraph_id": 33,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wrist extensors training with blood flow restriction (30-15-15-15 repetitions).",
+      "text_id": 124,
+      "paragraph_id": 33,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 2.",
+      "text_id": 125,
+      "paragraph_id": 34,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CONSORT flow diagram.",
+      "text_id": 126,
+      "paragraph_id": 34,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abbreviations: WET-BFR, wrist extensor training with blood flow restriction; CONSORT, Consolidated Standards of Reporting Trials.",
+      "text_id": 127,
+      "paragraph_id": 34,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants' demographic and characteristics at baseline (n ¼ 20).",
+      "text_id": 128,
+      "paragraph_id": 35,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Between-group differences of baseline-adjusted values of pressure pain thresholds.",
+      "text_id": 129,
+      "paragraph_id": 36,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Values are means AE SD and 95% Confidence Intervals.",
+      "text_id": 130,
+      "paragraph_id": 36,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Between-group differences of baseline-adjusted values of pain-free grip strength and blood pressure.",
+      "text_id": 131,
+      "paragraph_id": 37,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Outcomes and Between-group differences in rating of perceived exertion after each set of exercise.",
+      "text_id": 132,
+      "paragraph_id": 38,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bisset LM, Vicenzino B. Physiotherapy management of lateral epicondylalgia. J Physiother. 2015;61:174-181. https://doi.org/10.1016/j.jphys.2015.07.015.",
+      "text_id": 133,
+      "paragraph_id": 39,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Shiri R, Viikari-Juntura E. Lateral and medial epicondylitis: role of occupational factors. Best Pract Res Clin Rheumatol. 2011;25:43-57. https://doi.org/10.1016/j.berh.2011.01.013.",
+      "text_id": 134,
+      "paragraph_id": 40,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sanders Jr TL, Maradit Kremers H, Bryan AJ, Ransom JE, Smith J, Morrey BF. The epidemiology and health care burden of tennis elbow: a population-based study. Am J Sports Med. 2015;43:1066-1071. https://doi.org/10.1177/0363546514568087.",
+      "text_id": 135,
+      "paragraph_id": 41,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Waugh EJ, Jaglal SB, Davis AM, Tomlinson G, Verrier MC. Factors associated with prognosis of lateral epicondylitis after 8 weeks of physical therapy. Arch Phys Med Rehabil. 2004;85:308-318. https://doi.org/10.1016/S0003-9993(03)00480-5.",
+      "text_id": 136,
+      "paragraph_id": 42,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Karanasios S, Korakakis V, Whiteley R, Vasilogeorgis I, Woodbridge S, Gioftsos G. Exercise interventions in lateral elbow tendinopathy have better outcomes than passive interventions, but the effects are small: a systematic review and meta-analysis of 2123 subjects in 30 trials. Br J Sports Med. 2021;55:477-485. https://doi.org/10.1136/bjsports-2020-102525.",
+      "text_id": 137,
+      "paragraph_id": 43,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lapner P, Alfonso A, Hebert-Davies J, Pollock JW, Marsh J, King GJW. Nonoperative treatment of lateral epicondylitis: a systematic review and meta-analysis. JSES Int. 2021;6(2):321-330. https://doi.org/10.1016/j.jseint.2021.11.010.",
+      "text_id": 138,
+      "paragraph_id": 44,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bisset L, Carty M, Smith A. Unilateral lateral epicondylalgia shows a pro-nociceptive pain profile: a case-control observational study. Clin J Pain. 2018;34:954-959. https://doi.org/10.1097/ajp.0000000000000615.",
+      "text_id": 139,
+      "paragraph_id": 45,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Centner C, Wiegel P, Gollhofer A, K€ onig D. Effects of blood flow restriction training on muscular strength and hypertrophy in older individuals: a systematic review and meta-analysis. Sports Med. 2019;49:95-108. https://doi.org/10.1007/s40279-018-0994-1.",
+      "text_id": 140,
+      "paragraph_id": 46,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Scott BR, Loenneke JP, Slattery KM, Dascombe BJ. Exercise with blood flow restriction: an updated evidence-based approach for enhanced muscular development. Sports Med. 2015;45:313-325. https://doi.org/10.1007/s40279-014-0288-1.",
+      "text_id": 141,
+      "paragraph_id": 47,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hill EC, Housh TJ, Smith CM, Keller JL, Schmidt RJ, Johnson GO. Eccentric and concentric blood flow restriction resistance training on indices of delayed onset muscle soreness in untrained women. Eur J Appl Physiol. 2019;119:2363-2373. https://doi.org/10.1007/s00421-019-04220-8.",
+      "text_id": 142,
+      "paragraph_id": 48,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hughes L, Grant I, Patterson SD. Aerobic exercise with blood flow restriction causes local and systemic hypoalgesia and increases circulating opioid and endocannabinoid levels. J Appl Physiol. 2021;131:1460-1468. https://doi.org/10.1152/japplphysiol.00543.2021.",
+      "text_id": 143,
+      "paragraph_id": 49,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hughes L, Patterson SD. The effect of blood flow restriction exercise on exercise- induced hypoalgesia and endogenous opioid and endocannabinoid mechanisms of pain modulation. J Appl Physiol(1985). 2020;128(4):914-924. https://doi.org/10.1152/japplphysiol.00768.2019.",
+      "text_id": 144,
+      "paragraph_id": 50,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Karanasios S, Sozeri A, Koumantakis GA, Gioftsos G. Exercised-induced hypoalgesia following an elbow flexion low-load resistance exercise with blood flow restriction: a sham-controlled randomized trial in healthy adults. Healthcare (Basel). 2022;10(12): 2557. https://doi.org/10.3390/healthcare10122557.",
+      "text_id": 145,
+      "paragraph_id": 51,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Song JS, Yamada Y, Wong V, et al. Hypoalgesia following isometric handgrip exercise with and without blood flow restriction is not mediated by discomfort nor changes in systolic blood pressure. J Sports Sci. 2022;40(5):518-526. https://doi.org/10.1080/02640414.2021.2003569.",
+      "text_id": 146,
+      "paragraph_id": 52,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Varangot-Reille C, Cuenca-Martínez F, Suso-Martí L, et al. Hypoalgesic effects of a blood flow restriction technique at moderate intensity with or without motor imagery: a single-blind randomized controlled trial. Somatosens Mot Res. 2022;39: 29-38. https://doi.org/10.1080/08990220.2021.1987876.",
+      "text_id": 147,
+      "paragraph_id": 53,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Song JS, Kataoka R, Yamada Y, et al. The hypoalgesic effect of low-load exercise to failure is not augmented by blood flow restriction. Res Q f Exercise Sport. 2023;94: 1084-1093. https://doi.org/10.1080/02701367.2022.2115443.",
+      "text_id": 148,
+      "paragraph_id": 54,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Koltyn KF, Brellenthin AG, Cook DB, Sehgal N, Hillard C. Mechanisms of exercise- induced hypoalgesia. J Pain. 2014;15:1294-1304. https://doi.org/10.1016/j.jpain.2014.09.006.",
+      "text_id": 149,
+      "paragraph_id": 55,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Koltyn KF, Knauf MT, Brellenthin AG. Temporal summation of heat pain modulated by isometric exercise. Eur J Pain. 2013;17:1005-1011. https://doi.org/10.1002/j.1532-2149.2012.00264.x.",
+      "text_id": 150,
+      "paragraph_id": 56,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vierck Jr CJ, Staud R, Price DD, Cannon RL, Mauderli AP, Martin AD. The effect of maximal exercise on temporal summation of second pain (windup) in patients with fibromyalgia syndrome. J Pain. 2001;2:334-344. https://doi.org/10.1054/jpai.2001.25533.",
+      "text_id": 151,
+      "paragraph_id": 57,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hughes L, Patterson SD. The effect of blood flow restriction exercise on exercise- induced hypoalgesia and endogenous opioid and endocannabinoid mechanisms of pain modulation. J Appl Physiol(1985). 2020;128:914-924. https://doi.org/10.1152/japplphysiol.00768.2019.",
+      "text_id": 152,
+      "paragraph_id": 58,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hoffman MD, Shepanski MA, Ruble SB, Valic Z, Buckwalter JB, Clifford PS. Intensity and duration threshold for aerobic exercise-induced analgesia to pressure pain. Arch Phys Med Rehabil. 2004;85:1183-1187. https://doi.org/10.1016/j.apmr.2003.09.010.",
+      "text_id": 153,
+      "paragraph_id": 59,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Song JS, Yamada Y, Wong V, et al. Hypoalgesia following isometric handgrip exercise with and without blood flow restriction is not mediated by discomfort nor changes in systolic blood pressure. J Sports Sci. 2022;40:518-526. https://doi.org/10.1080/02640414.2021.2003569.",
+      "text_id": 154,
+      "paragraph_id": 60,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Karanasios S, Sozeri A, Koumantakis GA, Gioftsos G. Exercised-induced hypoalgesia following an elbow flexion low-load resistance exercise with blood flow restriction: a sham-controlled randomized trial in healthy adults. Healthcare (Basel). 2022;10. https://doi.org/10.3390/healthcare10122557.",
+      "text_id": 155,
+      "paragraph_id": 61,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sluka KA, Frey-Law L, Hoeger Bement M. Exercise-induced pain and analgesia? Underlying mechanisms and clinical translation. Pain. 2018;159(suppl 1). https://doi.org/10.1097/j.pain.0000000000001235. S91-S97.",
+      "text_id": 156,
+      "paragraph_id": 62,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fern andez-Carnero J, Fern andez-de-Las-Peñas C, de la Llave-Rinc on AI, Ge HY, Arendt-Nielsen L. Widespread mechanical pain hypersensitivity as sign of central sensitization in unilateral epicondylalgia: a blinded, controlled study. Clin J Pain. 2009;25:555-561. https://doi.org/10.1111/j.1526-4637.2010.01027.x.",
+      "text_id": 157,
+      "paragraph_id": 63,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lim EC, Sterling M, Pedler A, Coombes BK, Vicenzino B. Evidence of spinal cord hyperexcitability as measured with nociceptive flexion reflex (nfr) threshold in chronic lateral epicondylalgia with or without a positive neurodynamic test. J Pain. 2012;13:676-684. https://doi.org/10.1016/j.jpain.2012.04.005.",
+      "text_id": 158,
+      "paragraph_id": 64,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lim ECW, Sterling M, Vicenzino B. Chronic lateral epicondylalgia does not exhibit mechanical pain modulation in response to noxious conditioning heat stimulus. Clin J Pain. 2017;33. https://doi.org/10.1097/AJP.0000000000000475.",
+      "text_id": 159,
+      "paragraph_id": 65,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Patterson SD, Hughes L, Warmington S, et al. Blood flow restriction exercise: considerations of methodology, application, and safety. Front Physiol. 2019;10:533. https://doi.org/10.3389/fphys.2019.00533.",
+      "text_id": 160,
+      "paragraph_id": 66,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tuttle CSL, Thang LAN, Maier AB. Markers of inflammation and their association with muscle strength and mass: a systematic review and meta-analysis. Ageing Res Rev. 2020;64:101185. https://doi.org/10.1016/j.arr.2020.101185.",
+      "text_id": 161,
+      "paragraph_id": 67,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Karanasios S, Korakakis V, Moutzouri M, et al. Diagnostic accuracy of examination tests for lateral elbow tendinopathy (let) -a systematic review. J Hand Ther. 2022;35: 541-551. https://doi.org/10.1016/j.jht.2021.02.002.",
+      "text_id": 162,
+      "paragraph_id": 68,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Minniti MC, Statkevich AP, Kelly RL, et al. The safety of blood flow restriction training as a therapeutic intervention for patients with musculoskeletal disorders: a systematic review. Am J Sports Med. 2019;48:1773-1785. https://doi.org/10.1177/0363546519882652.",
+      "text_id": 163,
+      "paragraph_id": 69,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Patterson SD, Hughes L, Warmington S, et al. Blood flow restriction exercise: considerations of methodology, application, and safety. Front Physiol. 2019;10. https://doi.org/10.3389/fphys.2019.00533.",
+      "text_id": 164,
+      "paragraph_id": 70,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Karanasios S, Koutri C, Moutzouri M, Xergia SA, Sakellari V, Gioftsos G. The effect of body position and the reliability of upper limb arterial occlusion pressure using a handheld Doppler ultrasound for blood flow restriction training. Sports health. 2022; 14:717-724. https://doi.org/10.1177/036354651988265.",
+      "text_id": 165,
+      "paragraph_id": 71,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cognetti DJ, Sheean AJ, Owens JG. Blood flow restriction therapy and its use for rehabilitation and return to sport: physiology, application, and guidelines for implementation. Arthrosc Sports Med Rehabil. 2022;4:e71-e76. https://doi.org/10.1016/j.asmr.2021.09.025.",
+      "text_id": 166,
+      "paragraph_id": 72,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Karanasios S, Lignos I, Kouvaras K, Moutzouri M, Gioftsos G. Low-intensity blood flow restriction exercises modulate pain sensitivity in healthy adults: a systematic review. Healthcare (Basel). 2023;11:726. https://doi.org/10.3390/healthcare11050726.",
+      "text_id": 167,
+      "paragraph_id": 73,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ruiz-Ruiz B, Fern andez-de-Las-Peñas C, Ortega-Santiago R, Arendt-Nielsen L, Madeleine P. Topographical pressure and thermal pain sensitivity mapping in patients with unilateral lateral epicondylalgia. J Pain. 2011;12:1040-1048. https://doi.org/10.1016/j.jpain.2011.04.001.",
+      "text_id": 168,
+      "paragraph_id": 74,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Smidt N, van der Windt DAWM, Assendelft WJJ, Devill e WLJM, Korthals-de Bos IBC, Bouter LM. Corticosteroid injections, physiotherapy, or a wait-and-see policy for lateral epicondylitis: a randomised controlled trial. Lancet. 2002;359:657-662. https://doi.org/10.1016/S0140-6736(02)07811-X.",
+      "text_id": 169,
+      "paragraph_id": 75,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Coombes BK, Bisset L, Brooks P, Khan A, Vicenzino B. Effect of corticosteroid injection, physiotherapy, or both on clinical outcomes in patients with unilateral lateral epicondylalgia: a randomized controlled trial. JAMA. 2013;309:461-469. https://doi.org/10.1001/jama.2013.129.",
+      "text_id": 170,
+      "paragraph_id": 76,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Heales L, Hill C, Kean C, Stanton R. Within-and between-session test-retest reliability of pain-free grip strength in individuals with lateral elbow tendinopathy. Physiother Theory Pract. 2021;24:S79. https://doi.org/10.1080/09593985.2022.2030445.",
+      "text_id": 171,
+      "paragraph_id": 77,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bohannon RW. Minimal clinically important difference for grip strength: a systematic review. J Phys Ther Sci. 2019;31:75-78. https://doi.org/10.1589/jpts.31.75.",
+      "text_id": 172,
+      "paragraph_id": 78,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Koltyn KF, Umeda M. Exercise, hypoalgesia and blood pressure. Sports Med. 2006;36: 207-214. https://doi.org/10.2165/00007256-200636030-00003.",
+      "text_id": 173,
+      "paragraph_id": 79,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ring C, Edwards L, Kavussanu M. Effects of isometric exercise on pain are mediated by blood pressure. Biol Psychol. 2008;78:123-128. https://doi.org/10.1016/j.biopsycho.2008.01.008.",
+      "text_id": 174,
+      "paragraph_id": 80,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lacruz ME, Kluttig A, Kuss O, et al. Short-term blood pressure variability -variation between arm side, body position and successive measurements: a population-based cohort study. BMC Cardiovasc Disord. 2017;17:31. https://doi.org/10.1186/s12872-017-0468-7.",
+      "text_id": 175,
+      "paragraph_id": 81,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Williams NJOM. The borg rating of perceived exertion (rpe) scale. Occup Med. 2017; 67:404-405. https://doi.org/10.1093/occmed/kqx063.",
+      "text_id": 176,
+      "paragraph_id": 82,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Naugle KM, Fillingim RB, Riley III JL. A meta-analytic review of the hypoalgesic effects of exercise. J Pain. 2012;13:1139-1150. https://doi.org/10.1016/j.jpain.2012.09.006.",
+      "text_id": 177,
+      "paragraph_id": 83,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Slater H, Th eriault E, Ronningen BO, Clark R, Nosaka K. Exercise-induced mechanical hypoalgesia in musculotendinous tissues of the lateral elbow. Man Ther. 2010;15:66-73. https://doi.org/10.1016/j.math.2009.07.002.",
+      "text_id": 178,
+      "paragraph_id": 84,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Koltyn KF, Brellenthin AG, Cook DB, Sehgal N, Hillard C. Mechanisms of exercise- induced hypoalgesia. J Pain. 2014;15:1294-1304. https://doi.org/10.1016/j.jpain.2014.09.006.",
+      "text_id": 179,
+      "paragraph_id": 85,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vaegter HB, Jones MD. Exercise-induced hypoalgesia after acute and regular exercise: experimental and clinical manifestations and possible mechanisms in individuals with and without pain. Pain rep. 2020;5:e823. https://doi.org/10.1097/pr9.0000000000000823.",
+      "text_id": 180,
+      "paragraph_id": 86,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fatela P, Mendonca GV, Veloso AP, Avela J, Mil-Homens P. Blood flow restriction alters motor unit behavior during resistance exercise. Int J Sports Med. 2019;40: 555-562. https://doi.org/10.1055/2Fa-0888-8816.",
+      "text_id": 181,
+      "paragraph_id": 87,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Norbury R, Grant I, Woodhead A, Hughes L, Tallent J, Patterson SD. Acute hypoalgesic, neurophysiological and perceptual responses to low-load blood flow restriction exercise and high-load resistance exercise. Exper Physiol. 2024;109: 672-688. https://doi.org/10.1113/EP091705.",
+      "text_id": 182,
+      "paragraph_id": 88,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hammert WB, Song JS, Yamada Y, et al. Blood flow restriction augments exercise- induced pressure pain thresholds over repetition and effort matched conditions. J Sports Sci. 2024;42:73-84. https://doi.org/10.1080/02640414.2024.2321012.",
+      "text_id": 183,
+      "paragraph_id": 89,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pereira FE, Mello IL, Pimenta FH, et al. A clinical experimental model to evaluate analgesic effect of remote ischemic preconditioning in acute postoperative pain. Pain Res Treat. 2016;2016:5093870. https://doi.org/10.1155/2016/5093870.",
+      "text_id": 184,
+      "paragraph_id": 90,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kataoka R, Song JS, Yamada Y, et al. The impact of different ischemic preconditioning pressures on pain sensitivity and resistance exercise performance. J Strength Cond Res. 2024;38:864-872. https://doi.org/10.1519/jsc.0000000000004718.",
+      "text_id": 185,
+      "paragraph_id": 91,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Alsouhibani A, Vaegter HB, Hoeger Bement M. Systemic exercise-induced hypoalgesia following isometric exercise reduces conditioned pain modulation. Pain Med. 2019;20:180-190. https://doi.org/10.1093/pm/pny057.",
+      "text_id": 186,
+      "paragraph_id": 92,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vaegter HB, Handberg G, Graven-Nielsen T. Similarities between exercise-induced hypoalgesia and conditioned pain modulation in humans. Pain. 2014;155:158-167. https://doi.org/10.1016/j.pain.2013.09.023.",
+      "text_id": 187,
+      "paragraph_id": 93,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Misra G, Paris TA, Archer DB, Coombes SA. Dose-response effect of isometric force production on the perception of pain. PLoS One. 2014;9:e88105. https://doi.org/10.1371/journal.pone.0088105.",
+      "text_id": 188,
+      "paragraph_id": 94,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Holden S, Lyng K, Graven-Nielsen T, et al. Isometric exercise and pain in patellar tendinopathy: a randomized crossover trial. J Sci Med Sport. 2020;23:208-214. https://doi.org/10.1016/j.jsams.2019.09.015.",
+      "text_id": 189,
+      "paragraph_id": 95,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Rio E, Kidgell D, Moseley GL, et al. Tendon neuroplastic training: changing the way we think about tendon rehabilitation: a narrative review. Br J Sports Med. 2016;50: 209-215. https://doi.org/10.1136/bjsports-2015-095215.",
+      "text_id": 190,
+      "paragraph_id": 96,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hoeger Bement MK, Dicapo J, Rasiarmos R, Hunter SK. Dose response of isometric contractions on pain perception in healthy adults. Med Sci Sports Exerc. 2008;40: 1880-1889. https://doi.org/10.1249/mss.0b013e31817eeecc.",
+      "text_id": 191,
+      "paragraph_id": 97,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Watanabe S, Kakigi R, Hoshiyama M, Kitamura Y, Koyama S, Shimojo M. Effects of noxious cooling of the skin on pain perception in man. J Neurol Sci. 1996;135:68-73. https://doi.org/10.1016/0022-510X(95)00253-X.",
+      "text_id": 192,
+      "paragraph_id": 98,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Koc BB, Truyens A, Heymans M, Jansen EJP, Schotanus MGM. Effect of low-load blood flow restriction training after anterior cruciate ligament reconstruction: a systematic review. J Neurol Sci. 2022;17:334-346. https://doi.org/10.26603/001c.33151.",
+      "text_id": 193,
+      "paragraph_id": 99,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Grantham B, Korakakis V, O'Sullivan K. Does blood flow restriction training enhance clinical outcomes in knee osteoarthritis: a systematic review and meta-analysis. Phys Ther Sport. 2021;49:37-49. https://doi.org/10.1016/j.ptsp.2021.01.014.",
+      "text_id": 194,
+      "paragraph_id": 100,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wang HN, Chen Y, Cheng L, Cai YH, Li W, Ni GX. Efficacy and safety of blood flow restriction training in patients with knee osteoarthritis: a systematic review and meta-analysis. Arthritis Care Res. 2022;74:89-98. https://doi.org/10.1002/acr.24787.",
+      "text_id": 195,
+      "paragraph_id": 101,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Karanasios S, Korakakis V, Moutzouri M, Xergia SA, Tsepis E, Gioftsos G. Low-load resistance training with blood flow restriction is effective for managing lateral elbow tendinopathy: a randomized, sham-controlled trial. J Orthop Sports Phys Ther. 2022; 52:803-825. https://www.jospt.org/doi/10.2519/jospt.2022.11211.",
+      "text_id": 196,
+      "paragraph_id": 102,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kahn HA, Sempos CT. Statistical Methods in Epidemiology. Oxford University Press; 1989.",
+      "text_id": 197,
+      "paragraph_id": 103,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lemos LK, Toledo Teixeira Filho CA, Biral TM, et al. Acute effects of resistance exercise with blood flow restriction on cardiovascular response: a meta-analysis.",
+      "text_id": 198,
+      "paragraph_id": 104,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "J Comp Eff Res. 2022;11:829-842. https://doi.org/10.2217/cer-2021-0272.",
+      "text_id": 199,
+      "paragraph_id": 105,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Suggitt JO, Eaves BE, Spranger MD. What are the cardiovascular responses during blood flow-restricted resistance exercise? Front Physiol. 2024;15:1417855. https://doi.org/10.3389/fphys.2024.1417855.",
+      "text_id": 200,
+      "paragraph_id": 106,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Ethical approval",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Study design",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.3. Participants",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.4. Randomization and masking",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.5. Interventions",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "2.6. Primary outcome",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "2.7. Secondary outcomes",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "2.8. Sample size",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "2.9. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "3.1. Primary outcomes",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "3.2. Secondary outcomes",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "4.1.",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "4.2. Changes in pain-free grip strength after BFR training are dependent on participants' characteristics",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "4.3. Limitations and future research",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "5. Conclusions",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "Funding",
+      "parent_section_id": null,
+      "section_type": "funding",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Declaration of competing interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "Trial registration",
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 24,
+      "header": "Ethical approval statement",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 25,
+      "header": "Fig 1.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 26,
+      "header": "Fig 2.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 27,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 28,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 29,
+      "header": "Table 3",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 30,
+      "header": "Table 4",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 31,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [
+    {
+      "href": "http://ClinicalTrials.gov",
+      "link_text": null,
+      "text_id": 21
+    },
+    {
+      "href": "https://www.randomizer.org/",
+      "link_text": null,
+      "text_id": 25
+    },
+    {
+      "href": "https://doi.org/10.1016/j.smhs.2025.03.003",
+      "link_text": null,
+      "text_id": 122
+    }
+  ],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jphys.2015.07.015",
+      "title": "Physiotherapy management of lateral epicondylalgia",
+      "authors": "Bisset, L M; Vicenzino, B",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "61",
+      "issue": "",
+      "first_page": "174",
+      "last_page": "181",
+      "container": "J Physiother",
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 133
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.berh.2011.01.013",
+      "title": "Lateral and medial epicondylitis: role of occupational factors",
+      "authors": "Shiri, R; Viikari-Juntura, E",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "25",
+      "issue": "",
+      "first_page": "43",
+      "last_page": "57",
+      "container": "Best Pract Res Clin Rheumatol",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 134
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/0363546514568087",
+      "title": "The epidemiology and health care burden of tennis elbow: a population-based study",
+      "authors": "Jr, Sanders; , T L; Kremers, Maradit; Bryan, H; Ransom, A J; Smith, J E; Morrey, J; , B F",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "43",
+      "issue": "",
+      "first_page": "1066",
+      "last_page": "1071",
+      "container": "Am J Sports Med",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 135
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/S0003-9993(03)00480-5",
+      "title": "Factors associated with prognosis of lateral epicondylitis after 8 weeks of physical therapy",
+      "authors": "Waugh, E J; Jaglal, S B; Davis, A M; Tomlinson, G; Verrier, M C",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "85",
+      "issue": "",
+      "first_page": "308",
+      "last_page": "318",
+      "container": "Arch Phys Med Rehabil",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 136
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2020-102525",
+      "title": "Exercise interventions in lateral elbow tendinopathy have better outcomes than passive interventions, but the effects are small: a systematic review and meta-analysis of 2123 subjects in 30 trials",
+      "authors": "Karanasios, S; Korakakis, V; Whiteley, R; Vasilogeorgis, I; Woodbridge, S; Gioftsos, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "55",
+      "issue": "",
+      "first_page": "477",
+      "last_page": "485",
+      "container": "Br J Sports Med",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 137
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jseint.2021.11.010",
+      "title": "Nonoperative treatment of lateral epicondylitis: a systematic review and meta-analysis",
+      "authors": "Lapner, P; Alfonso, A; Hebert-Davies, J; Pollock, J W; Marsh, J; King, Gjw",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "6",
+      "issue": "2",
+      "first_page": "321",
+      "last_page": "330",
+      "container": "JSES Int",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 138
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/ajp.0000000000000615",
+      "title": "Unilateral lateral epicondylalgia shows a pro-nociceptive pain profile: a case-control observational study",
+      "authors": "Bisset, L; Carty, M; Smith, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "34",
+      "issue": "",
+      "first_page": "954",
+      "last_page": "959",
+      "container": "Clin J Pain",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 139
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-018-0994-1",
+      "title": "Effects of blood flow restriction training on muscular strength and hypertrophy in older individuals: a systematic review and meta-analysis",
+      "authors": "Centner, C; Wiegel, P; Gollhofer, A; K€, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "49",
+      "issue": "",
+      "first_page": "95",
+      "last_page": "108",
+      "container": "Sports Med",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 140
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-014-0288-1",
+      "title": "Exercise with blood flow restriction: an updated evidence-based approach for enhanced muscular development",
+      "authors": "Scott, B R; Loenneke, J P; Slattery, K M; Dascombe, B J",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "45",
+      "issue": "",
+      "first_page": "313",
+      "last_page": "325",
+      "container": "Sports Med",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 141
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s00421-019-04220-8",
+      "title": "Eccentric and concentric blood flow restriction resistance training on indices of delayed onset muscle soreness in untrained women",
+      "authors": "Hill, E C; Housh, T J; Smith, C M; Keller, J L; Schmidt, R J; Johnson, G O",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "119",
+      "issue": "",
+      "first_page": "2363",
+      "last_page": "2373",
+      "container": "Eur J Appl Physiol",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 142
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1152/japplphysiol.00543.2021",
+      "title": "Aerobic exercise with blood flow restriction causes local and systemic hypoalgesia and increases circulating opioid and endocannabinoid levels",
+      "authors": "Hughes, L; Grant, I; Patterson, S D",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "131",
+      "issue": "",
+      "first_page": "1460",
+      "last_page": "1468",
+      "container": "J Appl Physiol",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 143
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1152/japplphysiol.00768.2019",
+      "title": "The effect of blood flow restriction exercise on exerciseinduced hypoalgesia and endogenous opioid and endocannabinoid mechanisms of pain modulation",
+      "authors": "Hughes, L; Patterson, S D",
+      "editors": "",
+      "publisher": "",
+      "year": 1985,
+      "volume": "128",
+      "issue": "4",
+      "first_page": "914",
+      "last_page": "924",
+      "container": "J Appl Physiol",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 144
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/healthcare10122557",
+      "title": "Exercised-induced hypoalgesia following an elbow flexion low-load resistance exercise with blood flow restriction: a sham-controlled randomized trial in healthy adults",
+      "authors": "Karanasios, S; Sozeri, A; Koumantakis, G A; Gioftsos, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "10",
+      "issue": "12",
+      "first_page": "2557",
+      "last_page": null,
+      "container": "Healthcare (Basel)",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 145
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/02640414.2021.2003569",
+      "title": "Hypoalgesia following isometric handgrip exercise with and without blood flow restriction is not mediated by discomfort nor changes in systolic blood pressure",
+      "authors": "Song, J S; Yamada, Y; Wong, V",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "40",
+      "issue": "5",
+      "first_page": "518",
+      "last_page": "526",
+      "container": "J Sports Sci",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 146
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/08990220.2021.1987876",
+      "title": "Hypoalgesic effects of a blood flow restriction technique at moderate intensity with or without motor imagery: a single-blind randomized controlled trial",
+      "authors": "Varangot-Reille, C; Cuenca-Martínez, F; Suso-Martí, L",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "39",
+      "issue": "",
+      "first_page": "29",
+      "last_page": "38",
+      "container": "Somatosens Mot Res",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 147
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/02701367.2022.2115443",
+      "title": "The hypoalgesic effect of low-load exercise to failure is not augmented by blood flow restriction",
+      "authors": "Song, J S; Kataoka, R; Yamada, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "94",
+      "issue": "",
+      "first_page": "1084",
+      "last_page": "1093",
+      "container": "Res Q f Exercise Sport",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 148
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jpain.2014.09.006",
+      "title": "Mechanisms of exerciseinduced hypoalgesia",
+      "authors": "Koltyn, K F; Brellenthin, A G; Cook, D B; Sehgal, N; Hillard, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "15",
+      "issue": "",
+      "first_page": "1294",
+      "last_page": "1304",
+      "container": "J Pain",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 149
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1002/j.1532-2149.2012.00264.x",
+      "title": "Temporal summation of heat pain modulated by isometric exercise",
+      "authors": "Koltyn, K F; Knauf, M T; Brellenthin, A G",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "17",
+      "issue": "",
+      "first_page": "1005",
+      "last_page": "1011",
+      "container": "Eur J Pain",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 150
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1054/jpai.2001.25533",
+      "title": "The effect of maximal exercise on temporal summation of second pain (windup) in patients with fibromyalgia syndrome",
+      "authors": "Vierck, C J; Staud, R; Price, D D; Cannon, R L; Mauderli, A P; Martin, A D",
+      "editors": "",
+      "publisher": "",
+      "year": 2001,
+      "volume": "2",
+      "issue": "",
+      "first_page": "334",
+      "last_page": "344",
+      "container": "J Pain",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 151
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1152/japplphysiol.00768.2019",
+      "title": "The effect of blood flow restriction exercise on exerciseinduced hypoalgesia and endogenous opioid and endocannabinoid mechanisms of pain modulation",
+      "authors": "Hughes, L; Patterson, S D",
+      "editors": "",
+      "publisher": "",
+      "year": 1985,
+      "volume": "128",
+      "issue": "",
+      "first_page": "914",
+      "last_page": "924",
+      "container": "J Appl Physiol",
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 152
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.apmr.2003.09.010",
+      "title": "Intensity and duration threshold for aerobic exercise-induced analgesia to pressure pain",
+      "authors": "Hoffman, M D; Shepanski, M A; Ruble, S B; Valic, Z; Buckwalter, J B; Clifford, P S",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "85",
+      "issue": "",
+      "first_page": "1183",
+      "last_page": "1187",
+      "container": "Arch Phys Med Rehabil",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 153
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/02640414.2021.2003569",
+      "title": "Hypoalgesia following isometric handgrip exercise with and without blood flow restriction is not mediated by discomfort nor changes in systolic blood pressure",
+      "authors": "Song, J S; Yamada, Y; Wong, V",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "40",
+      "issue": "",
+      "first_page": "518",
+      "last_page": "526",
+      "container": "J Sports Sci",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 154
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/healthcare10122557",
+      "title": "Exercised-induced hypoalgesia following an elbow flexion low-load resistance exercise with blood flow restriction: a sham-controlled randomized trial in healthy adults",
+      "authors": "Karanasios, S; Sozeri, A; Koumantakis, G A; Gioftsos, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "10",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Healthcare (Basel)",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 155
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/j.pain.0000000000001235",
+      "title": "Exercise-induced pain and analgesia? Underlying mechanisms and clinical translation",
+      "authors": "Sluka, K A; Frey-Law, L; Bement, Hoeger; , M",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "159",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Pain",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 156
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1111/j.1526-4637.2010.01027.x",
+      "title": "Widespread mechanical pain hypersensitivity as sign of central sensitization in unilateral epicondylalgia: a blinded, controlled study",
+      "authors": "Andez-Carnero, Fern; , J; Andez-De-Las-Peñas, Fern; De La Llave-Rinc On, C; Ge, A I; Arendt-Nielsen, H Y; , L",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "25",
+      "issue": "",
+      "first_page": "555",
+      "last_page": "561",
+      "container": "Clin J Pain",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 157
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jpain.2012.04.005",
+      "title": "Evidence of spinal cord hyperexcitability as measured with nociceptive flexion reflex (nfr) threshold in chronic lateral epicondylalgia with or without a positive neurodynamic test",
+      "authors": "Lim, E C; Sterling, M; Pedler, A; Coombes, B K; Vicenzino, B",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "13",
+      "issue": "",
+      "first_page": "676",
+      "last_page": "684",
+      "container": "J Pain",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 158
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/AJP.0000000000000475",
+      "title": "Chronic lateral epicondylalgia does not exhibit mechanical pain modulation in response to noxious conditioning heat stimulus",
+      "authors": "Lim, Ecw; Sterling, M; Vicenzino, B",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "33",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Clin J Pain",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 159
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3389/fphys.2019.00533",
+      "title": "Blood flow restriction exercise: considerations of methodology, application, and safety",
+      "authors": "Patterson, S D; Hughes, L; Warmington, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "10",
+      "issue": "",
+      "first_page": "533",
+      "last_page": null,
+      "container": "Front Physiol",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 160
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.arr.2020.101185",
+      "title": "Markers of inflammation and their association with muscle strength and mass: a systematic review and meta-analysis",
+      "authors": "Tuttle, Csl; Thang, Lan; Maier, A B",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "64",
+      "issue": "",
+      "first_page": "101185",
+      "last_page": null,
+      "container": "Ageing Res Rev",
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 161
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jht.2021.02.002",
+      "title": "Diagnostic accuracy of examination tests for lateral elbow tendinopathy (let) -a systematic review",
+      "authors": "Karanasios, S; Korakakis, V; Moutzouri, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "35",
+      "issue": "",
+      "first_page": "541",
+      "last_page": "551",
+      "container": "J Hand Ther",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 162
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/0363546519882652",
+      "title": "The safety of blood flow restriction training as a therapeutic intervention for patients with musculoskeletal disorders: a systematic review",
+      "authors": "Minniti, M C; Statkevich, A P; Kelly, R L",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "48",
+      "issue": "",
+      "first_page": "1773",
+      "last_page": "1785",
+      "container": "Am J Sports Med",
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 163
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3389/fphys.2019.00533",
+      "title": "Blood flow restriction exercise: considerations of methodology, application, and safety",
+      "authors": "Patterson, S D; Hughes, L; Warmington, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "10",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Front Physiol",
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 164
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/036354651988265",
+      "title": "The effect of body position and the reliability of upper limb arterial occlusion pressure using a handheld Doppler ultrasound for blood flow restriction training",
+      "authors": "Karanasios, S; Koutri, C; Moutzouri, M; Xergia, S A; Sakellari, V; Gioftsos, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "14",
+      "issue": "",
+      "first_page": "717",
+      "last_page": "724",
+      "container": "Sports health",
+      "bib_id": 32,
+      "year_suffix": "",
+      "text_id": 165
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.asmr.2021.09.025",
+      "title": "Blood flow restriction therapy and its use for rehabilitation and return to sport: physiology, application, and guidelines for implementation",
+      "authors": "Cognetti, D J; Sheean, A J; Owens, J G",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "4",
+      "issue": "",
+      "first_page": "71",
+      "last_page": "e76",
+      "container": "Arthrosc Sports Med Rehabil",
+      "bib_id": 33,
+      "year_suffix": "",
+      "text_id": 166
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/healthcare11050726",
+      "title": "Low-intensity blood flow restriction exercises modulate pain sensitivity in healthy adults: a systematic review",
+      "authors": "Karanasios, S; Lignos, I; Kouvaras, K; Moutzouri, M; Gioftsos, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "11",
+      "issue": "",
+      "first_page": "726",
+      "last_page": null,
+      "container": "Healthcare (Basel)",
+      "bib_id": 34,
+      "year_suffix": "",
+      "text_id": 167
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jpain.2011.04.001",
+      "title": "Topographical pressure and thermal pain sensitivity mapping in patients with unilateral lateral epicondylalgia",
+      "authors": "Ruiz-Ruiz, B; Andez-De-Las-Peñas, Fern; Ortega-Santiago, C; Arendt-Nielsen, R; , L; , Madeleine P",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "12",
+      "issue": "",
+      "first_page": "1040",
+      "last_page": "1048",
+      "container": "J Pain",
+      "bib_id": 35,
+      "year_suffix": "",
+      "text_id": 168
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/S0140-6736(02)07811-X",
+      "title": "Corticosteroid injections, physiotherapy, or a wait-and-see policy for lateral epicondylitis: a randomised controlled trial",
+      "authors": "Smidt, N; Van Der Windt, Dawm; Assendelft, Wjj; Devill E Wljm, Korthals-De; Bos, Ibc; Bouter, L M",
+      "editors": "",
+      "publisher": "",
+      "year": 2002,
+      "volume": "359",
+      "issue": "",
+      "first_page": "657",
+      "last_page": "662",
+      "container": "Lancet",
+      "bib_id": 36,
+      "year_suffix": "",
+      "text_id": 169
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1001/jama.2013.129",
+      "title": "Effect of corticosteroid injection, physiotherapy, or both on clinical outcomes in patients with unilateral lateral epicondylalgia: a randomized controlled trial",
+      "authors": "Coombes, B K; Bisset, L; Brooks, P; Khan, A; Vicenzino, B",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "309",
+      "issue": "",
+      "first_page": "461",
+      "last_page": "469",
+      "container": "JAMA",
+      "bib_id": 37,
+      "year_suffix": "",
+      "text_id": 170
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/09593985.2022.2030445",
+      "title": "Within-and between-session test-retest reliability of pain-free grip strength in individuals with lateral elbow tendinopathy",
+      "authors": "Heales, L; Hill, C; Kean, C; Stanton, R",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "24",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Physiother Theory Pract",
+      "bib_id": 38,
+      "year_suffix": "",
+      "text_id": 171
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1589/jpts.31.75",
+      "title": "Minimal clinically important difference for grip strength: a systematic review",
+      "authors": "Bohannon, R W",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "31",
+      "issue": "",
+      "first_page": "75",
+      "last_page": "78",
+      "container": "J Phys Ther Sci",
+      "bib_id": 39,
+      "year_suffix": "",
+      "text_id": 172
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2165/00007256-200636030-00003",
+      "title": "Exercise, hypoalgesia and blood pressure",
+      "authors": "Koltyn, K F; Umeda, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "36",
+      "issue": "",
+      "first_page": "207",
+      "last_page": "214",
+      "container": "Sports Med",
+      "bib_id": 40,
+      "year_suffix": "",
+      "text_id": 173
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.biopsycho.2008.01.008",
+      "title": "Effects of isometric exercise on pain are mediated by blood pressure",
+      "authors": "Ring, C; Edwards, L; Kavussanu, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "78",
+      "issue": "",
+      "first_page": "123",
+      "last_page": "128",
+      "container": "Biol Psychol",
+      "bib_id": 41,
+      "year_suffix": "",
+      "text_id": 174
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/s12872-017-0468-7",
+      "title": "Short-term blood pressure variability -variation between arm side, body position and successive measurements: a population-based cohort study",
+      "authors": "Lacruz, M E; Kluttig, A; Kuss, O",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "17",
+      "issue": "",
+      "first_page": "31",
+      "last_page": null,
+      "container": "BMC Cardiovasc Disord",
+      "bib_id": 42,
+      "year_suffix": "",
+      "text_id": 175
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1093/occmed/kqx063",
+      "title": "The borg rating of perceived exertion (rpe) scale",
+      "authors": "Williams, Njom",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "67",
+      "issue": "",
+      "first_page": "404",
+      "last_page": "405",
+      "container": "Occup Med",
+      "bib_id": 43,
+      "year_suffix": "",
+      "text_id": 176
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jpain.2012.09.006",
+      "title": "A meta-analytic review of the hypoalgesic effects of exercise",
+      "authors": "Naugle, K M; Fillingim, R B; Riley, Iii; Jl, ",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "13",
+      "issue": "",
+      "first_page": "1139",
+      "last_page": "1150",
+      "container": "J Pain",
+      "bib_id": 44,
+      "year_suffix": "",
+      "text_id": 177
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.math.2009.07.002",
+      "title": "Exercise-induced mechanical hypoalgesia in musculotendinous tissues of the lateral elbow",
+      "authors": "Slater, H; Th Eriault E, Ronningen, B O; Clark, R; Nosaka, K",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "15",
+      "issue": "",
+      "first_page": "66",
+      "last_page": "73",
+      "container": "Man Ther",
+      "bib_id": 45,
+      "year_suffix": "",
+      "text_id": 178
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jpain.2014.09.006",
+      "title": "Mechanisms of exerciseinduced hypoalgesia",
+      "authors": "Koltyn, K F; Brellenthin, A G; Cook, D B; Sehgal, N; Hillard, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "15",
+      "issue": "",
+      "first_page": "1294",
+      "last_page": "1304",
+      "container": "J Pain",
+      "bib_id": 46,
+      "year_suffix": "",
+      "text_id": 179
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/pr9.0000000000000823",
+      "title": "Exercise-induced hypoalgesia after acute and regular exercise: experimental and clinical manifestations and possible mechanisms in individuals with and without pain",
+      "authors": "Vaegter, H B; Jones, M D",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "5",
+      "issue": "",
+      "first_page": "823",
+      "last_page": null,
+      "container": "Pain rep",
+      "bib_id": 47,
+      "year_suffix": "",
+      "text_id": 180
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1055/2Fa-0888-8816",
+      "title": "Blood flow restriction alters motor unit behavior during resistance exercise",
+      "authors": "Fatela, P; Mendonca, G V; Veloso, A P; Avela, J; Mil-Homens, P",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "40",
+      "issue": "",
+      "first_page": "555",
+      "last_page": "562",
+      "container": "Int J Sports Med",
+      "bib_id": 48,
+      "year_suffix": "",
+      "text_id": 181
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1113/EP091705",
+      "title": "Acute hypoalgesic, neurophysiological and perceptual responses to low-load blood flow restriction exercise and high-load resistance exercise",
+      "authors": "Norbury, R; Grant, I; Woodhead, A; Hughes, L; Tallent, J; Patterson, S D",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "109",
+      "issue": "",
+      "first_page": "672",
+      "last_page": "688",
+      "container": "Exper Physiol",
+      "bib_id": 49,
+      "year_suffix": "",
+      "text_id": 182
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/02640414.2024.2321012",
+      "title": "Blood flow restriction augments exerciseinduced pressure pain thresholds over repetition and effort matched conditions",
+      "authors": "Hammert, W B; Song, J S; Yamada, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "42",
+      "issue": "",
+      "first_page": "73",
+      "last_page": "84",
+      "container": "J Sports Sci",
+      "bib_id": 50,
+      "year_suffix": "",
+      "text_id": 183
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1155/2016/5093870",
+      "title": "A clinical experimental model to evaluate analgesic effect of remote ischemic preconditioning in acute postoperative pain",
+      "authors": "Pereira, F E; Mello, I L; Pimenta, F H",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "",
+      "issue": "",
+      "first_page": "5093870",
+      "last_page": null,
+      "container": "Pain Res Treat",
+      "bib_id": 51,
+      "year_suffix": "",
+      "text_id": 184
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1519/jsc.0000000000004718",
+      "title": "The impact of different ischemic preconditioning pressures on pain sensitivity and resistance exercise performance",
+      "authors": "Kataoka, R; Song, J S; Yamada, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "38",
+      "issue": "",
+      "first_page": "864",
+      "last_page": "872",
+      "container": "J Strength Cond Res",
+      "bib_id": 52,
+      "year_suffix": "",
+      "text_id": 185
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1093/pm/pny057",
+      "title": "Systemic exercise-induced hypoalgesia following isometric exercise reduces conditioned pain modulation",
+      "authors": "Alsouhibani, A; Vaegter, H B; Bement, Hoeger; , M",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "20",
+      "issue": "",
+      "first_page": "180",
+      "last_page": "190",
+      "container": "Pain Med",
+      "bib_id": 53,
+      "year_suffix": "",
+      "text_id": 186
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.pain.2013.09.023",
+      "title": "Similarities between exercise-induced hypoalgesia and conditioned pain modulation in humans",
+      "authors": "Vaegter, H B; Handberg, G; Graven-Nielsen, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "155",
+      "issue": "",
+      "first_page": "158",
+      "last_page": "167",
+      "container": "Pain",
+      "bib_id": 54,
+      "year_suffix": "",
+      "text_id": 187
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0088105",
+      "title": "Dose-response effect of isometric force production on the perception of pain",
+      "authors": "Misra, G; Paris, T A; Archer, D B; Coombes, S A",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "9",
+      "issue": "",
+      "first_page": "88105",
+      "last_page": null,
+      "container": "PLoS One",
+      "bib_id": 55,
+      "year_suffix": "",
+      "text_id": 188
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jsams.2019.09.015",
+      "title": "Isometric exercise and pain in patellar tendinopathy: a randomized crossover trial",
+      "authors": "Holden, S; Lyng, K; Graven-Nielsen, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "23",
+      "issue": "",
+      "first_page": "208",
+      "last_page": "214",
+      "container": "J Sci Med Sport",
+      "bib_id": 56,
+      "year_suffix": "",
+      "text_id": 189
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2015-095215",
+      "title": "Tendon neuroplastic training: changing the way we think about tendon rehabilitation: a narrative review",
+      "authors": "Rio, E; Kidgell, D; Moseley, G L",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "50",
+      "issue": "",
+      "first_page": "209",
+      "last_page": "215",
+      "container": "Br J Sports Med",
+      "bib_id": 57,
+      "year_suffix": "",
+      "text_id": 190
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1249/mss.0b013e31817eeecc",
+      "title": "Dose response of isometric contractions on pain perception in healthy adults",
+      "authors": "Bement, Hoeger; Dicapo, M K; Rasiarmos, J; Hunter, R; , S K",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "40",
+      "issue": "",
+      "first_page": "1880",
+      "last_page": "1889",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 58,
+      "year_suffix": "",
+      "text_id": 191
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/0022-510X(95)00253-X",
+      "title": "Effects of noxious cooling of the skin on pain perception in man",
+      "authors": "Watanabe, S; Kakigi, R; Hoshiyama, M; Kitamura, Y; Koyama, S; Shimojo, M",
+      "editors": "",
+      "publisher": "",
+      "year": 1996,
+      "volume": "135",
+      "issue": "",
+      "first_page": "68",
+      "last_page": "73",
+      "container": "J Neurol Sci",
+      "bib_id": 59,
+      "year_suffix": "",
+      "text_id": 192
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.26603/001c.33151",
+      "title": "Effect of low-load blood flow restriction training after anterior cruciate ligament reconstruction: a systematic review",
+      "authors": "Koc, B B; Truyens, A; Heymans, M; Jansen, Ejp; Schotanus, Mgm",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "17",
+      "issue": "",
+      "first_page": "334",
+      "last_page": "346",
+      "container": "J Neurol Sci",
+      "bib_id": 60,
+      "year_suffix": "",
+      "text_id": 193
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.ptsp.2021.01.014",
+      "title": "Does blood flow restriction training enhance clinical outcomes in knee osteoarthritis: a systematic review and meta-analysis",
+      "authors": "Grantham, B; Korakakis, V; Sullivan, O'; , K",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "49",
+      "issue": "",
+      "first_page": "37",
+      "last_page": "49",
+      "container": "Phys Ther Sport",
+      "bib_id": 61,
+      "year_suffix": "",
+      "text_id": 194
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1002/acr.24787",
+      "title": "Efficacy and safety of blood flow restriction training in patients with knee osteoarthritis: a systematic review and meta-analysis",
+      "authors": "Wang, H N; Chen, Y; Cheng, L; Cai, Y H; Li, W; Ni, G X",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "74",
+      "issue": "",
+      "first_page": "89",
+      "last_page": "98",
+      "container": "Arthritis Care Res",
+      "bib_id": 62,
+      "year_suffix": "",
+      "text_id": 195
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2519/jospt.2022.11211",
+      "title": "Low-load resistance training with blood flow restriction is effective for managing lateral elbow tendinopathy: a randomized, sham-controlled trial",
+      "authors": "Karanasios, S; Korakakis, V; Moutzouri, M; Xergia, S A; Tsepis, E; Gioftsos, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "52",
+      "issue": "",
+      "first_page": "803",
+      "last_page": "825",
+      "container": "J Orthop Sports Phys Ther",
+      "bib_id": 63,
+      "year_suffix": "",
+      "text_id": 196
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Statistical Methods in Epidemiology",
+      "authors": "Kahn, H A; Sempos, C T",
+      "editors": "",
+      "publisher": "Oxford University Press",
+      "year": 1989,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 64,
+      "year_suffix": "",
+      "text_id": 197
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Acute effects of resistance exercise with blood flow restriction on cardiovascular response: a meta-analysis",
+      "authors": "Lemos, L K; Teixeira Filho, Toledo; Biral, C A; , T M",
+      "editors": "",
+      "publisher": "",
+      "year": null,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 65,
+      "year_suffix": null,
+      "text_id": 198
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2217/cer-2021-0272",
+      "title": "",
+      "authors": "",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "11",
+      "issue": "",
+      "first_page": "829",
+      "last_page": "842",
+      "container": "J Comp Eff Res",
+      "bib_id": 66,
+      "year_suffix": "",
+      "text_id": 199
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3389/fphys.2024.1417855",
+      "title": "What are the cardiovascular responses during blood flow-restricted resistance exercise?",
+      "authors": "Suggitt, J O; Eaves, B E; Spranger, M D",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "15",
+      "issue": "",
+      "first_page": "1417855",
+      "last_page": null,
+      "container": "Front Physiol",
+      "bib_id": 67,
+      "year_suffix": "",
+      "text_id": 200
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 12
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2,",
+      "text_id": 12
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3",
+      "text_id": 12
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4",
+      "text_id": 12
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 12
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5,",
+      "text_id": 12
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6",
+      "text_id": 12
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 12
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8,",
+      "text_id": 12
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 12
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "[10]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "[14]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 12
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "[18]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "[19]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[20]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "[21]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "[22]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 12
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "24",
+      "text_id": 13
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "[25]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "[26]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "[27]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 13
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 13
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 23
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31,",
+      "text_id": 24
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 24
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "33",
+      "text_id": 30
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28,",
+      "text_id": 33
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 33
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "33",
+      "text_id": 35
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 35
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 36
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "35",
+      "text_id": 39
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 49
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "36",
+      "text_id": 49
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 49
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 49
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "37,",
+      "text_id": 51
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "38",
+      "text_id": 51
+    },
+    {
+      "xref_id": 38,
+      "xref_type": "bibr",
+      "contents": "39",
+      "text_id": 51
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5,",
+      "text_id": 52
+    },
+    {
+      "xref_id": 39,
+      "xref_type": "bibr",
+      "contents": "40",
+      "text_id": 52
+    },
+    {
+      "xref_id": 40,
+      "xref_type": "bibr",
+      "contents": "41,",
+      "text_id": 52
+    },
+    {
+      "xref_id": 41,
+      "xref_type": "bibr",
+      "contents": "42",
+      "text_id": 52
+    },
+    {
+      "xref_id": 42,
+      "xref_type": "bibr",
+      "contents": "43",
+      "text_id": 54
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13,",
+      "text_id": 55
+    },
+    {
+      "xref_id": 43,
+      "xref_type": "bibr",
+      "contents": "44",
+      "text_id": 55
+    },
+    {
+      "xref_id": 43,
+      "xref_type": "bibr",
+      "contents": "44",
+      "text_id": 55
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12,",
+      "text_id": 58
+    },
+    {
+      "xref_id": 44,
+      "xref_type": "bibr",
+      "contents": "45",
+      "text_id": 58
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 67
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 71
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 75
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 77
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1a-h",
+      "text_id": 77
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 79
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 83
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 83
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "table",
+      "contents": "4",
+      "text_id": 84
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "table",
+      "contents": "4",
+      "text_id": 86
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12,",
+      "text_id": 93
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22,",
+      "text_id": 93
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23,",
+      "text_id": 93
+    },
+    {
+      "xref_id": 45,
+      "xref_type": "bibr",
+      "contents": "46",
+      "text_id": 93
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 93
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12,",
+      "text_id": 93
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "[47]",
+      "text_id": 93
+    },
+    {
+      "xref_id": 47,
+      "xref_type": "bibr",
+      "contents": "[48]",
+      "text_id": 93
+    },
+    {
+      "xref_id": 48,
+      "xref_type": "bibr",
+      "contents": "[49]",
+      "text_id": 93
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 93
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 94
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16,",
+      "text_id": 94
+    },
+    {
+      "xref_id": 49,
+      "xref_type": "bibr",
+      "contents": "50",
+      "text_id": 94
+    },
+    {
+      "xref_id": 50,
+      "xref_type": "bibr",
+      "contents": "51",
+      "text_id": 95
+    },
+    {
+      "xref_id": 51,
+      "xref_type": "bibr",
+      "contents": "52,",
+      "text_id": 95
+    },
+    {
+      "xref_id": 52,
+      "xref_type": "bibr",
+      "contents": "53",
+      "text_id": 95
+    },
+    {
+      "xref_id": 53,
+      "xref_type": "bibr",
+      "contents": "54,",
+      "text_id": 96
+    },
+    {
+      "xref_id": 54,
+      "xref_type": "bibr",
+      "contents": "55",
+      "text_id": 96
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12,",
+      "text_id": 96
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 96
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16,",
+      "text_id": 96
+    },
+    {
+      "xref_id": 50,
+      "xref_type": "bibr",
+      "contents": "51,",
+      "text_id": 96
+    },
+    {
+      "xref_id": 55,
+      "xref_type": "bibr",
+      "contents": "56",
+      "text_id": 96
+    },
+    {
+      "xref_id": 58,
+      "xref_type": "bibr",
+      "contents": "59",
+      "text_id": 96
+    },
+    {
+      "xref_id": 59,
+      "xref_type": "bibr",
+      "contents": "60",
+      "text_id": 96
+    },
+    {
+      "xref_id": 45,
+      "xref_type": "bibr",
+      "contents": "46",
+      "text_id": 97
+    },
+    {
+      "xref_id": 60,
+      "xref_type": "bibr",
+      "contents": "[61]",
+      "text_id": 98
+    },
+    {
+      "xref_id": 61,
+      "xref_type": "bibr",
+      "contents": "[62]",
+      "text_id": 98
+    },
+    {
+      "xref_id": 62,
+      "xref_type": "bibr",
+      "contents": "[63]",
+      "text_id": 98
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "35",
+      "text_id": 98
+    },
+    {
+      "xref_id": 63,
+      "xref_type": "bibr",
+      "contents": "64",
+      "text_id": 100
+    },
+    {
+      "xref_id": 63,
+      "xref_type": "bibr",
+      "contents": "64",
+      "text_id": 100
+    },
+    {
+      "xref_id": 64,
+      "xref_type": "bibr",
+      "contents": "65",
+      "text_id": 105
+    },
+    {
+      "xref_id": 65,
+      "xref_type": "bibr",
+      "contents": "66",
+      "text_id": 106
+    },
+    {
+      "xref_id": 67,
+      "xref_type": "bibr",
+      "contents": "67",
+      "text_id": 106
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 25,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 26,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 27,
+      "html": "<table>\n  <row>\n    <cell>Variables<\/cell>\n    <cell>Value<\/cell>\n  <\/row>\n  <row>\n    <cell>Women<\/cell>\n    <cell>8 (40%)<\/cell>\n  <\/row>\n  <row>\n    <cell>Age, mean (SD), years<\/cell>\n    <cell>49.6 (6.6)<\/cell>\n  <\/row>\n  <row>\n    <cell>BMI, mean (SD), kg⋅m À2<\/cell>\n    <cell>25.8 (3.1)<\/cell>\n  <\/row>\n  <row>\n    <cell>Symptom duration, median (IQR), weeks<\/cell>\n    <cell>10 (6-24)<\/cell>\n  <\/row>\n  <row>\n    <cell>Dominant Elbow Affected<\/cell>\n    <cell>15 (75%)<\/cell>\n  <\/row>\n  <row>\n    <cell>PRTEE<\/cell>\n    <cell>30.1 (10.7)<\/cell>\n  <\/row>\n  <row>\n    <cell>Worst Pain Past Week (NRPS)<\/cell>\n    <cell>5.7 (1.2)<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variables", "Value"],
+        ["Women", "8 (40%)"],
+        ["Age, mean (SD), years", "49.6 (6.6)"],
+        ["BMI, mean (SD), kg⋅m À2", "25.8 (3.1)"],
+        ["Symptom duration, median (IQR), weeks", "10 (6-24)"],
+        ["Dominant Elbow Affected", "15 (75%)"],
+        ["PRTEE", "30.1 (10.7)"],
+        ["Worst Pain Past Week (NRPS)", "5.7 (1.2)"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 28,
+      "html": "<table>\n  <row>\n    <cell>Variables<\/cell>\n    <cell>Wrist extensors<\/cell>\n    <cell>Wrist extensors<\/cell>\n    <cell>Between group<\/cell>\n    <cell>p-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>training with<\/cell>\n    <cell>training without<\/cell>\n    <cell>differences a<\/cell>\n    <cell>value<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>BFR a<\/cell>\n    <cell>BFR a<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Affected LE<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.18 b<\/cell>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>5.4 AE 2.7<\/cell>\n    <cell>5.9 AE 2.7 (5-7.6)<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(4.5-6.3)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>6.6 AE 2.7<\/cell>\n    <cell>5.9 AE 2.7 (5-6.8)<\/cell>\n    <cell>0.7 (À0.5 to<\/cell>\n    <cell>0.23 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(5.6-7.6)<\/cell>\n    <cell/>\n    <cell>1.9)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Non-affected<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.7 b<\/cell>\n  <\/row>\n  <row>\n    <cell>LE<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>5.9 AE 3.1<\/cell>\n    <cell>6.7 AE 3.1<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(4.9-6.9)<\/cell>\n    <cell>(5.7-7.7)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>6.5 AE 3.1<\/cell>\n    <cell>6.9 AE 3.1<\/cell>\n    <cell>À0.4 (À1.7 to<\/cell>\n    <cell>0.5 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(5.4-7.4)<\/cell>\n    <cell>(5.9-7.9)<\/cell>\n    <cell>0.9)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Affected<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.03 b<\/cell>\n  <\/row>\n  <row>\n    <cell>ECRB<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>6.4 AE 2.8<\/cell>\n    <cell>7.2 AE 2.8<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(4.3-8.5)<\/cell>\n    <cell>(5.1-9.3)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>8 AE 2.8<\/cell>\n    <cell>7 AE 2.8 (4.9-9.1)<\/cell>\n    <cell>1 (À0.2 to 2.2)<\/cell>\n    <cell>0.09 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(5.94-10.11)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Non-affected<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.8 b<\/cell>\n  <\/row>\n  <row>\n    <cell>ECRB<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>6.3 AE 2.9<\/cell>\n    <cell>5.7 AE 2.9<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(5.3-7.2)<\/cell>\n    <cell>(4.8-6.6)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>7.3 AE 2.9<\/cell>\n    <cell>6.5 AE 2.9<\/cell>\n    <cell>0.8 (À0.5 to<\/cell>\n    <cell>0.22 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(6.4-8.3)<\/cell>\n    <cell>(5.6-7.4)<\/cell>\n    <cell>2.2)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Affected C4<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.44 b<\/cell>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>6.8 AE 4.4<\/cell>\n    <cell>7.2 AE 4.4 (6-9)<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(4.5-7.6)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>7.1 AE 4.4<\/cell>\n    <cell>7.5 AE 4.4<\/cell>\n    <cell>À0.4 (À1.8 to<\/cell>\n    <cell>0.54 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(5.5-8.6)<\/cell>\n    <cell>(6.1-9.1)<\/cell>\n    <cell>1)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Non-Affected<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.2 b<\/cell>\n  <\/row>\n  <row>\n    <cell>C4<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>5.7 AE 4.3<\/cell>\n    <cell>7.7 AE 4.3<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(4.3-7.1)<\/cell>\n    <cell>(6.3-9.1)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>7.4 AE 4.3 (6-8.8)<\/cell>\n    <cell>7.9 AE 4.3<\/cell>\n    <cell>0.5 (À2.7 to<\/cell>\n    <cell>0.9 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell>(6.5-9.3)<\/cell>\n    <cell>1.6)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Affected<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.15 b<\/cell>\n  <\/row>\n  <row>\n    <cell>Tibialis<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Anterior<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>9.1 AE 4.4<\/cell>\n    <cell>10.3 AE 4.4<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(7.6-10.7)<\/cell>\n    <cell>(8.7-11.9)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>9.8 AE 4.4<\/cell>\n    <cell>9.7 AE 4.4<\/cell>\n    <cell>0.1 (À1.1 to<\/cell>\n    <cell>0.87 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(8.2-11.4)<\/cell>\n    <cell>(8.1-11.3)<\/cell>\n    <cell>1.3)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Non-Affected<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.3 b<\/cell>\n  <\/row>\n  <row>\n    <cell>Tibialis<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Anterior<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>10 AE 4.7<\/cell>\n    <cell>11.6 AE 4.7<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(8.4-11.6)<\/cell>\n    <cell>(10-13.2)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>10.7 AE 4.7<\/cell>\n    <cell>11.7 AE 4.7<\/cell>\n    <cell>À0.9 (À2.4 to<\/cell>\n    <cell>0.17 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(9.1-12.3)<\/cell>\n    <cell>(10.1-13.3)<\/cell>\n    <cell>0.4)<\/cell>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variables", "Wrist extensors / training with / BFR a", "Wrist extensors / training without / BFR a", "Between group / differences a", "p- / value"],
+        ["Affected LE", "", "", "", "0.18 b"],
+        ["Pre-", "5.4 AE 2.7", "5.9 AE 2.7 (5-7.6)", "", "-"],
+        ["", "(4.5-6.3)", "", "", ""],
+        ["Post-", "6.6 AE 2.7", "5.9 AE 2.7 (5-6.8)", "0.7 (À0.5 to", "0.23 c"],
+        ["", "(5.6-7.6)", "", "1.9)", ""],
+        ["Non-affected", "", "", "", "0.7 b"],
+        ["LE", "", "", "", ""],
+        ["Pre-", "5.9 AE 3.1", "6.7 AE 3.1", "", "-"],
+        ["", "(4.9-6.9)", "(5.7-7.7)", "", ""],
+        ["Post-", "6.5 AE 3.1", "6.9 AE 3.1", "À0.4 (À1.7 to", "0.5 c"],
+        ["", "(5.4-7.4)", "(5.9-7.9)", "0.9)", ""],
+        ["Affected", "", "", "", "0.03 b"],
+        ["ECRB", "", "", "", ""],
+        ["Pre-", "6.4 AE 2.8", "7.2 AE 2.8", "", "-"],
+        ["", "(4.3-8.5)", "(5.1-9.3)", "", ""],
+        ["Post-", "8 AE 2.8", "7 AE 2.8 (4.9-9.1)", "1 (À0.2 to 2.2)", "0.09 c"],
+        ["", "(5.94-10.11)", "", "", ""],
+        ["Non-affected", "", "", "", "0.8 b"],
+        ["ECRB", "", "", "", ""],
+        ["Pre-", "6.3 AE 2.9", "5.7 AE 2.9", "", "-"],
+        ["", "(5.3-7.2)", "(4.8-6.6)", "", ""],
+        ["Post-", "7.3 AE 2.9", "6.5 AE 2.9", "0.8 (À0.5 to", "0.22 c"],
+        ["", "(6.4-8.3)", "(5.6-7.4)", "2.2)", ""],
+        ["Affected C4", "", "", "", "0.44 b"],
+        ["Pre-", "6.8 AE 4.4", "7.2 AE 4.4 (6-9)", "", "-"],
+        ["", "(4.5-7.6)", "", "", ""],
+        ["Post-", "7.1 AE 4.4", "7.5 AE 4.4", "À0.4 (À1.8 to", "0.54 c"],
+        ["", "(5.5-8.6)", "(6.1-9.1)", "1)", ""],
+        ["Non-Affected", "", "", "", "0.2 b"],
+        ["C4", "", "", "", ""],
+        ["Pre-", "5.7 AE 4.3", "7.7 AE 4.3", "", "-"],
+        ["", "(4.3-7.1)", "(6.3-9.1)", "", ""],
+        ["Post-", "7.4 AE 4.3 (6-8.8)", "7.9 AE 4.3", "0.5 (À2.7 to", "0.9 c"],
+        ["", "", "(6.5-9.3)", "1.6)", ""],
+        ["Affected", "", "", "", "0.15 b"],
+        ["Tibialis", "", "", "", ""],
+        ["Anterior", "", "", "", ""],
+        ["Pre-", "9.1 AE 4.4", "10.3 AE 4.4", "", "-"],
+        ["", "(7.6-10.7)", "(8.7-11.9)", "", ""],
+        ["Post-", "9.8 AE 4.4", "9.7 AE 4.4", "0.1 (À1.1 to", "0.87 c"],
+        ["", "(8.2-11.4)", "(8.1-11.3)", "1.3)", ""],
+        ["Non-Affected", "", "", "", "0.3 b"],
+        ["Tibialis", "", "", "", ""],
+        ["Anterior", "", "", "", ""],
+        ["Pre-", "10 AE 4.7", "11.6 AE 4.7", "", "-"],
+        ["", "(8.4-11.6)", "(10-13.2)", "", ""],
+        ["Post-", "10.7 AE 4.7", "11.7 AE 4.7", "À0.9 (À2.4 to", "0.17 c"],
+        ["", "(9.1-12.3)", "(10.1-13.3)", "0.4)", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 3,
+      "section_id": 29,
+      "html": "<table>\n  <row>\n    <cell>Variables<\/cell>\n    <cell>Wrist extensors<\/cell>\n    <cell>Wrist extensors<\/cell>\n    <cell>Between<\/cell>\n    <cell>p-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>training with<\/cell>\n    <cell>training without<\/cell>\n    <cell>group<\/cell>\n    <cell>value<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>BFR a<\/cell>\n    <cell>BFR a<\/cell>\n    <cell>differences a<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pain-free<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.06 b<\/cell>\n  <\/row>\n  <row>\n    <cell>Grip<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Strength<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>(affected)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>23.4 AE 6.9<\/cell>\n    <cell>22.2 AE 6.9<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(21.2-25.9)<\/cell>\n    <cell>(19.8-24.6)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>29.4 AE 6.9<\/cell>\n    <cell>24.9 AE 6.9<\/cell>\n    <cell>4.4 (1.9-6.9)<\/cell>\n    <cell>0.001 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(27-31.8)<\/cell>\n    <cell>(22.5-27.4)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pain-free<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.06 b<\/cell>\n  <\/row>\n  <row>\n    <cell>Grip<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Strength<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>(non-<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>affected)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>32.5 AE 4.8<\/cell>\n    <cell>33.1 AE 4.8<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(30.9-34)<\/cell>\n    <cell>(31.5-34.7)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>34.4 AE 4.8<\/cell>\n    <cell>33.2 AE 4.8<\/cell>\n    <cell>1.2 (À0.14 to<\/cell>\n    <cell>0.07 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(32.8-36)<\/cell>\n    <cell>(31.6-34.7)<\/cell>\n    <cell>2.7)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Systolic<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.72 b<\/cell>\n  <\/row>\n  <row>\n    <cell>Blood<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pressure<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>133.1 AE 8<\/cell>\n    <cell>135.2 AE 8<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(130.6-135.6)<\/cell>\n    <cell>(132.1-137.7)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>135 AE 8<\/cell>\n    <cell>138.6 AE 8<\/cell>\n    <cell>À3 (À6.8 to<\/cell>\n    <cell>0.11 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(133-138)<\/cell>\n    <cell>(136-141)<\/cell>\n    <cell>0.7)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Diastolic<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.11 b<\/cell>\n  <\/row>\n  <row>\n    <cell>Blood<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pressure<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Pre-<\/cell>\n    <cell>85.8 AE 6.9<\/cell>\n    <cell>88.6 AE 6.9<\/cell>\n    <cell/>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(83.4-88.2)<\/cell>\n    <cell>(86.2-91)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Post-<\/cell>\n    <cell>89.2 AE 6.9<\/cell>\n    <cell>88.3 AE 6.9<\/cell>\n    <cell>0.9 (À2.4 to<\/cell>\n    <cell>0.81 c<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(86.8-91.6)<\/cell>\n    <cell>(85.9-90.6)<\/cell>\n    <cell>4.3)<\/cell>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variables", "Wrist extensors / training with / BFR a", "Wrist extensors / training without / BFR a", "Between / group / differences a", "p- / value"],
+        ["Pain-free", "", "", "", "0.06 b"],
+        ["Grip", "", "", "", ""],
+        ["Strength", "", "", "", ""],
+        ["(affected)", "", "", "", ""],
+        ["Pre-", "23.4 AE 6.9", "22.2 AE 6.9", "", ""],
+        ["", "(21.2-25.9)", "(19.8-24.6)", "", ""],
+        ["Post-", "29.4 AE 6.9", "24.9 AE 6.9", "4.4 (1.9-6.9)", "0.001 c"],
+        ["", "(27-31.8)", "(22.5-27.4)", "", ""],
+        ["Pain-free", "", "", "", "0.06 b"],
+        ["Grip", "", "", "", ""],
+        ["Strength", "", "", "", ""],
+        ["(non-", "", "", "", ""],
+        ["affected)", "", "", "", ""],
+        ["Pre-", "32.5 AE 4.8", "33.1 AE 4.8", "", ""],
+        ["", "(30.9-34)", "(31.5-34.7)", "", ""],
+        ["Post-", "34.4 AE 4.8", "33.2 AE 4.8", "1.2 (À0.14 to", "0.07 c"],
+        ["", "(32.8-36)", "(31.6-34.7)", "2.7)", ""],
+        ["Systolic", "", "", "", "0.72 b"],
+        ["Blood", "", "", "", ""],
+        ["Pressure", "", "", "", ""],
+        ["Pre-", "133.1 AE 8", "135.2 AE 8", "", "-"],
+        ["", "(130.6-135.6)", "(132.1-137.7)", "", ""],
+        ["Post-", "135 AE 8", "138.6 AE 8", "À3 (À6.8 to", "0.11 c"],
+        ["", "(133-138)", "(136-141)", "0.7)", ""],
+        ["Diastolic", "", "", "", "0.11 b"],
+        ["Blood", "", "", "", ""],
+        ["Pressure", "", "", "", ""],
+        ["Pre-", "85.8 AE 6.9", "88.6 AE 6.9", "", "-"],
+        ["", "(83.4-88.2)", "(86.2-91)", "", ""],
+        ["Post-", "89.2 AE 6.9", "88.3 AE 6.9", "0.9 (À2.4 to", "0.81 c"],
+        ["", "(86.8-91.6)", "(85.9-90.6)", "4.3)", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 4,
+      "section_id": 30,
+      "html": "<table>\n  <row>\n    <cell>Variables<\/cell>\n    <cell>WET with<\/cell>\n    <cell>WET without<\/cell>\n    <cell>Between group<\/cell>\n    <cell>p<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>BFR a<\/cell>\n    <cell>BFR a<\/cell>\n    <cell>differences b<\/cell>\n    <cell>value<\/cell>\n  <\/row>\n  <row>\n    <cell>Set 1<\/cell>\n    <cell>13.3 AE 1.7<\/cell>\n    <cell>13.6 AE 1.9<\/cell>\n    <cell>À0.3 (À1.4 to 0.8)<\/cell>\n    <cell>0.61<\/cell>\n  <\/row>\n  <row>\n    <cell>Set 2<\/cell>\n    <cell>14 AE 1.8<\/cell>\n    <cell>14 AE 1.9<\/cell>\n    <cell>0 (À1.2 to 1.2)<\/cell>\n    <cell>1<\/cell>\n  <\/row>\n  <row>\n    <cell>Set 3<\/cell>\n    <cell>14.9 AE 1.3<\/cell>\n    <cell>14.6 AE 2.3<\/cell>\n    <cell>0.3 (À0.8 to 1.5)<\/cell>\n    <cell>0.56<\/cell>\n  <\/row>\n  <row>\n    <cell>Set 4<\/cell>\n    <cell>15.8 AE 1.7<\/cell>\n    <cell>14.6 AE 2.4<\/cell>\n    <cell>1.2 (-0.1 to 2.5)<\/cell>\n    <cell>0.77<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"5\">Abbreviations: WET, wrist extensors training; BFR, blood flow restriction.<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variables", "WET with / BFR a", "WET without / BFR a", "Between group / differences b", "p / value"],
+        ["Set 1", "13.3 AE 1.7", "13.6 AE 1.9", "À0.3 (À1.4 to 0.8)", "0.61"],
+        ["Set 2", "14 AE 1.8", "14 AE 1.9", "0 (À1.2 to 1.2)", "1"],
+        ["Set 3", "14.9 AE 1.3", "14.6 AE 2.3", "0.3 (À0.8 to 1.5)", "0.56"],
+        ["Set 4", "15.8 AE 1.7", "14.6 AE 2.4", "1.2 (-0.1 to 2.5)", "0.77"],
+        ["Abbreviations: WET, wrist extensors training; BFR, blood flow restriction.", "Abbreviations: WET, wrist extensors training; BFR, blood flow restriction.", "Abbreviations: WET, wrist extensors training; BFR, blood flow restriction.", "Abbreviations: WET, wrist extensors training; BFR, blood flow restriction.", "Abbreviations: WET, wrist extensors training; BFR, blood flow restriction."]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 7,
+      "grp_id": 1,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 9,
+      "grp_id": 3,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 33,
+      "grp_id": 4,
+      "lhs": "exercise",
+      "df": null,
+      "comp": "<",
+      "rhs": "2"
+    },
+    {
+      "text_id": 52,
+      "grp_id": 5,
+      "lhs": "be",
+      "df": null,
+      "comp": ">",
+      "rhs": "6.5"
+    },
+    {
+      "text_id": 80,
+      "grp_id": 6,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 81,
+      "grp_id": 7,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 84,
+      "grp_id": 8,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    }
+  ]
+}

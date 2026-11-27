@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Former athletes&apos; lifestyle and self-definition changes after retirement from sports</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2018-09-05">5 September 2018</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct status="extracted">
+					<analytic>
+						<author>
+							<persName><forename type="first">Pierre-Luc</forename><surname>Yao</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Human Kinetics</orgName>
+								<orgName type="institution">Universit e du Qu ebec a Trois-Rivi eres</orgName>
+								<address>
+									<addrLine>Trois-Rivi eres</addrLine>
+									<postCode>999040</postCode>
+									<region>Qu ebec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<orgName type="department">Department of Psychology</orgName>
+								<orgName type="institution">Universit e du Qu</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Louis</forename><surname>Laurencelle</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Human Kinetics</orgName>
+								<orgName type="institution">Universit e du Qu ebec a Trois-Rivi eres</orgName>
+								<address>
+									<addrLine>Trois-Rivi eres</addrLine>
+									<postCode>999040</postCode>
+									<region>Qu ebec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">François</forename><surname>Trudeau</surname></persName>
+							<email>francois.trudeau@uqtr.ca</email>
+							<affiliation key="aff0">
+								<orgName type="department">Department of Human Kinetics</orgName>
+								<orgName type="institution">Universit e du Qu ebec a Trois-Rivi eres</orgName>
+								<address>
+									<addrLine>Trois-Rivi eres</addrLine>
+									<postCode>999040</postCode>
+									<region>Qu ebec</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Former athletes&apos; lifestyle and self-definition changes after retirement from sports</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2018-09-05">5 September 2018</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F61D5F56EA5ED884772BE16404A906A1</idno>
+					<idno type="DOI">10.1016/j.jshs.2018.08.006</idno>
+					<note type="submission">Received 30 December 2017; revised 29 March 2018; accepted 13 April 2018</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.9.0" ident="GROBID" when="2026-11-27T14:28+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">0.9.0</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=0, consolidateFunders=0, includeRawAffiliations=false, includeRawCitations=true, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>ebec a Trois-Rivi eres, Trois-Rivi eres, Qu ebec 999040, Canada Athletic identity</term>
+					<term>Nutrition</term>
+					<term>Physical activity</term>
+					<term>Sport retirement</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Every high-level athlete will eventually see his or her sport career come to an end. Most former athletes will experience changes in their self-definition and everyday behaviors as they accept a nonathletic way of life. The present study aimed to identify discrepancies between actual and former athletes regarding athletic identity, physical activity (PA), and nutrition habits. Methods: Actual athletes (AA; n = 122), former athletes (FA; n = 230), and nonathletes (NA; n = 74) were asked to complete an online questionnaire on athletic identity, duration and intensity levels of occupational and leisure time PA, and nutritional habits. Results: FA healthy nutrition score was the lowest of the 3 groups and significantly different from that of AA. Athletic identity and intense and moderate PA during leisure time consistently decreased (p &lt; 0.01) across the 3 groups (AA &gt; FA &gt; NA). No significant difference between FA and NA was found regarding either nutritional habits or type of PA. Conclusion: Sport retirement may affect FA quality of nutritional habits that tends to decline below the NA level, as well as the amount of time spent practicing physical activities during leisure time. Athletic status does not ensure PA practice during sport postcareer.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Eventually, every athlete will see his or her career in sport come to an end and will have to enter a transition period. This transition can be defined as the process through which the athlete retires from his or her competitive and regulated sport environment. Athletes form a particular population <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> and athletic retirement is in itself different from other types of professional retirement. Athletes play a unique role in society and have a unique identity, and these characteristics change dramatically when the end of a career comes earlier than expected or is forced on the athlete. One of the essential concepts of the sport retirement transition model is athletic identity, which is defined as the degree to which an individual identifies with the athlete's role. <ref type="bibr" target="#b2">3</ref> For more than 2 decades, researchers have included athletic identity as a conceptual compass to assess the impacts of sport retirement on the athletic community. <ref type="bibr" target="#b3">4</ref> This self-defined identification with the athletic role is associated with multiple individual behaviors. Physical activity (PA) is a behavior that is consistent with the athletic role, <ref type="bibr" target="#b0">1</ref> and both of these concepts have been shown in the literature to have a positive relationship with each other, <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> that is, a strong athletic identity is logically related to a strong engagement in PA. <ref type="bibr" target="#b0">1</ref> To our knowledge, the literature on PA as it relates to sport retirement is fairly recent. <ref type="bibr">1,6À8</ref> A first converging result in the literature was a higher level of PA in actual athletes (AA) than in former athletes (FA), and nonathletes (NA), <ref type="bibr">1,6À8</ref> whereas in FAs it was either observed higher <ref type="bibr" target="#b0">1</ref> or similar <ref type="bibr" target="#b6">7</ref> PA level than in nonathletes.</p><p>Retirement from sports has been conceptualized as a role transition through which athletes disengage from some activities and relationships to seek others. <ref type="bibr">9</ref> When it comes to the sport retirement process, modifications concerning PA can be of a positive or negative nature. Early on, it was empirically demonstrated that specific coping strategies, such as continuing to train and exercise, are positively correlated with adjustment to retirement from sport. <ref type="bibr" target="#b9">10</ref> Athletes who still practice their sport a few months after retirement with the purpose of maintaining physical health tend to have a healthier transitions. <ref type="bibr" target="#b10">11</ref> According to Witkowski and Spangenburg, <ref type="bibr" target="#b11">12</ref> if former athletes hope to remain in a state that is advantageous to prevent chronic diseases, they must refrain from being inactive and continue to exercise, albeit at a potentially lower level. FA who keep training are still at an advantage owing to their somewhat higher level of PA; conversely, those who stop all forms of PA develop the same, if not greater, risk for a number of chronic diseases as people who have been mostly inactive all their lives. <ref type="bibr" target="#b12">13</ref> Kujala et al. <ref type="bibr" target="#b13">14</ref> also found that self-rated health later in life was better in FA than in their control counterparts. In contrast, a recent study by Sorenson et al. <ref type="bibr" target="#b6">7</ref> found that the amount of weekly exercise carried out by FA and NA was similar after college graduation, and that their level of exercise did not differ later in life.</p><p>Although regular PA after retirement has potentially beneficial and protective effects for FA, it is not the only behavioral factor that should be considered when examining career sport transition. Lynch et al., <ref type="bibr" target="#b14">15</ref> in their study of former football players' chronic risk factors, did not include habits such as dietary habits or alcohol consumption, but did mention that these elements could have influenced the metabolism and body composition of the participants. Fogelholm et al. <ref type="bibr" target="#b15">16</ref> found that former Finnish power sport and mixed sport athletes were more likely to have a heathier lifestyle than the NA group. Until now, very few empirical studies on sport retirement have included nutritional habits in their exploration of the sports retirement process. Even fewer studies have combined nutrition, PA, and athletic identity in seeking to understand how the end of their sport career affects athletes.</p><p>The main objective of this study was to better understand the impacts of sport status of 3 groups-AA, FA, and NA, who served as a reference group with no athletic experienceon athletic identity and postcareer health-related lifestyle behaviors. These behaviors included the practice of PA and nutritional habits in relation to gender-related and sport career-related variables such as level of competition and collective sport versus individual sport. The second objective was to examine and compare the relationships between lifestyle behaviors and athletic identity across different sport statuses before and during sport career transition using a quantitative approach to help measure the degree of association of sports variables such as competition level and some demographic variables.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Methods</head><p>To fulfill the main research objective, an online survey was administered to participants. All participants completed the Global Physical Activity Questionnaire (GPAQ), the Athletic Identity Questionnaire (AIQ), demographic questions and 9 nutritional behavior questions, which were combined into a unique nutritional score for each participant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">Participants</head><p>The sample consisted of 426 participants, which included 224 women (26.89 § 7.49 years) and 202 men (28.89 § 8.88 years). Principal work statuses were student (49.4%), working full time (35.1%), working part time (5.9%), and self-employed (6.9%). The remaining 2.7% included stay-at-home mothers, unemployed or inactive individuals. The highest academic degree obtained by participants was either high school (9.9%), Coll ege en enseignement g en eral et professionel (Quebec preuniversity or precollege) (27.4%), bachelor (43.0%), master (13.7%), or doctorate (6.0%). Participants were identified as belonging to 1 of 3 groups-AA (n = 122), FA (n = 230), or NA (n = 74). AA were individuals currently involved in a highlevel sport career for at least 5 years at the time of the study. FA were individuals who had spent at least 5 years competing in a high-level sport but had definitively ended their sporting careers. NA had never been involved in a high-level sport career. AA and FA were competing or had competed at the provincial (10.7%), national (50.1%), international (29.1%), or professional (10.1%) level at their highest level of competition. High-level sports included soccer, basketball, football, hockey, track and field, volleyball, figure skating, diving, tennis, swimming, and alpine skiing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Measures</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.1.">AIQ</head><p>Athletic identity was measured using the French version of the AIQ, 5,17 a 21-item Likert scale questionnaire that measures the degree of a participant's association with the role of athlete, with responses ranging from 1 (does not describe me at all) to 5 (describes me very well). It is associated with 3 previously validated French scales: physical appearance, competence in sports, and importance of sports and PA. <ref type="bibr" target="#b16">17</ref> A high score on these scales is associated with strong identification with the athletic role. Internal consistency for the 3 scales ranged from 0.827 to 0.913, and the present study confirmed good reliability, with Cronbach a values ranging from 0.749 to 0.906. The choice of this instrument was based on literature showing that the AIQ's 4 scales (including a social support scale) are significantly and positively correlated with the Stage of Exercise Adoption 5 and Brewer's Athletic Identity Measurement Scale. <ref type="bibr" target="#b16">17</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.2.">GPAQ</head><p>The GPAQ measures PA with regard to duration, frequency, intensity, and context (work, transport, and leisure time) <ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b18">19</ref> and is comparable with the International Physical Activity Questionnaire (IPAQ) in terms of reliability and validity. <ref type="bibr" target="#b17">18</ref> The main outcome variables from the GPAQ used in this study were high-intensity physical activity (HIPA), moderate-intensity physical activity (MIPA), active transportation, and inactivity, which refers to time spent sitting or lying down, excluding sleep. Each of those continuous variables was expressed in minutes per week and used to compare groups among them. Groups were also compared with the general Canadian population using the 2013 American College of Sports Medicine (ACSM) <ref type="bibr" target="#b19">20</ref> guidelines for recommended weekly PA.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.3.">Nutritional index</head><p>A measure of nutritional habits was obtained using part of a combined questionnaire based on Canadian Community Health Survey Cycle 2.2 and the Quebec Health and Social Survey. <ref type="bibr" target="#b20">21</ref> Questions on eating habits included ones about consumption frequency of fruits, vegetables, alcohol, soft drinks, homemade food, and takeout food, as well as breakfast variety. A high score on this scale was associated with a healthy nutritional lifestyle using different questions on distinct eating behaviors that added together. Our nutritional index was obtained using a principal component analysis on nutrition indicators. The first vector explained 27% of the variance, and the Cronbach a for the 9-item nutritional index was 0.625. Considering the multifaceted structure of nutritional behavior scales, internal consistency tends to be lower than other psychometric aggregates, and our a repeated those of previously published nutritional questionnaires. <ref type="bibr" target="#b21">22</ref> The 9 items were weighted using their principal component analysis loading. Using the Canadian Food Guide, <ref type="bibr" target="#b22">23</ref> a recommended value was determined for each item and then weight-summed to obtain a criterion nutritional score. Participants with a score of greater than 46.07 were considered to have dietary habits at or above the recommended level.</p><p>Descriptive variables included sport status (AA, FA, NA), type of sport (collective vs. individual), and current and past level of competition. Other descriptive questions involved age, gender, professional occupation, marital status, and level of education.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.3.">Procedures</head><p>AA and FA were recruited via email with the collaboration of departments of physical activities and sport from 5 Qu ebec universities and the Fondation de l'athl ete d'excellence du Qu ebec, a nonprofit entity that financially supports AA and maintains a network of scholarship FA in Qu ebec. NA were recruited from university campuses via student email lists of all academic departments. The email also contained the intranet link to the electronic questionnaire. Follow-ups were made 2, 4, and 6 weeks after the initial solicitation. This study was approved by the Institutional Ethics Committee of Universit e du Qu ebec a Trois-Rivi eres. All participants provided informed consent electronically before participating in the study.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.4.">Statistical analysis</head><p>Data analysis involved one-way analyses of covariance (ANCOVAs) to compare our 3 groups, controlling for age differences among participants. Since group sizes were unequal, an unweighted ("harmonic N") solution was used throughout. Monotonicity analysis <ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b24">25</ref> (E 2 ) helped to assess the consistent decrease (or increase) across our ordered groups for each measured variable. Groups were also compared relative to their correlation levels using Fisher's Z transformation. Pearson correlations followed by simultaneous multiple linear regressions were used to measure relationships between athletic identity scales and lifestyle variables. The asymmetrical distributions of all lifestyle variables were adjusted for normality using a log transformation before all analyses. Cronbach a followed by principal component analysis helped to determine the composition and reliability of the nutritional index composite score. Tests on proportions were computed to compare groups among them concerning weekly PA and global nutritional index criterions. This method was also used to assess whether groups differ from the general population when using ACSM recommended weekly PA guidelines.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.">Impacts of sport status on athletic identity and lifestyle</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.1.">Athletic identity</head><p>Table <ref type="table" target="#tab_0">1</ref> shows the average AIQ scores across the 3 measured groups. ANCOVA with age as a covariate showed significant differences between groups for perceived appearance (F(2, 423) = 24.32, p &lt; 0.01), competence (F(2, 423) = 4.87, p &lt; 0.01), importance related to sport and exercise (F(2, 423) = 17.15, p &lt; 0.01), and for total AIQ score (F(2, 423) = 17.74, p &lt; 0.01). Tukey's honest significant difference test showed that AA had a significantly (p &lt; 0.01) higher general athletic identity score than FA and NA.</p><p>FA scored higher than the NA only on the competence scale (p &lt; 0.01). Monotonic decrease was significant across the 3 groups for the appearance (E 2 (3, 421) = 0.105, p &lt; 0.01) and competence (E 2 (3, 421) = 0.023, p &lt; 0.05) scales and for total AIQ (E 2 (3, 421) = 0.126, p &lt; 0.01). No differences in athletic identity were found between genders for AA and FA. Differences between genders were found in the NA group; the appearance scale (t(72) = 2.260, p &lt; 0.05) and total AIQ (t(72) = 2.001, p &lt; 0.05) favored men. Some discrepancies concerning individual and collective sports were also found when comparing groups. Regarding athletic identity, AA in individual sports reported higher importance scores than AA from collective sports (t(120) = 2.972, p &lt; 0.01). However, this difference was not found in the FA group (t(228) = À0.714, p &gt; 0.05). General athletic identity was significantly higher (t(120) = 2.126, p &lt; 0.05) for AA who participated in individual sports compared with their collective sport counterparts. Athletic identity differences between the 4 sport competition levels for the FA group are shown in Table <ref type="table" target="#tab_1">2</ref>. Perceived appearance was the only scale that differed among groups (p &lt; 0.05). The Tukey's honest significant difference criterion identified the difference between the provincial and professional status as significant (p &lt; 0.05). Former professional athletes had the highest scores for the appearance, competence, and importance scales and for total AIQ. Significant monotonic decrease was observed across the groups for the appearance (E 2 (3, 421) = 0.087, p &lt; 0.01) and total AIQ (E 2 (3, 421) = 0.047, p &lt; 0.01) scales, with a tendency to increase toward the former professional athlete status.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.2.">PA</head><p>The recommended guidelines from the American College of Sports Medicine 20 are 150 min/week of MIPA or 60 min/week of HIPA. In the Canadian population, 22% of people between 18 and 79 years of age had PA levels above the recommended guidelines. <ref type="bibr" target="#b25">26</ref> In the current sample, 14.47% of FA did meet the weekly PA recommendation, a score that does not differ significantly from the general population according to the Z test on 2 proportions (z = À0.984, p &gt; 0.05). As for the NA, 24.66% did meet the recommendations, which is not statistically different from the general population (z = 0.549, p &gt; 0.05). AA met the recommendation in a proportion of 87.29%, which was significantly higher than the general population (z = 16.53, p &lt; 0.001), FA (z = 18.13, p &lt; 0.001), and NA (z = 10.92, p &lt; 0.001). Some particularities emerged for the PA variables when controlling for age difference between groups. ANCOVA showed a significant difference (p &lt; 0.01) when comparing groups for HIPA practice (Table <ref type="table">3</ref>). Tukey's post hoc tests revealed that AA spent significantly more time in engaging in HIPA than the other 2 groups (F(2, 423) = 30.30, p &lt; 0.01), but no difference was found between FA and NA. Similar results could be found regarding MIPA practice. ANCOVA confirmed a difference between groups (F(2, 423) = 5.47, p &lt; 0.01), showing that AA spend significantly more time practicing MIPA than the FA and NA groups. None of the groups did stand out from the others for active transportation (F(2, 423) = 1.82, p &gt; 0.05) or for time of inactivity (F(2, 423) = 1.09, p &gt; 0.05). HIPA and MIPA practice during leisure time showed a significant monotonic decrease between sport status (AA &gt; FA &gt; NA, E 2 (3, 336) = 0.186, p &lt; 0.01; E 2 (3, 269) = 0.037, p &lt; 0.01).</p><p>Male FA spent significantly more time practicing HIPA (t(183) = 2.011, p &lt; 0.05) than women FA, but declared more inactive time during the week (t(211) = 2.640, p &lt; 0.01). Competition level did not impact the amount of time spent practicing PA; no difference emerged between provincial, national, international, or professional statuses.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.1.3.">Dietary habits</head><p>As shown in Table <ref type="table">3</ref>, a significant difference was found between groups for the nutritional index (F(2, 423) = 5.12, p &lt; 0.01). According to post hoc comparisons, the AA group obtained the statistically highest nutritional index of the 3 groups. The nutrition level of FA did not differ statistically from that of NA. Gender comparison showed that female FA (t(230) = 4.132, p &lt; 0.01) and female NA (t(72) = 2.343, p &lt; 0.05) had a significantly higher nutritional index than their male counterparts. Male and female AA did not differ regarding their nutritional habits(t(120) = 0.518, p &gt; 0.05). Nutrition scores favored individual sports in the AA group (t(120) = 2.805, p &lt; 0.01), but this advantage was not repeated in the FA group for the same variable (t(228) = 0.996, p &gt; 0.05). Notwithstanding a tendency to increase with competition level, the nutrition score did not vary significantly in the FA (F(3, 226) = 1.553, p &gt; 0.05) or the AA group (F(3, 118) = 1.635, p &gt; 0.05). With regard to dietary recommendations, 79.13% of FA did not meet the globalized nutritional recommendations compared with 74.67% of the NA. These 2 percentages did not statistically differ from each other (z = 0.811, p &gt; 0.05). Table 3 Physical activity and nutritional index comparison between AA, FA, and NA, while controlling for age (mean § SD). AA FA NA F(2, 423) Active transportation (h/week) 2.15 § 2.50 2.67 § 2.52 1.95 § 1.80 1.82 HIPA (h/week) 7.40 § 8.23 3.09 § 2.64 2.59 § 2.52 30.30** MIPA (h/week) 2.67 § 3.67 1.84 § 1.96 1.61 § 1.43 5.47** Inactivity (h/week) 4.81 § 2.00 5.23 § 2.64 5.25 § 2.49 1.09 Nutritional index 44.48 § 10.45 40.97 § 7.86 41.92 § 7.39 5.12** ** p &lt; 0.01. Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity physical activity; MIPA = moderate-intensity physical activity; NA = nonathletes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2.">Lifestyle behaviors and athletic identity across different sport statuses</head><p>Overall, athletic identity was positively correlated with HIPA (p &lt; 0.01), MIPA (p &lt; 0.01), and nutritional index (p &lt; 0.01). The AIQ score was also found to have a negative relationship with active transportation (p &lt; 0.05) and inactivity (p &lt; 0.05). Table <ref type="table" target="#tab_2">4</ref> summarizes the relationships between lifestyle variables and AIQ scales. Fisher's arctanh transformation was used to test for potential correlation differences between groups. The total AIQ score's relationship with HIPA was higher in the FA group compared with the AA group (z = ¡2.913, p &lt; 0.01). The same difference occurred with MIPA (z = ¡2.746, p &lt; 0.01). The NA group showed stronger associations of total AIQ with HIPA, MIPA, and active transportation than the AA group. One major difference can be found when examining the connection between total AIQ and active transportation: the correlation difference between these 2 variables was significant (z = ¡2.698, p &lt; 0.05) when comparing the FA (r = 0.333) and NA (r = À0.222) groups.</p><p>Multiple linear regressions were used to predict physical behavior variables, the predictors being our 3 AIQ scales: appearance, competence, and importance. Table <ref type="table" target="#tab_3">5</ref> shows the explained variance for all the regression models. Active transportation was significantly predicted for all 3 groups, with the FA group having the lowest explained variance. HIPA prediction was significant for the FA (F(3, 182) = 14.175, p &lt; 0.01) and NA (F(3, 50) = 11.388, p &lt; 0.01) groups. Regression models for MIPA were also significant for the FA (F(3, 148) = 3.758, p &lt; 0.05) and NA (F(3, 42) = 4.689, p &lt; 0.05) groups, with the latter having the highest explained variance. Inactivity time models showed relatively small amounts of explained variance: only the FA model reached significance (F(3, 209) = 4.663, p &lt; 0.01). When predicting nutritional index, the FA (F(3, 226) = 11.924, p &lt; 0.01) and AA (F(3, 118) = 4.071, p &lt; 0.01) models were significant. Overall, explained variance was significant for all FA regression models. Predictability in the AA group was only significant for the active transportation and nutrition variables, and models for the NA group were all significant except for inactivity and nutrition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1.">Impacts of sport status on athletic identity and lifestyle</head><p>The first purpose of this study was to better understand the impacts of sport status on athletic identity and postcareer healthy lifestyle behaviors (PA level and nutritional habits). Primary results associated the highest athletic identity to the AA status, and the FA group had a greater attachment to the athletic role than the NA group. As pointed out by Lamont-Mills and Christensen, <ref type="bibr" target="#b26">27</ref> an athlete should have an athletic identity greater than that of an individual who has never practiced sport. As could be expected from previous work, <ref type="bibr" target="#b18">19</ref> this type of self-perception seems to decrease steadily when an athlete leaves sport and becomes an ex-athlete. Our results also showed that the age of participants negatively correlated with athletic identity. Those results were expected, because athletic identity should wane when individuals get older. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b27">28</ref> Gender differentiation regarding athletic identity only appeared in the NA group. Males in the NA group related more to the athletic identity or persona than females in the NA group, suggesting that sport identity dissimilarities between genders can be better shown within NA. This finding corroborates several studies <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b28">29</ref> indicating that, in the general population, men are more prone than women to value the athletic role and status. In contrast, the lack of athletic identity differences between genders in both the AA and FA groups was a noteworthy result found in the present study, which corroborates the result reported by Chen et al. <ref type="bibr" target="#b28">29</ref> showing no difference between male and female student athletes with regard to the athletic role. It would seem that athletic identity cannot help characterize genders in athletic or postathletic status. Overall, the men's roles to some extent intertwined with athletic identity. If there is a difference between male and female NA, sport training and practices may enhance athletic identity in women.</p><p>The current findings also show that athletic identity can be affected by contextual variables, such as past competition level. FA who previously competed at the professional level were more likely to have a higher athletic identity score than FA at the provincial level. This finding implies that the closer the athlete has gotten to the elite level, the more important one's association with the athletic role becomes. This imprint of the athletic role could be linked to a more demanding sport context in terms of physical training, practice, competition, and traveling.  From another standpoint, collective sport athletes and individual sport athletes showed differences regarding AIQ scores. AA who practice individual sports related more to the athletic role than AA who practice collective sports. A possible reason for this difference may be that, contrary to AA in collective sports, AA who practice individual sports are solely accountable for the resulting performance and outcome, both of which help to strengthen their self-identity and social identity. <ref type="bibr" target="#b29">30</ref> Because athletic identity can be influenced by the nature of the sport activities one practices, <ref type="bibr" target="#b28">29</ref> it seems reasonable for individual and collective sport athletes to be different regarding their self-definition. Nevertheless, this difference was not observed in the FA group, which suggests that the effect of the nature of the sport practiced on athletic identity may vanish during career transition.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2.">Lifestyle behaviors and athletic identity across different sport statuses</head><p>Four facets of PA behavior were measured in the current study to address the second purpose of the study. The groups did not differ in weekly active transportation. This type of PA does not seem to be affected by retirement from sport, and to our knowledge no empirical studies have looked at this type of PA in a sport retirement context. For leisure-time PA, major differences were found between AA, FA, and NA. AA were the front runners for HIPA and MIPA practice, and FA and NA came in second and third, respectively. This consistent decrease in weekly periods of PA across the 3 groups was confirmed by a significant monotonic test for both HIPA and MIPA. These results are in line with conclusions of Sorenson et al., <ref type="bibr" target="#b6">7</ref> who saw a significant difference in exercise behavior between alumni student athletes and student nonathletes. In the same study, current NCAA student athletes showed a significantly superior PA level compared with the other 2 groups. In the present study, proportions of both FA and NA who did not meet the recommended weekly level of PA were similar to what was observed in the general Canadian population. This finding suggests that past athletic status does not dictate that FA will have healthier PA habits than the general population. Finally, no group was found to be markedly different from the others in the amount of time they spent sitting or lying down during the week. These results could indicate that retirement from sport may not favor a change in sedentary behaviors and that FA status is not a strong enough incentive to reduce sedentary time to a lower level than in the general population.</p><p>Regarding nutritional habits, AA had the best scores compared with the other 2 groups; FA and NA had statistically similar scores, although the FA group had the lowest score of the 3 groups. Furthermore, 79.13% of FA and 74.67% of NA had nutritional scores below the established nutritional benchmark and neither groups differed significantly on that criterion. According to these results, diet behaviors, which were at a healthier level during an athlete's career, seem to deteriorate in the after-career period, with a tendency to plunge below that found among NA. These results differ from the findings reported by Fogelholm et al., <ref type="bibr" target="#b15">16</ref> which showed that, for several types of sports, FA had healthier dietary habits than the reference groups. Their study used a larger sample, which differed in composition from the present study in that it included only Olympic-level athletes. <ref type="bibr" target="#b15">16</ref> In the present study, nutritional scores for FA tended to be higher when accounting for past competition levels. Gender was also a significant factor when assessing nutritional behavior. Women generally had a higher nutritional score than men, but only in the FA and NA groups did these differences attain significance. It would seem that women in general favor more healthy nutrition behaviors compared with men and that past athletic status does not influence this gender asymmetry. The results are in line with a recent Canadian survey <ref type="bibr" target="#b20">21</ref> that showed women tended to eat more fruit and vegetables and drink less alcohol than men in a given month. However, being male or female did not seem to have an effect regarding nutrition when competing in high-level sports. Regardless of gender, athletes prioritize healthy nutritional habits to perform better in sports. Athletes in individual sports seemed to have better eating habits compared with athletes in collective sports; however, this difference was not found in the FA group. The literature concerning this particular dimension in sports career transition is, to date, scarce at best. One hypothesis could be that performance in individual sports is based mainly on an individual's training and preparation, which includes diet decisions to optimize the body's readiness to compete, whereas athletes in collective sports rely on mutual collaboration and group adherence to achieve the best results. Diet decisions might, however, be adjusted because sport performance objectives may change at career's end. Overall, the sport environment requires athletes to structure their diet, just as training is necessary for better performance. Once the athletic status changes, these nutritional needs are modified and constraints are removed. As mentioned by Maciejewska et al., <ref type="bibr" target="#b30">31</ref> some athletes decrease their PA but do not adjust their dietary habits after retirement. This finding might explain why, in our results, FA in large part did not reach the proposed nutritional criteria and did not fare better than NA in this way. Additionally, the AA variable seems to supersede other variables such as gender, competition level, or type of sport when it comes to nutritional habits.</p><p>In our study, the relationship between athletic identity and HIPA and MIPA was strongly positive and significant. However, a more thorough analysis showed this relationship to be present only for the FA and NA groups. Correlation analysis showed some positive and significant relationships between AIQ scales and PA variables for the FA and NA. Multiple linear prediction models have shown significant predictive variance for both PA levels in the FA and NA groups. These findings support those of Reifsteck et al., <ref type="bibr" target="#b1">2</ref> who suggested that athletic identity was not a strong predictor of a more general type of PA participation. The present study suggests that prediction models are more efficient in predicting HIPA and MIPA for populations that are not actually competing in highlevel sports (FA and NA). This is possibly due to restricted variance of both the athletic identity and PA variables in AA and the fact that their PA is somewhat "externally" regulated, freeing it from personal determinants. Athletic identity levels in AA are higher compared with other groups, but this identity is not specifically linked to their sport practice. Indeed, correlations between AIQ and PA diverge when comparing AA with FA and NA. Thus, the more we perceived ourselves to be athletes, the more likely we are to practice PA and sports, unless we are AA. It seems that AA possess a self-perception that reflects their status without being a predictive determinant of practicing sport. It seems appropriate to assume that motivation to practice a sport during one's career differs from athletic identity, which is strongly intrinsic in AA. Athletic status (being an athlete) in itself may be a strong enough condition so that it substitutes for athletic identity when it comes to sport practice during leisure time. After the end of the sport career, HIPA and MIPA practice can be more easily determined by the dimensions of athletic identity: the athletic status, the strongest determinant of managed sport participation, is no longer present. FA and NA are, by definition, not AA, but as mentioned by Anderson, <ref type="bibr" target="#b4">5</ref> everyone possesses some level of athletic identity, however small it may be. This athletic identity, which remains from the past career for FA and as the sum of past sport experiences for NA, is strongly and positively related to PA and sport practice. Therefore, athletic identity constitutes a good predictor for both FA and NA because their athletic status no longer regulates their PA behaviors.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.3.">Limitations</head><p>Some limitations must be considered regarding the present results. Self-reported PA levels and nutritional behaviors can be influenced by social desirability and may not reliably represent actual PA practice or nutritional behavior. A longitudinal study design including several lifestyle measures at different points in time may prove helpful in having participants accurately report their activities. In general, people tend to overreport PA and underestimate inactivity. <ref type="bibr" target="#b31">32</ref> Also, lifestyle variables were not normally distributed, as would be expected from socially desirable answers. To remediate this situation, a log transformation was used before all analyses. In this study, there was a recruiting challenge for FA because FA are usually not attached to any organization or group once their career has ended. <ref type="bibr" target="#b0">1</ref> The present study relied on recruitments of FA from the first author's relations, universities, and athletics department, as well as nonprofit organizations such as the Fondation de l'athl ete d'excellence du Qu ebec. This factor may also explain the unbalanced sample for our 3 groups. The conclusions drawn from this study may be limited by the cultural context of Qu ebec. To better understand the impact of sport career transition on FA lifestyle, a longitudinal study design should be used, and it should include a transition model where a wider range of lifestyle variables are measured, including anthropometric measures, sleeping patterns, and medical histories of illnesses and injuries.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.">Conclusion</head><p>The degree of self-identification with the athletic role is clearly associated with PA practice and nutritional habits in the postsport career. Athletic identity is a good positive predictor of HIPA and MIPA and nutritional habits among FA and NA. This association, however, does not apply to AA, even though they fully embrace their role as sport performers. Their personal PA levels, although higher than those of FA and NA, correlate negatively or not at all with their athletic identity scores. During the athletic career, the athletic status substitutes for personal factors in predicting PA practice, and these factors become effective once the AA status vanishes. Sport retirement may affect quality of nutritional habits that tend to decrease below the level of NA, especially for male FA. FA do not benefit from their past athletic status in protection against chronic diseases. High-level sports put athletes in a unique environment that does not favor long-term PA practice after the career is over. Some practical implications may include for athletes' support staff (e.g., sport psychologists) or other stakeholders involved with athletes, to use the present results for counseling or other type of interventions to help prepare AA for retirement. AA should be made aware of how to include and implement other form of PA than their main sport during their career to identify themselves to something other than only high-level sport. A postcareer follow-up may also be warranted. Future research should longitudinally examine lifestyle behaviors in the different stages of sport retirement while taking into account particular sports to help future retirees in dealing with their postathletic career transition process.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Descriptive statistics for AIQ scales for AA, FA, and NA by gender.</figDesc><table><row><cell></cell><cell cols="2">AA (n = 122)</cell><cell cols="2">FA (n = 230)</cell><cell></cell><cell>NA (n = 74)</cell></row><row><cell></cell><cell>Women</cell><cell>Men</cell><cell>Women</cell><cell>Men</cell><cell>Women</cell><cell>Men</cell></row><row><cell>Appearance</cell><cell>26.93  § 2.81</cell><cell>26.39  § 2.79</cell><cell>24.35  § 4.34</cell><cell>23.34  § 5.43</cell><cell>21.96  § 4.71</cell><cell>25.00  § 3.84*</cell></row><row><cell>Competence</cell><cell>21.93  § 2.41</cell><cell>21.80  § 2.72</cell><cell>21.65  § 2.67</cell><cell>22.26  § 2.71</cell><cell>19.2  § 4.05</cell><cell>21.27  § 3.92</cell></row><row><cell>Importance</cell><cell>24.62  § 3.23</cell><cell>24.49  § 2.82</cell><cell>20.33  § 5.24</cell><cell>20.97  § 5.76</cell><cell>22.11  § 4.23</cell><cell>21.93  § 5.47</cell></row><row><cell>Total AIQ</cell><cell>73.49  § 5.91</cell><cell>72.69  § 5.67</cell><cell>66.33  § 9.94</cell><cell>66.56  § 12.22</cell><cell>63.27  § 10.92</cell><cell>68.20  § 10.94*</cell></row></table><note><p>* Significant difference between women and men in NA group (p &lt; 0.05). Abbreviations: AA = actual athletes; AIQ = Athlete Identity Questionnaire; FA = former athletes; NA = nonathletes.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Former athletes Athlete Identity Questionnaire scores comparisons between competition levels (mean § SD).</figDesc><table><row><cell></cell><cell>Provincial (n = 18)</cell><cell>National (n = 120)</cell><cell>International (n = 65)</cell><cell>Professional (n = 27)</cell></row><row><cell>Appearance</cell><cell>23.97  § 4.89</cell><cell>24.41  § 4.55</cell><cell>25.56  § 4.39</cell><cell>25.78  § 4.42</cell></row><row><cell>Competence</cell><cell>21.44  § 2.51</cell><cell>21.93  § 2.60</cell><cell>21.87  § 2.83</cell><cell>22.70  § 2.32</cell></row><row><cell>Importance</cell><cell>22.31  § 4.83</cell><cell>21.81  § 4.97</cell><cell>22.11  § 5.50</cell><cell>22.59  § 5.94</cell></row><row><cell>Total AIQ</cell><cell>61.56  § 10.17</cell><cell>66.43  § 11.31</cell><cell>66.24  § 10.70</cell><cell>69.89  § 12.25</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4</head><label>4</label><figDesc>Correlation between behavioral variables and AIQ scales for all 3 groups combined.</figDesc><table><row><cell></cell><cell cols="4">Appearance Competence Importance Total</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>AIQ</cell></row><row><cell>Active transportation</cell><cell>¡0.059</cell><cell>¡0.070</cell><cell>¡0.194**</cell><cell>¡0.138*</cell></row><row><cell>(h/week)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>HIPA (h/week)</cell><cell>0.297**</cell><cell>0.218**</cell><cell>0.430**</cell><cell>0.413**</cell></row><row><cell>MIPA (h/week)</cell><cell>0.219**</cell><cell>0.147*</cell><cell>0.196**</cell><cell>0.237**</cell></row><row><cell>Inactivity (h/week)</cell><cell>¡0.170**</cell><cell>¡0.061</cell><cell>¡0.039</cell><cell>¡0.113*</cell></row><row><cell>Nutritional index</cell><cell>0.283**</cell><cell>0.115*</cell><cell>0.323**</cell><cell>0.315**</cell></row></table><note><p>* p &lt; 0.05, ** p &lt; 0.01. Abbreviations: AIQ = Athlete Identity Questionnaire; HIPA = high-intensity physical activity; MIPA = moderate-intensity physical activity.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 5 R</head><label>5</label><figDesc><ref type="bibr" target="#b1">2</ref> for multiple linear regressions of lifestyle variables on the appearance, competence, and importance scales.</figDesc><table><row><cell></cell><cell>Active</cell><cell>HIPA</cell><cell>MIPA</cell><cell>Inactivity</cell><cell>Nutritional</cell></row><row><cell></cell><cell>transportation</cell><cell></cell><cell></cell><cell></cell><cell>index</cell></row><row><cell>AA</cell><cell>0.148*</cell><cell>0.039</cell><cell>0.065</cell><cell>0.034</cell><cell>0.094**</cell></row><row><cell>FA</cell><cell>0.080*</cell><cell>0.195**</cell><cell>0.071*</cell><cell>0.062**</cell><cell>0.137**</cell></row><row><cell>NA</cell><cell>0.276*</cell><cell>0.406**</cell><cell>0.251*</cell><cell>0.071</cell><cell>0.093</cell></row><row><cell cols="2">* p &lt; 0.05, ** p &lt; 0.01.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="6">Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity</cell></row><row><cell cols="6">physical activity; MIPA = moderate-intensity physical activity; NA= nonathletes.</cell></row></table></figure>
+		</body>
+		<back>
+
+			
+			<div type="acknowledgement">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Acknowledgment</head><p>The authors acknowledge the contribution of participants in the study.</p></div>
+			</div>
+
+
+			<div type="conflict">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Competing interests</head><p>The authors declare that they have no competing interests.</p></div>
+			</div>
+
+
+			<div type="contribution">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Authors' contribution</head><p>The authors each contributed to all aspects of this research, which was part of the doctoral works of Pierre-Luc Yao. All authors have read and approved the final version of the manuscript, and agree with the order of presentation of the authors.</p></div>
+			</div>
+
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct status="extracted" xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The relationship between athletic identity and physical activity among former college athletes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Reifsteck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Brooks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Athl Insight</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="271" to="284" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reifsteck EJ, Gill DL, Brooks DL. The relationship between athletic iden- tity and physical activity among former college athletes. Athl Insight 2013;5:271-84.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Athletes&quot; and &quot;exercisers&quot;: understanding identity, motivation, and physical activity participation in former college athletes</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Reifsteck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Gill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Labban</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sport Exerc Perform Psychol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="25" to="38" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Reifsteck EJ, Gill DL, Labban JD. &quot;Athletes&quot; and &quot;exercisers&quot;: under- standing identity, motivation, and physical activity participation in former college athletes. Sport Exerc Perform Psychol 2016;5:25-38.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Athletic identity: Hercules&apos; muscles or Achilles heel?</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Van Raalte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Linder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Sport Psychol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="237" to="254" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brewer BW, Van Raalte JL, Linder DE. Athletic identity: Hercules&apos; muscles or Achilles heel? Int J Sport Psychol 1993;24:237-54.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Athlete identity and reactions to retirement from sports</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Webb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Nasco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Riley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Headrick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sport Behav</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="338" to="362" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Webb WM, Nasco SA, Riley S, Headrick B. Athlete identity and reactions to retirement from sports. J Sport Behav 1998;21:338-62.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Athletic identity and its relation to exercise behavior: scale development and initial validation</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sport Exerc Psychol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="39" to="56" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Anderson CB. Athletic identity and its relation to exercise behavior: scale development and initial validation. J Sport Exerc Psychol 2004;26:39-56.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b5">
+	<monogr>
+		<title level="m" type="main">The relationship between athletic identity and physical activity levels after retirement from collegiate sports</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Reifsteck</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<publisher>University of North Carolina</publisher>
+			<pubPlace>Greensboro, NC</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Master&apos;s thesis</note>
+	<note type="raw_reference">Reifsteck EJ. The relationship between athletic identity and physical activity levels after retirement from collegiate sports. Greensboro, NC: University of North Carolina; 2011. [Master&apos;s thesis].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Life span exercise among elite intercollegiate student athletes</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Sorenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Romano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Azen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Schroeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Salem</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports Health</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="80" to="86" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sorenson SC, Romano R, Azen SP, Schroeder ET, Salem GJ. Life span exercise among elite intercollegiate student athletes. Sports Health 2015;7:80-6.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b7">
+	<monogr>
+		<title level="m" type="main">The transition process from competitive sport to retirement: future engagement in physical activity and involvement in figure skating</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wong</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Toronto</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>York University</orgName>
+		</respStmt>
+	</monogr>
+	<note>Master&apos;s thesis</note>
+	<note type="raw_reference">Wong H. The transition process from competitive sport to retirement: future engagement in physical activity and involvement in figure skating. Toronto: York University; 2010. [Master&apos;s thesis].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Leaving competitive sport: retirement or rebirth?</title>
+	</analytic>
+	<monogr>
+		<title level="j">Quest</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note>JJ</note>
+	<note type="raw_reference">9. Coakley JJ. Leaving competitive sport: retirement or rebirth? Quest 1983;35:1-11.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Positive transitions from high-performance sport</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Sinclair</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Orlick</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sport Psychol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="138" to="150" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Sinclair DA, Orlick T. Positive transitions from high-performance sport. Sport Psychol 1993;7:138-50.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Repercussions of transition out of elite sport on subjective well-being: a one-year study</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Stephan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bilard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ninot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Delignieres</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Sport Psychol</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="354" to="371" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Stephan Y, Bilard J, Ninot G, Delignieres D. Repercussions of transition out of elite sport on subjective well-being: a one-year study. J Appl Sport Psychol 2003;15:354-71.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Reduced physical activity and the retired athlete: a dangerous combination?</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Witkowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Spangenburg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="952" to="953" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Witkowski S, Spangenburg EE. Reduced physical activity and the retired athlete: a dangerous combination? Br J Sports Med 2008;42:952-3.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Linking performance and chronic disease risk: indices of physical performance are surrogates for health</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Booth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Roberts</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="950" to="952" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Booth FW, Roberts CK. Linking performance and chronic disease risk: indices of physical performance are surrogates for health. Br J Sports Med 2008;42:950-2.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Occurrence of chronic disease in former top-level athletes: predominance of benefits, risks or selection effects</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">M</forename><surname>Kujala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Marti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kaprio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hernelahti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Tikkanen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sarna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="553" to="561" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Kujala UM, Marti P, Kaprio J, Hernelahti M, Tikkanen H, Sarna S. Occur- rence of chronic disease in former top-level athletes: predominance of benefits, risks or selection effects? Sports Med 2003;33:553-61.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Older elite football players have reduced cardiac and osteoporosis risk factors</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Lynch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Ryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">I</forename><surname>Katzel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Goldberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1124" to="1130" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lynch NA, Ryan AS, Evans J, Katzel LI, Goldberg AP. Older elite foot- ball players have reduced cardiac and osteoporosis risk factors. Med Sci Sports Exerc 2007;39:1124-30.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Healthy lifestyles of former Finnish world class athletes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Fogelholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kaprio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sarna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Sci Sports Exerc</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="224" to="229" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Fogelholm M, Kaprio J, Sarna S. Healthy lifestyles of former Finnish world class athletes. Med Sci Sports Exerc 1994;26:224-9.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Anderson&apos;s athletic identity concept: French validation of the Athletic Identity Questionnaire. Manuscript accepted for publication</title>
+		<author>
+			<persName><forename type="first">P-L</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Trudeau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Laurencelle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Appl Sport Sci</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="111" to="125" />
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Yao P-L, Trudeau F, Laurencelle L. Anderson&apos;s athletic identity concept: French validation of the Athletic Identity Questionnaire. Manuscript accepted for publication, Int J Appl Sport Sci 2018;30:111-25.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Development of the World Health Organization Global Physical Activity Questionnaire (GPAQ)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Armstrong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bull</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Public Health</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="66" to="70" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Armstrong T, Bull F. Development of the World Health Organization Global Physical Activity Questionnaire (GPAQ). J Public Health 2006;14:66-70.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b18">
+	<monogr>
+		<title level="m" type="main">WHO STEPS Surveillance Manual: the WHO STEPwise approach to chronic disease risk factor surveillance</title>
+		<idno>10.01</idno>
+		<ptr target="http://apps.who.int/iris/handle/10665/43376" />
+		<imprint>
+			<date type="published" when="2005">2005. 2018</date>
+			<publisher>World Health Organization (WHO)</publisher>
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">World Health Organization (WHO). WHO STEPS Surveillance Manual: the WHO STEPwise approach to chronic disease risk factor surveillance. Geneva: WHO; 2005. Available at: http://apps.who.int/iris/handle/10665/ 43376. [accessed 10.01.2018].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b19">
+	<monogr>
+		<title level="m" type="main">ACSM&apos;s Guidelines for Exercise Testing and Prescription</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Pescatello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Arena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Riebe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Lippincott Williams &amp; Wilkins</publisher>
+			<pubPlace>Baltimore, MD</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Pescatello LS, Arena R, Riebe D, Thompson PD. ACSM&apos;s Guidelines for Exercise Testing and Prescription. Baltimore, MD: Lippincott Williams &amp; Wilkins; 2014.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Enquête sur la sant e dans les collectivit es canadiennes)</title>
+		<idno>18.09</idno>
+		<ptr target="https://stat.gouv.qc.ca/enquetes/sante/escc.html" />
+	</analytic>
+	<monogr>
+		<title level="s">Statistics Canada. Canadian Community Health Survey (CCHS) (Statistique Canada</title>
+		<imprint>
+			<date type="published" when="2007">2007-2008, 2009-2010,2011-2012 et 2013-2014. 2018</date>
+		</imprint>
+	</monogr>
+	<note>Institut de la statistique du Qu ebec. 2016. Available at in French</note>
+	<note type="raw_reference">Statistics Canada. Canadian Community Health Survey (CCHS) (Statis- tique Canada. Enquête sur la sant e dans les collectivit es canadiennes), 2007-2008, 2009-2010,2011-2012 et 2013-2014. Adapted by the Institut de la statistique du Qu ebec. 2016. Available at: https://stat.gouv.qc.ca/ enquetes/sante/escc.html. [accessed 18.09.2018]. [in French].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Reliability of a dietary questionnaire on food habits, eating behaviour and nutritional knowledge of adolescents</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Turconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Celsa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rezzani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Biino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Sartirana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Roggi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Clin Nutr</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="753" to="763" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Turconi G, Celsa M, Rezzani C, Biino G, Sartirana MA, Roggi C. Reliability of a dietary questionnaire on food habits, eating behaviour and nutritional knowledge of adolescents. Eur J Clin Nutr 2003;57:753-63.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">Health</forename><surname>Canada</surname></persName>
+		</author>
+		<idno>27.03</idno>
+		<ptr target="https://www.canada.ca/en/health-canada/services/food-nutrition/canada-food-guide/get-your-copy.html" />
+		<title level="m">Eating well with Canada&apos;s Food Guide</title>
+		<imprint>
+			<date type="published" when="2018">2018</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Health Canada. Eating well with Canada&apos;s Food Guide. Available at: https://www.canada.ca/en/health-canada/services/food-nutrition/canada- food-guide/get-your-copy.html. [accessed 27.03.2018].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Statistical inference under order restrictions: the theory and application of isotonic regression</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Brunk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Barlow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Bartholomew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bremner</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<publisher>John Wiley &amp; Sons Ltd</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Brunk H, Barlow R, Bartholomew D, Bremner J. Statistical inference under order restrictions: the theory and application of isotonic regression. New York, NY: John Wiley &amp; Sons Ltd.; 1972.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Statistical tables, explained and applied</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Laurencelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Dupuis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>World Scientific</publisher>
+		</imprint>
+	</monogr>
+	<note>Singapore</note>
+	<note type="raw_reference">Laurencelle L, Dupuis FA. Statistical tables, explained and applied. Sin- gapore: World Scientific; 2002.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Survey measures of health: physical activity measured by Canadians. (Enquête canadienne sur les mesures de la sant e: activit e physique directement mesur ee chez les Canadiens)</title>
+		<idno>27.03</idno>
+		<ptr target="https://www150.statcan.gc.ca/n1/pub/82-625-x/2015001/article/14135-fra.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Statistics Canada</title>
+		<imprint>
+			<date type="published" when="2012">2012. 2013. 2018</date>
+		</imprint>
+	</monogr>
+	<note>Available at in French</note>
+	<note type="raw_reference">Statistics Canada. Survey measures of health: physical activity measured by Canadians. (Enquête canadienne sur les mesures de la sant e: activit e physique directement mesur ee chez les Canadiens), 2012À2013. Avail- able at: https://www150.statcan.gc.ca/n1/pub/82-625-x/2015001/article/ 14135-fra.htm. [accessed 27.03.2018]. [in French].</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Athletic identity and its relationship to sport participation levels</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lamont-Mills</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Christensen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sci Med Sport</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="472" to="478" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Lamont-Mills A, Christensen SA. Athletic identity and its relationship to sport participation levels. J Sci Med Sport 2006;9:472-8.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Developmental trends in athletic identity: a two-part retrospective study</title>
+		<author>
+			<persName><forename type="first">Jlw</forename><surname>Houle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Brewer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Kluck</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Sport Behav</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="146" to="159" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Houle JLW, Brewer BW, Kluck AS. Developmental trends in athletic identity: a two-part retrospective study. J Sport Behav 2010;33: 146-59.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b28">
+	<analytic>
+		<title level="a" type="main">The effects of sport participation on student-athletes&apos; and non-athlete students&apos; social life and identity</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Magner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Issues Interchol Athl</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="176" to="193" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Chen S, Snyder S, Magner M. The effects of sport participation on stu- dent-athletes&apos; and non-athlete students&apos; social life and identity. J Issues Interchol Athl 2010;3:176-93.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b29">
+	<analytic>
+		<title level="a" type="main">How different sports establish different athletic identity levels</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Hadiyan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sheikh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Kin Sports Sci</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="28" to="32" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Hadiyan HM, Sheikh M. How different sports establish different athletic identity levels. Int J Kin Sports Sci 2015;3:28-32.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Seeking optimal nutrition for healthy body mass reduction among former athletes</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Maciejewska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Michalczyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Czerwi Nska-Rogowska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Banaszczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ryterska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Jakubczyk</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hum Kin</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="63" to="75" />
+			<date type="published" when="2017">2017</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Maciejewska D, Michalczyk M, Czerwi nska-Rogowska M, Banaszc- zak M, Ryterska K, Jakubczyk K, et al. Seeking optimal nutrition for healthy body mass reduction among former athletes. J Hum Kin 2017;60:63-75.</note>
+</biblStruct>
+
+<biblStruct status="extracted" xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Limits to the measurement of habitual physical activity by questionnaires</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Shephard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Sports Med</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="197" to="206" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note type="raw_reference">Shephard RJ. Limits to the measurement of habitual physical activity by questionnaires. Br J Sports Med 2003;37:197-206.</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

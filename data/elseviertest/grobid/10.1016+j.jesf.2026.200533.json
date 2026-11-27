@@ -1,0 +1,4368 @@
+{
+  "paper_id": "10.1016+j.jesf.2026.200533",
+  "info": [
+    {
+      "title": "Criterion-related validity, classification accuracy, and misclassification patterns of the International Fitness Scale in adolescents from a rural Mediterranean region of Spain: The EHDLA study",
+      "keywords": null,
+      "doi": "10.1016/j.jesf.2026.200533",
+      "file_hash": "cc5241ab2f8b2bcb",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.jesf.2026.200533.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Camila",
+      "family": "Miño",
+      "affiliation": "Universidad Internacional para El Desarrollo (UNINDE)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tExtremadura Badajoz\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "camilamino501@gmail.com",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "Lucille",
+      "family": "Ridgell",
+      "affiliation": "Faculty of Health Sciences\n\t\t\t\t\t\t\t\tUniversidad Autónoma de Chile\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTemuco\n\t\t\t\t\t\t\t\t\tChile",
+      "email": "lucilleridgell@gmail.com",
+      "corresponding": false,
+      "orcid": "0000-0002-9444-8564",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "Rodrigo",
+      "family": "Yáñez-Sepúlveda",
+      "affiliation": "Faculty of Education and Humanities\n\t\t\t\t\t\t\t\tSchool of Sport Sciences\n\t\t\t\t\t\t\t\tUniversidad Andres Bello\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tViña Del Mar\n\t\t\t\t\t\t\t\t\tChile",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0009-0001-5956-5925",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "Boryi",
+      "family": "Becerra-Patiño",
+      "affiliation": "Faculty of Physical Education\n\t\t\t\t\t\t\t\tNational Pedagogical University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tBogotá\n\t\t\t\t\t\t\t\t\tColombia",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "Carlos",
+      "family": "Herrera-Amante",
+      "affiliation": "Laboratorio de Evaluación y Cuidado del Estado Nutricio\n\t\t\t\t\t\t\t\tDivisión de Ciencias de la Salud\n\t\t\t\t\t\t\t\tCentro Universitario de Tonalá\n\t\t\t\t\t\t\t\tUniversidad de Guadalajara\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTonalá\n\t\t\t\t\t\t\t\t\tMexico",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 6,
+      "given": "Mario",
+      "family": "Muñoz-López",
+      "affiliation": "Department of Sport Sciences\n\t\t\t\t\t\t\t\tFaculty of Sport and Health Sciences\n\t\t\t\t\t\t\t\tFit Generation Research Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAndorra La Vella\n\t\t\t\t\t\t\t\t\tAndorra",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0000-0002-3645-3621",
+      "role": []
+    },
+    {
+      "author_id": 7,
+      "given": "José",
+      "family": "Tornero-Aguilera",
+      "affiliation": "Department of Sport Sciences\n\t\t\t\t\t\t\t\tFaculty of Sport and Health Sciences\n\t\t\t\t\t\t\t\tFit Generation Research Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tAndorra La Vella\n\t\t\t\t\t\t\t\t\tAndorra",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0009-0002-7422-1546",
+      "role": []
+    },
+    {
+      "author_id": 8,
+      "given": "Dong",
+      "family": "Keon",
+      "affiliation": "Center for Digital Health\n\t\t\t\t\t\t\t\tMedical Science Research Institute\n\t\t\t\t\t\t\t\tKyung Hee University Medical Center\n\t\t\t\t\t\t\t\tKyung Hee University College of Medicine\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSeoul\n\t\t\t\t\t\t\t\t\tSouth Korea",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0000-0002-0747-8133",
+      "role": []
+    },
+    {
+      "author_id": 9,
+      "given": "José",
+      "family": "López-Gil",
+      "affiliation": "School of Medicine\n\t\t\t\t\t\t\t\tUniversidad Espíritu Santo\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSamborondón\n\t\t\t\t\t\t\t\t\tEcuador",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Self-reported fitness instruments provide a scalable surveillance solution when objective testing is impractical, yet the nature of perception-accuracy discordance in adolescents is not well understood.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study examined criterion-related validity, classification accuracy, convergent construct validity against the Spanish Perceived Physical Literacy Instrument (S-PPLI), and misclassification patterning of the International Fitness Scale (IFIS) in a community sample of adolescents from the Valle de Ricote (Region of Murcia, Spain).",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cross-sectional data from 1017 Spanish adolescents (471 boys, 546 girls; median age 14 years) from the Eating Healthy and Daily Life Activities (EHDLA) study were analyzed.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "IFIS overall correlated with the Assessing the Levels of Physical Activity and Fitness (ALPHA-Fit) composite (Spearman rho [ρ] = 0.369; partial ρ = 0.377, p < 0.001), with flexibility showing the strongest domain-specific validity (Spearman ρ = 0.635; partial ρ = 0.592, p < 0.001).",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "IFIS overall correlated with the Assessing the Levels of Physical Activity and Fitness (ALPHA-Fit) composite (Spearman rho [ρ] = 0.369; partial ρ = 0.377, p &lt; 0.001), with flexibility showing the strongest domain-specific validity (Spearman ρ = 0.635; partial ρ = 0.592, p &lt; 0.001)."
+    },
+    {
+      "text": "Using the full five-level IFIS score, the area under the curve (AUC) for identifying the lowest fitness tertile was 0.66 (95% confidence interval [CI] 0.63-0.69).",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "At the primary screening cut-off (IFIS ≤ 3), sensitivity was 0.68, specificity was 0.59, and negative predictive value was 0.80, while a stricter threshold (IFIS ≤ 2) increased specificity (0.94) at the cost of sensitivity (0.16).",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Convergent validity with S-PPLI was supported (partial ρ = 0.56, p < 0.001).",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Convergent validity with S-PPLI was supported (partial ρ = 0.56, p &lt; 0.001)."
+    },
+    {
+      "text": "Misclassification profiling identified 18.5% of participants as underestimators and 17.6% as overestimators; underestimation was associated with shorter sleep, while concordant-low membership was associated with higher body mass index (BMI), lower activity, and more sedentary time.",
+      "text_id": 8,
+      "paragraph_id": 2,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In conclusion, IFIS showed weak-tomodest criterion-related validity and limited discriminative accuracy.",
+      "text_id": 9,
+      "paragraph_id": 2,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, IFIS may serve as a lowburden adjunct to objective testing for population-level prioritization, but its performance relative to other brief instruments or low-burden measures, including BMI, remains untested.",
+      "text_id": 10,
+      "paragraph_id": 2,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Discordance between perceived and objective fitness was common (36.1%) and co-occurred with lifestyle and adiposity characteristics, supporting",
+      "text_id": 11,
+      "paragraph_id": 2,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The escalating prevalence of physical inactivity, coupled with rising adolescent obesity rates, 1, 2 and concurrent secular declines in cardiorespiratory and musculoskeletal fitness [3] [4] [5] [6] , constitutes a significant public health burden and is associated with increased risk of cardiometabolic disease and premature mortality. 7 With over 80% of school-aged adolescents failing to meet global physical activity (PA) guidelines, 8 there is a pressing need for scalable, low-cost surveillance instruments capable of efficiently identifying low-fitness individuals.",
+      "text_id": 12,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The escalating prevalence of physical inactivity, coupled with rising adolescent obesity rates, <ref type=\"bibr\" target=\"#b0\">1,<\/ref> <ref type=\"bibr\" target=\"#b1\">2<\/ref> and concurrent secular declines in cardiorespiratory and musculoskeletal fitness <ref type=\"bibr\" target=\"#b3\">[3]<\/ref> <ref type=\"bibr\" target=\"#b4\">[4]<\/ref> <ref type=\"bibr\" target=\"#b5\">[5]<\/ref> <ref type=\"bibr\" target=\"#b6\">[6]<\/ref> , constitutes a significant public health burden and is associated with increased risk of cardiometabolic disease and premature mortality. <ref type=\"bibr\" target=\"#b7\">7<\/ref> With over 80% of school-aged adolescents failing to meet global physical activity (PA) guidelines, <ref type=\"bibr\" target=\"#b8\">8<\/ref> there is a pressing need for scalable, low-cost surveillance instruments capable of efficiently identifying low-fitness individuals."
+    },
+    {
+      "text": "The International Fitness Scale (IFIS) was developed as a pragmatic self-report instrument to gauge perceived physical fitness (PF) in youth.",
+      "text_id": 13,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A systematic review and meta-analysis by Bao and colleagues, 9 with 13 studies (9634 participants), confirmed substantial test-retest reliability for the IFIS in children and adolescents, with pooled weighted kappa values of 0.724 to 0.764 across fitness domains.",
+      "text_id": 14,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "A systematic review and meta-analysis by Bao and colleagues, <ref type=\"bibr\" target=\"#b9\">9<\/ref> with 13 studies (9634 participants), confirmed substantial test-retest reliability for the IFIS in children and adolescents, with pooled weighted kappa values of 0.724 to 0.764 across fitness domains."
+    },
+    {
+      "text": "However, this review was unable to pool validity estimates because primary studies reported heterogeneous methods and rarely reported standardized validity coefficients, and it identified only three studies that had formally assessed criterion validity.",
+      "text_id": 15,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because it also documented marked between-study heterogeneity even for reliability (I² = 96.9-98.8%), the conditions under which IFIS responses are valid remain poorly characterized. 9 Sex is consistently associated with IFIS responses; girls systematically report lower perceived fitness than boys, a discrepancy that persists even when objective fitness levels are comparable. 10, 11 Whether this perceptual bias is associated with criterion-related validity or induces systematic misclassification has not been formally investigated.",
+      "text_id": 16,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Because it also documented marked between-study heterogeneity even for reliability (I² = 96.9-98.8%), the conditions under which IFIS responses are valid remain poorly characterized. <ref type=\"bibr\" target=\"#b9\">9<\/ref> Sex is consistently associated with IFIS responses; girls systematically report lower perceived fitness than boys, a discrepancy that persists even when objective fitness levels are comparable. <ref type=\"bibr\" target=\"#b10\">10,<\/ref> <ref type=\"bibr\" target=\"#b11\">11<\/ref> Whether this perceptual bias is associated with criterion-related validity or induces systematic misclassification has not been formally investigated."
+    },
+    {
+      "text": "While objective fitness testing constitutes the gold-standard reference, its widespread application is limited by logistical constraints, the necessity for trained assessors, and substantial demands on school curricula and time. 12, 13 Bao and colleagues 9 also documented a ceiling effect in youth samples, with most children and adolescents rating their fitness as good or very good and several studies collapsing response categories as a result.",
+      "text_id": 17,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "While objective fitness testing constitutes the gold-standard reference, its widespread application is limited by logistical constraints, the necessity for trained assessors, and substantial demands on school curricula and time. <ref type=\"bibr\" target=\"#b12\">12,<\/ref> <ref type=\"bibr\" target=\"#b13\">13<\/ref> Bao and colleagues <ref type=\"bibr\" target=\"#b9\">9<\/ref> also documented a ceiling effect in youth samples, with most children and adolescents rating their fitness as good or very good and several studies collapsing response categories as a result."
+    },
+    {
+      "text": "Ceiling effects were directly consequential for screening, because they compressed the lower end of the response distribution and constrained the achievable sensitivity-specificity trade-off. 9 Still, ranking performance alone does not resolve a practical public-health question: whether IFIS can identify adolescents with low objectively measured fitness with acceptable classification performance.",
+      "text_id": 18,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Ceiling effects were directly consequential for screening, because they compressed the lower end of the response distribution and constrained the achievable sensitivity-specificity trade-off. <ref type=\"bibr\" target=\"#b9\">9<\/ref> Still, ranking performance alone does not resolve a practical public-health question: whether IFIS can identify adolescents with low objectively measured fitness with acceptable classification performance."
+    },
+    {
+      "text": "Previous work has reported associations between low PF in adolescence and adverse health profiles. 14 Predictive validity reviews have confirmed associations between youth fitness and later cardiometabolic risk. 15, 16 Objective fitness indicators remain preferred reference standards.",
+      "text_id": 19,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Previous work has reported associations between low PF in adolescence and adverse health profiles. <ref type=\"bibr\" target=\"#b14\">14<\/ref> Predictive validity reviews have confirmed associations between youth fitness and later cardiometabolic risk. <ref type=\"bibr\" target=\"#b15\">15,<\/ref> <ref type=\"bibr\" target=\"#b16\">16<\/ref> Objective fitness indicators remain preferred reference standards."
+    },
+    {
+      "text": "However, studies often stop at correlation coefficients and do not examine screening metrics, likelihood ratios, or profile-level misclassification.",
+      "text_id": 20,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This limits direct translation to school surveillance and first-line clinical triage.",
+      "text_id": 21,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Consistent with this, the systematic review by Bao and colleagues 9 could not pool validity estimates and explicitly called for standardized reporting of validity coefficients in future studies.",
+      "text_id": 22,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Consistent with this, the systematic review by Bao and colleagues <ref type=\"bibr\" target=\"#b9\">9<\/ref> could not pool validity estimates and explicitly called for standardized reporting of validity coefficients in future studies."
+    },
+    {
+      "text": "We therefore aimed to assess criterion-related validity, classification accuracy, and misclassification patterning of IFIS against objective fitness components in a community sample of adolescents from Spain.",
+      "text_id": 23,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Methods",
+      "text_id": 24,
+      "paragraph_id": 7,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Methods<\/head>"
+    },
+    {
+      "text": "Cross-sectional secondary analysis of the Eating Healthy and Daily Life Activities (EHDLA) study. 17 Ethical approval was obtained from the Bioethics Committee of Albacete (ID 2021-85, November 2021) and the Ethics Committee of Murcia (ID 2218/2018, February 2019).",
+      "text_id": 25,
+      "paragraph_id": 8,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Cross-sectional secondary analysis of the Eating Healthy and Daily Life Activities (EHDLA) study. <ref type=\"bibr\" target=\"#b17\">17<\/ref> Ethical approval was obtained from the Bioethics Committee of Albacete (ID 2021-85, November 2021) and the Ethics Committee of Murcia (ID 2218/2018, February 2019)."
+    },
+    {
+      "text": "Written informed consent was obtained from parents/guardians and assent from participants.",
+      "text_id": 26,
+      "paragraph_id": 8,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data were collected during the 2021-2022 academic year in three secondary schools in the Valle de Ricote (Region of Murcia, Spain) during physical education classes.",
+      "text_id": 27,
+      "paragraph_id": 8,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Adolescents aged 12-17 years were eligible; those with chronic conditions or exempted from physical education were excluded.",
+      "text_id": 28,
+      "paragraph_id": 8,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The sample size for the EHDLA study was calculated a priori using the formula n = (Z) 2 ) , assuming a 95% confidence level (Z = 1.96), an expected excess-weight prevalence of 40.0%, a 3% margin of error, and a 10% non-response rate.",
+      "text_id": 29,
+      "paragraph_id": 9,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This yielded a minimum required sample of 1138 adolescents.",
+      "text_id": 30,
+      "paragraph_id": 10,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, for the present criterion-validity analysis, we used all participants with complete data for the prespecified IFIS validity workflow (n = 1017; 73.8% of the 1378 raw records).",
+      "text_id": 31,
+      "paragraph_id": 10,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No separate a priori power calculation was performed specifically for IFIS because this was a secondary analysis and the primary aim was estimation of validity and classification metrics rather than testing a single null hypothesis.",
+      "text_id": 32,
+      "paragraph_id": 10,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nonetheless, the achieved sample provided adequate precision for the main estimates: the 95% confidence interval (CI) for the primary Spearman rho (ρ) correlation between IFIS overall and the objective composite was approximately 0.31-0.42, and the 95% CI for the primary area under the curve (AUC) was 0.63-0.69.",
+      "text_id": 33,
+      "paragraph_id": 10,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Missing data were not missing completely at random (MCAR) (chi-square [χ 2 ] test (499) = 740.1, p < 0.001) according to Little's test, 18 and complete-case analysis was used as described in Supplementary Note S1 and Table S1.",
+      "text_id": 34,
+      "paragraph_id": 10,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Missing data were not missing completely at random (MCAR) (chi-square [χ 2 ] test (499) = 740.1, p &lt; 0.001) according to Little's test, <ref type=\"bibr\" target=\"#b18\">18<\/ref> and complete-case analysis was used as described in Supplementary Note S1 and Table <ref type=\"table\" target=\"#tab_0\">S1<\/ref>."
+    },
+    {
+      "text": "Self-reported fitness was captured with the IFIS, 10 covering overall fitness and four domain-specific items (cardiorespiratory, muscular, speed-agility, and flexibility) on five-point ordinal scales (1 = very poor to5 = very good; responses are stored as 0-4 in the EHDLA database and were recoded to 1-5 for analysis).",
+      "text_id": 35,
+      "paragraph_id": 11,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "Self-reported fitness was captured with the IFIS, <ref type=\"bibr\" target=\"#b10\">10<\/ref> covering overall fitness and four domain-specific items (cardiorespiratory, muscular, speed-agility, and flexibility) on five-point ordinal scales (1 = very poor to5 = very good; responses are stored as 0-4 in the EHDLA database and were recoded to 1-5 for analysis)."
+    },
+    {
+      "text": "For binary screening analyses, low self-reported fitness was defined as IFIS overall ≤3 vs ≥ 4 (primary rule) and ≤2 vs ≥ 3 (stricter rule).",
+      "text_id": 36,
+      "paragraph_id": 11,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A sensitivity analysis examined the effect of collapsing the 'very poor' and 'poor' response categories.",
+      "text_id": 37,
+      "paragraph_id": 11,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All components were measured following the Assessing the Levels of Physical Activity and Fitness (ALPHA-Fit) 19 and expressed as sex-and age-specific z-scores: muscular composite (mean z-score of handgrip strength and standing long jump); speed-agility (reverse-coded 4 × 10 m shuttle run); flexibility (sit-and-reach); and cardiorespiratory fitness (CRF; 20 m multistage shuttle run).",
+      "text_id": 38,
+      "paragraph_id": 12,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "All components were measured following the Assessing the Levels of Physical Activity and Fitness (ALPHA-Fit) <ref type=\"bibr\" target=\"#b19\">19<\/ref> and expressed as sex-and age-specific z-scores: muscular composite (mean z-score of handgrip strength and standing long jump); speed-agility (reverse-coded 4 × 10 m shuttle run); flexibility (sit-and-reach); and cardiorespiratory fitness (CRF; 20 m multistage shuttle run)."
+    },
+    {
+      "text": "Participants for whom the 20 m shuttle run was not completed due to physical contraindications were excluded from CRF-specific analyses (n = 25).",
+      "text_id": 39,
+      "paragraph_id": 12,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For these participants, the objective fitness composite was computed as the mean of the three remaining component z-scores.",
+      "text_id": 40,
+      "paragraph_id": 12,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Z-scores were computed from sexand age-specific means and standard deviations in the EHDLA sample (internal reference), not from published external normative tables.",
+      "text_id": 41,
+      "paragraph_id": 12,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The sex-and age-specific median was chosen as the objective fitness threshold for profile definition because it yields approximately balanced high/low strata, maximizing statistical efficiency for cross-classifying perceived against objective fitness and avoiding the overrepresentation of concordant-low profiles that an extreme-tail definition would produce.",
+      "text_id": 42,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tertile-and quartile-based definitions were retained for the primary classification accuracy analyses and for sensitivity analyses (Supplementary Note S2).",
+      "text_id": 43,
+      "paragraph_id": 13,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Body mass index (BMI) z-scores were computed with the World Health Organization growth references 20.",
+      "text_id": 44,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Waist-to-height ratio (WHtR) defined abdominal obesity. 21 Body fat percentage was estimated from triceps and medial calf skinfolds using Slaughter equations. 22 Resting blood pressure (BP) was averaged from two seated measurements; elevated BP (high-normal BP or hypertension) was defined by European Society of Hypertension age-, sex-, and height-specific categories. 23 PA and sedentary behavior were assessed with the Spanish Youth Activity Profile (YAP-S). 24 Sleep duration was derived from weekday and weekend bed/wake times.",
+      "text_id": 45,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Waist-to-height ratio (WHtR) defined abdominal obesity. <ref type=\"bibr\" target=\"#b21\">21<\/ref> Body fat percentage was estimated from triceps and medial calf skinfolds using Slaughter equations. <ref type=\"bibr\" target=\"#b22\">22<\/ref> Resting blood pressure (BP) was averaged from two seated measurements; elevated BP (high-normal BP or hypertension) was defined by European Society of Hypertension age-, sex-, and height-specific categories. <ref type=\"bibr\" target=\"#b23\">23<\/ref> PA and sedentary behavior were assessed with the Spanish Youth Activity Profile (YAP-S). <ref type=\"bibr\" target=\"#b24\">24<\/ref> Sleep duration was derived from weekday and weekend bed/wake times."
+    },
+    {
+      "text": "Convergent construct validity was additionally assessed against the Spanish Perceived Physical Literacy Instrument for adolescents (S-PPLI; 9-item short form), previously validated in Spanish adolescents. 25",
+      "text_id": 46,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Convergent construct validity was additionally assessed against the Spanish Perceived Physical Literacy Instrument for adolescents (S-PPLI; 9-item short form), previously validated in Spanish adolescents. <ref type=\"bibr\" target=\"#b25\">25<\/ref>"
+    },
+    {
+      "text": "Criterion-related validity was examined via Spearman correlations and sex-and age-adjusted partial Spearman correlations, with linear trend contrasts modeled using ordinary least squares (OLS) regression with heteroskedasticity-consistent (HC0) standard errors.",
+      "text_id": 47,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Classification accuracy was evaluated using receiver operating characteristic (ROC) curves, AUC with bootstrap 95% CIs (3000 resamples, percentile method), sensitivity, specificity, positive and negative predictive values (PPV/NPV), and positive and negative likelihood ratios (LR+/LR-). 26 For all ROC and AUC analyses, the full five-level ordinal IFIS response (1 = very poor to5 = very good) was used as the predictor; IFIS was not dichotomized for AUC estimation.",
+      "text_id": 48,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Classification accuracy was evaluated using receiver operating characteristic (ROC) curves, AUC with bootstrap 95% CIs (3000 resamples, percentile method), sensitivity, specificity, positive and negative predictive values (PPV/NPV), and positive and negative likelihood ratios (LR+/LR-). <ref type=\"bibr\" target=\"#b26\">26<\/ref> For all ROC and AUC analyses, the full five-level ordinal IFIS response (1 = very poor to5 = very good) was used as the predictor; IFIS was not dichotomized for AUC estimation."
+    },
+    {
+      "text": "The binary IFIS rules (IFIS ≤ 3 vs ≥ 4 and IFIS ≤ 2 vs ≥ 3) were applied only to define screen-positive status and to compute threshold-specific operating characteristics (sensitivity, specificity, PPV, NPV, LR+ and LR-).",
+      "text_id": 49,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, AUC reflects the discriminative capacity of the full IFIS scale, whereas the threshold-specific metrics describe performance at the prespecified cut-off.",
+      "text_id": 50,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The same approach was used for domain-specific analyses, using the full five-level response of the corresponding IFIS domain item.",
+      "text_id": 51,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Differences between domain-specific AUCs were tested by paired bootstrap (2000 resamples).",
+      "text_id": 52,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Secondary construct validity used OLS regression (HC0 standard errors) for continuous adiposity and BP outcomes and robust Poisson regression with sandwich variance for binary outcomes (prevalence ratios [PRs]).",
+      "text_id": 53,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Misclassification profiles were defined by cross-classifying IFIS ≥ 4 (good or very good) vs ≤ 3 (average, poor, or very poor) against objective fitness at or above vs below the sex-age median composite, yielding four groups: concordant low, overestimators, underestimators, and concordant high.",
+      "text_id": 54,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Profile membership was modeled with robust Poisson regression (each profile vs all others), with BMI z-score as the primary adiposity predictor; WHtR was excluded due to collinearity.",
+      "text_id": 55,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Benjamini-Hochberg false discovery rate (BH-FDR) correction was applied across the 24 simultaneous tests of the profile models, and separately across the four χ 2 tests of profile distribution (q < 0.05). 27 All analyses were conducted in Python (version 3.13.7) using pandas, NumPy, SciPy, statsmodels, and scikit-learn.",
+      "text_id": 56,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Benjamini-Hochberg false discovery rate (BH-FDR) correction was applied across the 24 simultaneous tests of the profile models, and separately across the four χ 2 tests of profile distribution (q &lt; 0.05). <ref type=\"bibr\" target=\"#b27\">27<\/ref> All analyses were conducted in Python (version 3.13.7) using pandas, NumPy, SciPy, statsmodels, and scikit-learn."
+    },
+    {
+      "text": " >Results",
+      "text_id": 57,
+      "paragraph_id": 18,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "<head n=\"3.\" >Results<\/head>"
+    },
+    {
+      "text": "The analytical sample comprised 1017 adolescents (471 boys, 546 girls; median age 14 years, interquartile range [IQR] 13-15).",
+      "text_id": 58,
+      "paragraph_id": 19,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Median IFIS overall was 4 (IQR 3-4) in boys and 3 (IQR 3-4) in girls, whereas the sex-and age-standardized objective composite z-score did not differ significantly between sexes (boys: 0.02; girls: -0.03; p = 0.823).",
+      "text_id": 59,
+      "paragraph_id": 19,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This perceptual divergence in the absence of objective differences was consistent across individual fitness domains (Supplementary Table S2).",
+      "text_id": 60,
+      "paragraph_id": 19,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "This perceptual divergence in the absence of objective differences was consistent across individual fitness domains (Supplementary Table <ref type=\"table\" target=\"#tab_1\">S2<\/ref>)."
+    },
+    {
+      "text": "Full sample characteristics are presented in Table 1.",
+      "text_id": 61,
+      "paragraph_id": 19,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Full sample characteristics are presented in Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>."
+    },
+    {
+      "text": "Under the primary screening rule (IFIS ≤ 3 vs ≥ 4), 504 of 1017 participants (49.6%) screened positive.",
+      "text_id": 62,
+      "paragraph_id": 19,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Supplementary Fig. S1 and Supplementary Table S3 show the full IFIS overall category distribution by sex and age; responses were concentrated in the average (40.3%) and good (38.4%) categories, with 1.3% very poor, 8.0% poor, and 12.0% very good.",
+      "text_id": 63,
+      "paragraph_id": 19,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Supplementary Fig. <ref type=\"figure\" target=\"#fig_0\">S1<\/ref> and Supplementary Table <ref type=\"table\" target=\"#tab_2\">S3<\/ref> show the full IFIS overall category distribution by sex and age; responses were concentrated in the average (40.3%) and good (38.4%) categories, with 1.3% very poor, 8.0% poor, and 12.0% very good."
+    },
+    {
+      "text": "All domain-specific correlations are reported in Table 2.",
+      "text_id": 64,
+      "paragraph_id": 20,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "All domain-specific correlations are reported in Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>."
+    },
+    {
+      "text": "For IFIS overall versus the objective composite: Spearman ρ = 0.369 (p < 0.001); sex-and age-adjusted partial ρ = 0.377 (p < 0.001).",
+      "text_id": 65,
+      "paragraph_id": 20,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "For IFIS overall versus the objective composite: Spearman ρ = 0.369 (p &lt; 0.001); sex-and age-adjusted partial ρ = 0.377 (p &lt; 0.001)."
+    },
+    {
+      "text": "Domain-specific partial Spearman correlations were: CRF, 0.403; muscular, 0.342; speed-agility, 0.415; and flexibility, 0.592 (all p < 0.001), with IFIS flexibility showing the strongest criterion validity across all domains.",
+      "text_id": 66,
+      "paragraph_id": 20,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "Domain-specific partial Spearman correlations were: CRF, 0.403; muscular, 0.342; speed-agility, 0.415; and flexibility, 0.592 (all p &lt; 0.001), with IFIS flexibility showing the strongest criterion validity across all domains."
+    },
+    {
+      "text": "Secondary construct validity analyses revealed dose-response inverse associations between IFIS overall and BMI z-score, WHtR, body fat percentage, and systolic BP (all p < 0.01), with lower prevalence of overweight/obesity, abdominal obesity, and elevated BP at higher IFIS categories (Supplementary Table S4).",
+      "text_id": 67,
+      "paragraph_id": 20,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "Secondary construct validity analyses revealed dose-response inverse associations between IFIS overall and BMI z-score, WHtR, body fat percentage, and systolic BP (all p &lt; 0.01), with lower prevalence of overweight/obesity, abdominal obesity, and elevated BP at higher IFIS categories (Supplementary Table <ref type=\"table\" target=\"#tab_3\">S4<\/ref>)."
+    },
+    {
+      "text": "IFIS overall correlated strongly with S-PPLI (partial ρ = 0.56, p < 0.001), with the greatest alignment for self-confidence (partial ρ = 0.58), followed by knowledge (partial ρ = 0.46) and communication (partial ρ = 0.31), with each one-category IFIS increase associated with a 3.61-point higher S-PPLI total score (Supplementary Table S5).",
+      "text_id": 68,
+      "paragraph_id": 20,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "IFIS overall correlated strongly with S-PPLI (partial ρ = 0.56, p &lt; 0.001), with the greatest alignment for self-confidence (partial ρ = 0.58), followed by knowledge (partial ρ = 0.46) and communication (partial ρ = 0.31), with each one-category IFIS increase associated with a 3.61-point higher S-PPLI total score (Supplementary Table <ref type=\"table\" target=\"#tab_4\">S5<\/ref>)."
+    },
+    {
+      "text": "Full results across all threshold and low-fitness definition combinations are presented in Table 3.",
+      "text_id": 69,
+      "paragraph_id": 21,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Full results across all threshold and low-fitness definition combinations are presented in Table <ref type=\"table\" target=\"#tab_2\">3<\/ref>."
+    },
+    {
+      "text": "For the primary low-fitness definition (lowest sex-age tertile), the AUC based on the full five-level IFIS overall score was 0.66 (95% CI 0.63-0.69).",
+      "text_id": 70,
+      "paragraph_id": 21,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "At the primary binary threshold (IFIS ≤ 3 vs ≥ 4), sensitivity was 0.68, specificity was 0.59, PPV was 0.44, NPV was 0.80, LR+ was 1.67, and LR-was 0.54.",
+      "text_id": 71,
+      "paragraph_id": 21,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The stricter threshold (IFIS ≤ 2 vs ≥ 3) reduced sensitivity to 0.16 while increasing specificity to 0.94 (LR+ = 2.45, LR-= 0.90).",
+      "text_id": 72,
+      "paragraph_id": 21,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Across secondary low-fitness definitions, AUC ranged from 0.64 to 0.67, and at the primary rule sensitivity (0.64-0.69) and specificity (0.57-0.64) remained moderate across all definitions.",
+      "text_id": 73,
+      "paragraph_id": 21,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Domain-specific AUC ranked as: flexibility 0.75 (95% CI 0.71-0.78), speed-agility 0.69 (95% CI 0.65-0.72), overall 0.66 (95% CI 0.63-0.69), CRF 0.65 (95% CI 0.62-0.69), and muscular fitness 0.64 (95% CI 0.61-0.67; Table 4, Fig. 1).",
+      "text_id": 74,
+      "paragraph_id": 22,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Domain-specific AUC ranked as: flexibility 0.75 (95% CI 0.71-0.78), speed-agility 0.69 (95% CI 0.65-0.72), overall 0.66 (95% CI 0.63-0.69), CRF 0.65 (95% CI 0.62-0.69), and muscular fitness 0.64 (95% CI 0.61-0.67; Table <ref type=\"table\" target=\"#tab_3\">4<\/ref>, Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref>)."
+    },
+    {
+      "text": "The flexibility AUC was significantly higher than the overall AUC (paired bootstrap difference = 0.09, standard error [SE] = 0.02, z = 3.82, p < 0.001).",
+      "text_id": 75,
+      "paragraph_id": 22,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "The flexibility AUC was significantly higher than the overall AUC (paired bootstrap difference = 0.09, standard error [SE] = 0.02, z = 3.82, p &lt; 0.001)."
+    },
+    {
+      "text": "At the IFIS ≤ 3 vs ≥ 4 rule, sensitivity ranged from 0.68 (muscular) to 0.83 (flexibility) and specificity from 0.48 (CRF) to 0.60 (speed-agility).",
+      "text_id": 76,
+      "paragraph_id": 22,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The distribution of perception-accuracy profile groups is illustrated in Fig. 2 (exact counts in Supplementary Table S6).",
+      "text_id": 77,
+      "paragraph_id": 23,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "The distribution of perception-accuracy profile groups is illustrated in Fig. <ref type=\"figure\" target=\"#fig_1\">2<\/ref> (exact counts in Supplementary Table <ref type=\"table\">S6<\/ref>)."
+    },
+    {
+      "text": "The largest group was concordant high (n = 334, 32.8%), followed by concordant low (n = 316, 31.1%), underestimators (n = 188, 18.5%), and overestimators (n = 179, 17.6%).",
+      "text_id": 78,
+      "paragraph_id": 23,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Group distributions differed significantly by overweight or obesity status, obesity, and abdominal obesity (all p < 0.001 and q < 0.001), but not by sex (p = 0.160) (Supplementary Tables S7 and S8).",
+      "text_id": 79,
+      "paragraph_id": 23,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Group distributions differed significantly by overweight or obesity status, obesity, and abdominal obesity (all p &lt; 0.001 and q &lt; 0.001), but not by sex (p = 0.160) (Supplementary Tables <ref type=\"table\">S7<\/ref> and <ref type=\"table\">S8<\/ref>)."
+    },
+    {
+      "text": "Robust Poisson models for all four perception-accuracy profiles (each versus all others) are reported in Table 5.",
+      "text_id": 80,
+      "paragraph_id": 24,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Robust Poisson models for all four perception-accuracy profiles (each versus all others) are reported in Table <ref type=\"table\" target=\"#tab_4\">5<\/ref>."
+    },
+    {
+      "text": "After BH-FDR correction, concordant-low membership was associated with higher BMI z-score (PR 1.30), lower PA (PR 0.71), and more sedentary behavior (PR 1.32) (all q < 0.001), whereas sex, age, and sleep duration were not.",
+      "text_id": 81,
+      "paragraph_id": 24,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "After BH-FDR correction, concordant-low membership was associated with higher BMI z-score (PR 1.30), lower PA (PR 0.71), and more sedentary behavior (PR 1.32) (all q &lt; 0.001), whereas sex, age, and sleep duration were not."
+    },
+    {
+      "text": "Underestimator membership was inversely associated with sleep duration (PR 0.84, 95% CI 0.74-0.96; q = 0.033); a nominal positive association with BMI z-score (PR 1.12, p = 0.019) did not survive correction (q = 0.058).",
+      "text_id": 82,
+      "paragraph_id": 24,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No predictor was associated with overestimator membership after   correction.",
+      "text_id": 83,
+      "paragraph_id": 24,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Concordant-high membership was associated with lower BMI z-score (PR 0.77), higher PA (PR 1.38) (both q < 0.001), and lower sedentary behavior (PR 0.83, q = 0.042).",
+      "text_id": 84,
+      "paragraph_id": 24,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Concordant-high membership was associated with lower BMI z-score (PR 0.77), higher PA (PR 1.38) (both q &lt; 0.001), and lower sedentary behavior (PR 0.83, q = 0.042)."
+    },
+    {
+      "text": "Sex and age were not associated with membership in any profile.",
+      "text_id": 85,
+      "paragraph_id": 24,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The \"very poor\" response category was sparse for IFIS overall (n = 13, 1.3%) and for the muscular (1.4%) and speed-agility (1.8%) items, and less so for CRF (4.1%) and flexibility (6.2%) (Supplementary Table S9).",
+      "text_id": 86,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "The \"very poor\" response category was sparse for IFIS overall (n = 13, 1.3%) and for the muscular (1.4%) and speed-agility (1.8%) items, and less so for CRF (4.1%) and flexibility (6.2%) (Supplementary Table <ref type=\"table\">S9<\/ref>)."
+    },
+    {
+      "text": "Collapsing \"very poor\" with \"poor\" produced negligible changes in domain-specific correlations, with maximum absolute differences of 0.003 for Spearman ρ and 0.004 for partial ρ (Supplementary Table S10).",
+      "text_id": 87,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Collapsing \"very poor\" with \"poor\" produced negligible changes in domain-specific correlations, with maximum absolute differences of 0.003 for Spearman ρ and 0.004 for partial ρ (Supplementary Table <ref type=\"table\" target=\"#tab_0\">S10<\/ref>)."
+    },
+    {
+      "text": "The primary AUC was 0.658 under both codings, and threshold-specific metrics were identical because neither binary rule is affected by merging the two lowest categories (Supplementary Table S11).",
+      "text_id": 88,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "The primary AUC was 0.658 under both codings, and threshold-specific metrics were identical because neither binary rule is affected by merging the two lowest categories (Supplementary Table <ref type=\"table\" target=\"#tab_0\">S11<\/ref>)."
+    },
+    {
+      "text": "Exclusion of values beyond 3× IQR on the objective fitness composite (one participant) likewise yielded no substantive change in AUC, sensitivity, specificity, or likelihood ratios under the primary tertile or  Fig 2.",
+      "text_id": 89,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Distribution of perception-accuracy profile groups in the analytical sample (n = 1017).",
+      "text_id": 90,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Groups were defined by cross-classifying perceived fitness (International Fitness Scale [IFIS] overall score ≥4 [good or very good] vs ≤ 3 [average, poor, or very poor]) against objective fitness (at or above vs. below the sex-and age-specific median of the ALPHA-Fit composite z-score).",
+      "text_id": 91,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bars represent the percentage of participants assigned to each group. .008 (0.033) Concordant high Sex (girls vs boys) 0.97 0.81 1.15 0.717 (0.748) Age (per year) 1.04 0.98 1.10 0.217 (0.325) BMI (zscore) 0.77 0.72 0.81 <0.001 (<0.001) YAP-S physical activity 1.38 1.22 1.57 <0.001 (<0.001) YAP-S sedentary behavior 0.83 0.71 0.96 0.012 (0.042) Sleep duration (h/ day) 0.96 0.88 1.06 0.456 (0.521)",
+      "text_id": 92,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Bars represent the percentage of participants assigned to each group. .008 (0.033) Concordant high Sex (girls vs boys) 0.97 0.81 1.15 0.717 (0.748) Age (per year) 1.04 0.98 1.10 0.217 (0.325) BMI (zscore) 0.77 0.72 0.81 &lt;0.001 (&lt;0.001) YAP-S physical activity 1.38 1.22 1.57 &lt;0.001 (&lt;0.001) YAP-S sedentary behavior 0.83 0.71 0.96 0.012 (0.042) Sleep duration (h/ day) 0.96 0.88 1.06 0.456 (0.521)"
+    },
+    {
+      "text": "Waist-to-height ratio excluded due to collinearity with BMI z-score and quasicomplete separation. q = FDR-adjusted p (BH, 24 simultaneous tests).",
+      "text_id": 93,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bold = significant at q < 0.05.",
+      "text_id": 94,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Bold = significant at q &lt; 0.05."
+    },
+    {
+      "text": "BMI, body mass index; PR, prevalence ratio; YAP-S, Youth Activity Profile-Spain.",
+      "text_id": 95,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "the secondary quartile and median definitions (Supplementary Table S12), supporting the robustness of the primary findings to potential outlier influence.",
+      "text_id": 96,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "the secondary quartile and median definitions (Supplementary Table <ref type=\"table\" target=\"#tab_1\">S12<\/ref>), supporting the robustness of the primary findings to potential outlier influence."
+    },
+    {
+      "text": "This analysis extends IFIS evidence by incorporating classification accuracy metrics and a systematic misclassification profiling framework.",
+      "text_id": 97,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "IFIS demonstrated weak-to-modest criterion-related validity (partial ρ = 0.377) and limited screening utility for low objective fitness (AUC = 0.66), consistent with prior validation work in European and Latin American cohorts. 10, 11 The systematic review by Bao and colleagues 9 was unable to pool criterion-validity estimates owing to methodological heterogeneity, and our findings help illustrate why: the present estimates (partial ρ = 0.377; AUC = 0.66) would be difficult to combine with studies reporting only narrative validity results or unstandardized coefficients.",
+      "text_id": 98,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "IFIS demonstrated weak-to-modest criterion-related validity (partial ρ = 0.377) and limited screening utility for low objective fitness (AUC = 0.66), consistent with prior validation work in European and Latin American cohorts. <ref type=\"bibr\" target=\"#b10\">10,<\/ref> <ref type=\"bibr\" target=\"#b11\">11<\/ref> The systematic review by Bao and colleagues <ref type=\"bibr\" target=\"#b9\">9<\/ref> was unable to pool criterion-validity estimates owing to methodological heterogeneity, and our findings help illustrate why: the present estimates (partial ρ = 0.377; AUC = 0.66) would be difficult to combine with studies reporting only narrative validity results or unstandardized coefficients."
+    },
+    {
+      "text": "Additionally, likelihood ratios close in the minimal range indicate limited informativeness: at the primary threshold (IFIS ≤ 3 vs ≥ 4), sensitivity was 0.68 and specificity 0.59, with an LR+ of 1.67 and an LR-of 0.54, both in the range conventionally regarded as minimal.",
+      "text_id": 99,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These findings do not support describing IFIS as a useful screening or surveillance instrument in the conventional sense.",
+      "text_id": 100,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "An AUC below the conventional threshold for acceptable discrimination and likelihood ratios of this magnitude collectively indicate that the instrument cannot reliably distinguish adolescents with low objective fitness from those without.",
+      "text_id": 101,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The NPV of 0.80 should be interpreted in light of the prevalence of low objective fitness under the tertile definition (322/1017, 31.7%), because NPV depends on prevalence as well as on sensitivity and specificity: a negative screen lowered the probability of low objective fitness from 31.7% to 19.9%, whereas a positive screen raised it to 43.7%.",
+      "text_id": 102,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Neither result is therefore decisive for an individual adolescent.",
+      "text_id": 103,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The stricter threshold (IFIS ≤ 2 vs ≥ 3) flagged only 9.2% of adolescents and was highly specific (0.94) but missed most adolescents with low objective fitness (sensitivity 0.16; LR+ 2.45), so it may be preferable only when minimizing false positives is the overriding priority.",
+      "text_id": 104,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Threshold selection should therefore follow the surveillance objective: the primary rule offers a balanced but modest operating point for population-level prioritization, whereas the stricter rule identifies a small, more selected group.",
+      "text_id": 105,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Neither threshold, however, supports confident individual-level classification.",
+      "text_id": 106,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "IFIS is best regarded as a prioritization tool for population surveillance, and only relative to objective testing since its performance against other low-burden instruments remains untested, rather than a substitute for objective fitness testing in individual-level decisions.",
+      "text_id": 107,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "An important interpretive caveat is that this study did not perform a head-to-head comparison of IFIS against other low-burden tools or against BMI as competing screening measures.",
+      "text_id": 108,
+      "paragraph_id": 29,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "BMI z-score and other adiposity indicators were available in EHDLA and were analyzed as construct-validity correlates and as predictors of perception-accuracy profiles, 17 but they were not evaluated against the same objective fitness reference standard using identical classification-accuracy metrics.",
+      "text_id": 109,
+      "paragraph_id": 29,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "BMI z-score and other adiposity indicators were available in EHDLA and were analyzed as construct-validity correlates and as predictors of perception-accuracy profiles, <ref type=\"bibr\" target=\"#b17\">17<\/ref> but they were not evaluated against the same objective fitness reference standard using identical classification-accuracy metrics."
+    },
+    {
+      "text": "Consequently, the present findings support conclusions about the absolute validity and classification performance of IFIS only; they do not establish whether IFIS performs better or worse than BMI or any other brief self-report instrument for identifying adolescents with low objective fitness.",
+      "text_id": 110,
+      "paragraph_id": 29,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Comparative validation against alternative low-burden measures is needed before any claim of relative utility can be made.",
+      "text_id": 111,
+      "paragraph_id": 29,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The distribution of IFIS responses is closely tied to these metrics and warrants explicit interpretation.",
+      "text_id": 112,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although AUC is prevalence-and threshold-independent, the operating characteristics at any given cut point are constrained by the distribution of the predictor.",
+      "text_id": 113,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because responses were concentrated in the average and good categories (801/ 1017, 78.8% combined), the primary rule split the sample approximately in half (49.6% screen-positive) and yielded a balanced but modest operating point, whereas only 94/1017 (9.2%) of adolescents rated their fitness as poor or very poor, which mechanically limited the sensitivity of the stricter rule.",
+      "text_id": 114,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The distribution of IFIS responses in our sample also differs from the pattern documented in the systematic review by Bao and colleagues. 9 They reported a ceiling effect in youth samples, with most children and adolescents rating their fitness as good or very good, and four included studies collapsed response categories to mitigate it.",
+      "text_id": 115,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "The distribution of IFIS responses in our sample also differs from the pattern documented in the systematic review by Bao and colleagues. <ref type=\"bibr\" target=\"#b9\">9<\/ref> They reported a ceiling effect in youth samples, with most children and adolescents rating their fitness as good or very good, and four included studies collapsed response categories to mitigate it."
+    },
+    {
+      "text": "In the present sample, the ceiling effect was less pronounced: half of the participants (50.4%) rated their overall fitness as good or very good, only 12.0% chose very good.",
+      "text_id": 116,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Two non-exclusive explanations are plausible.",
+      "text_id": 117,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "First, the EHDLA cohort was drawn from a rural municipality with a high documented prevalence of excess weight, which may correspond to genuinely lower fitness and lower perceived fitness. 17 Second, the sex composition of the sample (54% girls) and the lower ratings observed among girls may have shifted the pooled distribution downward.",
+      "text_id": 118,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "First, the EHDLA cohort was drawn from a rural municipality with a high documented prevalence of excess weight, which may correspond to genuinely lower fitness and lower perceived fitness. <ref type=\"bibr\" target=\"#b17\">17<\/ref> Second, the sex composition of the sample (54% girls) and the lower ratings observed among girls may have shifted the pooled distribution downward."
+    },
+    {
+      "text": "Whatever the explanation, the contrast is consequential for screening: the same cut-off can yield very different screen-positive rates, sensitivity, and specificity depending on where responses are concentrated, and the scarcity of poor and very poor ratings here limits the usefulness of stricter cut-offs.",
+      "text_id": 119,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This underscores that the operating characteristics of IFIS are not fixed properties of the instrument but depend on the distribution of responses in the population to which it is applied.",
+      "text_id": 120,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Domain-specific discrimination was heterogeneous.",
+      "text_id": 121,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Flexibility yielded a significantly superior AUC (0.75 vs 0.66 overall, p < 0.001), while muscular fitness showed the lowest discrimination (0.64).",
+      "text_id": 122,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Flexibility yielded a significantly superior AUC (0.75 vs 0.66 overall, p &lt; 0.001), while muscular fitness showed the lowest discrimination (0.64)."
+    },
+    {
+      "text": "This gradient likely reflects differential accuracy of self-perception by domain, and several non-mutually exclusive mechanisms may help explain it.",
+      "text_id": 123,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CRF, muscular strength/power, and speed-agility are typically revealed only under maximal, effortful, and infrequent testing conditions (shuttle runs, dynamometry, sprints), so self-assessment may rely on recalling a discrete past performance. 28 Flexibility, by contrast, is experienced continuously and submaximally in ordinary movement (reaching, bending, twisting), which may provide adolescents more frequent low-effort opportunities to calibrate their self-assessment against real joint range-of-motion feedback. 28, 29 Flexibility is also less socially salient and less tied to athletic identity or competitive comparison than muscular strength or speed-agility, which may be associated with weaker influence of self-presentational bias and gender-typed expectations, 30 and it may be less confounded by pubertal timing and body-composition changes, which may reduce maturational noise in self-perception. 28, 30 Conversely, the lowest AUC for muscular fitness may reflect greater susceptibility of perceived muscular capacity to social comparison, body-image concerns, and variability in perceived exertion. 28 These interpretations align with the broader literature on physical self-perception but remain partly speculative because body image, athletic competence, and perceived exertion were not directly measured in the present study.",
+      "text_id": 124,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "CRF, muscular strength/power, and speed-agility are typically revealed only under maximal, effortful, and infrequent testing conditions (shuttle runs, dynamometry, sprints), so self-assessment may rely on recalling a discrete past performance. <ref type=\"bibr\" target=\"#b28\">28<\/ref> Flexibility, by contrast, is experienced continuously and submaximally in ordinary movement (reaching, bending, twisting), which may provide adolescents more frequent low-effort opportunities to calibrate their self-assessment against real joint range-of-motion feedback. <ref type=\"bibr\" target=\"#b28\">28,<\/ref> <ref type=\"bibr\" target=\"#b29\">29<\/ref> Flexibility is also less socially salient and less tied to athletic identity or competitive comparison than muscular strength or speed-agility, which may be associated with weaker influence of self-presentational bias and gender-typed expectations, <ref type=\"bibr\" target=\"#b30\">30<\/ref> and it may be less confounded by pubertal timing and body-composition changes, which may reduce maturational noise in self-perception. <ref type=\"bibr\" target=\"#b28\">28,<\/ref> <ref type=\"bibr\" target=\"#b30\">30<\/ref> Conversely, the lowest AUC for muscular fitness may reflect greater susceptibility of perceived muscular capacity to social comparison, body-image concerns, and variability in perceived exertion. <ref type=\"bibr\" target=\"#b28\">28<\/ref> These interpretations align with the broader literature on physical self-perception but remain partly speculative because body image, athletic competence, and perceived exertion were not directly measured in the present study."
+    },
+    {
+      "text": "In addition, the systematic review by Bao and colleagues 9 reported that criterion validity has been formally assessed in only three studies, and none has compared domain-specific classification accuracy; the flexibility advantage observed in our study should therefore be regarded as a novel finding requiring replication.",
+      "text_id": 125,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "In addition, the systematic review by Bao and colleagues <ref type=\"bibr\" target=\"#b9\">9<\/ref> reported that criterion validity has been formally assessed in only three studies, and none has compared domain-specific classification accuracy; the flexibility advantage observed in our study should therefore be regarded as a novel finding requiring replication."
+    },
+    {
+      "text": "From a surveillance perspective, the observed gradient supports reporting domain-specific IFIS items separately, with the flexibility item carrying the greatest informational value for flexibility-specific low fitness.",
+      "text_id": 126,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because each domain item was validated against its own domain-matched objective test, these results do not establish that any single item, including flexibility, can serve as a proxy for overall fitness.",
+      "text_id": 127,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Beyond their psychometric interest, the domain-specific results carry three direct operational implications for school-based and public health surveillance.",
+      "text_id": 128,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "First, when domain-specific low fitness is the surveillance target, the flexibility item showed the highest domain-matched accuracy of all IFIS items, given its significantly higher AUC (0.75 vs 0.66) and stronger criterion correlation (partial ρ = 0.592).",
+      "text_id": 129,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, this advantage pertains to flexibility itself and should not be interpreted as evidence that the flexibility item indexes overall fitness.",
+      "text_id": 130,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "When a global low-fitness flag is required, the overall IFIS score remains preferable, as it was the only item validated here against the composite objective fitness criterion.",
+      "text_id": 131,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Second, domain-level responses should be inspected separately rather than collapsed into a composite, since the composite masks marked heterogeneity in perceptual accuracy across domains.",
+      "text_id": 132,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Third, there is a notable mismatch between measurement burden and self-report accuracy.",
+      "text_id": 133,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CRF is the most burdensome domain to assess objectively yet not the most accurately perceived, whereas flexibility is both the most accurately perceived and the least burdensome to measure.",
+      "text_id": 134,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Taken together, these findings are consistent with, but do not directly test, a two-stage approach in which a brief self-report screening tool is used to identify individuals who may benefit from objective assessment, followed by confirmatory field testing among those who screen positive.",
+      "text_id": 135,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Such an approach would preserve the role of objective testing in individual-level decision-making while potentially allowing its more targeted use.",
+      "text_id": 136,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, because no two-stage algorithm was evaluated in the present study, its efficiency, cost-effectiveness, and incremental value over universal objective testing remain to be established in implementation research.",
+      "text_id": 137,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Domain-specific responses may also support tailored feedback, although this remains a hypothesis for intervention research.",
+      "text_id": 138,
+      "paragraph_id": 32,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Misclassification was frequent (36.1%) and bidirectional, with similar proportions of underestimators (18.5%) and overestimators (17.6%).",
+      "text_id": 139,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Girls rated their overall fitness lower than boys despite similar objective fitness (Table 1), a well-documented pattern 10 linked to physical self-concept, body image, and sociocultural norms 31 although these constructs were not directly measured in the present study and such explanations therefore remain speculative.",
+      "text_id": 140,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Girls rated their overall fitness lower than boys despite similar objective fitness (Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>), a well-documented pattern 10 linked to physical self-concept, body image, and sociocultural norms <ref type=\"bibr\" target=\"#b31\">31<\/ref> although these constructs were not directly measured in the present study and such explanations therefore remain speculative."
+    },
+    {
+      "text": "Even so, the distribution of profiles did not differ by sex (p = 0.160).",
+      "text_id": 141,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, because the objective composite was z-score based within the EHDLA distribution, many participants with average fitness could be classified as objectively non-low-fit while perceiving themselves as below average relative to social comparison standards.",
+      "text_id": 142,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In practice, a program relying on self-reported low fitness at the primary threshold would identify about two-thirds of truly low-fit adolescents (sensitivity 0.68) while also flagging 41% of those without low objective fitness (284/695).",
+      "text_id": 143,
+      "paragraph_id": 33,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Following correction for multiple comparisons, concordant-low membership was associated with higher BMI z-score, lower PA, and greater sedentary behavior, and concordant-high membership showed the mirror-image profile.",
+      "text_id": 144,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These characteristics align with the broader behavioral and anthropometric profile typically observed among adolescents with lower levels of PF, who tend to exhibit higher adiposity and lower engagement in PA. 32, 33 Underestimator membership was inversely associated with sleep duration, whereas its nominal association with BMI z-score did not survive correction.",
+      "text_id": 145,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "These characteristics align with the broader behavioral and anthropometric profile typically observed among adolescents with lower levels of PF, who tend to exhibit higher adiposity and lower engagement in PA. <ref type=\"bibr\" target=\"#b32\">32,<\/ref> <ref type=\"bibr\" target=\"#b33\">33<\/ref> Underestimator membership was inversely associated with sleep duration, whereas its nominal association with BMI z-score did not survive correction."
+    },
+    {
+      "text": "One possible mechanism is that sleep-deprived adolescents may experience greater perceived exertion during habitual physical tasks, 34 which could be one hypothesized pathway for a downward bias in fitness self-assessment independent of their objective capacity.",
+      "text_id": 146,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "One possible mechanism is that sleep-deprived adolescents may experience greater perceived exertion during habitual physical tasks, <ref type=\"bibr\" target=\"#b34\">34<\/ref> which could be one hypothesized pathway for a downward bias in fitness self-assessment independent of their objective capacity."
+    },
+    {
+      "text": "However, this interpretation is speculative in the absence of actigraphy or perceived exertion data, and the modest strength of this association (PR 0.84; q = 0.033) warrants caution.",
+      "text_id": 147,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No characteristic was associated with overestimator membership after correction.",
+      "text_id": 148,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The construct-validity gradients between IFIS overall and adiposity, WHtR, body fat percentage, and systolic BP converge with the broader adolescent fitness literature 14, 21, [35] [36] [37] .",
+      "text_id": 149,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "The construct-validity gradients between IFIS overall and adiposity, WHtR, body fat percentage, and systolic BP converge with the broader adolescent fitness literature <ref type=\"bibr\" target=\"#b14\">14,<\/ref> <ref type=\"bibr\" target=\"#b21\">21,<\/ref> <ref type=\"bibr\" target=\"#b35\">[35]<\/ref> <ref type=\"bibr\" target=\"#b36\">[36]<\/ref> <ref type=\"bibr\" target=\"#b37\">[37]<\/ref> ."
+    },
+    {
+      "text": "The practical implication is a caution rather than an endorsement.",
+      "text_id": 150,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Where self-reported fitness is used in surveillance, it should be understood as generating a screen-positive group within which objective fitness varies widely (PPV 0.44) and a screen-negative group that still includes about one in five adolescents with low objective fitness.",
+      "text_id": 151,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Surveillance systems that treat a positive IFIS response as indicating low fitness would likely misclassify a substantial proportion of adolescents.",
+      "text_id": 152,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Convergent associations with S-PPLI are consistent with IFIS capturing related but non-identical self-perceived constructs, with the strongest overlap for self-confidence and more modest alignment for communication and knowledge domains.",
+      "text_id": 153,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This pattern is consistent with IFIS indexing perceived PF rather than the broader multidimensional construct of perceived physical literacy, and it supports construct validity without implying interchangeability between instruments.",
+      "text_id": 154,
+      "paragraph_id": 35,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Strengths include sex-age standardization, domain-specific IFIS analyses, multiple low-fitness thresholds, Wilson score CIs for all binary proportion metrics, FDR correction for multiple comparisons, and a dedicated misclassification model.",
+      "text_id": 155,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Several limitations should be considered when interpreting these findings.",
+      "text_id": 156,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "First, the cross-sectional design precludes causal inference and prevents assessment of whether perception-accuracy profiles are temporally stable or predictive of subsequent cardiometabolic trajectories.",
+      "text_id": 157,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Second, the complete-case analytical sample was confirmed by Little's test to be non-MCAR, indicating that excluded participants were not randomly distributed across the variable space.",
+      "text_id": 158,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although the direction and likely magnitude of the resulting selection bias cannot be established without the missing values, findings may not generalize to adolescents who more frequently present with incomplete covariate profiles.",
+      "text_id": 159,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Third, the EHDLA study was powered to estimate excess-weight prevalence, this secondary analysis was not specifically powered for IFIS criterion validity or classification accuracy.",
+      "text_id": 160,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, the 95% CIs for the main validity and screening estimates were sufficiently narrow to support the reported inferences.",
+      "text_id": 161,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fourth, the sample was drawn from a single rural municipality in Spain, and ALPHA-Fit z-scores were standardized to the internal EHDLA distribution rather than external normative references.",
+      "text_id": 162,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This restricts generalizability to other adolescent populations and limits comparability of absolute fitness levels with studies using external norms.",
+      "text_id": 163,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As noted above, no head-to-head comparison with BMI or other low-burden instruments was performed, so no relative-utility claim is made.",
+      "text_id": 164,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fifth, as discussed above, the distribution of IFIS responses constrained the operating characteristics achievable at each threshold.",
+      "text_id": 165,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The AUC of 0.66 should therefore not be interpreted as uniformly modest discrimination across the ROC curve.",
+      "text_id": 166,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relatedly, no IFIS threshold provided decisive individual-level classification.",
+      "text_id": 167,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "At the primary threshold, the LR-of 0.54 falls in the minimal range, meaning that a negative screen reduces but does not eliminate the probability of low objective fitness.",
+      "text_id": 168,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The instrument cannot rule out low fitness with confidence in an individual adolescent; its value lies in ranking and prioritization at the population level.",
+      "text_id": 169,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because the ceiling effect in this sample was less pronounced than that documented in a systematic review, 9 the operating characteristics reported here have limited comparability with samples in which most adolescents rate their fitness as good or very good.",
+      "text_id": 170,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Because the ceiling effect in this sample was less pronounced than that documented in a systematic review, <ref type=\"bibr\" target=\"#b9\">9<\/ref> the operating characteristics reported here have limited comparability with samples in which most adolescents rate their fitness as good or very good."
+    },
+    {
+      "text": "Sixth, pubertal stage was not assessed and could not be adjusted for in any model.",
+      "text_id": 171,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This is a substantive gap in an adolescent sample: puberty is characterized by rapid, sex-divergent changes in body composition, muscular strength, and physical self-concept, and adolescents at different maturational stages may perceive the same objective fitness level very differently. 38 Residual confounding by pubertal timing therefore remains plausible and may contribute to the sex differences in IFIS ratings and perception-accuracy group membership.",
+      "text_id": 172,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "This is a substantive gap in an adolescent sample: puberty is characterized by rapid, sex-divergent changes in body composition, muscular strength, and physical self-concept, and adolescents at different maturational stages may perceive the same objective fitness level very differently. <ref type=\"bibr\" target=\"#b38\">38<\/ref> Residual confounding by pubertal timing therefore remains plausible and may contribute to the sex differences in IFIS ratings and perception-accuracy group membership."
+    },
+    {
+      "text": "Seventh, psychosocial determinants of fitness self-perception (such as: body image dissatisfaction, perceived athletic competence, prior sport participation history, and socioeconomic position) were not evaluated, limiting the explanatory completeness of the profile-membership models.",
+      "text_id": 173,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Eighth, the mechanisms proposed to explain the domain-specific gradient in classification accuracy (particularly the greater accuracy for flexibility) were not directly tested because perceived exertion, body image, athletic competence, and sport participation history were not measured.",
+      "text_id": 174,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These explanations should therefore be regarded as hypothesis-generating.",
+      "text_id": 175,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Finally, WHtR was excluded from the Poisson profile models due to collinearity with BMI z-score and quasi-complete separation in the smaller profile subgroups, constraining the adiposity indicators available for profile characterization to a single composite measure.",
+      "text_id": 176,
+      "paragraph_id": 36,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Future studies should specifically test whether discrepancy-profile assignment at baseline is associated with differential responsiveness to fitness interventions (for example, whether underestimators may respond differently to motivational framing than concordant-low adolescents who face genuine fitness deficits).",
+      "text_id": 177,
+      "paragraph_id": 37,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Longitudinal and multicenter designs spanning diverse geographic, cultural, and socioeconomic contexts are also needed to establish whether perceptionaccuracy profiles are temporally stable, generalizable beyond singlesite rural samples, and predictive of longer-term cardiometabolic health trajectories.",
+      "text_id": 178,
+      "paragraph_id": 37,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Replication in cohorts with direct measures of physical self-concept, body image, and pubertal stage would allow the explanatory mechanisms proposed here to be formally tested rather than inferred.",
+      "text_id": 179,
+      "paragraph_id": 37,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In this single-region sample of adolescents from the Valle de Ricote (Region of Murcia, Spain), IFIS demonstrates weak-to-modest criterionrelated validity and limited discriminative accuracy for low objectively measured fitness, with the flexibility item showing the strongest domain-matched validity.",
+      "text_id": 180,
+      "paragraph_id": 38,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This domain-specific advantage should not be extrapolated to overall fitness, and the overall score remains the more appropriate global indicator.",
+      "text_id": 181,
+      "paragraph_id": 38,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "At the primary threshold, sensitivity and specificity were both moderate, so that neither a positive nor a negative screen was decisive for an individual adolescent.",
+      "text_id": 182,
+      "paragraph_id": 38,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Misclassification was frequent, bidirectional, and associated with adiposity and lifestyle characteristics after correction for multiple comparisons, supporting integration of perception-accuracy profiling into adolescent surveillance rather than its immediate adoption.",
+      "text_id": 183,
+      "paragraph_id": 38,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because the discriminative accuracy of IFIS was modest and established only relative to objective testing, and because no threshold examined provided confident individual-level classification, objective fitness testing remains the reference standard for individual-level decisions.",
+      "text_id": 184,
+      "paragraph_id": 38,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No financial or material support of any kind was received for the work described in this article.",
+      "text_id": 185,
+      "paragraph_id": 39,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The datasets generated and/or analyzed during the current study are available from the corresponding author on reasonable request due to their sensitive nature.",
+      "text_id": 186,
+      "paragraph_id": 40,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AI-assisted tools were used exclusively for grammar and language editing of the final manuscript draft.",
+      "text_id": 187,
+      "paragraph_id": 41,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All scientific content, including study design, data analysis, interpretation of results, and conclusions, was developed entirely by the authors.",
+      "text_id": 188,
+      "paragraph_id": 41,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No AI tool contributed to the generation of new scientific claims or to the analysis of data.",
+      "text_id": 189,
+      "paragraph_id": 41,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+      "text_id": 190,
+      "paragraph_id": 42,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CRediT author statement José Francisco López-Gil: Conceptualization; Methodology; Formal analysis; Investigation; Data curation; Writingoriginal draft; Writingreview & editing; Visualization; Supervision; Project administration.",
+      "text_id": 191,
+      "paragraph_id": 43,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "CRediT author statement José Francisco López-Gil: Conceptualization; Methodology; Formal analysis; Investigation; Data curation; Writingoriginal draft; Writingreview &amp; editing; Visualization; Supervision; Project administration."
+    },
+    {
+      "text": "Camila Miño: Writingoriginal draft; Writingreview & editing.",
+      "text_id": 192,
+      "paragraph_id": 43,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Camila Miño: Writingoriginal draft; Writingreview &amp; editing."
+    },
+    {
+      "text": "Lucille Ridgell: Writingreview & editing.",
+      "text_id": 193,
+      "paragraph_id": 43,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Lucille Ridgell: Writingreview &amp; editing."
+    },
+    {
+      "text": "Rodrigo Yáñez-Sepúlveda: Writingreview & editing.",
+      "text_id": 194,
+      "paragraph_id": 43,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Rodrigo Yáñez-Sepúlveda: Writingreview &amp; editing."
+    },
+    {
+      "text": "Boryi A. Becerra-Patiño: Writingreview & editing.",
+      "text_id": 195,
+      "paragraph_id": 43,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Boryi A. Becerra-Patiño: Writingreview &amp; editing."
+    },
+    {
+      "text": "Carlos Abraham Herrera-Amante: Writingreview & editing.",
+      "text_id": 196,
+      "paragraph_id": 43,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Carlos Abraham Herrera-Amante: Writingreview &amp; editing."
+    },
+    {
+      "text": "Mario Muñoz-López: Writingreview & editing.",
+      "text_id": 197,
+      "paragraph_id": 43,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Mario Muñoz-López: Writingreview &amp; editing."
+    },
+    {
+      "text": "José Francisco Tornero-Aguilera: Writingreview & editing.",
+      "text_id": 198,
+      "paragraph_id": 43,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "José Francisco Tornero-Aguilera: Writingreview &amp; editing."
+    },
+    {
+      "text": "Dong Keon Yon: Writingreview & editing.",
+      "text_id": 199,
+      "paragraph_id": 43,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Dong Keon Yon: Writingreview &amp; editing."
+    },
+    {
+      "text": "Author approval: All authors critically reviewed the manuscript, approved the final version, and agree to be accountable for their respective contributions.",
+      "text_id": 200,
+      "paragraph_id": 44,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Supplementary data to this article can be found online at https://doi.org/10.1016/j.jesf.2026.200533.",
+      "text_id": 201,
+      "paragraph_id": 45,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": "Supplementary data to this article can be found online at <ref type=\"url\" target=\"https://doi.org/10.1016/j.jesf.2026.200533\">https://doi.  org/10.1016/j.jesf.2026.200533<\/ref>."
+    },
+    {
+      "text": "Fig 1.",
+      "text_id": 202,
+      "paragraph_id": 46,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Domain-specific receiver operating characteristic (ROC) curves for the International Fitness Scale (IFIS) against the lowest sex-and age-specific tertile of the corresponding objective fitness component (primary low-fitness definition; IFIS positive if ≤ 3).",
+      "text_id": 203,
+      "paragraph_id": 46,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AUC = area under the curve; values in parentheses are bootstrap 95% confidence intervals (3000 resamples, percentile method).",
+      "text_id": 204,
+      "paragraph_id": 46,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The dashed diagonal represents chance discrimination (AUC = 0.50).",
+      "text_id": 205,
+      "paragraph_id": 46,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "ROC curves were constructed using the full five-level ordinal IFIS domain score.",
+      "text_id": 206,
+      "paragraph_id": 46,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The IFIS ≤3 vs ≥ 4 rule was used only for the operating characteristics reported in Table4.",
+      "text_id": 207,
+      "paragraph_id": 46,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 1.",
+      "text_id": 208,
+      "paragraph_id": 47,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Domain-specific receiver operating characteristic (ROC) curves for the International Fitness Scale (IFIS) against the lowest sex-and age-specific tertile of the corresponding objective fitness component (primary low-fitness definition; IFIS positive if ≤ 3).",
+      "text_id": 209,
+      "paragraph_id": 47,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AUC = area under the curve; values in parentheses are bootstrap 95% confidence intervals (3000 resamples, percentile method).",
+      "text_id": 210,
+      "paragraph_id": 47,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The dashed diagonal represents chance discrimination (AUC = 0.50).",
+      "text_id": 211,
+      "paragraph_id": 47,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "ROC curves were constructed using the full five-level ordinal IFIS domain score.",
+      "text_id": 212,
+      "paragraph_id": 47,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The IFIS ≤3 vs ≥ 4 rule was used only for the operating characteristics reported in Table4.",
+      "text_id": 213,
+      "paragraph_id": 47,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sample characteristics of the analytical sample (n = 1017).",
+      "text_id": 214,
+      "paragraph_id": 48,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Criterion-related validity with domain-specific Spearman correlations and ageand sex-adjusted partial correlations.",
+      "text_id": 215,
+      "paragraph_id": 49,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Classification accuracy for low objective fitness by threshold and IFIS screening rule (n = 1017).",
+      "text_id": 216,
+      "paragraph_id": 50,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Domain-specific classification accuracy.",
+      "text_id": 217,
+      "paragraph_id": 51,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Robust Poisson models of perception-accuracy profile membership (each profile vs all others).",
+      "text_id": 218,
+      "paragraph_id": 52,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kerr JA, Patton GC, Cini KI, et al. Global, regional, and national prevalence of child and adolescent overweight and obesity, 1990-2021, with forecasts to 2050: a forecasting study for the global burden of disease study 2021. Lancet. 2025;405 (10481):785-812. https://doi.org/10.1016/S0140-6736(25)00397-6.",
+      "text_id": 219,
+      "paragraph_id": 53,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "NCD Risk Factor Collaboration (NCD-RisC)",
+      "text_id": 220,
+      "paragraph_id": 54,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zhou B, Phelps NH, et al. Obesity rise plateaus in developed nations and accelerates in developing nations. Nature. 2026; 653(8114):510-518. https://doi.org/10.1038/s41586-026-10383-0.",
+      "text_id": 221,
+      "paragraph_id": 55,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Dooley FL, Kaster T, Fitzgerald JS, et al. A systematic analysis of temporal trends in the handgrip strength of 2,216,320 children and adolescents between 1967 and 2017. Sports Med. 2020;50(6):1129-1144. https://doi.org/10.1007/s40279-020-01265-0.",
+      "text_id": 222,
+      "paragraph_id": 56,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fühner T, Kliegl R, Arntz F, Kriemler S, Granacher U. An update on secular trends in physical fitness of children and adolescents from 1972 to 2015: a systematic review. Sports Med. 2021;51(2):303-320. https://doi.org/10.1007/s40279-020-01373-x.",
+      "text_id": 223,
+      "paragraph_id": 57,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tomkinson GR, Lang JJ, Tremblay MS, et al. International normative 20 m shuttle run values from 1 142 026 children and youth representing 50 countries. Br J Sports Med. 2017;51(21):1545-1554. https://doi.org/10.1136/bjsports-2016-095987.",
+      "text_id": 224,
+      "paragraph_id": 58,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tomkinson GR, Kaster T, Dooley FL, et al. Temporal trends in the standing broad jump performance of 10,940,801 children and adolescents between 1960 and 2017. Sports Med. 2021;51(3):531-548. https://doi.org/10.1007/s40279-020-01394-6.",
+      "text_id": 225,
+      "paragraph_id": 59,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lang JJ, Prince SA, Merucci K, et al. Cardiorespiratory fitness is a strong and consistent predictor of morbidity and mortality among adults: an overview of meta- analyses representing over 20.9 million observations from 199 unique cohort studies. Br J Sports Med. 2024;58(10):556-566. https://doi.org/10.1136/bjsports-2023-107849.",
+      "text_id": 226,
+      "paragraph_id": 60,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Guthold R, Stevens GA, Riley LM, Bull FC. Global trends in insufficient physical activity among adolescents: a pooled analysis of 298 population-based surveys with 1⋅6 million participants. Lancet Child Adolesc Health. 2020;4(1):23-35. https://doi.org/10.1016/S2352-4642(19)30323-2.",
+      "text_id": 227,
+      "paragraph_id": 61,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bao R, Zhang Y, Ortega FB, Drenowatz C, Zhang K, Chen S. Reliability and validity of the International Fitness Scale (IFIS): a systematic review and meta-analysis. J Exerc Sci Fit. 2026;24(4), 200501. https://doi.org/10.1016/j.jesf.2026.200501.",
+      "text_id": 228,
+      "paragraph_id": 62,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ortega FB, Ruiz JR, España-Romero V, et al. The international fitness scale (IFIS): usefulness of self-reported fitness in youth. Int J Epidemiol. 2011;40(3):701-711. https://doi.org/10.1093/ije/dyr039.",
+      "text_id": 229,
+      "paragraph_id": 63,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ramírez-Vélez R, Cruz-Salazar SM, Martínez M, et al. Construct validity and test- retest reliability of the international fitness scale (IFIS) in Colombian children and adolescents aged 9-17.9 years: the FUPRECOL study. PeerJ. 2017;5, e3351. https://doi.org/10.7717/peerj.3351.",
+      "text_id": 230,
+      "paragraph_id": 64,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Castro-Piñero J, Artero EG, España-Romero V, et al. Criterion-related validity of field-based fitness tests in youth: a systematic review. Br J Sports Med. 2010;44(13): 934-943. https://doi.org/10.1136/bjsm.2009.058321.",
+      "text_id": 231,
+      "paragraph_id": 65,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ruiz JR, Castro-Piñero J, Artero EG, et al. Predictive validity of health-related fitness in youth: a systematic review. Br J Sports Med. 2009;43(12):909-923. https://doi.org/10.1136/bjsm.2008.056499.",
+      "text_id": 232,
+      "paragraph_id": 66,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ortega FB, Ruiz JR, Castillo MJ, Sjöström M. Physical fitness in childhood and adolescence: a powerful marker of health. Int J Obes. 2008;32(1):1-11. https://doi.org/10.1038/sj.ijo.0803774.",
+      "text_id": 233,
+      "paragraph_id": 67,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "García-Hermoso A, Ramírez-Campillo R, Izquierdo M. Is muscular fitness associated with future health benefits in children and adolescents? A systematic review and meta-analysis of longitudinal studies. Sports Med. 2019;49(7):1079-1094. https://doi.org/10.1007/s40279-019-01098-6.",
+      "text_id": 234,
+      "paragraph_id": 68,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "García-Hermoso A, Ramírez-Vélez R, García-Alonso Y, Alonso-Martínez AM, Izquierdo M. Association of cardiorespiratory fitness levels during youth with health risk later in life: a systematic review and meta-analysis. JAMA Pediatr. 2020;174 (10):952. https://doi.org/10.1001/jamapediatrics.2020.2400.",
+      "text_id": 235,
+      "paragraph_id": 69,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "López-Gil JF. The eating healthy and daily life activities (EHDLA) study. Child Basel Switz. 2022;9(3):370. https://doi.org/10.3390/children9030370.",
+      "text_id": 236,
+      "paragraph_id": 70,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Little RJA. A test of missing completely at random for multivariate data with missing values. J Am Stat Assoc. 1988;83(404):1198-1202. https://doi.org/10.1080/01621459.1988.10478722.",
+      "text_id": 237,
+      "paragraph_id": 71,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ruiz JR, Castro-Piñero J, España-Romero V, et al. Field-based fitness assessment in young people: the ALPHA health-related fitness test battery for children and adolescents. Br J Sports Med. 2011;45(6):518-524. https://doi.org/10.1136/BJSM.2010.075341.",
+      "text_id": 238,
+      "paragraph_id": 72,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "de Onis M. Development of a WHO growth reference for school-aged children and adolescents. Bull World Health Organ. 2007;85(9):660-667. https://doi.org/10.2471/BLT.07.043497.",
+      "text_id": 239,
+      "paragraph_id": 73,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Browning LM, Hsieh SD, Ashwell M. A systematic review of waist-to-height ratio as a screening tool for the prediction of cardiovascular disease and diabetes: 0⋅5 could be a suitable global boundary value. Nutr Res Rev. 2010;23(2):247-269. https://doi.org/10.1017/S0954422410000144.",
+      "text_id": 240,
+      "paragraph_id": 74,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Slaughter MH, Lohman TG, Boileau RA, et al. Skinfold equations for estimation of body fatness in children and youth. Hum Biol. 1988;60(5):709-723.",
+      "text_id": 241,
+      "paragraph_id": 75,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lurbe E, Agabiti-Rosei E, Cruickshank JK, et al. 2016 European Society of Hypertension guidelines for the management of high blood pressure in children and adolescents. J Hypertens. 2016;34(10):1887-1920. https://doi.org/10.1097/HJH.0000000000001039.",
+      "text_id": 242,
+      "paragraph_id": 76,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Segura-Díaz JM, Barranco-Ruiz Y, Saucedo-Araujo RG, et al. Feasibility and reliability of the Spanish version of the youth activity profile questionnaire (YAP- Spain) in children and adolescents. J Sports Sci. 2021;39(7):801-807. https://doi.org/10.1080/02640414.2020.1847488.",
+      "text_id": 243,
+      "paragraph_id": 77,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "López-Gil JF, Martínez-Vizcaíno V, Tárraga-López PJ, García-Hermoso A. Cross- cultural adaptation, reliability, and validation of the Spanish perceived physical literacy instrument for adolescents (S-PPLI). J Exerc Sci Fit. 2023;21(3):246-252. https://doi.org/10.1016/j.jesf.2023.03.002.",
+      "text_id": 244,
+      "paragraph_id": 78,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hanley JA, McNeil BJ. The meaning and use of the area under a receiver operating characteristic (ROC) curve. Radiology. 1982;143(1):29-36. https://doi.org/10.1148/radiology.143.1.7063747.",
+      "text_id": 245,
+      "paragraph_id": 79,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. J R Stat Soc Ser B Methodol. 1995;57(1): 289-300.",
+      "text_id": 246,
+      "paragraph_id": 80,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Petersen CB, Eriksen L, Dahl-Petersen IK, Aadahl M, Tolstrup JS. Self-rated physical fitness and measured cardiorespiratory fitness, muscular strength, and body composition. Scand J Med Sci Sports. 2021;31(5):1086-1095. https://doi.org/10.1111/sms.13918.",
+      "text_id": 247,
+      "paragraph_id": 81,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jürimäe T, Saar M. Self-perceived and actual indicators of motor abilities in children and adolescents. Percept Mot Skills. 2003;97(3 Pt 1):862-866. https://doi.org/10.2466/pms.2003.97.3.862.",
+      "text_id": 248,
+      "paragraph_id": 82,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gorzi A, Rajabi H, Khantan M, Lundberg TR. Sex differences in physical fitness among 10,000 adolescents aged 13-15 years. PLoS One. 2026;21(3), e0345291. https://doi.org/10.1371/journal.pone.0345291.",
+      "text_id": 249,
+      "paragraph_id": 83,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ruiz-Montero PJ, Chiva-Bartoll O, Baena-Extremera A, Hortigüela-Alcalá D. Gender, physical self-perception and overall physical fitness in secondary school students: a multiple mediation model. Int J Environ Res Publ Health. 2020;17(18). https://doi.org/10.3390/ijerph17186871.",
+      "text_id": 250,
+      "paragraph_id": 84,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "García-Artero E, Ortega FB, Ruiz JR, et al. El perfil lipídico-metabólico en los adolescentes está más influido por la condición física que por la actividad física (estudio AVENA). Rev Esp Cardiol. 2007;60(6):581-588. https://doi.org/10.1157/13107114.",
+      "text_id": 251,
+      "paragraph_id": 85,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ortega FB, Ruiz JR, Castillo MJ. Physical activity, physical fitness, and overweight in children and adolescents: evidence from epidemiologic studies. Endocrinol Nutr Engl Ed. 2013;60(8):458-469. https://doi.org/10.1016/j.endoen.2013.10.007.",
+      "text_id": 252,
+      "paragraph_id": 86,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kong Y, Yu B, Guan G, Wang Y, He H. Effects of sleep deprivation on sports performance and perceived exertion in athletes and non-athletes: a systematic review and meta-analysis. Front Physiol. 2025;16, 1544286. https://doi.org/10.3389/fphys.2025.1544286.",
+      "text_id": 253,
+      "paragraph_id": 87,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ashwell M, Gibson S. Waist-to-height ratio as an indicator of 'early health risk': simpler and more predictive than using a 'matrix' based on BMI and waist circumference. BMJ Open. 2016;6(3), e010159. https://doi.org/10.1136/bmjopen-2015-010159.",
+      "text_id": 254,
+      "paragraph_id": 88,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "García-Hermoso A, Yáñez-Sepúlveda R, Hormazábal-Aguayo I, et al. Handgrip strength thresholds to detect cardiometabolic risk in youth: cross-sectional study and meta-analysis. J Cachexia Sarcopenia Muscle. 2025;16(5), e70091. https://doi.org/10.1002/jcsm.70091.",
+      "text_id": 255,
+      "paragraph_id": 89,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ruiz JR, Ortega FB. Physical activity and cardiovascular disease risk factors in children and adolescents. Curr Cardiovasc Risk Rep. 2009;3(4):281-287. https://doi.org/10.1007/s12170-009-0043-6.",
+      "text_id": 256,
+      "paragraph_id": 90,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Best O, Ban S. Adolescence: physical changes and neurological development. Br J Nurs. 2021;30(5):272-275. https://doi.org/10.12968/BJON.2021.30.5.272.",
+      "text_id": 257,
+      "paragraph_id": 91,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Study design and setting",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Sample size and power considerations",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.3. Index test: international fitness scale",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.4. Reference standard: objective fitness",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.5. Anthropometric, cardiometabolic, and lifestyle measures",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "2.6. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "3.1. Sample characteristics",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "3.2. Criterion-related validity",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "3.3. Classification accuracy",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "3.4. Misclassification patterns",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "3.5. Sensitivity analyses",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "Funding statement",
+      "parent_section_id": null,
+      "section_type": "funding",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "Data availability",
+      "parent_section_id": null,
+      "section_type": "availability",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "Declaration of generative AI and AI-assisted technologies in the manuscript preparation process",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "Declaration of competing interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Appendix A. Supplementary data",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "Fig 1.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": ".Fig 2.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 24,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 25,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 26,
+      "header": "Table 3",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 27,
+      "header": "Table 4",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 28,
+      "header": "Table 5",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 29,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [
+    {
+      "href": "https://doi.org/10.1016/j.jesf.2026.200533",
+      "link_text": null,
+      "text_id": 201
+    }
+  ],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "10.1016/S0140-6736(25)00397-6",
+      "title": "Global, regional, and national prevalence of child and adolescent overweight and obesity, 1990-2021, with forecasts to 2050: a forecasting study for the global burden of disease study 2021",
+      "authors": "Kerr, J A; Patton, G C; Cini, K I",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "405",
+      "issue": "",
+      "first_page": "785",
+      "last_page": "812",
+      "container": "Lancet",
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 219
+    },
+    {
+      "bib_type": "misc",
+      "doi": "",
+      "title": "",
+      "authors": "",
+      "editors": "",
+      "publisher": "",
+      "year": null,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 1,
+      "year_suffix": null,
+      "text_id": 220
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1038/s41586-026-10383-0",
+      "title": "Obesity rise plateaus in developed nations and accelerates in developing nations",
+      "authors": "Zhou, B; Phelps, N H",
+      "editors": "",
+      "publisher": "",
+      "year": 2026,
+      "volume": "653",
+      "issue": "8114",
+      "first_page": "510",
+      "last_page": "518",
+      "container": "Nature",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 221
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-020-01265-0",
+      "title": "A systematic analysis of temporal trends in the handgrip strength of 2,216,320 children and adolescents between 1967 and 2017",
+      "authors": "Dooley, F L; Kaster, T; Fitzgerald, J S",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "50",
+      "issue": "6",
+      "first_page": "1129",
+      "last_page": "1144",
+      "container": "Sports Med",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 222
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-020-01373-x",
+      "title": "An update on secular trends in physical fitness of children and adolescents from 1972 to 2015: a systematic review",
+      "authors": "Fühner, T; Kliegl, R; Arntz, F; Kriemler, S; Granacher, U",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "51",
+      "issue": "2",
+      "first_page": "303",
+      "last_page": "320",
+      "container": "Sports Med",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 223
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2016-095987",
+      "title": "International normative 20 m shuttle run values from 1 142 026 children and youth representing 50 countries",
+      "authors": "Tomkinson, G R; Lang, J J; Tremblay, M S",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "51",
+      "issue": "21",
+      "first_page": "1545",
+      "last_page": "1554",
+      "container": "Br J Sports Med",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 224
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-020-01394-6",
+      "title": "Temporal trends in the standing broad jump performance of 10,940,801 children and adolescents between 1960 and 2017",
+      "authors": "Tomkinson, G R; Kaster, T; Dooley, F L",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "51",
+      "issue": "3",
+      "first_page": "531",
+      "last_page": "548",
+      "container": "Sports Med",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 225
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2023-107849",
+      "title": "Cardiorespiratory fitness is a strong and consistent predictor of morbidity and mortality among adults: an overview of metaanalyses representing over 20.9 million observations from 199 unique cohort studies",
+      "authors": "Lang, J J; Prince, S A; Merucci, K",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "58",
+      "issue": "10",
+      "first_page": "556",
+      "last_page": "566",
+      "container": "Br J Sports Med",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 226
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/S2352-4642(19)30323-2",
+      "title": "Global trends in insufficient physical activity among adolescents: a pooled analysis of 298 population-based surveys with 1⋅6 million participants",
+      "authors": "Guthold, R; Stevens, G A; Riley, L M; Bull, F C",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "4",
+      "issue": "1",
+      "first_page": "23",
+      "last_page": "35",
+      "container": "Lancet Child Adolesc Health",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 227
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jesf.2026.200501",
+      "title": "Reliability and validity of the International Fitness Scale (IFIS): a systematic review and meta-analysis",
+      "authors": "Bao, R; Zhang, Y; Ortega, F B; Drenowatz, C; Zhang, K; Chen, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2026,
+      "volume": "24",
+      "issue": "4",
+      "first_page": null,
+      "last_page": null,
+      "container": "J Exerc Sci Fit",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 228
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1093/ije/dyr039",
+      "title": "The international fitness scale (IFIS): usefulness of self-reported fitness in youth",
+      "authors": "Ortega, F B; Ruiz, J R; España-Romero, V",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "40",
+      "issue": "3",
+      "first_page": "701",
+      "last_page": "711",
+      "container": "Int J Epidemiol",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 229
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.7717/peerj.3351",
+      "title": "Construct validity and testretest reliability of the international fitness scale (IFIS) in Colombian children and adolescents aged 9-17.9 years: the FUPRECOL study",
+      "authors": "Ramírez-Vélez, R; Salazar, Cruz -; Martínez, S M; , M",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "5",
+      "issue": "",
+      "first_page": "3351",
+      "last_page": null,
+      "container": "PeerJ",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 230
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsm.2009.058321",
+      "title": "Criterion-related validity of field-based fitness tests in youth: a systematic review",
+      "authors": "Castro-Piñero, J; Artero, E G; España-Romero, V",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "44",
+      "issue": "13",
+      "first_page": "934",
+      "last_page": "943",
+      "container": "Br J Sports Med",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 231
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsm.2008.056499",
+      "title": "Predictive validity of health-related fitness in youth: a systematic review",
+      "authors": "Ruiz, J R; Castro-Piñero, J; Artero, E G",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "43",
+      "issue": "12",
+      "first_page": "909",
+      "last_page": "923",
+      "container": "Br J Sports Med",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 232
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1038/sj.ijo.0803774",
+      "title": "Physical fitness in childhood and adolescence: a powerful marker of health",
+      "authors": "Ortega, F B; Ruiz, J R; Castillo, M J; Sjöström, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "32",
+      "issue": "1",
+      "first_page": "1",
+      "last_page": "11",
+      "container": "Int J Obes",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 233
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-019-01098-6",
+      "title": "Is muscular fitness associated with future health benefits in children and adolescents? A systematic review and meta-analysis of longitudinal studies",
+      "authors": "García-Hermoso, A; Ramírez-Campillo, R; Izquierdo, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "49",
+      "issue": "7",
+      "first_page": "1079",
+      "last_page": "1094",
+      "container": "Sports Med",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 234
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1001/jamapediatrics.2020.2400",
+      "title": "Association of cardiorespiratory fitness levels during youth with health risk later in life: a systematic review and meta-analysis",
+      "authors": "García-Hermoso, A; Ramírez-Vélez, R; García-Alonso, Y; Izquierdo, Alonso-Martínez Am; , M",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "174",
+      "issue": "10",
+      "first_page": "952",
+      "last_page": null,
+      "container": "JAMA Pediatr",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 235
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/children9030370",
+      "title": "The eating healthy and daily life activities (EHDLA) study",
+      "authors": ", López-Gil Jf",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "9",
+      "issue": "3",
+      "first_page": "370",
+      "last_page": null,
+      "container": "Child Basel Switz",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 236
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/01621459.1988.10478722",
+      "title": "A test of missing completely at random for multivariate data with missing values",
+      "authors": "Little, Rja",
+      "editors": "",
+      "publisher": "",
+      "year": 1988,
+      "volume": "83",
+      "issue": "404",
+      "first_page": "1198",
+      "last_page": "1202",
+      "container": "J Am Stat Assoc",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 237
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/BJSM.2010.075341",
+      "title": "Field-based fitness assessment in young people: the ALPHA health-related fitness test battery for children and adolescents",
+      "authors": "Ruiz, J R; Castro-Piñero, J; España-Romero, V",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "45",
+      "issue": "6",
+      "first_page": "518",
+      "last_page": "524",
+      "container": "Br J Sports Med",
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 238
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2471/BLT.07.043497",
+      "title": "Development of a WHO growth reference for school-aged children and adolescents",
+      "authors": "De Onis, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "85",
+      "issue": "9",
+      "first_page": "660",
+      "last_page": "667",
+      "container": "Bull World Health Organ",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 239
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1017/S0954422410000144",
+      "title": "A systematic review of waist-to-height ratio as a screening tool for the prediction of cardiovascular disease and diabetes: 0⋅5 could be a suitable global boundary value",
+      "authors": "Browning, L M; Hsieh, S D; Ashwell, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "23",
+      "issue": "2",
+      "first_page": "247",
+      "last_page": "269",
+      "container": "Nutr Res Rev",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 240
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Skinfold equations for estimation of body fatness in children and youth",
+      "authors": "Slaughter, M H; Lohman, T G; Boileau, R A",
+      "editors": "",
+      "publisher": "",
+      "year": 1988,
+      "volume": "60",
+      "issue": "5",
+      "first_page": "709",
+      "last_page": "723",
+      "container": "Hum Biol",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 241
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/HJH.0000000000001039",
+      "title": "European Society of Hypertension guidelines for the management of high blood pressure in children and adolescents",
+      "authors": "Lurbe, E; Agabiti-Rosei, E; Cruickshank, J K",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "34",
+      "issue": "10",
+      "first_page": "1887",
+      "last_page": "1920",
+      "container": "J Hypertens",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 242
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/02640414.2020.1847488",
+      "title": "Feasibility and reliability of the Spanish version of the youth activity profile questionnaire (YAP-Spain) in children and adolescents",
+      "authors": "Segura-Díaz, J M; Barranco-Ruiz, Y; Saucedo-Araujo, R G",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "39",
+      "issue": "7",
+      "first_page": "801",
+      "last_page": "807",
+      "container": "J Sports Sci",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 243
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jesf.2023.03.002",
+      "title": "Crosscultural adaptation, reliability, and validation of the Spanish perceived physical literacy instrument for adolescents (S-PPLI)",
+      "authors": "López-Gil, J F; Martínez-Vizcaíno, V; Tárraga-López, P J; García-Hermoso, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "21",
+      "issue": "3",
+      "first_page": "246",
+      "last_page": "252",
+      "container": "J Exerc Sci Fit",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 244
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1148/radiology.143.1.7063747",
+      "title": "The meaning and use of the area under a receiver operating characteristic (ROC) curve",
+      "authors": "Hanley, J A; Mcneil, B J",
+      "editors": "",
+      "publisher": "",
+      "year": 1982,
+      "volume": "143",
+      "issue": "1",
+      "first_page": "29",
+      "last_page": "36",
+      "container": "Radiology",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 245
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Controlling the false discovery rate: a practical and powerful approach to multiple testing",
+      "authors": "Benjamini, Y; Hochberg, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 1995,
+      "volume": "57",
+      "issue": "1",
+      "first_page": "289",
+      "last_page": "300",
+      "container": "J R Stat Soc Ser B Methodol",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 246
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1111/sms.13918",
+      "title": "Self-rated physical fitness and measured cardiorespiratory fitness, muscular strength, and body composition",
+      "authors": "Petersen, C B; Eriksen, L; Dahl-Petersen, I K; Aadahl, M; Tolstrup, J S",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "31",
+      "issue": "5",
+      "first_page": "1086",
+      "last_page": "1095",
+      "container": "Scand J Med Sci Sports",
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 247
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2466/pms.2003.97.3.862",
+      "title": "Self-perceived and actual indicators of motor abilities in children and adolescents",
+      "authors": "Jürimäe, T; Saar, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "97",
+      "issue": "3",
+      "first_page": "862",
+      "last_page": "866",
+      "container": "Percept Mot Skills",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 248
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0345291",
+      "title": "Sex differences in physical fitness among 10,000 adolescents aged 13-15 years",
+      "authors": "Gorzi, A; Rajabi, H; Khantan, M; Lundberg, T R",
+      "editors": "",
+      "publisher": "",
+      "year": 2026,
+      "volume": "21",
+      "issue": "3",
+      "first_page": "345291",
+      "last_page": null,
+      "container": "PLoS One",
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 249
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/ijerph17186871",
+      "title": "physical self-perception and overall physical fitness in secondary school students: a multiple mediation model",
+      "authors": "Ruiz-Montero, P J; Chiva-Bartoll, O; Baena-Extremera, A; Hortigüela-Alcalá, D; Gender, ",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "17",
+      "issue": "18",
+      "first_page": null,
+      "last_page": null,
+      "container": "Int J Environ Res Publ Health",
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 250
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1157/13107114",
+      "title": "El perfil lipídico-metabólico en los adolescentes está más influido por la condición física que por la actividad física (estudio AVENA)",
+      "authors": "García-Artero, E; Ortega, F B; Ruiz, J R",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "60",
+      "issue": "6",
+      "first_page": "581",
+      "last_page": "588",
+      "container": "Rev Esp Cardiol",
+      "bib_id": 32,
+      "year_suffix": "",
+      "text_id": 251
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.endoen.2013.10.007",
+      "title": "Physical activity, physical fitness, and overweight in children and adolescents: evidence from epidemiologic studies",
+      "authors": "Ortega, F B; Ruiz, J R; Castillo, M J",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "60",
+      "issue": "8",
+      "first_page": "458",
+      "last_page": "469",
+      "container": "Endocrinol Nutr Engl Ed",
+      "bib_id": 33,
+      "year_suffix": "",
+      "text_id": 252
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3389/fphys.2025.1544286",
+      "title": "Effects of sleep deprivation on sports performance and perceived exertion in athletes and non-athletes: a systematic review and meta-analysis",
+      "authors": "Kong, Y; Yu, B; Guan, G; Wang, Y; He, H",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "16",
+      "issue": "",
+      "first_page": "1544286",
+      "last_page": null,
+      "container": "Front Physiol",
+      "bib_id": 34,
+      "year_suffix": "",
+      "text_id": 253
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bmjopen-2015-010159",
+      "title": "Waist-to-height ratio as an indicator of 'early health risk': simpler and more predictive than using a 'matrix' based on BMI and waist circumference",
+      "authors": "Ashwell, M; Gibson, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "6",
+      "issue": "3",
+      "first_page": "10159",
+      "last_page": null,
+      "container": "BMJ Open",
+      "bib_id": 35,
+      "year_suffix": "",
+      "text_id": 254
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1002/jcsm.70091",
+      "title": "Handgrip strength thresholds to detect cardiometabolic risk in youth: cross-sectional study and meta-analysis",
+      "authors": "García-Hermoso, A; Yáñez-Sepúlveda, R; Hormazábal-Aguayo, I",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "16",
+      "issue": "5",
+      "first_page": "70091",
+      "last_page": null,
+      "container": "J Cachexia Sarcopenia Muscle",
+      "bib_id": 36,
+      "year_suffix": "",
+      "text_id": 255
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s12170-009-0043-6",
+      "title": "Physical activity and cardiovascular disease risk factors in children and adolescents",
+      "authors": "Ruiz, J R; Ortega, F B",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "3",
+      "issue": "4",
+      "first_page": "281",
+      "last_page": "287",
+      "container": "Curr Cardiovasc Risk Rep",
+      "bib_id": 37,
+      "year_suffix": "",
+      "text_id": 256
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.12968/BJON.2021.30.5.272",
+      "title": "Adolescence: physical changes and neurological development",
+      "authors": "Best, O; Ban, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "30",
+      "issue": "5",
+      "first_page": "272",
+      "last_page": "275",
+      "container": "Br J Nurs",
+      "bib_id": 38,
+      "year_suffix": "",
+      "text_id": 257
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1,",
+      "text_id": 12
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2",
+      "text_id": 12
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[6]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 12
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "8",
+      "text_id": 12
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 14
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 16
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "10,",
+      "text_id": 16
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 16
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "12,",
+      "text_id": 17
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "13",
+      "text_id": 17
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 17
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 18
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 19
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "15,",
+      "text_id": 19
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 19
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 22
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 25
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 34
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "S1",
+      "text_id": 34
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 35
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "19",
+      "text_id": 38
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 45
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "22",
+      "text_id": 45
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 45
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "24",
+      "text_id": 45
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 46
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 48
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 56
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "S2",
+      "text_id": 60
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 61
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "S1",
+      "text_id": 63
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "S3",
+      "text_id": 63
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 64
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "table",
+      "contents": "S4",
+      "text_id": 67
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "table",
+      "contents": "S5",
+      "text_id": 68
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 69
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "table",
+      "contents": "4",
+      "text_id": 74
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 74
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 77
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S6",
+      "text_id": 77
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S7",
+      "text_id": 79
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S8",
+      "text_id": 79
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "table",
+      "contents": "5",
+      "text_id": 80
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S9",
+      "text_id": 86
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "S10",
+      "text_id": 87
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "S11",
+      "text_id": 88
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "S12",
+      "text_id": 96
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "10,",
+      "text_id": 98
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 98
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 98
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 109
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 115
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 118
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 124
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "28,",
+      "text_id": 124
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 124
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 124
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "28,",
+      "text_id": 124
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 124
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 124
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 125
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 140
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "31",
+      "text_id": 140
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "32,",
+      "text_id": 145
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "33",
+      "text_id": 145
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 146
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "14,",
+      "text_id": 149
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "21,",
+      "text_id": 149
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "[35]",
+      "text_id": 149
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "[36]",
+      "text_id": 149
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "[37]",
+      "text_id": 149
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 170
+    },
+    {
+      "xref_id": 38,
+      "xref_type": "bibr",
+      "contents": "38",
+      "text_id": 172
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 22,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 23,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 24,
+      "html": "<table>\n  <row>\n    <cell>Variable<\/cell>\n    <cell>Boys<\/cell>\n    <cell>Girls<\/cell>\n    <cell>Total<\/cell>\n  <\/row>\n  <row>\n    <cell>n<\/cell>\n    <cell>471<\/cell>\n    <cell>546<\/cell>\n    <cell>1017<\/cell>\n  <\/row>\n  <row>\n    <cell>Age, years<\/cell>\n    <cell>14.0 (13.0-<\/cell>\n    <cell>14.0 (13.0-<\/cell>\n    <cell>14.0 (13.0-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>15.0)<\/cell>\n    <cell>15.0)<\/cell>\n    <cell>15.0)<\/cell>\n  <\/row>\n  <row>\n    <cell>IFIS overall, median (IQR)<\/cell>\n    <cell>4 (3-4)<\/cell>\n    <cell>3 (3-4)<\/cell>\n    <cell>4 (3-4)<\/cell>\n  <\/row>\n  <row>\n    <cell>Objective composite (z-<\/cell>\n    <cell>0.02 (-0.66-<\/cell>\n    <cell>-0.03 (-0.60-<\/cell>\n    <cell>-0.01 (-0.63-<\/cell>\n  <\/row>\n  <row>\n    <cell>score)<\/cell>\n    <cell>0.71)<\/cell>\n    <cell>0.63)<\/cell>\n    <cell>0.69)<\/cell>\n  <\/row>\n  <row>\n    <cell>Muscular fitness (z-score)<\/cell>\n    <cell>-0.03 (-0.56-<\/cell>\n    <cell>-0.03 (-0.56-<\/cell>\n    <cell>-0.03 (-0.56-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>0.57)<\/cell>\n    <cell>0.54)<\/cell>\n    <cell>0.56)<\/cell>\n  <\/row>\n  <row>\n    <cell>Speed-agility (z-score)<\/cell>\n    <cell>0.17 (-0.53-<\/cell>\n    <cell>0.12 (-0.52-<\/cell>\n    <cell>0.14 (-0.53-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>0.73)<\/cell>\n    <cell>0.67)<\/cell>\n    <cell>0.70)<\/cell>\n  <\/row>\n  <row>\n    <cell>Flexibility (z-score)<\/cell>\n    <cell>-0.00 (-0.63-<\/cell>\n    <cell>0.06 (-0.74-<\/cell>\n    <cell>0.03 (-0.68-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>0.59)<\/cell>\n    <cell>0.68)<\/cell>\n    <cell>0.63)<\/cell>\n  <\/row>\n  <row>\n    <cell>Cardiorespiratory fitness<\/cell>\n    <cell>-0.10 (-0.77-<\/cell>\n    <cell>-0.19 (-0.69-<\/cell>\n    <cell>-0.16 (-0.72-<\/cell>\n  <\/row>\n  <row>\n    <cell>(z-score)<\/cell>\n    <cell>0.70)<\/cell>\n    <cell>0.50)<\/cell>\n    <cell>0.56)<\/cell>\n  <\/row>\n  <row>\n    <cell>BMI (z-score)<\/cell>\n    <cell>-0.08 (-1.10-<\/cell>\n    <cell>0.06 (-0.76-<\/cell>\n    <cell>0.01 (-0.93-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>1.16)<\/cell>\n    <cell>1.00)<\/cell>\n    <cell>1.06)<\/cell>\n  <\/row>\n  <row>\n    <cell>WHtR<\/cell>\n    <cell>0.447 (0.414-<\/cell>\n    <cell>0.437 (0.407-<\/cell>\n    <cell>0.442 (0.410-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>0.498)<\/cell>\n    <cell>0.478)<\/cell>\n    <cell>0.487)<\/cell>\n  <\/row>\n  <row>\n    <cell>Body fat %<\/cell>\n    <cell>21.6 (14.2-<\/cell>\n    <cell>24.6 (20.4-<\/cell>\n    <cell>23.4 (17.9-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>31.1)<\/cell>\n    <cell>30.7)<\/cell>\n    <cell>31.1)<\/cell>\n  <\/row>\n  <row>\n    <cell>Systolic BP, mmHg<\/cell>\n    <cell>126 (117-134)<\/cell>\n    <cell>120 (114-127)<\/cell>\n    <cell>123 (115-131)<\/cell>\n  <\/row>\n  <row>\n    <cell>Diastolic BP, mmHg<\/cell>\n    <cell>71 (64-77)<\/cell>\n    <cell>72 (66-78)<\/cell>\n    <cell>71 (66-77)<\/cell>\n  <\/row>\n  <row>\n    <cell>Overweight/obesity, %<\/cell>\n    <cell>28.2<\/cell>\n    <cell>24.9<\/cell>\n    <cell>26.5<\/cell>\n  <\/row>\n  <row>\n    <cell>Obesity, %<\/cell>\n    <cell>11.5<\/cell>\n    <cell>7.0<\/cell>\n    <cell>9.0<\/cell>\n  <\/row>\n  <row>\n    <cell>Abdominal obesity, %<\/cell>\n    <cell>24.8<\/cell>\n    <cell>16.3<\/cell>\n    <cell>20.3<\/cell>\n  <\/row>\n  <row>\n    <cell>Elevated BP, %<\/cell>\n    <cell>42.0<\/cell>\n    <cell>35.0<\/cell>\n    <cell>38.2<\/cell>\n  <\/row>\n  <row>\n    <cell>YAP-S physical activity<\/cell>\n    <cell>2.7 (2.2-3.2)<\/cell>\n    <cell>2.6 (2.1-3.0)<\/cell>\n    <cell>2.6 (2.2-3.1)<\/cell>\n  <\/row>\n  <row>\n    <cell>score<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>YAP-S sedentary behavior<\/cell>\n    <cell>2.6 (2.2-3.2)<\/cell>\n    <cell>2.4 (2.0-2.8)<\/cell>\n    <cell>2.6 (2.2-3.0)<\/cell>\n  <\/row>\n  <row>\n    <cell>score<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Sleep duration, h/day<\/cell>\n    <cell>8.3 (7.6-8.8)<\/cell>\n    <cell>8.2 (7.6-8.8)<\/cell>\n    <cell>8.2 (7.6-8.8)<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variable", "Boys", "Girls", "Total"],
+        ["n", "471", "546", "1017"],
+        ["Age, years", "14.0 (13.0-", "14.0 (13.0-", "14.0 (13.0-"],
+        ["", "15.0)", "15.0)", "15.0)"],
+        ["IFIS overall, median (IQR)", "4 (3-4)", "3 (3-4)", "4 (3-4)"],
+        ["Objective composite (z-", "0.02 (-0.66-", "-0.03 (-0.60-", "-0.01 (-0.63-"],
+        ["score)", "0.71)", "0.63)", "0.69)"],
+        ["Muscular fitness (z-score)", "-0.03 (-0.56-", "-0.03 (-0.56-", "-0.03 (-0.56-"],
+        ["", "0.57)", "0.54)", "0.56)"],
+        ["Speed-agility (z-score)", "0.17 (-0.53-", "0.12 (-0.52-", "0.14 (-0.53-"],
+        ["", "0.73)", "0.67)", "0.70)"],
+        ["Flexibility (z-score)", "-0.00 (-0.63-", "0.06 (-0.74-", "0.03 (-0.68-"],
+        ["", "0.59)", "0.68)", "0.63)"],
+        ["Cardiorespiratory fitness", "-0.10 (-0.77-", "-0.19 (-0.69-", "-0.16 (-0.72-"],
+        ["(z-score)", "0.70)", "0.50)", "0.56)"],
+        ["BMI (z-score)", "-0.08 (-1.10-", "0.06 (-0.76-", "0.01 (-0.93-"],
+        ["", "1.16)", "1.00)", "1.06)"],
+        ["WHtR", "0.447 (0.414-", "0.437 (0.407-", "0.442 (0.410-"],
+        ["", "0.498)", "0.478)", "0.487)"],
+        ["Body fat %", "21.6 (14.2-", "24.6 (20.4-", "23.4 (17.9-"],
+        ["", "31.1)", "30.7)", "31.1)"],
+        ["Systolic BP, mmHg", "126 (117-134)", "120 (114-127)", "123 (115-131)"],
+        ["Diastolic BP, mmHg", "71 (64-77)", "72 (66-78)", "71 (66-77)"],
+        ["Overweight/obesity, %", "28.2", "24.9", "26.5"],
+        ["Obesity, %", "11.5", "7.0", "9.0"],
+        ["Abdominal obesity, %", "24.8", "16.3", "20.3"],
+        ["Elevated BP, %", "42.0", "35.0", "38.2"],
+        ["YAP-S physical activity", "2.7 (2.2-3.2)", "2.6 (2.1-3.0)", "2.6 (2.2-3.1)"],
+        ["score", "", "", ""],
+        ["YAP-S sedentary behavior", "2.6 (2.2-3.2)", "2.4 (2.0-2.8)", "2.6 (2.2-3.0)"],
+        ["score", "", "", ""],
+        ["Sleep duration, h/day", "8.3 (7.6-8.8)", "8.2 (7.6-8.8)", "8.2 (7.6-8.8)"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 25,
+      "html": "<table>\n  <row>\n    <cell>Comparison<\/cell>\n    <cell>n<\/cell>\n    <cell>Spearman<\/cell>\n    <cell>Spearman<\/cell>\n    <cell>Partial<\/cell>\n    <cell>Partial<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell>ρ<\/cell>\n    <cell>p<\/cell>\n    <cell>Spearman<\/cell>\n    <cell>p<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>(age and sex)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Overall IFIS vs<\/cell>\n    <cell>1017<\/cell>\n    <cell>0.369<\/cell>\n    <cell>&lt;0.001<\/cell>\n    <cell>0.377<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>objective<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>composite<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>IFIS CRF vs 20m<\/cell>\n    <cell>992<\/cell>\n    <cell>0.392<\/cell>\n    <cell>&lt;0.001<\/cell>\n    <cell>0.403<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>shuttle run<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>IFIS muscular vs<\/cell>\n    <cell>1015<\/cell>\n    <cell>0.326<\/cell>\n    <cell>&lt;0.001<\/cell>\n    <cell>0.342<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>muscular<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>composite (z-<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>score)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>IFIS muscular vs<\/cell>\n    <cell>1007<\/cell>\n    <cell>0.300<\/cell>\n    <cell>&lt;0.001<\/cell>\n    <cell>0.326<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>handgrip<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>IFIS muscular vs<\/cell>\n    <cell>1004<\/cell>\n    <cell>0.222<\/cell>\n    <cell>&lt;0.001<\/cell>\n    <cell>0.206<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>standing long<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>jump<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>IFIS speed-<\/cell>\n    <cell>999<\/cell>\n    <cell>0.408<\/cell>\n    <cell>&lt;0.001<\/cell>\n    <cell>0.415<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>agility vs<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>4×10<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>(inverted)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>IFIS flexibility vs<\/cell>\n    <cell>1010<\/cell>\n    <cell>0.635<\/cell>\n    <cell>&lt;0.001<\/cell>\n    <cell>0.592<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>sit-and-reach<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Comparison", "n", "Spearman / ρ", "Spearman / p", "Partial / Spearman / (age and sex)", "Partial / p"],
+        ["Overall IFIS vs", "1017", "0.369", "<0.001", "0.377", "<0.001"],
+        ["objective", "", "", "", "", ""],
+        ["composite", "", "", "", "", ""],
+        ["IFIS CRF vs 20m", "992", "0.392", "<0.001", "0.403", "<0.001"],
+        ["shuttle run", "", "", "", "", ""],
+        ["IFIS muscular vs", "1015", "0.326", "<0.001", "0.342", "<0.001"],
+        ["muscular", "", "", "", "", ""],
+        ["composite (z-", "", "", "", "", ""],
+        ["score)", "", "", "", "", ""],
+        ["IFIS muscular vs", "1007", "0.300", "<0.001", "0.326", "<0.001"],
+        ["handgrip", "", "", "", "", ""],
+        ["IFIS muscular vs", "1004", "0.222", "<0.001", "0.206", "<0.001"],
+        ["standing long", "", "", "", "", ""],
+        ["jump", "", "", "", "", ""],
+        ["IFIS speed-", "999", "0.408", "<0.001", "0.415", "<0.001"],
+        ["agility vs", "", "", "", "", ""],
+        ["4×10", "", "", "", "", ""],
+        ["(inverted)", "", "", "", "", ""],
+        ["IFIS flexibility vs", "1010", "0.635", "<0.001", "0.592", "<0.001"],
+        ["sit-and-reach", "", "", "", "", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 3,
+      "section_id": 26,
+      "html": "<table>\n  <row>\n    <cell>Objective low-fitness rule<\/cell>\n    <cell>IFIS screening<\/cell>\n    <cell>AUC (95%<\/cell>\n    <cell>Sensitivity (95%<\/cell>\n    <cell>Specificity (95%<\/cell>\n    <cell>PPV (95%<\/cell>\n    <cell>NPV (95%<\/cell>\n    <cell>LR+<\/cell>\n    <cell>LR-<\/cell>\n    <cell>Accuracy<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>rule<\/cell>\n    <cell>CI)<\/cell>\n    <cell>CI)<\/cell>\n    <cell>CI)<\/cell>\n    <cell>CI)<\/cell>\n    <cell>CI)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Lowest sex-age tertile (primary)<\/cell>\n    <cell>IFIS ≤2 vs ≥ 3<\/cell>\n    <cell>0.66 (0.63-<\/cell>\n    <cell>0.16 (0.12-0.20)<\/cell>\n    <cell>0.94 (0.92-0.95)<\/cell>\n    <cell>0.53 (0.43-<\/cell>\n    <cell>0.71 (0.68-<\/cell>\n    <cell>2.45<\/cell>\n    <cell>0.90<\/cell>\n    <cell>0.69<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell>0.69)<\/cell>\n    <cell/>\n    <cell/>\n    <cell>0.63)<\/cell>\n    <cell>0.73)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Lowest sex-age tertile (primary)<\/cell>\n    <cell>IFIS ≤3 vs ≥ 4<\/cell>\n    <cell>0.66 (0.63-<\/cell>\n    <cell>0.68 (0.63-0.73)<\/cell>\n    <cell>0.59 (0.55-0.63)<\/cell>\n    <cell>0.44 (0.39-<\/cell>\n    <cell>0.80 (0.76-<\/cell>\n    <cell>1.67<\/cell>\n    <cell>0.54<\/cell>\n    <cell>0.62<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell>0.69)<\/cell>\n    <cell/>\n    <cell/>\n    <cell>0.48)<\/cell>\n    <cell>0.83)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Below sex-age median (objective<\/cell>\n    <cell>IFIS ≤2 vs ≥ 3<\/cell>\n    <cell>0.67 (0.63-<\/cell>\n    <cell>0.14 (0.11-0.17)<\/cell>\n    <cell>0.95 (0.93-0.97)<\/cell>\n    <cell>0.73 (0.64-<\/cell>\n    <cell>0.54 (0.51-<\/cell>\n    <cell>2.91<\/cell>\n    <cell>0.90<\/cell>\n    <cell>0.56<\/cell>\n  <\/row>\n  <row>\n    <cell>composite)<\/cell>\n    <cell/>\n    <cell>0.69)<\/cell>\n    <cell/>\n    <cell/>\n    <cell>0.81)<\/cell>\n    <cell>0.57)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Below sex-age median (objective<\/cell>\n    <cell>IFIS ≤3 vs ≥ 4<\/cell>\n    <cell>0.67 (0.63-<\/cell>\n    <cell>0.64 (0.60-0.68)<\/cell>\n    <cell>0.64 (0.60-0.68)<\/cell>\n    <cell>0.63 (0.58-<\/cell>\n    <cell>0.65 (0.61-<\/cell>\n    <cell>1.77<\/cell>\n    <cell>0.57<\/cell>\n    <cell>0.64<\/cell>\n  <\/row>\n  <row>\n    <cell>composite)<\/cell>\n    <cell/>\n    <cell>0.69)<\/cell>\n    <cell/>\n    <cell/>\n    <cell>0.67)<\/cell>\n    <cell>0.69)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Lowest sex-age quartile<\/cell>\n    <cell>IFIS ≤2 vs ≥ 3<\/cell>\n    <cell>0.64 (0.61-<\/cell>\n    <cell>0.16 (0.12-0.21)<\/cell>\n    <cell>0.93 (0.91-0.94)<\/cell>\n    <cell>0.41 (0.32-<\/cell>\n    <cell>0.77 (0.74-<\/cell>\n    <cell>2.19<\/cell>\n    <cell>0.91<\/cell>\n    <cell>0.74<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell>0.68)<\/cell>\n    <cell/>\n    <cell/>\n    <cell>0.52)<\/cell>\n    <cell>0.80)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Lowest sex-age quartile<\/cell>\n    <cell>IFIS ≤3 vs ≥ 4<\/cell>\n    <cell>0.64 (0.61-<\/cell>\n    <cell>0.69 (0.63-0.74)<\/cell>\n    <cell>0.57 (0.53-0.60)<\/cell>\n    <cell>0.34 (0.30-<\/cell>\n    <cell>0.85 (0.81-<\/cell>\n    <cell>1.58<\/cell>\n    <cell>0.55<\/cell>\n    <cell>0.60<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell>0.68)<\/cell>\n    <cell/>\n    <cell/>\n    <cell>0.38)<\/cell>\n    <cell>0.88)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Objective low-fitness rule", "IFIS screening / rule", "AUC (95% / CI)", "Sensitivity (95% / CI)", "Specificity (95% / CI)", "PPV (95% / CI)", "NPV (95% / CI)", "LR+", "LR-", "Accuracy"],
+        ["Lowest sex-age tertile (primary)", "IFIS ≤2 vs ≥ 3", "0.66 (0.63-", "0.16 (0.12-0.20)", "0.94 (0.92-0.95)", "0.53 (0.43-", "0.71 (0.68-", "2.45", "0.90", "0.69"],
+        ["", "", "0.69)", "", "", "0.63)", "0.73)", "", "", ""],
+        ["Lowest sex-age tertile (primary)", "IFIS ≤3 vs ≥ 4", "0.66 (0.63-", "0.68 (0.63-0.73)", "0.59 (0.55-0.63)", "0.44 (0.39-", "0.80 (0.76-", "1.67", "0.54", "0.62"],
+        ["", "", "0.69)", "", "", "0.48)", "0.83)", "", "", ""],
+        ["Below sex-age median (objective", "IFIS ≤2 vs ≥ 3", "0.67 (0.63-", "0.14 (0.11-0.17)", "0.95 (0.93-0.97)", "0.73 (0.64-", "0.54 (0.51-", "2.91", "0.90", "0.56"],
+        ["composite)", "", "0.69)", "", "", "0.81)", "0.57)", "", "", ""],
+        ["Below sex-age median (objective", "IFIS ≤3 vs ≥ 4", "0.67 (0.63-", "0.64 (0.60-0.68)", "0.64 (0.60-0.68)", "0.63 (0.58-", "0.65 (0.61-", "1.77", "0.57", "0.64"],
+        ["composite)", "", "0.69)", "", "", "0.67)", "0.69)", "", "", ""],
+        ["Lowest sex-age quartile", "IFIS ≤2 vs ≥ 3", "0.64 (0.61-", "0.16 (0.12-0.21)", "0.93 (0.91-0.94)", "0.41 (0.32-", "0.77 (0.74-", "2.19", "0.91", "0.74"],
+        ["", "", "0.68)", "", "", "0.52)", "0.80)", "", "", ""],
+        ["Lowest sex-age quartile", "IFIS ≤3 vs ≥ 4", "0.64 (0.61-", "0.69 (0.63-0.74)", "0.57 (0.53-0.60)", "0.34 (0.30-", "0.85 (0.81-", "1.58", "0.55", "0.60"],
+        ["", "", "0.68)", "", "", "0.38)", "0.88)", "", "", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 4,
+      "section_id": 27,
+      "html": "<table>\n  <row>\n    <cell>Metric<\/cell>\n    <cell>Overall<\/cell>\n    <cell>Cardiorespiratory<\/cell>\n    <cell>Muscular<\/cell>\n    <cell>Speed-<\/cell>\n    <cell>Flexibility<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>agility<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Sensitivity<\/cell>\n    <cell>0.68<\/cell>\n    <cell>0.72<\/cell>\n    <cell>0.68<\/cell>\n    <cell>0.70<\/cell>\n    <cell>0.83<\/cell>\n  <\/row>\n  <row>\n    <cell>Specificity<\/cell>\n    <cell>0.59<\/cell>\n    <cell>0.48<\/cell>\n    <cell>0.54<\/cell>\n    <cell>0.60<\/cell>\n    <cell>0.52<\/cell>\n  <\/row>\n  <row>\n    <cell>PPV<\/cell>\n    <cell>0.44<\/cell>\n    <cell>0.39<\/cell>\n    <cell>0.41<\/cell>\n    <cell>0.45<\/cell>\n    <cell>0.45<\/cell>\n  <\/row>\n  <row>\n    <cell>NPV<\/cell>\n    <cell>0.80<\/cell>\n    <cell>0.78<\/cell>\n    <cell>0.78<\/cell>\n    <cell>0.81<\/cell>\n    <cell>0.86<\/cell>\n  <\/row>\n  <row>\n    <cell>LR+<\/cell>\n    <cell>1.67<\/cell>\n    <cell>1.38<\/cell>\n    <cell>1.47<\/cell>\n    <cell>1.76<\/cell>\n    <cell>1.72<\/cell>\n  <\/row>\n  <row>\n    <cell>LR-<\/cell>\n    <cell>0.54<\/cell>\n    <cell>0.59<\/cell>\n    <cell>0.60<\/cell>\n    <cell>0.49<\/cell>\n    <cell>0.33<\/cell>\n  <\/row>\n  <row>\n    <cell>Overall<\/cell>\n    <cell>0.62<\/cell>\n    <cell>0.56<\/cell>\n    <cell>0.58<\/cell>\n    <cell>0.63<\/cell>\n    <cell>0.62<\/cell>\n  <\/row>\n  <row>\n    <cell>accuracy<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>AUC (95%<\/cell>\n    <cell>0.66<\/cell>\n    <cell>0.65 (0.62-0.69)<\/cell>\n    <cell>0.64<\/cell>\n    <cell>0.69<\/cell>\n    <cell>0.75<\/cell>\n  <\/row>\n  <row>\n    <cell>CI)<\/cell>\n    <cell>(0.63-<\/cell>\n    <cell/>\n    <cell>(0.61-<\/cell>\n    <cell>(0.65-<\/cell>\n    <cell>(0.71-<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>0.69)<\/cell>\n    <cell/>\n    <cell>0.67)<\/cell>\n    <cell>0.72)<\/cell>\n    <cell>0.78)<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Metric", "Overall", "Cardiorespiratory", "Muscular", "Speed- / agility", "Flexibility"],
+        ["Sensitivity", "0.68", "0.72", "0.68", "0.70", "0.83"],
+        ["Specificity", "0.59", "0.48", "0.54", "0.60", "0.52"],
+        ["PPV", "0.44", "0.39", "0.41", "0.45", "0.45"],
+        ["NPV", "0.80", "0.78", "0.78", "0.81", "0.86"],
+        ["LR+", "1.67", "1.38", "1.47", "1.76", "1.72"],
+        ["LR-", "0.54", "0.59", "0.60", "0.49", "0.33"],
+        ["Overall", "0.62", "0.56", "0.58", "0.63", "0.62"],
+        ["accuracy", "", "", "", "", ""],
+        ["AUC (95%", "0.66", "0.65 (0.62-0.69)", "0.64", "0.69", "0.75"],
+        ["CI)", "(0.63-", "", "(0.61-", "(0.65-", "(0.71-"],
+        ["", "0.69)", "", "0.67)", "0.72)", "0.78)"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 5,
+      "section_id": 28,
+      "html": "<table>\n  <row>\n    <cell>Profile vs all<\/cell>\n    <cell>Variable<\/cell>\n    <cell>PR<\/cell>\n    <cell>95%<\/cell>\n    <cell>95%<\/cell>\n    <cell>p-value (q-value)<\/cell>\n  <\/row>\n  <row>\n    <cell>others<\/cell>\n    <cell/>\n    <cell/>\n    <cell>CI<\/cell>\n    <cell>CI<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>lower<\/cell>\n    <cell>upper<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Concordant low<\/cell>\n    <cell>Sex (girls vs<\/cell>\n    <cell>1.14<\/cell>\n    <cell>0.95<\/cell>\n    <cell>1.37<\/cell>\n    <cell>0.153 (0.262)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>boys)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Age (per<\/cell>\n    <cell>0.97<\/cell>\n    <cell>0.91<\/cell>\n    <cell>1.03<\/cell>\n    <cell>0.288 (0.364)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>year)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>BMI (z-<\/cell>\n    <cell>1.30<\/cell>\n    <cell>1.22<\/cell>\n    <cell>1.39<\/cell>\n    <cell>&lt;0.001 (&lt;0.001)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>score)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Physical<\/cell>\n    <cell>0.71<\/cell>\n    <cell>0.62<\/cell>\n    <cell>0.81<\/cell>\n    <cell>&lt;0.001 (&lt;0.001)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activity<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(YAP-S)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Sedentary<\/cell>\n    <cell>1.32<\/cell>\n    <cell>1.15<\/cell>\n    <cell>1.52<\/cell>\n    <cell>&lt;0.001 (&lt;0.001)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>behavior<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(YAP-S)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Sleep<\/cell>\n    <cell>1.06<\/cell>\n    <cell>0.96<\/cell>\n    <cell>1.17<\/cell>\n    <cell>0.236 (0.333)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>duration (h)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Overestimators<\/cell>\n    <cell>Sex (girls vs<\/cell>\n    <cell>0.84<\/cell>\n    <cell>0.64<\/cell>\n    <cell>1.10<\/cell>\n    <cell>0.200 (0.320)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>boys)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Age (per<\/cell>\n    <cell>0.97<\/cell>\n    <cell>0.88<\/cell>\n    <cell>1.07<\/cell>\n    <cell>0.523 (0.570)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>year)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>BMI (z-<\/cell>\n    <cell>0.92<\/cell>\n    <cell>0.84<\/cell>\n    <cell>1.01<\/cell>\n    <cell>0.086 (0.163)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>score)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Physical<\/cell>\n    <cell>1.18<\/cell>\n    <cell>0.98<\/cell>\n    <cell>1.42<\/cell>\n    <cell>0.088 (0.163)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activity<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(YAP-S)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Sedentary<\/cell>\n    <cell>0.80<\/cell>\n    <cell>0.64<\/cell>\n    <cell>1.00<\/cell>\n    <cell>0.055 (0.132)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>behavior<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(YAP-S)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Sleep<\/cell>\n    <cell>1.19<\/cell>\n    <cell>1.01<\/cell>\n    <cell>1.41<\/cell>\n    <cell>0.035 (0.094)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>duration (h)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Underestimators<\/cell>\n    <cell>Sex (girls vs<\/cell>\n    <cell>1.16<\/cell>\n    <cell>0.89<\/cell>\n    <cell>1.51<\/cell>\n    <cell>0.282 (0.364)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>boys)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Age (per<\/cell>\n    <cell>1.04<\/cell>\n    <cell>0.95<\/cell>\n    <cell>1.14<\/cell>\n    <cell>0.349 (0.419)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>year)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>BMI (z-<\/cell>\n    <cell>1.12<\/cell>\n    <cell>1.02<\/cell>\n    <cell>1.22<\/cell>\n    <cell>0.019 (0.058)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>score)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Physical<\/cell>\n    <cell>0.84<\/cell>\n    <cell>0.69<\/cell>\n    <cell>1.02<\/cell>\n    <cell>0.077 (0.163)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activity<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(YAP-S)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Sedentary<\/cell>\n    <cell>1.00<\/cell>\n    <cell>0.82<\/cell>\n    <cell>1.23<\/cell>\n    <cell>0.979 (0.979)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>behavior<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(YAP-S)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Sleep<\/cell>\n    <cell>0.84<\/cell>\n    <cell>0.74<\/cell>\n    <cell>0.96<\/cell>\n    <cell>0<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>duration (h)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Profile vs all / others", "Variable", "PR", "95% / CI / lower", "95% / CI / upper", "p-value (q-value)"],
+        ["Concordant low", "Sex (girls vs", "1.14", "0.95", "1.37", "0.153 (0.262)"],
+        ["", "boys)", "", "", "", ""],
+        ["", "Age (per", "0.97", "0.91", "1.03", "0.288 (0.364)"],
+        ["", "year)", "", "", "", ""],
+        ["", "BMI (z-", "1.30", "1.22", "1.39", "<0.001 (<0.001)"],
+        ["", "score)", "", "", "", ""],
+        ["", "Physical", "0.71", "0.62", "0.81", "<0.001 (<0.001)"],
+        ["", "activity", "", "", "", ""],
+        ["", "(YAP-S)", "", "", "", ""],
+        ["", "Sedentary", "1.32", "1.15", "1.52", "<0.001 (<0.001)"],
+        ["", "behavior", "", "", "", ""],
+        ["", "(YAP-S)", "", "", "", ""],
+        ["", "Sleep", "1.06", "0.96", "1.17", "0.236 (0.333)"],
+        ["", "duration (h)", "", "", "", ""],
+        ["Overestimators", "Sex (girls vs", "0.84", "0.64", "1.10", "0.200 (0.320)"],
+        ["", "boys)", "", "", "", ""],
+        ["", "Age (per", "0.97", "0.88", "1.07", "0.523 (0.570)"],
+        ["", "year)", "", "", "", ""],
+        ["", "BMI (z-", "0.92", "0.84", "1.01", "0.086 (0.163)"],
+        ["", "score)", "", "", "", ""],
+        ["", "Physical", "1.18", "0.98", "1.42", "0.088 (0.163)"],
+        ["", "activity", "", "", "", ""],
+        ["", "(YAP-S)", "", "", "", ""],
+        ["", "Sedentary", "0.80", "0.64", "1.00", "0.055 (0.132)"],
+        ["", "behavior", "", "", "", ""],
+        ["", "(YAP-S)", "", "", "", ""],
+        ["", "Sleep", "1.19", "1.01", "1.41", "0.035 (0.094)"],
+        ["", "duration (h)", "", "", "", ""],
+        ["Underestimators", "Sex (girls vs", "1.16", "0.89", "1.51", "0.282 (0.364)"],
+        ["", "boys)", "", "", "", ""],
+        ["", "Age (per", "1.04", "0.95", "1.14", "0.349 (0.419)"],
+        ["", "year)", "", "", "", ""],
+        ["", "BMI (z-", "1.12", "1.02", "1.22", "0.019 (0.058)"],
+        ["", "score)", "", "", "", ""],
+        ["", "Physical", "0.84", "0.69", "1.02", "0.077 (0.163)"],
+        ["", "activity", "", "", "", ""],
+        ["", "(YAP-S)", "", "", "", ""],
+        ["", "Sedentary", "1.00", "0.82", "1.23", "0.979 (0.979)"],
+        ["", "behavior", "", "", "", ""],
+        ["", "(YAP-S)", "", "", "", ""],
+        ["", "Sleep", "0.84", "0.74", "0.96", "0"],
+        ["", "duration (h)", "", "", "", ""]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.377"
+    },
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.635"
+    },
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.592"
+    },
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 6,
+      "grp_id": 2,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 6,
+      "grp_id": 2,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "2"
+    },
+    {
+      "text_id": 7,
+      "grp_id": 3,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.56"
+    },
+    {
+      "text_id": 7,
+      "grp_id": 3,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 16,
+      "grp_id": 4,
+      "lhs": "I²",
+      "df": null,
+      "comp": "=",
+      "rhs": "96.9-98.8"
+    },
+    {
+      "text_id": 29,
+      "grp_id": 5,
+      "lhs": "Z",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.96"
+    },
+    {
+      "text_id": 31,
+      "grp_id": 6,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "1017"
+    },
+    {
+      "text_id": 34,
+      "grp_id": 7,
+      "lhs": "test",
+      "df": "(499)",
+      "comp": "=",
+      "rhs": "740.1"
+    },
+    {
+      "text_id": 34,
+      "grp_id": 7,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 36,
+      "grp_id": 8,
+      "lhs": "overall",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 36,
+      "grp_id": 8,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "4"
+    },
+    {
+      "text_id": 36,
+      "grp_id": 8,
+      "lhs": "and",
+      "df": null,
+      "comp": "≤",
+      "rhs": "2"
+    },
+    {
+      "text_id": 36,
+      "grp_id": 8,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "3"
+    },
+    {
+      "text_id": 59,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.823"
+    },
+    {
+      "text_id": 62,
+      "grp_id": 10,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 62,
+      "grp_id": 10,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "4"
+    },
+    {
+      "text_id": 65,
+      "grp_id": 11,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.369"
+    },
+    {
+      "text_id": 65,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 65,
+      "grp_id": 11,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.377"
+    },
+    {
+      "text_id": 65,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 66,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 67,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 14,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.56"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 14,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 14,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.58"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 14,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.46"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 14,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.31"
+    },
+    {
+      "text_id": 71,
+      "grp_id": 15,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 71,
+      "grp_id": 15,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "4"
+    },
+    {
+      "text_id": 72,
+      "grp_id": 16,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "2"
+    },
+    {
+      "text_id": 72,
+      "grp_id": 16,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "3"
+    },
+    {
+      "text_id": 72,
+      "grp_id": 16,
+      "lhs": "LR-",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.90"
+    },
+    {
+      "text_id": 75,
+      "grp_id": 17,
+      "lhs": "difference",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.09"
+    },
+    {
+      "text_id": 75,
+      "grp_id": 17,
+      "lhs": "z",
+      "df": null,
+      "comp": "=",
+      "rhs": "3.82"
+    },
+    {
+      "text_id": 75,
+      "grp_id": 17,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 76,
+      "grp_id": 18,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 76,
+      "grp_id": 18,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "4"
+    },
+    {
+      "text_id": 78,
+      "grp_id": 19,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "334"
+    },
+    {
+      "text_id": 78,
+      "grp_id": 19,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "316"
+    },
+    {
+      "text_id": 78,
+      "grp_id": 19,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "188"
+    },
+    {
+      "text_id": 78,
+      "grp_id": 19,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "179"
+    },
+    {
+      "text_id": 79,
+      "grp_id": 20,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 79,
+      "grp_id": 20,
+      "lhs": "q",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 79,
+      "grp_id": 20,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.160"
+    },
+    {
+      "text_id": 81,
+      "grp_id": 21,
+      "lhs": "q",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 82,
+      "grp_id": 22,
+      "lhs": "q",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.033"
+    },
+    {
+      "text_id": 82,
+      "grp_id": 22,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.019"
+    },
+    {
+      "text_id": 82,
+      "grp_id": 22,
+      "lhs": "q",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.058"
+    },
+    {
+      "text_id": 84,
+      "grp_id": 23,
+      "lhs": "q",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 84,
+      "grp_id": 23,
+      "lhs": "q",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.042"
+    },
+    {
+      "text_id": 86,
+      "grp_id": 24,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "13"
+    },
+    {
+      "text_id": 90,
+      "grp_id": 25,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "1017"
+    },
+    {
+      "text_id": 91,
+      "grp_id": 26,
+      "lhs": "score",
+      "df": null,
+      "comp": "≥",
+      "rhs": "4"
+    },
+    {
+      "text_id": 91,
+      "grp_id": 26,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 92,
+      "grp_id": 27,
+      "lhs": "0.81",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 92,
+      "grp_id": 27,
+      "lhs": "1.57",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 94,
+      "grp_id": 28,
+      "lhs": "q",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 98,
+      "grp_id": 29,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.377"
+    },
+    {
+      "text_id": 98,
+      "grp_id": 29,
+      "lhs": "AUC",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.66"
+    },
+    {
+      "text_id": 98,
+      "grp_id": 29,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.377"
+    },
+    {
+      "text_id": 98,
+      "grp_id": 29,
+      "lhs": "AUC",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.66"
+    },
+    {
+      "text_id": 99,
+      "grp_id": 30,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 99,
+      "grp_id": 30,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "4"
+    },
+    {
+      "text_id": 104,
+      "grp_id": 31,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "2"
+    },
+    {
+      "text_id": 104,
+      "grp_id": 31,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "3"
+    },
+    {
+      "text_id": 122,
+      "grp_id": 32,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 129,
+      "grp_id": 33,
+      "lhs": "ρ",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.592"
+    },
+    {
+      "text_id": 141,
+      "grp_id": 34,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.160"
+    },
+    {
+      "text_id": 147,
+      "grp_id": 35,
+      "lhs": "q",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.033"
+    },
+    {
+      "text_id": 203,
+      "grp_id": 36,
+      "lhs": "if",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 205,
+      "grp_id": 37,
+      "lhs": "AUC",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.50"
+    },
+    {
+      "text_id": 207,
+      "grp_id": 38,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 207,
+      "grp_id": 38,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "4"
+    },
+    {
+      "text_id": 209,
+      "grp_id": 39,
+      "lhs": "if",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 211,
+      "grp_id": 40,
+      "lhs": "AUC",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.50"
+    },
+    {
+      "text_id": 213,
+      "grp_id": 41,
+      "lhs": "IFIS",
+      "df": null,
+      "comp": "≤",
+      "rhs": "3"
+    },
+    {
+      "text_id": 213,
+      "grp_id": 41,
+      "lhs": "vs",
+      "df": null,
+      "comp": "≥",
+      "rhs": "4"
+    },
+    {
+      "text_id": 214,
+      "grp_id": 42,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "1017"
+    },
+    {
+      "text_id": 216,
+      "grp_id": 43,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "1017"
+    }
+  ]
+}

@@ -1,0 +1,2822 @@
+{
+  "paper_id": "10.1016+j.jshs.2020.06.005",
+  "info": [
+    {
+      "title": "Canadian children's and youth's adherence to the 24-h movement guidelines during the COVID-19 pandemic: A decision tree analysis",
+      "keywords": ["Decision tree analysis", "Parental perceived capability", "Physical activity", "Screen time", "Sleep"],
+      "doi": "10.1016/j.jshs.2020.06.005",
+      "file_hash": "857e9cd3b4585894",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.jshs.2020.06.005.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Michelle",
+      "family": "Guerrero",
+      "affiliation": "Children's Hospital of Eastern Ontario Research Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tK1H 8L1\n\t\t\t\t\t\t\t\t\tOttawa\n\t\t\t\t\t\t\t\t\tON\n\t\t\t\t\t\t\t\t\tCanada",
+      "email": "mguerrero@cheo.on.ca",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "Leigh",
+      "family": "Vanderloo",
+      "affiliation": "M5S 1M2\n\t\t\t\t\t\t\t\t\tParticipACTION Toronto\n\t\t\t\t\t\t\t\t\tON\n\t\t\t\t\t\t\t\t\tCanada",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "Ryan",
+      "family": "Rhodes",
+      "affiliation": "School of Exercise Science, Physical and Health Education\n\t\t\t\t\t\t\t\tBehavioral Medicine Laboratory\n\t\t\t\t\t\t\t\tUniversity of Victoria\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tV8W 2Y2\n\t\t\t\t\t\t\t\t\tVictoria\n\t\t\t\t\t\t\t\t\tBC\n\t\t\t\t\t\t\t\t\tCanada",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "Guy",
+      "family": "Faulkner",
+      "affiliation": "School of Kinesiology\n\t\t\t\t\t\t\t\tUniversity of British Columbia\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tV6T 1Z1\n\t\t\t\t\t\t\t\t\tVancouver\n\t\t\t\t\t\t\t\t\tBC\n\t\t\t\t\t\t\t\t\tCanada",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "Sarah",
+      "family": "Moore",
+      "affiliation": "Department of Therapeutic Recreation\n\t\t\t\t\t\t\t\tFaculty of Child, Family, and Community Studies\n\t\t\t\t\t\t\t\tDouglas College\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tV3B 7X3\n\t\t\t\t\t\t\t\t\tCoquitlam\n\t\t\t\t\t\t\t\t\tBC\n\t\t\t\t\t\t\t\t\tCanada",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 6,
+      "given": "Mark",
+      "family": "Tremblay",
+      "affiliation": "Children's Hospital of Eastern Ontario Research Institute\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tK1H 8L1\n\t\t\t\t\t\t\t\t\tOttawa\n\t\t\t\t\t\t\t\t\tON\n\t\t\t\t\t\t\t\t\tCanada",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Purpose: The purpose of this study was to use decision tree modeling to generate profiles of children and youth who were more and less likely to meet the Canadian 24-h movement guidelines during the coronavirus disease-2019 (COVID-19) outbreak.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: Data for this study were from a nationally representative sample of 1472 Canadian parents (Mean age = 45.12, SD = 7.55) of children (5À11 years old) or youth (12À17 years old).",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data were collected in April 2020 via an online survey.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Survey items assessed demographic, behavioral, social, micro-environmental, and macro-environmental characteristics.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Four decision trees of adherence and non-adherence to all movement recommendations combined and each individual movement recommendation (physical activity (PA), screen time, and sleep) were generated.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: Results revealed specific combinations of adherence and non-adherence characteristics.",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Characteristics associated with adherence to the recommendation(s) included high parental perceived capability to restrict screen time, annual household income of CAD 100,000, increases in children's and youth's outdoor PA/sport since the COVID-19 outbreak began, being a boy, having parents younger than 43 years old, and small increases in children's and youth's sleep duration since the COVID-19 outbreak began.",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Characteristics associated with non-adherence to the recommendation(s) included low parental perceived capability to restrict screen time, youth aged 12À17 years, decreases in children's and youth's outdoor PA/sport since the COVID-19 outbreak began, primary residences located in all provinces except Quebec, low parental perceived capability to support children's and youth's sleep and PA, and annual household income of CAD 99,999.",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Conclusion: Our results show that specific characteristics interact to contribute to (non)adherence to the movement behavior recommendations.",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results highlight the importance of targeting parents' perceived capability for the promotion of children's and youth's movement behaviors during challenging times of the COVID-19 pandemic, paying particular attention to enhancing parental perceived capability to restrict screen time.",
+      "text_id": 10,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Coronavirus disease-2019 (COVID-19) was declared a pandemic by the World Health Organization on March 11, 2020. 1 Shortly thereafter, states of emergency or public health emergency were declared worldwide, including in provinces and territories across Canada, resulting in community-wide lockdowns and stay-at-home orders. 2 Initial COVID-19-related closures and restrictions undoubtedly disrupted daily routines, arrangements, and rhythms of individual and family lives.",
+      "text_id": 11,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Coronavirus disease-2019 (COVID-19) was declared a pandemic by the World Health Organization on March 11, 2020. <ref type=\"bibr\" target=\"#b0\">1<\/ref> Shortly thereafter, states of emergency or public health emergency were declared worldwide, including in provinces and territories across Canada, resulting in community-wide lockdowns and stay-at-home orders. <ref type=\"bibr\" target=\"#b1\">2<\/ref> Initial COVID-19-related closures and restrictions undoubtedly disrupted daily routines, arrangements, and rhythms of individual and family lives."
+    },
+    {
+      "text": "For children and youth, closures of schools and parks, cancellations of organized sports and recreational activities, and increased accessibility to and time spent on screens may have negatively impacted their physical activity (PA), sedentary, and sleep behaviors.",
+      "text_id": 12,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data from China 3 have confirmed this assumption; children's and youth's PA levels have decreased and screen time has increased since the COVID-19 outbreak.",
+      "text_id": 13,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Unambiguous evidence has shown that sufficient levels of PA, limited screen time, and adequate sleep are linked to indicators of physical and mental well-being among children and youth. 4À6 This accumulation of evidence ultimately led to the release of the Canadian 24-h Movement Guidelines for Children and Youth (5À17 years), which recommend a minimum of 60 min of moderate-to-vigorous PA per day, no more than 2 h of recreational screen time per day, and 9À11 h and 8À10 h of uninterrupted sleep per night for those aged 5À13 years and 14À17 years, respectively. 7 Children and youth who meet all recommendations have better physical, cognitive, and mental health compared to those who meet no or 1 movement behavior. 8 As the COVID-19 pandemic continues and chances of a second wave occurring remain, identifying characteristics of (non)adherence to the movement behavior recommendations during this pandemic is crucial.",
+      "text_id": 14,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Unambiguous evidence has shown that sufficient levels of PA, limited screen time, and adequate sleep are linked to indicators of physical and mental well-being among children and youth. <ref type=\"bibr\">4À6<\/ref> This accumulation of evidence ultimately led to the release of the Canadian 24-h Movement Guidelines for Children and Youth (5À17 years), which recommend a minimum of 60 min of moderate-to-vigorous PA per day, no more than 2 h of recreational screen time per day, and 9À11 h and 8À10 h of uninterrupted sleep per night for those aged 5À13 years and 14À17 years, respectively. <ref type=\"bibr\" target=\"#b6\">7<\/ref> Children and youth who meet all recommendations have better physical, cognitive, and mental health compared to those who meet no or 1 movement behavior. <ref type=\"bibr\" target=\"#b7\">8<\/ref> As the COVID-19 pandemic continues and chances of a second wave occurring remain, identifying characteristics of (non)adherence to the movement behavior recommendations during this pandemic is crucial."
+    },
+    {
+      "text": "Such insights can inform the development of interventions aimed at mitigating the negative impact of COVID-19 on children's and youth's movement behaviors, and, by extension, their overall health and wellbeing.",
+      "text_id": 15,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Accordingly, the purpose of this study was to use decision tree modeling to generate profiles of children and youth (for simplicity, hereafter referred to as children unless otherwise specified) who were more and less likely to meet the 24-h movement recommendations during the COVID-19 outbreak.",
+      "text_id": 16,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Decision tree modeling is a machine learning technique that has been applied in medicine and public health to identify people at risk of health conditions such as colon cancer, 9 major depressive disorder, 10 and postmenopausal weight gain. 11 It is a powerful statistical tool used to recursively split independent variables into groups to predict an outcome.",
+      "text_id": 17,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Decision tree modeling is a machine learning technique that has been applied in medicine and public health to identify people at risk of health conditions such as colon cancer, <ref type=\"bibr\" target=\"#b8\">9<\/ref> major depressive disorder, <ref type=\"bibr\" target=\"#b9\">10<\/ref> and postmenopausal weight gain. <ref type=\"bibr\" target=\"#b10\">11<\/ref> It is a powerful statistical tool used to recursively split independent variables into groups to predict an outcome."
+    },
+    {
+      "text": "Unlike more common methods (e.g., logistic regression) that assume predictors behave independently, decision tree modeling assumes interactions among predictors.",
+      "text_id": 18,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Drawing broadly from ecological system theory, 12 profiles in the current study were generated based on 5 broad categories of variables: (1) demographic (child age and gender, parental age and level of education), (2) behavioral (changes in children's play and movement behaviors and changes in family play and movement behaviors), (3) social (family distress, ownership of dog, parental support, and parental perceived capability), (4) micro-environmental (household dwelling and number of children in house), and (5) macroenvironmental (region of primary residence).",
+      "text_id": 19,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Drawing broadly from ecological system theory, <ref type=\"bibr\" target=\"#b11\">12<\/ref> profiles in the current study were generated based on 5 broad categories of variables: (1) demographic (child age and gender, parental age and level of education), (2) behavioral (changes in children's play and movement behaviors and changes in family play and movement behaviors), (3) social (family distress, ownership of dog, parental support, and parental perceived capability), (4) micro-environmental (household dwelling and number of children in house), and (5) macroenvironmental (region of primary residence)."
+    },
+    {
+      "text": "The variables used in our study have been commonly identified as correlates of children's movement behaviors in previous works; 13À16 thus, specific relationships were expected to emerge.",
+      "text_id": 20,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, no a priori hypothesis were forwarded because decision tree modeling is a data-driven analysis and requires no formal theoretical structure.",
+      "text_id": 21,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Methods",
+      "text_id": 22,
+      "paragraph_id": 5,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Methods<\/head>"
+    },
+    {
+      "text": "Data for this study were from a survey conducted in April 2020 by ParticipACTION (http://www.participaction.com), a national non-profit organization that promotes PA among Canadians.",
+      "text_id": 23,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Data for this study were from a survey conducted in April 2020 by ParticipACTION (<ref type=\"url\" target=\"http://www.participaction.com\">www.participaction.com<\/ref>), a national non-profit organization that promotes PA among Canadians."
+    },
+    {
+      "text": "The purpose of the survey was to inform the upcoming release of its biennial Report Card on Physical Activity for Children and Youth by assessing changes in children's movement behaviors during the COVID-19 pandemic.",
+      "text_id": 24,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A sample of 1503 parents who were representative of the Canadian population based on sociodemographic characteristics was invited to complete a 15-min online survey (in English or French) approximately 1 month after the World Health Organization declared COVID-19 a global pandemic.",
+      "text_id": 25,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Recruitment was conducted by a third-party market research company, Maru/Matchbox, that has a consumer online database of >120,000 Canadian panelists.",
+      "text_id": 26,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Recruitment was conducted by a third-party market research company, Maru/Matchbox, that has a consumer online database of &gt;120,000 Canadian panelists."
+    },
+    {
+      "text": "Panel participants were recruited online via email invitation and website sign-up.",
+      "text_id": 27,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data were collected over 4 days.",
+      "text_id": 28,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants who completed the survey received a small cash incentive (CAD 0.50ÀCAD 3.00) and were entered into prize contests.",
+      "text_id": 29,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Parents with 1 child were instructed to answer the survey based on the child whose given name came first alphabetically.",
+      "text_id": 30,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were screened out from the study if someone in their household was diagnosed with COVID-19 or if their household was under a self-isolation or quarantine order.",
+      "text_id": 31,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thirty-one participants were excluded for various reasons (i.e., implausible data, incomplete data, diagnosed with COVID-19, or in self-isolation).",
+      "text_id": 32,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Panel participants provided written consent when they chose to participate in survey-based studies and when they agreed to complete the survey in the current study.",
+      "text_id": 33,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ethics approval for this secondary data analysis was obtained from the University of British Columbia Research Ethics Board (#H20-01371).",
+      "text_id": 34,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data included in this study were from 1472 parents (Mean age = 45.1 years, SD = 7.5) of children aged 5À17 years living in Canada.",
+      "text_id": 35,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Most respondents were female (54.0%), of European ancestry (79.2%), married/common-law (84.1%), employed full-time (70.1%), and had a college/ university degree (72.4%).",
+      "text_id": 36,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Household income ranged from CAD 49,999 (14.8%) to CAD 50,000ÀCAD 99,999 (33.9%) to CAD 100,000 (39.8%).",
+      "text_id": 37,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Annual household income was not reported for 11.5% of the sample.",
+      "text_id": 38,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The sample was stratified by gender and age of the child, resulting in a relatively equal balance of boys (52.6%) and girls (46.9%), and of those aged 5À11 years (47.1%) and 12À17 years (52.9%).",
+      "text_id": 39,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Two parents reported that their child identified as non-binary and 5 parents declined to respond.",
+      "text_id": 40,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These children were categorized as \"other\" (0.5%).",
+      "text_id": 41,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The primary residence of most of the children was a house (72.2%), with fewer living in an apartment/townhouse (26.6%).",
+      "text_id": 42,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A small proportion of parents (1.2%) reported their primary residence as \"other\".",
+      "text_id": 43,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Measures",
+      "text_id": 44,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "<head n=\"2.2.\" >Measures<\/head>"
+    },
+    {
+      "text": "We included 33 explanatory variables.",
+      "text_id": 45,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These included demographic variables (n = 6; child age and gender, parental education and age, marital status, household income) and behavioral variables (n = 14), namely, changes in child movement and play behaviors and changes in family movement behaviors.",
+      "text_id": 46,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Changes in child movement and play behaviors included biking/walking in the neighborhood, outdoor PA/ sport, indoor PA/sport, household chores, outdoor play, indoor play, recreational screen time, social media, nonÀscreen-based sedentary activities, sleep duration, sleep quality, and overall movement behaviors.",
+      "text_id": 47,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Changes in family movement behaviors included family time spent in PA and sedentary behaviors.",
+      "text_id": 48,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Social variables (n = 10) included dog ownership, family distress, changes in parental support since COVID-19 (encouragement of PA/sport, co-participation, encouragement of chores, encouragement of restricted screen time, and encouragement of sleep), and parental perceived capability to support their children's PA and sleep and limit their children's screen time over the next 2 weeks.",
+      "text_id": 49,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Micro-environmental variables (n = 2; type of household dwelling and number of children in household) and macro-environmental variables (n = 1; region of primary residence) were also assessed.",
+      "text_id": 50,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Supplementary 1 outlines the response scale for each variable as well as variable type (e.g., nominal and ordinal) and number of levels.",
+      "text_id": 51,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Each movement behavior was assessed using a 1-item measure taken from the Canadian Health Measures Survey.",
+      "text_id": 52,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were asked to rate their children's current (i.e., during the COVID-19 outbreak) PA, screen time, and sleep behavior using the following respective items: (1) \"In the last week, on how many days did your child engage in moderate-to-vigorous PA for a total of at least 60 min per day?\", (2) \"On average, how many total hours and minutes per day did your child watch TV, use the computer, and use social media and inactive video games, during their free time over the last week?\", and (3) \"In the last week, how many hours did your child usually spend sleeping in a 24-h period (including naps but excluding time spent resting)?\"",
+      "text_id": 53,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Children were coded as 1 if they did not meet the behavior recommendation and as 0 if they did meet the recommendation.",
+      "text_id": 54,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Decision tree models were generated using the exhaustive chi-square automatic interaction detector (CHAID) algorithm. 17 Exhaustive CHAID, a form of binary recursive partitioning, allows researchers to identify mutually exclusive subgroups of a diverse population using various characteristics.",
+      "text_id": 55,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Decision tree models were generated using the exhaustive chi-square automatic interaction detector (CHAID) algorithm. <ref type=\"bibr\" target=\"#b16\">17<\/ref> Exhaustive CHAID, a form of binary recursive partitioning, allows researchers to identify mutually exclusive subgroups of a diverse population using various characteristics."
+    },
+    {
+      "text": "This algorithm uses the x 2 test of independence to identify relationships between independent (explanatory) variables and then selects the explanatory variables that best explain the dependent (response) variable based on \"IFÀTHEN\" logic. 18 Exhaustive CHAID is a non-parametric method and therefore is robust against issues pertaining to multicollinearity, outliers, distribution, structure, and missing data. 18 It is an exploratory technique that is designed to handle a mixture of data types (continuous and categorical data). 18, 19 Exhaustive CHAID is especially appropriate when examining large quantities of data because it is able to examine higher-order interactions among predictors before selecting that variables should be included in the model. 18, 20, 21 The exhaustive CHAID model estimation begins with the entire sample (called \"parent node\") and then subsequently splits the parent nodes into meaningful homogeneous subgroups (\"child nodes\").",
+      "text_id": 56,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "This algorithm uses the x 2 test of independence to identify relationships between independent (explanatory) variables and then selects the explanatory variables that best explain the dependent (response) variable based on \"IFÀTHEN\" logic. <ref type=\"bibr\" target=\"#b17\">18<\/ref> Exhaustive CHAID is a non-parametric method and therefore is robust against issues pertaining to multicollinearity, outliers, distribution, structure, and missing data. <ref type=\"bibr\" target=\"#b17\">18<\/ref> It is an exploratory technique that is designed to handle a mixture of data types (continuous and categorical data). <ref type=\"bibr\" target=\"#b17\">18,<\/ref> <ref type=\"bibr\" target=\"#b18\">19<\/ref> Exhaustive CHAID is especially appropriate when examining large quantities of data because it is able to examine higher-order interactions among predictors before selecting that variables should be included in the model. <ref type=\"bibr\" target=\"#b17\">18,<\/ref> <ref type=\"bibr\" target=\"#b19\">20,<\/ref> <ref type=\"bibr\" target=\"#b20\">21<\/ref> The exhaustive CHAID model estimation begins with the entire sample (called \"parent node\") and then subsequently splits the parent nodes into meaningful homogeneous subgroups (\"child nodes\")."
+    },
+    {
+      "text": "Splitting continues until predetermined stopping criteria are met.",
+      "text_id": 57,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The following statistical model specifications and stopping criteria were applied in the current study: (1) the significant level for splitting nodes was set at p < 0.05; (2) the Bonferroni method was used to obtain the significant values of adjustment; (3) the minimum change in expected cell frequencies was 0.001; (4) Pearson's x 2 was used; (5) model depth was set at 3; (6) the minimum number of cases in parent nodes was set at 147 (10% of sample) and in child nodes was set at 74 (5% of sample); (7) cross-validation (10-folds) was used to assess the tree structure; and (8) the misclassification risk was calculated as a measure of model reliability.",
+      "text_id": 58,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "The following statistical model specifications and stopping criteria were applied in the current study: (1) the significant level for splitting nodes was set at p &lt; 0.05; (2) the Bonferroni method was used to obtain the significant values of adjustment; (3) the minimum change in expected cell frequencies was 0.001; (4) Pearson's x 2 was used; (5) model depth was set at 3; (6) the minimum number of cases in parent nodes was set at 147 (10% of sample) and in child nodes was set at 74 (5% of sample); (7) cross-validation (10-folds) was used to assess the tree structure; and (8) the misclassification risk was calculated as a measure of model reliability."
+    },
+    {
+      "text": "Data were analyzed using SPSS (Version 25.0; IBM, Armonk, NY, USA).",
+      "text_id": 59,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A total of 4 models were generated, one for all movement behavior recommendations combined and one for each individual movement behavior recommendation.",
+      "text_id": 60,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Adherence and non-adherence profiles were identified for each model, whereby children in the adherence group were those who were most likely to meet the recommendation(s) and children in the non-adherence group were those who were least likely to meet the recommendation(s).",
+      "text_id": 61,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Missing values (<1%) were handled using the exhaustive CHAID method.",
+      "text_id": 62,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Missing values (&lt;1%) were handled using the exhaustive CHAID method."
+    },
+    {
+      "text": " >Results",
+      "text_id": 63,
+      "paragraph_id": 12,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "<head n=\"3.\" >Results<\/head>"
+    },
+    {
+      "text": "Fig. 1 shows the final 2-level model comprising 10 nodes, 6 of which were terminal subgroups (i.e., nodes that do not split any further).",
+      "text_id": 64,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref> shows the final 2-level model comprising 10 nodes, 6 of which were terminal subgroups (i.e., nodes that do not split any further)."
+    },
+    {
+      "text": "Three predictor variables reached significance and were selected because they best differentiated children who met all 3 movement behaviors (2.6%) from those who did not (97.4%).",
+      "text_id": 65,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The first level of the tree was split into 3 initial branches according to parental perceived capability to restrict children's screen time, meaning that this variable was the best predictor of adherence and non-adherence to all movement behavior recommendations.",
+      "text_id": 66,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The adherence group included children whose parents reported very high perceived capability (responded strongly agree) to restrict children's screen time (Node 3) and whose parents reported that their children either maintained or increased (responded about the same, a little more, or a lot more) time spent walking/biking in their neighborhood (Node 9; 16.2% meeting).",
+      "text_id": 67,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The probability decreased when children's time spent walking/biking in their neighborhood decreased (Node 8, 3.1% meeting).",
+      "text_id": 68,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The non-adherence group included children whose parents did not report high or very high perceived capability (responded neutral, disagree, strongly disagree) to restrict screen time (Node 1, 0.5% meeting) and those aged 12À17 years old (Node 5, 0.0% meeting).",
+      "text_id": 69,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Decision rules for the prediction of non-adherence to all recommendations are presented in Table 1, which also shows detailed \"IFÀTHEN\" rules.",
+      "text_id": 70,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Decision rules for the prediction of non-adherence to all recommendations are presented in Table <ref type=\"table\">1<\/ref>, which also shows detailed \"IFÀTHEN\" rules."
+    },
+    {
+      "text": "These \"IFÀTHEN\" rules mirror the results of the decision tree model but are displayed in plain text and show the probability of non-adherence.",
+      "text_id": 71,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For example, in Table 1, the row for the adherence group (Node 9) reads: IF parental perceived capability to restrict screen time was strongly agree AND time spent walking/biking in neighborhood was about the same, increased a little, or increased a lot THEN 83.8%.",
+      "text_id": 72,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "For example, in Table <ref type=\"table\">1<\/ref>, the row for the adherence group (Node 9) reads: IF parental perceived capability to restrict screen time was strongly agree AND time spent walking/biking in neighborhood was about the same, increased a little, or increased a lot THEN 83.8%."
+    },
+    {
+      "text": "A lay interpretation of this \"IFÀTHEN\" rule is as follow: IF parents felt strongly about their capability to restrict their child's screen time AND their child's time spent walking/biking in their neighborhood remained about the same or increased THEN the probability of their child not meeting all 3 recommendations was 83.8%.",
+      "text_id": 73,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The classification tree model explained 97.4% of total variance after cross-validation analysis.",
+      "text_id": 74,
+      "paragraph_id": 13,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig. 2 shows the final 3-level decision tree model including a total of 12 nodes, 7 of which were terminal subgroups.",
+      "text_id": 75,
+      "paragraph_id": 14,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Fig. <ref type=\"figure\" target=\"#fig_1\">2<\/ref> shows the final 3-level decision tree model including a total of 12 nodes, 7 of which were terminal subgroups."
+    },
+    {
+      "text": "Five variables were selected that best differentiated children who met the PA recommendation (18.2%) from those who did not (81.8%).",
+      "text_id": 76,
+      "paragraph_id": 14,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The first level of the tree was split into 3 initial branches according to changes in children's outdoor PA/sport since COVID-19, meaning that this variable was the best predictor of adherence and non-adherence to the PA recommendation.",
+      "text_id": 77,
+      "paragraph_id": 14,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The adherence group included children whose parents reported an increase (responded a little more or a lot more) in their children's outdoor PA/sport since COVID-19 (Node 3) and who were boys (Node 8, 45.0% meeting).",
+      "text_id": 78,
+      "paragraph_id": 14,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The probability decreased when children were girls or when children identified as \"other\" (i.e., parents who reported their child's gender identity as non-binary or who declined to respond) (Node 9, 26.3% meeting).",
+      "text_id": 79,
+      "paragraph_id": 14,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The non-adherence group included children whose parents reported a large decrease (responded a lot less) in their children's outdoor PA/sport since COVID-19 (Node 1) and whose parents did not report very high perceived capability (responded strongly disagree, disagree, neutral, or agree) to support their children's sleep (Node 4, 8.0% meeting).",
+      "text_id": 80,
+      "paragraph_id": 14,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In contrast, the probability of meeting the recommendation increased when parents reported very high perceived capability (responded strongly agree) to support their children's sleep (Node 5, 18.1% Table 1 Percentage of classification of non-adherence to all movement behavior recommendations for terminal nodes, by risk probability based on decision rules using the exhaustive x 2 automatic interaction detector method.",
+      "text_id": 81,
+      "paragraph_id": 14,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "In contrast, the probability of meeting the recommendation increased when parents reported very high perceived capability (responded strongly agree) to support their children's sleep (Node 5, 18.1% Table <ref type=\"table\">1<\/ref> Percentage of classification of non-adherence to all movement behavior recommendations for terminal nodes, by risk probability based on decision rules using the exhaustive x 2 automatic interaction detector method."
+    },
+    {
+      "text": "Parental perceived capability to restrict screen time was neutral, disagree, or strongly disagree AND child was 5À11 years old 98.8% 2th 5 Parental perceived capability to restrict screen time was neutral, disagree, or strongly disagree AND child was 12À17 years old 100.0% 3th 6 Parental perceived capability to restrict screen time was agree AND child was 5À11 years old 95.0% 4th 7 Parental perceived capability to restrict screen time was agree AND child was 12À17 years old 99.0% 5th 8 Parental perceived capability to restrict screen time was strongly agree AND change in walking/biking in neighborhood was a little less or a lot less 96.9% 6th 9 Parental perceived capability to restrict screen time was strongly agree AND change in walking/biking in neighborhood was about the same, a little more, or a lot more 83.8%",
+      "text_id": 82,
+      "paragraph_id": 15,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Notes: Decision rules displayed in plain text.",
+      "text_id": 83,
+      "paragraph_id": 16,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "An example of a lay interpretation is as follows: for the 6th classification/Node 9, IF parents felt strongly about their capability to restrict their child's screen time AND their child's time spent walking/biking in their neighborhood remained the same or increased since coronavirus disease-2019, THEN the probability of their child not meeting all 3 recommendations was 83.8%. meeting).",
+      "text_id": 84,
+      "paragraph_id": 16,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Decision rules for the prediction of adherence to the PA recommendation are presented in Supplementary 2.",
+      "text_id": 85,
+      "paragraph_id": 16,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The classification tree model explained 81.8% of total variance after cross-validation analysis.",
+      "text_id": 86,
+      "paragraph_id": 17,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As illustrated in Fig. 3, the final model had 2 levels, 11 nodes, and 7 terminal subgroups.",
+      "text_id": 87,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "As illustrated in Fig. <ref type=\"figure\">3<\/ref>, the final model had 2 levels, 11 nodes, and 7 terminal subgroups."
+    },
+    {
+      "text": "Four variables were selected that best differentiated children who met the screen time recommendation (11.3%) from those who did not (88.7%).",
+      "text_id": 88,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The first level of the tree was split into 4 initial branches according to parental perceived capability to restrict children's screen time, indicating that this variable was the best predictor of (non)adherence to the screen time recommendation.",
+      "text_id": 89,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The adherence group included children whose parents reported very high perceived capability (responded strongly agree) to restrict screen time (Node 4) and whose parents were 43 years old (Node 9; 39.0% meeting).",
+      "text_id": 90,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The probability of meeting the recommendation decreased when parents were > 43 years old (Node 10, 16.5%).",
+      "text_id": 91,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "The probability of meeting the recommendation decreased when parents were &gt; 43 years old (Node 10, 16.5%)."
+    },
+    {
+      "text": "The nonadherence group included children whose parents reported very low or low perceived capability (responded strongly disagree or disagree) to restrict screen time (Node 1) and whose primary family residence was located in British Columbia, the Prairies, Ontario, or the Atlantic Provinces (Node 5, 1.4% meeting).",
+      "text_id": 92,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The probability of meeting the recommendation slightly increased when the children's primary family residences were located in Quebec (Node 6, 8.8% meeting).",
+      "text_id": 93,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Decision rules for the prediction of adherence to the screen time recommendation are presented in Supplementary 2.",
+      "text_id": 94,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The classification tree model explained 88.7% of total variance after cross-validation analysis.",
+      "text_id": 95,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As shown in Fig. 4, the final model had 3 levels, 14 nodes, and 9 terminal nodes (subgroups).",
+      "text_id": 96,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "As shown in Fig. <ref type=\"figure\">4<\/ref>, the final model had 3 levels, 14 nodes, and 9 terminal nodes (subgroups)."
+    },
+    {
+      "text": "Three variables were selected that best differentiated children who met the sleep duration recommendation (71.1%) from those who did not (28.9%).",
+      "text_id": 97,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The first level of the tree was spilt into 4 initial branches according to changes in children's sleep duration since COVID-19, indicating that this variable was the best predictor of (non)adherence to the sleep duration recommendation.",
+      "text_id": 98,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The adherence group included children whose parents reported a slight increase (responded a little more) in their children's sleep duration since COVID-19 (Node 3) and who came from a household with an annual income of CAD 100,000 (Node 9, 85.6% meeting).",
+      "text_id": 99,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The probability decreased when annual household income was CAD 99,999 (Node 8, 71.5% meeting).",
+      "text_id": 100,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The non-adherence group included children whose parents reported no change (responded about the same) in their children's sleep duration since COVID-19 (Node 2), whose parents were neutral about their ability to support their children's PA behavior (Node 5), and who came from a households with an annual income of CAD 99,999 (Node 10, 50.9% meeting).",
+      "text_id": 101,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Decision rules for the prediction of adherence to the sleep recommendations are presented in Supplementary 2.",
+      "text_id": 102,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The classification tree model explained 70.0% of total variance after cross-validation analysis.",
+      "text_id": 103,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The current study aimed to generate models that describe profiles of school-aged children and youth (5À17 years old) who were more or less likely to meet the 24-h movement behaviors during the COVID-19 outbreak.",
+      "text_id": 104,
+      "paragraph_id": 20,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The models, derived from a decision tree method, showed profiles based on a wide range of characteristics, including demographic, behavioral, social, micro-environmental, and macro-environmental.",
+      "text_id": 105,
+      "paragraph_id": 20,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Four decision tree models were generated to identify how demographic, behavioral, social, micro-environmental, and macro-environmental characteristics contribute to adherence Fig. 3.",
+      "text_id": 106,
+      "paragraph_id": 20,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Four decision tree models were generated to identify how demographic, behavioral, social, micro-environmental, and macro-environmental characteristics contribute to adherence Fig. <ref type=\"figure\">3<\/ref>."
+    },
+    {
+      "text": "The classification tree of adherence to the screen time recommendation using the exhaustive x 2 automatic interaction detector (CHAID) method.",
+      "text_id": 107,
+      "paragraph_id": 20,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "BC = British Columbia; ONT = Ontario; QUE = Quebec.",
+      "text_id": 108,
+      "paragraph_id": 20,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig. 4.",
+      "text_id": 109,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Fig. <ref type=\"figure\">4<\/ref>."
+    },
+    {
+      "text": "The classification tree of adherence to the sleep recommendation using the exhaustive x 2 automatic interaction detector (CHAID) method. and non-adherence to all three recommendations combined and to each individual recommendation (PA, screen time, and sleep). 7 A total of 11 unique characteristics best predicted non (adherence) to the movement behavior recommendations.",
+      "text_id": 110,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "The classification tree of adherence to the sleep recommendation using the exhaustive x 2 automatic interaction detector (CHAID) method. and non-adherence to all three recommendations combined and to each individual recommendation (PA, screen time, and sleep). <ref type=\"bibr\" target=\"#b6\">7<\/ref> A total of 11 unique characteristics best predicted non (adherence) to the movement behavior recommendations."
+    },
+    {
+      "text": "Parental perceived capability to restrict children's screen time was the strongest contributor to meeting all recommendations combined as well as to meeting the screen time recommendation.",
+      "text_id": 111,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Parental perceived capability is defined as \"perceptions of physical and mental ability, capacity or competence to perform a specific circumscribed behavior independent of motivation to perform the behavior\". 22, 23 It differs from self-efficacy in that it assesses one's capability and not their motivation to perform the behavior. 22 In both models, higher parental perceived capability was associated with higher adherence to the movement behavior recommendation(s).",
+      "text_id": 112,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Parental perceived capability is defined as \"perceptions of physical and mental ability, capacity or competence to perform a specific circumscribed behavior independent of motivation to perform the behavior\". <ref type=\"bibr\" target=\"#b21\">22,<\/ref> <ref type=\"bibr\" target=\"#b22\">23<\/ref> It differs from self-efficacy in that it assesses one's capability and not their motivation to perform the behavior. <ref type=\"bibr\" target=\"#b21\">22<\/ref> In both models, higher parental perceived capability was associated with higher adherence to the movement behavior recommendation(s)."
+    },
+    {
+      "text": "Parents who believed they were capable of restricting their children's screen time were likely enforcing screen time rules, which consequently limited children's time spent on screens and safeguarded time spent in other activities (e.g., PA and sleeping).",
+      "text_id": 113,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The adherence proportion of meeting all recommendations was highest among children whose parents reported high perceived capability to restrict screen time and whose parents reported that their children either maintained or increased time spent walking/biking in their neighborhood (16.2% meeting).",
+      "text_id": 114,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Adherence was lowest among youth aged 12À17 years and whose parents reported low perceived capability to restrict screen time (0.0% meeting).",
+      "text_id": 115,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It is possible that parents were cognizant of the challenges associated with restricting their youth's (12À17 years) screen time given youth's heavy reliance on connecting and communicating with peers via digital media, especially during the pandemic, which may have caused parents to feel that they were unable to monitor their youth's screen use.",
+      "text_id": 116,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "At the same time, it is possible that parents may have even encouraged or supported their youth to engage in specific screen behaviors as a mechanism to stimulate feelings of connectedness and reduce feelings of isolation, such as video chatting with friends, cousins, and grandparents.",
+      "text_id": 117,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The finding that parental perceived capability was the strongest contributor of meeting the screen time recommendation aligns with previous research showing an inverse relationship between parental self-efficacy and children's screen time. 24À26 The adherence prevalence of meeting the screen time recommendation was highest among children whose parents reported very high perceived capability to restrict children's screen time and whose parents were 43 years old (39.0% meeting).",
+      "text_id": 118,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "The finding that parental perceived capability was the strongest contributor of meeting the screen time recommendation aligns with previous research showing an inverse relationship between parental self-efficacy and children's screen time. <ref type=\"bibr\">24À26<\/ref> The adherence prevalence of meeting the screen time recommendation was highest among children whose parents reported very high perceived capability to restrict children's screen time and whose parents were 43 years old (39.0% meeting)."
+    },
+    {
+      "text": "While the relationship between parental age and children's screen time is mixed, 27, 28 results of the current study suggest that the interactive relationships between parental perceived capability to limit screen time and parental age were important to children's screen time adherence during the COVID-19 outbreak.",
+      "text_id": 119,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "While the relationship between parental age and children's screen time is mixed, <ref type=\"bibr\" target=\"#b26\">27,<\/ref> <ref type=\"bibr\" target=\"#b27\">28<\/ref> results of the current study suggest that the interactive relationships between parental perceived capability to limit screen time and parental age were important to children's screen time adherence during the COVID-19 outbreak."
+    },
+    {
+      "text": "Results of our study showed interactive relationships between changes in children's outdoor PA/sport since the COVID-19 outbreak and children's gender in predicting adherence to the PA recommendation.",
+      "text_id": 120,
+      "paragraph_id": 23,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Boys were more likely to meet the PA recommendation (45.0% meeting) than were girls or \"other\" (26.3%), even though parents of both groups reported an increase in their children's outdoor PA/sport since COVID-19.",
+      "text_id": 121,
+      "paragraph_id": 23,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These results align with previous research that has shown that children are more active outside than inside 29, 30 and the consistent and well-documented discrepancy in PA levels between boys and girls, 31, 32 suggesting that these trends persists even during a viral pandemic.",
+      "text_id": 122,
+      "paragraph_id": 23,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "These results align with previous research that has shown that children are more active outside than inside <ref type=\"bibr\" target=\"#b28\">29,<\/ref> <ref type=\"bibr\" target=\"#b29\">30<\/ref> and the consistent and well-documented discrepancy in PA levels between boys and girls, <ref type=\"bibr\" target=\"#b30\">31,<\/ref> <ref type=\"bibr\" target=\"#b31\">32<\/ref> suggesting that these trends persists even during a viral pandemic."
+    },
+    {
+      "text": "The adherence prevalence to the PA recommendation was lowest among children whose parents reported a decrease in their outdoor PA/sport and whose parents reported low perceived capability to support their children's sleep (8.0% meeting).",
+      "text_id": 123,
+      "paragraph_id": 23,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although outdoor closures have varied substantially across Canada, these restrictions coupled with the fear of going outdoors likely contributed to the low adherence of meeting the PA recommendation (18%).",
+      "text_id": 124,
+      "paragraph_id": 23,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nevertheless, the relationship between outdoor PA/sport and meeting the PA recommendation supports the importance of ensuring that children get outdoors during the pandemic, while simultaneously following COVID-19 public health measures.",
+      "text_id": 125,
+      "paragraph_id": 23,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "That the majority of children in the sample (71.1% meeting) met the sleep recommendation is encouraging.",
+      "text_id": 126,
+      "paragraph_id": 24,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The adherence prevalence for meeting the sleep recommendation was highest among children whose parents reported a slight increase in their children's sleep duration since COVID-19 and who came from a household with an annual income of CAD100,000 (85.6%).",
+      "text_id": 127,
+      "paragraph_id": 24,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In contrast, the adherence prevalence for meeting the sleep recommendation was lowest among children whose parents reported that their children's sleep duration since COVID-19 remained about the same, whose parents were neutral about their ability to support their children's PA behavior, and who came from a household with an annual income of CAD99,999 (50.9% meeting).",
+      "text_id": 128,
+      "paragraph_id": 24,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The relatively small change in sleep duration among children meeting this recommendation during the pandemic suggests that these children likely had healthy sleeping habits prior to the pandemic.",
+      "text_id": 129,
+      "paragraph_id": 24,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It is possible that children in the non-adherence group whose sleep habits remained relatively the same during COVID-19 yet still did not meet the recommendation had poor sleeping habits prior to COVID-19.",
+      "text_id": 130,
+      "paragraph_id": 24,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Establishing healthy behaviors is crucial in order to minimize disruptions during unexpected events and barriers.",
+      "text_id": 131,
+      "paragraph_id": 24,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study suggests that parental perceived capability to support children's healthy movement behaviors, and particularly their perceived capability to restrict screen time, is an important characteristic to determine (non)adherence to the 24-h movement behavior guidelines during the COVID-19 pandemic.",
+      "text_id": 132,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Challenges associated with this pandemic can be overwhelming for parents.",
+      "text_id": 133,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Many are faced with balancing work demands, maintaining regular household responsibilities (e.g., cleaning, cooking, and grocery shopping), and helping their children transition to online learning, all while ensuring everyone is physically and mentally healthy.",
+      "text_id": 134,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Some parents are faced with additional hardships, such as unemployment, financial worry, and/or the death/sickness of a loved one.",
+      "text_id": 135,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, it is critical that parents feel confident in their ability to facilitate their children's movement behaviors during these unprecedented times.",
+      "text_id": 136,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One way to accomplish this is by using sources of self-efficacy to facilitate parents' perceived capability. 33 Enhancing parents' perceived capability to restrict screen time, for example, might include encouraging parents to join online groups or use online resources (e.g., Common Sense Media) aimed at helping families navigate the digital world with their kids.",
+      "text_id": 137,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "One way to accomplish this is by using sources of self-efficacy to facilitate parents' perceived capability. <ref type=\"bibr\" target=\"#b32\">33<\/ref> Enhancing parents' perceived capability to restrict screen time, for example, might include encouraging parents to join online groups or use online resources (e.g., Common Sense Media) aimed at helping families navigate the digital world with their kids."
+    },
+    {
+      "text": "These groups and resources can foster a social network for like-minded parents, serving as a platform to share helpful advice, tips, and effective monitoring/limiting techniques (vicarious experience), as well as to offer encouragement and support for one another (social persuasion).",
+      "text_id": 138,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It may also be important to target parents' motivation to deal with children's resistance to screen time restrictions, because capability is often confused for motivation in health behavior. 22 Research has shown that parents of children (6À13 years old) may be hesitant to impose rules restricting children's screen time because it could potentially lead to more conflict between the dyad as well as between siblings. 34, 35 Thus, parents not only need to feel capable in their ability to restrict screen time but also feel assured of the importance of restricting screen time despite the potential subsequent pushback.",
+      "text_id": 139,
+      "paragraph_id": 25,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "It may also be important to target parents' motivation to deal with children's resistance to screen time restrictions, because capability is often confused for motivation in health behavior. <ref type=\"bibr\" target=\"#b21\">22<\/ref> Research has shown that parents of children (6À13 years old) may be hesitant to impose rules restricting children's screen time because it could potentially lead to more conflict between the dyad as well as between siblings. <ref type=\"bibr\" target=\"#b33\">34,<\/ref> <ref type=\"bibr\" target=\"#b34\">35<\/ref> Thus, parents not only need to feel capable in their ability to restrict screen time but also feel assured of the importance of restricting screen time despite the potential subsequent pushback."
+    },
+    {
+      "text": "There are several strengths of this study.",
+      "text_id": 140,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "First, data for this study included a nationally representative cohort of parents whose children were 5À17 years old.",
+      "text_id": 141,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Second, findings from our study advance the field by demonstrating the relevance of using the exhaustive CHAID as an analytic method for building classification models aimed at identifying important factors that influence children's movement behaviors during the COVID-19 pandemic.",
+      "text_id": 142,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The decision tree modeling approach produced clear, interpretable results despite the use of different types of variables (e.g., continuous and categorical data).",
+      "text_id": 143,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Third, this study is the first to document how public health measures (e.g., social distancing, \"stay-at-home\" orders, and closures of schools), while necessary, have disrupted nearly all aspects of our ordinary life, including children's movement behaviors.",
+      "text_id": 144,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fourth, we used a contemporary measure of perceived capability. 22 Unlike most self-efficacy measures, which are often flawed because they measure perceived capability and motivation, our perceived capability measure included a vignette (i.e., stem) that preceded each item.",
+      "text_id": 145,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Fourth, we used a contemporary measure of perceived capability. <ref type=\"bibr\" target=\"#b21\">22<\/ref> Unlike most self-efficacy measures, which are often flawed because they measure perceived capability and motivation, our perceived capability measure included a vignette (i.e., stem) that preceded each item."
+    },
+    {
+      "text": "This vignette has been shown to clarify the meaning of the self-efficacy item and holds motivation constant, thereby improving the validity of the measure.",
+      "text_id": 146,
+      "paragraph_id": 26,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One limitation of our study is that data were parent reported and therefore social desirability and/or recall bias may have influenced our findings.",
+      "text_id": 147,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Most parents are unlikely spending entire days with their children due to work and regular household responsibilities, and they may have therefore mistakenly overestimated or underestimated their children's play and movement behaviors.",
+      "text_id": 148,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Another limitation of our study is its cross-sectional design, which prevents any causal relationships to be inferred.",
+      "text_id": 149,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Finally, the data-driven approach ignores any potential causal hierarchies within the selected predictor variables, which can lead to chance pairings.",
+      "text_id": 150,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Socio-ecological theory suggests that variables at any level of abstraction may interact, thus supporting the decision-tree approach taken in this article.",
+      "text_id": 151,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, an a priori structured model may yield different findings.",
+      "text_id": 152,
+      "paragraph_id": 27,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In this cross-sectional survey study, we identified profiles of children who were most and least likely to meet the Canadian 24-h movement recommendations.",
+      "text_id": 153,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Of the selected 33 characteristics, 11 emerged as the most relevant to the (non)adherence of movement behaviors, including the child's age, child's gender, parental age, annual household income, region, changes in outdoor PA/sport, changes in sleep duration, and parental perceived capability to support their children's individual movement behaviors (PA, screen time, and sleep).",
+      "text_id": 154,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Parental perceived capability emerged as an important indicator in all 4 models and was shown to be strongly associated with meeting all movement behavior recommendations and meeting the screen time recommendation.",
+      "text_id": 155,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Findings from this study suggest that, to meet the 24-h movement behavior guidelines, promotion strategies and interventions during the challenging times of the COVID-19 pandemic should consider targeting parents' perceived capability to restrict their children's screen time.",
+      "text_id": 156,
+      "paragraph_id": 28,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that they have no competing interests.",
+      "text_id": 157,
+      "paragraph_id": 29,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "MDG conceptualized the study, conducted all analyses, and prepared the first draft of the paper; LMV, RER, GF, SAM, and MST critically reviewed the manuscript.",
+      "text_id": 158,
+      "paragraph_id": 30,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All authors have read and approved the final version of the manuscript, and agree with the order of presentation of the authors.",
+      "text_id": 159,
+      "paragraph_id": 30,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Supplementary material associated with this article can be found, in the online version, at https://doi.org/10.1016/j.jshs.2020.06.005.",
+      "text_id": 160,
+      "paragraph_id": 31,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "Supplementary material associated with this article can be found, in the online version, at <ref type=\"url\" target=\"https://doi.org/10.1016/j.jshs.2020.06.005\">doi:10.1016/j.jshs.2020.06.005<\/ref>."
+    },
+    {
+      "text": "Fig.1.",
+      "text_id": 161,
+      "paragraph_id": 32,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The classification tree of adherence to all 3 movement behavior recommendations using the exhaustive x 2 automatic interaction detector (CHAID) method.",
+      "text_id": 162,
+      "paragraph_id": 32,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig.2.",
+      "text_id": 163,
+      "paragraph_id": 33,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The classification tree of adherence to the physical activity recommendation using the exhaustive x 2 automatic interaction detector (CHAID) method.",
+      "text_id": 164,
+      "paragraph_id": 33,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "24-h movement behaviors during a pandemic",
+      "text_id": 165,
+      "paragraph_id": 34,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": "<note place=\"foot\" xml:id=\"foot_0\">   <p>24-h movement behaviors during a pandemic<\/p> <\/note>"
+    },
+    {
+      "text": "World Health Organization (WHO). Coronavirus disease (COVID-19) pandemic: WHO characterizes COVID-19 as a pandemic. Available at: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/ events-as-they-happen. [accessed 15.03.2020].",
+      "text_id": 166,
+      "paragraph_id": 35,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Dawson T.As the COVID-19 pandemic hit, provinces declared states of emergency. Now many are up for renewal.Available at: https://national post.com/news/provincial-states-of-emergencies-were-issued-a-month- ago-most-are-coming-up-for-renewal. [accessed 15.03.2020].",
+      "text_id": 167,
+      "paragraph_id": 36,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Xiang M, Zhang Z, Kuwahara K. Impact of COVID-19 pandemic on children and adolescents' lifestyle behavior larger than expected. Prog Cardiovasc Dis. 2020. doi:10.1016%2Fj.pcad.2020.04.013, [epub ahead of print].",
+      "text_id": 168,
+      "paragraph_id": 37,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Janssen I, Leblanc AG. Systematic review of the health benefits of physi- cal activity and fitness in school-aged children and youth. Int J Behav Nutr Phys Act 2010;7:40. doi:10.1186/1479-5868-7-40.",
+      "text_id": 169,
+      "paragraph_id": 38,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tremblay MS, LeBlanc AG, Kho ME, Saunders TJ, Larouche R, Colley RC, et al. Systematic review of sedentary behavior and health indicators in school-aged children and youth. Int J Behav Nutr Phys Act 2011;8:98. doi:10.1186/1479-5868-8-98.",
+      "text_id": 170,
+      "paragraph_id": 39,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Chaput JP, Gray C, Poitras V, Carson V, Gruber R, Olds T, et al. System- atic review of the relationships between sleep duration and health indica- tors in school-aged children and youth. Appl Physiol Nutr Metab 2016;41 (Suppl. 3):S266-82.",
+      "text_id": 171,
+      "paragraph_id": 40,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tremblay MS, Carson V, Chaput JP, Gorber SC, Dinh T, Duggan M, et al. Canadian 24-hour movement guidelines for children and youth: an inte- gration of physical activity, sedentary behavior, and sleep. Appl Physiol Nutr Metab 2016;41(Suppl. 3):S311-27.",
+      "text_id": 172,
+      "paragraph_id": 41,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Carson V, Chaput JP, Janssen I, Tremblay MS. Health associations with meeting new 24-hour movement guidelines for Canadian children and youth. Prev Med 2017;95:7-13.",
+      "text_id": 173,
+      "paragraph_id": 42,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Camp NJ, Slattery ML. Classification tree analysis: a statistical tool to investigate risk factor interactions with an example for colon cancer. Can- cer Causes Control 2002;13:813-23.",
+      "text_id": 174,
+      "paragraph_id": 43,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Batterham PJ, Christensen H, Mackinnon AJ. Modifiable risk factors pre- dicting major depressive disorder at four year follow-up: a decision tree approach. BMC Psychiatry 2009;9:75. doi:10.1186/1471-244X-9-75.",
+      "text_id": 175,
+      "paragraph_id": 44,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jung SY, Vitolins MZ, Fenton J, Frazier-Wood AC, Hursting SD, Chang S. Risk profiles for weight gain among postmenopausal women: a classifi- cation and regression tree analysis approach. PLoS One 2015;10: e0121430. doi:10.1371/journal.pone.0121430.",
+      "text_id": 176,
+      "paragraph_id": 45,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bronfenbrenner U. The ecology of human development. Cambridge, MA: Harvard University Press; 1979.",
+      "text_id": 177,
+      "paragraph_id": 46,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Boxberger K, Reimers AK. Parental correlates of outdoor play in boys and girls aged 0 to 12: a systematic review. Int J Environ Res Public Health 2019;16:190. doi:10.3390/ijerph16020190.",
+      "text_id": 178,
+      "paragraph_id": 47,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "LeBlanc AG, Katzmarzyk PT, Barreira TV, Broyles ST, Chaput JP, Church TS, et al. Correlates of total sedentary time and screen time in 9- 11 year-old children around the world: the international study of child- hood obesity, lifestyle and the environment. PLoS One 2015;10: e0129622. doi:10.1371/journal.pone.0129622.",
+      "text_id": 179,
+      "paragraph_id": 48,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kaushal N, Rhodes RE. The home physical environment and its relation- ship with physical activity and sedentary behavior: a systematic review. Prev Med 2014;67:221-37.",
+      "text_id": 180,
+      "paragraph_id": 49,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hoyos Cillero I, Jago R. Systematic review of correlates of screen-view- ing among young children. Prev Med 2010;51:3-10.",
+      "text_id": 181,
+      "paragraph_id": 50,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "McArdle JJ, Ritschard G. Contemporary issues in exploratory data mining in the behavioral sciences. New York, NY: Routledge; 2013.",
+      "text_id": 182,
+      "paragraph_id": 51,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kass G. An exploratory technique for investigating large quantities of cat- egorical data. Appl Stat 1980;29:119-27.",
+      "text_id": 183,
+      "paragraph_id": 52,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Song YY, Lu Y. Decision tree methods: applications for classification and prediction. Shanghai Arch Psychiatry 2015;27:130-5.",
+      "text_id": 184,
+      "paragraph_id": 53,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zhang H, Singer B. Recursive partitioning and applications. New York, NY: Springer; 2010.",
+      "text_id": 185,
+      "paragraph_id": 54,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Merkle EC, Shaffer VA. Binary recursive partitioning: background, methods, and application to psychology. Br J Math Stat Psychol 2011; 64:161-81.",
+      "text_id": 186,
+      "paragraph_id": 55,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Williams DM, Rhodes RE. The confounded self-efficacy construct: con- ceptual analysis and recommendations for future research. Health Psychol Rev 2016;10:144-7.",
+      "text_id": 187,
+      "paragraph_id": 56,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Rhodes RE, Williams DM, Mistry CD. Using short vignettes to disentan- gle perceived capability from motivation: a test using walking and resis- tance training behaviors. Psychol Heal Med Med 2016;21:639-51.",
+      "text_id": 188,
+      "paragraph_id": 57,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jago R, Wood L, Zahra J, Thompson JL, Sebire SJ. Parental control, nur- turance, self-efficacy, and screen viewing among 5-to 6-year-old chil- dren: a cross-sectional mediation analysis to inform potential behavior change strategies. Child Obes 2015;11:139-47.",
+      "text_id": 189,
+      "paragraph_id": 58,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jago R, Sebire SJ, Edwards MJ, Thompson JL. Parental TV viewing, parental self-efficacy, media equipment and TV viewing among preschool children. Eur J Pediatr 2013;11:1543-5.",
+      "text_id": 190,
+      "paragraph_id": 59,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Goncalves WSF, Byrne R, Viana MT, Trost SG. Parental influences on screen time and weight status among preschool children from Brazil: a cross-sectional study. Int J Behav Nutr Phys Act 2019;16:27. doi:10.1186/s12966-019-0788-3.",
+      "text_id": 191,
+      "paragraph_id": 60,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Paudel S, Jancey J, Subedi N, Leavy J. Correlates of mobile screen media use among children aged 0À8: a systematic review. BMJ Open 2017;7: e012585. doi:10.1136/bmjopen-2016-014585.",
+      "text_id": 192,
+      "paragraph_id": 61,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pujadas Botey A, Bayrampour H, Carson V, Vinturache A, Tough S. Adher- ence to Canadian physical activity and sedentary behavior guidelines among children 2 to 13 years of age. Prev Med Reports 2016;3:14-20.",
+      "text_id": 193,
+      "paragraph_id": 62,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cooper AR, Page AS, Wheeler BW, Hillsdon M, Griew P, Jago R. Pat- terns of GPS measured time outdoors after school and objective physical activity in English children: the PEACH project. Int J Behav Nutr Phys Act 2010;7:31. doi:10.1186/1479-5868-7-31.",
+      "text_id": 194,
+      "paragraph_id": 63,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gray C, Gibbons R, Larouche R, Sandseter EBH, Bienenstock A, Brus- soni M, et al. What is the relationship between outdoor time and physical activity, sedentary behavior, and physical fitness in children? A systematic review. Int J Environ Res Public Health 2015;12:6455-74.",
+      "text_id": 195,
+      "paragraph_id": 64,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sallis JF, Prochaska JJ, Taylor WC. A review of correlates of physical activ- ity of children and adolescents. Med Sci Sports Exerc 2000;32:963-75.",
+      "text_id": 196,
+      "paragraph_id": 65,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Biddle SJH, Atkin AJ, Cavill N, Foster C. Correlates of physical activity in youth: a review of quantitative systematic reviews. Int Rev Sport Exerc Psychol 2011;4:294-8.",
+      "text_id": 197,
+      "paragraph_id": 66,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bandura A. Self-efficacy: the exercise of control. New York, NY: Free- man; 1997.",
+      "text_id": 198,
+      "paragraph_id": 67,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jago R, Zahra J, Edwards MJ, Kesten JM, Solomon-Moore E, Thompson JL, et al. Managing the screen-viewing behaviors of children aged 5-6 years: a qualitative analysis of parental strategies. BMJ Open 2016;6: e010355. doi:10.1136/bmjopen-2015-010355.",
+      "text_id": 199,
+      "paragraph_id": 68,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Evans CA, Jordan AB, Horner J. Only two hours? A qualitative study of the challenges parents perceive in restricting child television time. J Fam Issues 2011;32:1223-44.",
+      "text_id": 200,
+      "paragraph_id": 69,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Study design and participants",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Measures",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.2.1. Exposures",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.2.2. Outcomes",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.3. Statistical analyses",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "3.1. All movement behaviors",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "3.2. PA",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "Classification Node IF THEN 1st 4",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "3.3. Screen time",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "3.4. Sleep",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "5. Conclusion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "Competing interests",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "Authors' contributions",
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "Supplementary materials",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "Fig 1.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "Fig 2.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "",
+      "parent_section_id": null,
+      "section_type": "foot",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [
+    {
+      "href": "http://www.participaction.com",
+      "link_text": null,
+      "text_id": 23
+    },
+    {
+      "href": "https://doi.org/10.1016/j.jshs.2020.06.005",
+      "link_text": "doi:10.1016/j.jshs.2020.06.005",
+      "text_id": 160
+    }
+  ],
+  "bib": [
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Coronavirus disease (COVID-19) pandemic: WHO characterizes COVID-19 as a pandemic",
+      "authors": "",
+      "editors": "",
+      "publisher": "World Health Organization (WHO)",
+      "year": null,
+      "volume": "",
+      "issue": "",
+      "container": null,
+      "first_page": null,
+      "last_page": null,
+      "bib_id": 0,
+      "year_suffix": null,
+      "text_id": 166
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "As the COVID-19 pandemic hit, provinces declared states of emergency",
+      "authors": "Dawson, T",
+      "editors": "",
+      "publisher": "",
+      "year": null,
+      "volume": "",
+      "issue": "",
+      "container": null,
+      "first_page": null,
+      "last_page": null,
+      "bib_id": 1,
+      "year_suffix": null,
+      "text_id": 167
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Impact of COVID-19 pandemic on children and adolescents' lifestyle behavior larger than expected",
+      "authors": "Xiang, M; Zhang, Z; Kuwahara, K",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "",
+      "issue": "",
+      "container": "Prog Cardiovasc Dis",
+      "first_page": null,
+      "last_page": null,
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 168
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/1479-5868-7-40",
+      "title": "Systematic review of the health benefits of physical activity and fitness in school-aged children and youth",
+      "authors": "Janssen, I; Leblanc, A G",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "7",
+      "issue": "",
+      "container": "Int J Behav Nutr Phys Act",
+      "first_page": "40",
+      "last_page": null,
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 169
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/1479-5868-8-98",
+      "title": "Systematic review of sedentary behavior and health indicators in school-aged children and youth",
+      "authors": "Tremblay, M S; Leblanc, A G; Kho, M E; Saunders, T J; Larouche, R; Colley, R C",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "8",
+      "issue": "",
+      "container": "Int J Behav Nutr Phys Act",
+      "first_page": "98",
+      "last_page": null,
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 170
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Systematic review of the relationships between sleep duration and health indicators in school-aged children and youth",
+      "authors": "Chaput, J P; Gray, C; Poitras, V; Carson, V; Gruber, R; Olds, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "41",
+      "issue": "",
+      "container": "Appl Physiol Nutr Metab",
+      "first_page": "S266",
+      "last_page": "S282",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 171
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Canadian 24-hour movement guidelines for children and youth: an integration of physical activity, sedentary behavior, and sleep",
+      "authors": "Tremblay, M S; Carson, V; Chaput, J P; Gorber, S C; Dinh, T; Duggan, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "41",
+      "issue": "",
+      "container": "Appl Physiol Nutr Metab",
+      "first_page": "311",
+      "last_page": "327",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 172
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Health associations with meeting new 24-hour movement guidelines for Canadian children and youth",
+      "authors": "Carson, V; Chaput, J P; Janssen, I; Tremblay, M S",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "95",
+      "issue": "",
+      "container": "Prev Med",
+      "first_page": "7",
+      "last_page": "13",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 173
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Classification tree analysis: a statistical tool to investigate risk factor interactions with an example for colon cancer",
+      "authors": "Camp, N J; Slattery, M L",
+      "editors": "",
+      "publisher": "",
+      "year": 2002,
+      "volume": "13",
+      "issue": "",
+      "container": "Cancer Causes Control",
+      "first_page": "813",
+      "last_page": "823",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 174
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/1471-244X-9-75",
+      "title": "Modifiable risk factors predicting major depressive disorder at four year follow-up: a decision tree approach",
+      "authors": "Batterham, P J; Christensen, H; Mackinnon, A J",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "9",
+      "issue": "",
+      "container": "BMC Psychiatry",
+      "first_page": "75",
+      "last_page": null,
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 175
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0121430",
+      "title": "Risk profiles for weight gain among postmenopausal women: a classification and regression tree analysis approach",
+      "authors": "Jung, S Y; Vitolins, M Z; Fenton, J; Frazier-Wood, A C; Hursting, S D; Chang, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "10",
+      "issue": "",
+      "container": "PLoS One",
+      "first_page": "121430",
+      "last_page": null,
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 176
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "The ecology of human development",
+      "authors": "Bronfenbrenner, U",
+      "editors": "",
+      "publisher": "Harvard University Press",
+      "year": 1979,
+      "volume": "",
+      "issue": "",
+      "container": null,
+      "first_page": null,
+      "last_page": null,
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 177
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/ijerph16020190",
+      "title": "Parental correlates of outdoor play in boys and girls aged 0 to 12: a systematic review",
+      "authors": "Boxberger, K; Reimers, A K",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "16",
+      "issue": "",
+      "container": "Int J Environ Res Public Health",
+      "first_page": "190",
+      "last_page": null,
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 178
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0129622",
+      "title": "Correlates of total sedentary time and screen time in 9-11 year-old children around the world: the international study of childhood obesity, lifestyle and the environment",
+      "authors": "Leblanc, A G; Katzmarzyk, P T; Barreira, T V; Broyles, S T; Chaput, J P; Church, T S",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "10",
+      "issue": "",
+      "container": "PLoS One",
+      "first_page": "129622",
+      "last_page": null,
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 179
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The home physical environment and its relationship with physical activity and sedentary behavior: a systematic review",
+      "authors": "Kaushal, N; Rhodes, R E",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "67",
+      "issue": "",
+      "container": "Prev Med",
+      "first_page": "221",
+      "last_page": "237",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 180
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Systematic review of correlates of screen-viewing among young children",
+      "authors": "Cillero, Hoyos; Jago, I; , R",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "51",
+      "issue": "",
+      "container": "Prev Med",
+      "first_page": "3",
+      "last_page": "10",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 181
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Contemporary issues in exploratory data mining in the behavioral sciences",
+      "authors": "Mcardle, J J; Ritschard, G",
+      "editors": "",
+      "publisher": "Routledge",
+      "year": 2013,
+      "volume": "",
+      "issue": "",
+      "container": null,
+      "first_page": null,
+      "last_page": null,
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 182
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "An exploratory technique for investigating large quantities of categorical data",
+      "authors": "Kass, G",
+      "editors": "",
+      "publisher": "",
+      "year": 1980,
+      "volume": "29",
+      "issue": "",
+      "container": "Appl Stat",
+      "first_page": "119",
+      "last_page": "127",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 183
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Decision tree methods: applications for classification and prediction",
+      "authors": "Song, Y Y; Lu, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "27",
+      "issue": "",
+      "container": "Shanghai Arch Psychiatry",
+      "first_page": "130",
+      "last_page": "135",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 184
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Recursive partitioning and applications",
+      "authors": "Zhang, H; Singer, B",
+      "editors": "",
+      "publisher": "Springer",
+      "year": 2010,
+      "volume": "",
+      "issue": "",
+      "container": null,
+      "first_page": null,
+      "last_page": null,
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 185
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Binary recursive partitioning: background, methods, and application to psychology",
+      "authors": "Merkle, E C; Shaffer, V A",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "64",
+      "issue": "",
+      "container": "Br J Math Stat Psychol",
+      "first_page": "161",
+      "last_page": "181",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 186
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The confounded self-efficacy construct: conceptual analysis and recommendations for future research",
+      "authors": "Williams, D M; Rhodes, R E",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "10",
+      "issue": "",
+      "container": "Health Psychol Rev",
+      "first_page": "144",
+      "last_page": "147",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 187
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Using short vignettes to disentangle perceived capability from motivation: a test using walking and resistance training behaviors",
+      "authors": "Rhodes, R E; Williams, D M; Mistry, C D",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "21",
+      "issue": "",
+      "container": "Psychol Heal Med Med",
+      "first_page": "639",
+      "last_page": "651",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 188
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Parental control, nurturance, self-efficacy, and screen viewing among 5-to 6-year-old children: a cross-sectional mediation analysis to inform potential behavior change strategies",
+      "authors": "Jago, R; Wood, L; Zahra, J; Thompson, J L; Sebire, S J",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "11",
+      "issue": "",
+      "container": "Child Obes",
+      "first_page": "139",
+      "last_page": "147",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 189
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Parental TV viewing, parental self-efficacy, media equipment and TV viewing among preschool children",
+      "authors": "Jago, R; Sebire, S J; Edwards, M J; Thompson, J L",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "11",
+      "issue": "",
+      "container": "Eur J Pediatr",
+      "first_page": "1543",
+      "last_page": "1545",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 190
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/s12966-019-0788-3",
+      "title": "Parental influences on screen time and weight status among preschool children from Brazil: a cross-sectional study",
+      "authors": "Goncalves, Wsf; Byrne, R; Viana, M T; Trost, S G",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "16",
+      "issue": "",
+      "container": "Int J Behav Nutr Phys Act",
+      "first_page": "27",
+      "last_page": null,
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 191
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bmjopen-2016-014585",
+      "title": "Correlates of mobile screen media use among children aged 0À8: a systematic review",
+      "authors": "Paudel, S; Jancey, J; Subedi, N; Leavy, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "7",
+      "issue": "",
+      "container": "BMJ Open",
+      "first_page": "12585",
+      "last_page": null,
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 192
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Adherence to Canadian physical activity and sedentary behavior guidelines among children 2 to 13 years of age",
+      "authors": "Botey, Pujadas; Bayrampour, A; Carson, H; Vinturache, V; Tough, A; , S",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "3",
+      "issue": "",
+      "container": "Prev Med Reports",
+      "first_page": "14",
+      "last_page": "20",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 193
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/1479-5868-7-31",
+      "title": "Patterns of GPS measured time outdoors after school and objective physical activity in English children: the PEACH project",
+      "authors": "Cooper, A R; Page, A S; Wheeler, B W; Hillsdon, M; Griew, P; Jago, R",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "7",
+      "issue": "",
+      "container": "Int J Behav Nutr Phys Act",
+      "first_page": "31",
+      "last_page": null,
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 194
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "What is the relationship between outdoor time and physical activity, sedentary behavior, and physical fitness in children? A systematic review",
+      "authors": "Gray, C; Gibbons, R; Larouche, R; Sandseter, Ebh; Bienenstock, A; Brussoni, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "12",
+      "issue": "",
+      "container": "Int J Environ Res Public Health",
+      "first_page": "6455",
+      "last_page": "6474",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 195
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "A review of correlates of physical activity of children and adolescents",
+      "authors": "Sallis, J F; Prochaska, J J; Taylor, W C",
+      "editors": "",
+      "publisher": "",
+      "year": 2000,
+      "volume": "32",
+      "issue": "",
+      "container": "Med Sci Sports Exerc",
+      "first_page": "963",
+      "last_page": "975",
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 196
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Correlates of physical activity in youth: a review of quantitative systematic reviews",
+      "authors": "Biddle, Sjh; Atkin, A J; Cavill, N; Foster, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "4",
+      "issue": "",
+      "container": "Int Rev Sport Exerc Psychol",
+      "first_page": "294",
+      "last_page": "298",
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 197
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Self-efficacy: the exercise of control",
+      "authors": "Bandura, A",
+      "editors": "",
+      "publisher": "Freeman",
+      "year": 1997,
+      "volume": "",
+      "issue": "",
+      "container": null,
+      "first_page": null,
+      "last_page": null,
+      "bib_id": 32,
+      "year_suffix": "",
+      "text_id": 198
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bmjopen-2015-010355",
+      "title": "Managing the screen-viewing behaviors of children aged 5-6 years: a qualitative analysis of parental strategies",
+      "authors": "Jago, R; Zahra, J; Edwards, M J; Kesten, J M; Solomon-Moore, E; Thompson, J L",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "6",
+      "issue": "",
+      "container": "BMJ Open",
+      "first_page": "10355",
+      "last_page": null,
+      "bib_id": 33,
+      "year_suffix": "",
+      "text_id": 199
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Only two hours? A qualitative study of the challenges parents perceive in restricting child television time",
+      "authors": "Evans, C A; Jordan, A B; Horner, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "32",
+      "issue": "",
+      "container": "J Fam Issues",
+      "first_page": "1223",
+      "last_page": "1244",
+      "bib_id": 34,
+      "year_suffix": "",
+      "text_id": 200
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 11
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2",
+      "text_id": 11
+    },
+    {
+      "xref_id": null,
+      "xref_type": "bibr",
+      "contents": "4À6",
+      "text_id": 14
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 14
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8",
+      "text_id": 14
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 17
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 17
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 17
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 19
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 55
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 56
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 56
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18,",
+      "text_id": 56
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "19",
+      "text_id": 56
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18,",
+      "text_id": 56
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "20,",
+      "text_id": 56
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 56
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 64
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 70
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 72
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 75
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 81
+    },
+    {
+      "xref_id": null,
+      "xref_type": "figure",
+      "contents": "3",
+      "text_id": 87
+    },
+    {
+      "xref_id": null,
+      "xref_type": "figure",
+      "contents": "4",
+      "text_id": 96
+    },
+    {
+      "xref_id": null,
+      "xref_type": "figure",
+      "contents": "3",
+      "text_id": 106
+    },
+    {
+      "xref_id": null,
+      "xref_type": "figure",
+      "contents": "4",
+      "text_id": 109
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 110
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22,",
+      "text_id": 112
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 112
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22",
+      "text_id": 112
+    },
+    {
+      "xref_id": null,
+      "xref_type": "bibr",
+      "contents": "24À26",
+      "text_id": 118
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "27,",
+      "text_id": 119
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 119
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29,",
+      "text_id": 122
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 122
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31,",
+      "text_id": 122
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 122
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "33",
+      "text_id": 137
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22",
+      "text_id": 139
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34,",
+      "text_id": 139
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "35",
+      "text_id": 139
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22",
+      "text_id": 145
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 19,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 20,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [],
+  "eq": [
+    {
+      "text_id": 2,
+      "grp_id": 1,
+      "lhs": "age",
+      "df": null,
+      "comp": "=",
+      "rhs": "45.12"
+    },
+    {
+      "text_id": 2,
+      "grp_id": 1,
+      "lhs": "SD",
+      "df": null,
+      "comp": "=",
+      "rhs": "7.55"
+    },
+    {
+      "text_id": 26,
+      "grp_id": 2,
+      "lhs": "of",
+      "df": null,
+      "comp": ">",
+      "rhs": "120,000"
+    },
+    {
+      "text_id": 35,
+      "grp_id": 3,
+      "lhs": "age",
+      "df": null,
+      "comp": "=",
+      "rhs": "45.1"
+    },
+    {
+      "text_id": 35,
+      "grp_id": 3,
+      "lhs": "SD",
+      "df": null,
+      "comp": "=",
+      "rhs": "7.5"
+    },
+    {
+      "text_id": 46,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "6"
+    },
+    {
+      "text_id": 46,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "14"
+    },
+    {
+      "text_id": 49,
+      "grp_id": 5,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "10"
+    },
+    {
+      "text_id": 50,
+      "grp_id": 6,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "2"
+    },
+    {
+      "text_id": 50,
+      "grp_id": 6,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "1"
+    },
+    {
+      "text_id": 58,
+      "grp_id": 7,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 91,
+      "grp_id": 8,
+      "lhs": "were",
+      "df": null,
+      "comp": ">",
+      "rhs": "43"
+    }
+  ]
+}

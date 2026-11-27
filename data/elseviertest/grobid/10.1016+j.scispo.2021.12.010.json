@@ -1,0 +1,2632 @@
+{
+  "paper_id": "10.1016+j.scispo.2021.12.010",
+  "info": [
+    {
+      "title": "Higher physical activity is associated with lower activity limitation: Cross-sectional analyses among the Spanish working population Une activité physique plus intense est associée à une limitation d'activité plus faible : analyses transversales parmi la population active espagnole",
+      "keywords": null,
+      "doi": "10.1016/j.scispo.2021.12.010",
+      "file_hash": "b501c88395cd26ca",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.scispo.2021.12.010.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "R",
+      "family": "López-Bueno",
+      "affiliation": "Department of Physical Medicine and Nursing\n\t\t\t\t\t\t\t\tUniversity of Zaragoza\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tZaragoza\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "G",
+      "family": "López-Sánchez",
+      "affiliation": "Division of Preventive Medicine and Public Health\n\t\t\t\t\t\t\t\tDepartment of Public Health Sciences\n\t\t\t\t\t\t\t\tSchool of Medicine\n\t\t\t\t\t\t\t\tUniversity of Murcia\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tMurcia\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "L",
+      "family": "Smith",
+      "affiliation": "Centre for Health\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPerformance, and Wellbeing",
+      "email": "lee.smith@aru.ac.uk",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "E",
+      "family": "Sundstrup",
+      "affiliation": "National Research Centre for the Working Environment\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCopenhagen\n\t\t\t\t\t\t\t\t\tDenmark",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "L",
+      "family": "Andersen",
+      "affiliation": "National Research Centre for the Working Environment\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tCopenhagen\n\t\t\t\t\t\t\t\t\tDenmark",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 6,
+      "given": "J",
+      "family": "Casajús",
+      "affiliation": "Faculty of Health Sciences\n\t\t\t\t\t\t\t\tUniversity of Zaragoza\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tZaragoza\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "were divided into two categories: 1) Less than 600 MET-minutes/week.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "2).",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "At least 600 MET-minutes/week.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We conducted a multivariable logistic regression to assess associations.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Covariates were age, sex, education, occupation, smoking habits, BMI, diabetes, hypertension, neck pain, low back pain, chronic depression, and anxiety.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results. -The overall prevalence of AL was 10.7%, whereas the overall prevalence of workers performing less than 600 MET-minutes/week of PA was 29.6%.",
+      "text_id": 6,
+      "paragraph_id": 2,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In final adjusted models, those workers performing less than 600 MET-minutes/week of PA subgroup were associated with significantly higher odds for AL (OR 1.33,.",
+      "text_id": 7,
+      "paragraph_id": 2,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This association was strongest in workers aged 37-43 (OR 1.75, 95%CI 1.27-2.41), and 53-69 years (OR 1.67, 95%CI 1.22-2.28).",
+      "text_id": 8,
+      "paragraph_id": 2,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Conclusions. -The results suggest that reaching ≥600 MET-minutes/week of PA is associated with lower odds of AL among a general working population, especially among specific age ranges.",
+      "text_id": 9,
+      "paragraph_id": 3,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The boundaries between impairment, disability, and functional and activity limitation (AL) are not clear.",
+      "text_id": 10,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "From a holistic view, the frontiers between health and illness are fragile and represent a continuum and reversible process across life.",
+      "text_id": 11,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "According to the International Classification of Functioning, Disability, and Health (ICF), ''an activity limitation is a difficulty encountered by an individual in executing a task or action'' [1].",
+      "text_id": 12,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "According to the International Classification of Functioning, Disability, and Health (ICF), ''an activity limitation is a difficulty encountered by an individual in executing a task or action'' <ref type=\"bibr\" target=\"#b0\">[1]<\/ref>."
+    },
+    {
+      "text": "That could range from slight to a severe deviation regarding quantity or quality in the manner or the extent that is expected of people without the health condition [1].",
+      "text_id": 13,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "That could range from slight to a severe deviation regarding quantity or quality in the manner or the extent that is expected of people without the health condition <ref type=\"bibr\" target=\"#b0\">[1]<\/ref>."
+    },
+    {
+      "text": "The notion of AL is usually considered under the umbrella of disability, involving daily activity restrictions (e.g. showering or dressing), and, in some cases, assistance for health care [2].",
+      "text_id": 14,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The notion of AL is usually considered under the umbrella of disability, involving daily activity restrictions (e.g. showering or dressing), and, in some cases, assistance for health care <ref type=\"bibr\" target=\"#b1\">[2]<\/ref>."
+    },
+    {
+      "text": "The severity of that disability depends on a wide variety of factors [3] (i.e. type of disease/disorder, symptoms, and health service support), and comprises a wide range of status from total dependence up to timely assistance [4].",
+      "text_id": 15,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The severity of that disability depends on a wide variety of factors <ref type=\"bibr\" target=\"#b2\">[3]<\/ref> (i.e. type of disease/disorder, symptoms, and health service support), and comprises a wide range of status from total dependence up to timely assistance <ref type=\"bibr\" target=\"#b3\">[4]<\/ref>."
+    },
+    {
+      "text": "Further, that disability status preventing from performing daily and usual activities could even lead to a general practitioner to certificate a sickness absence or, in the worst-case scenario, a disability pension [3].",
+      "text_id": 16,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Further, that disability status preventing from performing daily and usual activities could even lead to a general practitioner to certificate a sickness absence or, in the worst-case scenario, a disability pension <ref type=\"bibr\" target=\"#b2\">[3]<\/ref>."
+    },
+    {
+      "text": "Normally, research about AL has focused more on the types of usual task restrictions, using a long-term reference for those (i.e. 6 months) [5] [6] [7] [8].",
+      "text_id": 17,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Normally, research about AL has focused more on the types of usual task restrictions, using a long-term reference for those (i.e. 6 months) <ref type=\"bibr\" target=\"#b4\">[5]<\/ref> <ref type=\"bibr\" target=\"#b5\">[6]<\/ref> <ref type=\"bibr\" target=\"#b6\">[7]<\/ref> <ref type=\"bibr\" target=\"#b7\">[8]<\/ref>."
+    },
+    {
+      "text": "However, we have no knowledge about shorter-term values of AL (≤ 14 days), which are also important to estimate since these might precede more frequent or more extended periods of AL.",
+      "text_id": 18,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It is a well-known fact that either illnesses or critical injuries lead to a reduction or limitation of the usual activity (i.e. working, housework, leisure-time activities, and studying) [9, 10].",
+      "text_id": 19,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "It is a well-known fact that either illnesses or critical injuries lead to a reduction or limitation of the usual activity (i.e. working, housework, leisure-time activities, and studying) <ref type=\"bibr\" target=\"#b8\">[9,<\/ref> <ref type=\"bibr\" target=\"#b9\">10]<\/ref>."
+    },
+    {
+      "text": "Thus, work ability and sickness absence might result in a temporary loss of physical or mental capabilities.",
+      "text_id": 20,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because either moderate or severe AL also contribute extensively to higher health care expenditures in the absence of chronic conditions [11], those assuming high burden (i.e. governments and companies) want to reduce it.",
+      "text_id": 21,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Because either moderate or severe AL also contribute extensively to higher health care expenditures in the absence of chronic conditions <ref type=\"bibr\" target=\"#b10\">[11]<\/ref>, those assuming high burden (i.e. governments and companies) want to reduce it."
+    },
+    {
+      "text": "However, not only it is a question of financial costs but also a health and well-being issue as global AL (i.e. health disorders and conditions impacting people's usual activities) has also been associated with mortality [5].",
+      "text_id": 22,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "However, not only it is a question of financial costs but also a health and well-being issue as global AL (i.e. health disorders and conditions impacting people's usual activities) has also been associated with mortality <ref type=\"bibr\" target=\"#b4\">[5]<\/ref>."
+    },
+    {
+      "text": "While AL has been previously studied with older populations or particular conditions during long periods [12] [13] [14] [15] [16], little is known about the AL prevalence among other specific populations such as workers.",
+      "text_id": 23,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "While AL has been previously studied with older populations or particular conditions during long periods <ref type=\"bibr\" target=\"#b11\">[12]<\/ref> <ref type=\"bibr\" target=\"#b12\">[13]<\/ref> <ref type=\"bibr\" target=\"#b13\">[14]<\/ref> <ref type=\"bibr\" target=\"#b14\">[15]<\/ref> <ref type=\"bibr\" target=\"#b15\">[16]<\/ref>, little is known about the AL prevalence among other specific populations such as workers."
+    },
+    {
+      "text": "An onset of AL might involve restrictions related to work, although it does not necessarily lead to sickness absence, because it could solely occur during leisure or non-working days (e.g. affecting housework, education, and leisure-time activities).",
+      "text_id": 24,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Further, suffering from an illness or condition does not strictly mean to remain in bed, since prior research has reported a third of workers had gone to work two or more times a year when feeling sick instead of taking sick leave [17].",
+      "text_id": 25,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Further, suffering from an illness or condition does not strictly mean to remain in bed, since prior research has reported a third of workers had gone to work two or more times a year when feeling sick instead of taking sick leave <ref type=\"bibr\" target=\"#b16\">[17]<\/ref>."
+    },
+    {
+      "text": "Thus, to investigate both prevalence and potential ways of preventing AL among a general working population covers a research gap between sickness absence and sickness presenteeism, two of the highest-ranked costs for both governments and companies [18].",
+      "text_id": 26,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Thus, to investigate both prevalence and potential ways of preventing AL among a general working population covers a research gap between sickness absence and sickness presenteeism, two of the highest-ranked costs for both governments and companies <ref type=\"bibr\" target=\"#b17\">[18]<\/ref>."
+    },
+    {
+      "text": "On the other hand, living a healthy lifestyle could contribute to reducing AL since physical activity (PA), normal BMI, and smoking deprivation have shown to associate with better-perceived health [19].",
+      "text_id": 27,
+      "paragraph_id": 7,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "On the other hand, living a healthy lifestyle could contribute to reducing AL since physical activity (PA), normal BMI, and smoking deprivation have shown to associate with better-perceived health <ref type=\"bibr\" target=\"#b18\">[19]<\/ref>."
+    },
+    {
+      "text": "Particularly, PA has been found to significantly reduce all-cause mortality [20], long-term sickness absence [21], and presenteeism [22] risks; therefore, we hypothesised that higher PA might associate with a lower prevalence of AL.",
+      "text_id": 28,
+      "paragraph_id": 7,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Particularly, PA has been found to significantly reduce all-cause mortality <ref type=\"bibr\" target=\"#b19\">[20]<\/ref>, long-term sickness absence <ref type=\"bibr\" target=\"#b20\">[21]<\/ref>, and presenteeism <ref type=\"bibr\" target=\"#b21\">[22]<\/ref> risks; therefore, we hypothesised that higher PA might associate with a lower prevalence of AL."
+    },
+    {
+      "text": "Also, vigorous PA has been estimated to achieve higher all-cause mortality risk reductions [23], thus, the intensity of PA might play a critical role in this association.",
+      "text_id": 29,
+      "paragraph_id": 7,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Also, vigorous PA has been estimated to achieve higher all-cause mortality risk reductions <ref type=\"bibr\" target=\"#b22\">[23]<\/ref>, thus, the intensity of PA might play a critical role in this association."
+    },
+    {
+      "text": "Regarding other possible variables influencing AL, we assumed that those behind the highest risk for sickness absence [24], such as cardiovascular diseases (i.e. hypertension), and musculoskeletal (i.e. back pain) or mental disorders (i.e. chronic depression and anxiety) [24] might also influence AL.",
+      "text_id": 30,
+      "paragraph_id": 7,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Regarding other possible variables influencing AL, we assumed that those behind the highest risk for sickness absence <ref type=\"bibr\" target=\"#b23\">[24]<\/ref>, such as cardiovascular diseases (i.e. hypertension), and musculoskeletal (i.e. back pain) or mental disorders (i.e. chronic depression and anxiety) <ref type=\"bibr\" target=\"#b23\">[24]<\/ref> might also influence AL."
+    },
+    {
+      "text": "The primary aim of this research was to examine the association of different levels of PA with AL (≤ 14 days) among the general Spanish working population.",
+      "text_id": 31,
+      "paragraph_id": 8,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study consists of a survey assessing general health among a Spanish population of citizens, in which the 2017 round was analyzed to investigate potential associations between PA and short AL.",
+      "text_id": 32,
+      "paragraph_id": 9,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In order to ensure comprehensive reporting of the data for the present cross-sectional study, the STROBE guidelines were followed [25].",
+      "text_id": 33,
+      "paragraph_id": 9,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "In order to ensure comprehensive reporting of the data for the present cross-sectional study, the STROBE guidelines were followed <ref type=\"bibr\" target=\"#b24\">[25]<\/ref>."
+    },
+    {
+      "text": "Data from the Spanish National Health Survey 2017 was employed for this analysis.",
+      "text_id": 34,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data were collected through a survey carried out in Spain from October 2016 to October 2017 [26].",
+      "text_id": 35,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Data were collected through a survey carried out in Spain from October 2016 to October 2017 <ref type=\"bibr\" target=\"#b25\">[26]<\/ref>."
+    },
+    {
+      "text": "A stratified three-stage sampling considering census sections, family dwellings, and adults (15 years or more) was respectively implemented.",
+      "text_id": 36,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The dwellings were chosen using systematic sampling, whereas the random Kish method was used to select the participants who were going to complete the Adult Questionnaire.",
+      "text_id": 37,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A computer-assisted personal interview (CAPI) was conducted in the homes of the selected participants, who were assisted by trained interviewers.",
+      "text_id": 38,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A total of 30.1% (n = 11,287) of the chosen dwellings did not reply to the survey due to different reasons (i.e. empty dwelling, absence, refusal, or inability to answer).",
+      "text_id": 39,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As a result, a representative sample of the adult population resident in Spain was collected and consisted of 23,089 adults aged 15-103 years.",
+      "text_id": 40,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All the participants signed an informed consent form before responding to the survey.",
+      "text_id": 41,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because the age group of adults ≥ 70 years did not fulfill the IPAQ (International Physical Activity Questionnaire) short form (i.e. the tool used for assessing PA) embedded in the Adult Questionnaire, we excluded them for the present analyses (n = 5,310).",
+      "text_id": 42,
+      "paragraph_id": 11,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Of the remaining population, those participants not working at data collection were also excluded (n = 7,894).",
+      "text_id": 43,
+      "paragraph_id": 11,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, a total of 9,885 workers, comprising a wide range of job roles (i.e. from white and blue-collar workers to self-employees) were included in the present study.",
+      "text_id": 44,
+      "paragraph_id": 11,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Measures on AL were obtained through the following question ''Have you had to reduce or limit your usual activity during the last two weeks, for at least half a day, due to either one or several pains or symptoms?''.",
+      "text_id": 45,
+      "paragraph_id": 12,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Those participants responding ''yes'' to this question were considered to have had an AL onset during that term.",
+      "text_id": 46,
+      "paragraph_id": 12,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "According to the survey methodology, that usual activity comprised working activities, housework, attendance to learning centres or leisure-time events usually shared with family and friends.",
+      "text_id": 47,
+      "paragraph_id": 12,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The short version of the IPAQ served to assess PA [27].",
+      "text_id": 48,
+      "paragraph_id": 13,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "The short version of the IPAQ served to assess PA <ref type=\"bibr\" target=\"#b26\">[27]<\/ref>."
+    },
+    {
+      "text": "The IPAQ has proved to have good validity ( = 0.30, 95%CI 0.23-0.36) and reliability (Spearman's = 0.81, 95%CI 0.79-0.82) when used in different adult populations worldwide [27].",
+      "text_id": 49,
+      "paragraph_id": 13,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "The IPAQ has proved to have good validity ( = 0.30, 95%CI 0.23-0.36) and reliability (Spearman's = 0.81, 95%CI 0.79-0.82) when used in different adult populations worldwide <ref type=\"bibr\" target=\"#b26\">[27]<\/ref>."
+    },
+    {
+      "text": "Total PA MET (Metabolic Equivalent of Task, i.e. a caloric expenditure unit) minutes/week were calculated adding the METS from three types of PA with the formula: sum of Vigorous + Moderate + Walking MET-minutes/week scores [28].",
+      "text_id": 50,
+      "paragraph_id": 13,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "Total PA MET (Metabolic Equivalent of Task, i.e. a caloric expenditure unit) minutes/week were calculated adding the METS from three types of PA with the formula: sum of Vigorous + Moderate + Walking MET-minutes/week scores <ref type=\"bibr\" target=\"#b27\">[28]<\/ref>."
+    },
+    {
+      "text": "To further check the PA association with AL, we also categorised PA into quartiles regarding METS.",
+      "text_id": 51,
+      "paragraph_id": 13,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In consonance with the data processing and analysis protocol of the IPAQ, the respondents were divided into two categories: ''1) fewer than 600 MET-minutes/week'' and ''2) at least 600 MET-minutes/week'' [28], which is equivalent to achieve the current WHO guidelines.",
+      "text_id": 52,
+      "paragraph_id": 14,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "In consonance with the data processing and analysis protocol of the IPAQ, the respondents were divided into two categories: ''1) fewer than 600 MET-minutes/week'' and ''2) at least 600 MET-minutes/week'' <ref type=\"bibr\" target=\"#b27\">[28]<\/ref>, which is equivalent to achieve the current WHO guidelines."
+    },
+    {
+      "text": "According to research in the field of occupational health, the selected covariates included sociodemographic (age, sex, education, and job role), lifestyle (body mass index and smoking), and health variables (diabetes, hypertension, neck pain, low back pain, chronic depression, and anxiety) [29, 30].",
+      "text_id": 53,
+      "paragraph_id": 15,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "According to research in the field of occupational health, the selected covariates included sociodemographic (age, sex, education, and job role), lifestyle (body mass index and smoking), and health variables (diabetes, hypertension, neck pain, low back pain, chronic depression, and anxiety) <ref type=\"bibr\" target=\"#b28\">[29,<\/ref> <ref type=\"bibr\" target=\"#b29\">30]<\/ref>."
+    },
+    {
+      "text": "Measurements on BMI (Body Mass Index, i.e. weight in kilograms divided by height in squared meters), in which obesity was set at BMI ≥ 30 kg/m 2 , derived from the self-reported height and weight.",
+      "text_id": 54,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The smoking status was categorised as a current smoker, former smoker, and never.",
+      "text_id": 55,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Education was divided into three categories regarding the highest achieved level, corresponding the highest rank to university studies (≤ primary, secondary, and ≥ tertiary).",
+      "text_id": 56,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The categorisation of job role (168 different groups) was made in accordance with the Spanish national list of occupations [31].",
+      "text_id": 57,
+      "paragraph_id": 16,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "The categorisation of job role (168 different groups) was made in accordance with the Spanish national list of occupations <ref type=\"bibr\" target=\"#b30\">[31]<\/ref>."
+    },
+    {
+      "text": "Regarding the health-related covariates, those who answered ''yes'' to the question ''Have you suffered from neck pain within the last twelve months?'' were considered to have neck pain.",
+      "text_id": 58,
+      "paragraph_id": 17,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The same question and procedure were used for assessing the prevalence of the remaining health variables.",
+      "text_id": 59,
+      "paragraph_id": 17,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We conducted a statistical analysis using SPSS 22.0.",
+      "text_id": 60,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Differences in the prevalence of AL by sample characteristics were assessed by Chi 2 tests.",
+      "text_id": 61,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The association between PA (exposure) and AL (outcome) was estimated through multivariable logistic regression analysis conducted for the whole sample as well as by age subgroups (15-36, 37-43, 44-52, and 53-69 years).",
+      "text_id": 62,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Age-segmented analyses were adjusted for sex, BMI, education, smoking, job role, diabetes, hypertension, neck pain, low back pain, depression, and anxiety, while the analysis for the overall sample was also adjusted for age.",
+      "text_id": 63,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Except for age, included as a continuous variable, all variables were included in the models as categorical variables.",
+      "text_id": 64,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants with missing data (n = 190) were not considered for the analyses.",
+      "text_id": 65,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cut-off points for age-segmentation and METS were estimated through equal percentile based on explored data option from the SPSS visual grouping procedure.",
+      "text_id": 66,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As a result of the logistic regression analyses, we calculated odds ratios (ORs) with 95% confidence intervals (CIs).",
+      "text_id": 67,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The level of statistical significance was set at P 0.05.",
+      "text_id": 68,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Table 1 shows the baseline characteristics of the study population.",
+      "text_id": 69,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Table <ref type=\"table\" target=\"#tab_0\">1<\/ref> shows the baseline characteristics of the study population."
+    },
+    {
+      "text": "The cohort includes a population of Spanish general workers (47.4% women) on average 44.4 (SD 10.4) years old.",
+      "text_id": 70,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Concerning lifestyle, 56.8% of the cohort is linked to smoking habits, and 51.1% show overweight or obesity.",
+      "text_id": 71,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The overall prevalence of AL is 10.7%, whereas the overall prevalence of people doing less than 600 MET-minutes/week of PA is 29.6%.",
+      "text_id": 72,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Regarding PA guidelines subgroups, workers doing less and more than 600 MET-minutes/week of PA present a 13.2% and a 9.7% prevalence of AL, respectively.",
+      "text_id": 73,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In estimates without adjustment, women, former smokers, less PA, diabetes, hypertension, neck pain, low back pain, depression, and anxiety were associated with a significantly higher prevalence of AL.",
+      "text_id": 74,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig. 1 shows an upward trend in the prevalence of AL, from 10.9% to 17.4%, when age increasing with those participants in the first PA quartile.",
+      "text_id": 75,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref> shows an upward trend in the prevalence of AL, from 10.9% to 17.4%, when age increasing with those participants in the first PA quartile."
+    },
+    {
+      "text": "The fourth PA quartile observes the less prevalent values for AL for the three older subgroups.",
+      "text_id": 76,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "When performing adjusted overall analysis, the less than 600 MET-minutes/week of PA subgroup was associated with significantly higher odds (OR 1.33, 95%CI 1.15-1.54) for AL (Table 2).",
+      "text_id": 77,
+      "paragraph_id": 21,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "When performing adjusted overall analysis, the less than 600 MET-minutes/week of PA subgroup was associated with significantly higher odds (OR 1.33, 95%CI 1.15-1.54) for AL (Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>)."
+    },
+    {
+      "text": "Advanced age, former smoker, hypertension, neck pain, low back pain, depression, and anxiety were also associated with significantly higher odds for AL (Table 2).",
+      "text_id": 78,
+      "paragraph_id": 21,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Advanced age, former smoker, hypertension, neck pain, low back pain, depression, and anxiety were also associated with significantly higher odds for AL (Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>)."
+    },
+    {
+      "text": "The full adjusted association between PA and AL remains significant among those subgroups formed by workers aged 37 to 43, and 53 to 69 when age-stratified (Table 3).",
+      "text_id": 79,
+      "paragraph_id": 21,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "The full adjusted association between PA and AL remains significant among those subgroups formed by workers aged 37 to 43, and 53 to 69 when age-stratified (Table <ref type=\"table\" target=\"#tab_2\">3<\/ref>)."
+    },
+    {
+      "text": "In the present sample of Spanish general workers, those workers performing less than 600 MET-minutes/week of PA had significantly higher odds of AL.",
+      "text_id": 80,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In the age-stratified analyses, AL remained only significant for both 1) 37-43 years, and 2) 53-69 yearś subgroups achieving PA guidelines.",
+      "text_id": 81,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The prevalence of AL observed a clear trend to diminish with the ageing process when achieving very high levels of PA, whereas those workers performing low levels of PA presented the highest odds of AL in the three subgroups with older workers (Fig. 1).",
+      "text_id": 82,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "The prevalence of AL observed a clear trend to diminish with the ageing process when achieving very high levels of PA, whereas those workers performing low levels of PA presented the highest odds of AL in the three subgroups with older workers (Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref>)."
+    },
+    {
+      "text": "Therefore, in order to reduce AL values, PA strategies aiming at the older population of workers would be desirable.",
+      "text_id": 83,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Prevalence of several of the most common cardiovascular, metabolic, physical, and mental disorders among the workforce observed significant values regarding AL for the present sample.",
+      "text_id": 84,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Except for diabetes, all the diseases showed significantly increased odds for AL in the adjusted model, although both low back pain and depression presented the highest significant association with AL.",
+      "text_id": 85,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Owing to the use of the IPAQ short-form tool, the present study focus PA on the quantitative (i.e. total amount of METS) instead of the qualitative element (i.e. intensity) of the exposure.",
+      "text_id": 86,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, achieving a meaningful value of METS such as those recommended in the WHO guidelines [32], regardless of the way those have been achieved (i.e. different possible combinations of high, moderate PA and walking to get the same value), could result in a significant reduction of odds for AL.",
+      "text_id": 87,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Thus, achieving a meaningful value of METS such as those recommended in the WHO guidelines <ref type=\"bibr\" target=\"#b31\">[32]<\/ref>, regardless of the way those have been achieved (i.e. different possible combinations of high, moderate PA and walking to get the same value), could result in a significant reduction of odds for AL."
+    },
+    {
+      "text": "Although we have not found specific research investigating the association between PA and AL, several studies have suggested the inverse relationship of both quantitative and qualitative aspects of PA with short (≤ 14 days) and long-term sickness absence (> 14 days) [33, 34], even with a different population of workers [21, 35].",
+      "text_id": 88,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Although we have not found specific research investigating the association between PA and AL, several studies have suggested the inverse relationship of both quantitative and qualitative aspects of PA with short (≤ 14 days) and long-term sickness absence (&gt; 14 days) <ref type=\"bibr\" target=\"#b32\">[33,<\/ref> <ref type=\"bibr\" target=\"#b33\">34]<\/ref>, even with a different population of workers <ref type=\"bibr\" target=\"#b20\">[21,<\/ref> <ref type=\"bibr\" target=\"#b34\">35]<\/ref>."
+    },
+    {
+      "text": "When adjusted for occupational class (i.e. job role), our proposed model did not show significant modifications in the association between PA and AL; this finding contrasts with those observed in other studies carried out with a general population of Danish workers, in which high levels of occupational PA were observed to significantly increase the risk of worse global health [21].",
+      "text_id": 89,
+      "paragraph_id": 25,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "When adjusted for occupational class (i.e. job role), our proposed model did not show significant modifications in the association between PA and AL; this finding contrasts with those observed in other studies carried out with a general population of Danish workers, in which high levels of occupational PA were observed to significantly increase the risk of worse global health <ref type=\"bibr\" target=\"#b20\">[21]<\/ref>."
+    },
+    {
+      "text": "Regarding age, we found a clear trend to increase odds for AL when adjusted by the rest of the variables.",
+      "text_id": 90,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "When unadjusted and categorised into quartiles (Fig. 1), the odds of AL remained higher for the older workers performing low PA and lower for those older workers achieving very high levels of PA.",
+      "text_id": 91,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "When unadjusted and categorised into quartiles (Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref>), the odds of AL remained higher for the older workers performing low PA and lower for those older workers achieving very high levels of PA."
+    },
+    {
+      "text": "Thus, the age factor seems to take its part when explaining AL, and older but not younger workers could be more sensitive to PA.",
+      "text_id": 92,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Similar findings were observed among female eldercare workers, in which physical exertion increased the disability pension risk in older but not in younger workers [36].",
+      "text_id": 93,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Similar findings were observed among female eldercare workers, in which physical exertion increased the disability pension risk in older but not in younger workers <ref type=\"bibr\" target=\"#b35\">[36]<\/ref>."
+    },
+    {
+      "text": "Several of the health confounders used in our study have been ranked as one of the most prevalent among the workforce [37, 38].",
+      "text_id": 94,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Several of the health confounders used in our study have been ranked as one of the most prevalent among the workforce <ref type=\"bibr\" target=\"#b36\">[37,<\/ref> <ref type=\"bibr\" target=\"#b37\">38]<\/ref>."
+    },
+    {
+      "text": "However, despite the high influence of hypertension, back pain, and mental disorders in the proposed model, the association between PA and AL remained significant for this study.",
+      "text_id": 95,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, the significantly increased AL odds for five out of six of the health variables suggests that those highlighted health risk factors for long-term sickness absence could also be substantial for AL.",
+      "text_id": 96,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Except for the category of former smokers, current smokers or other confounders such as BMI or education did not find a substantial increase of odds for AL when adjusted for the remaining variables.",
+      "text_id": 97,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These results differ from the findings of other studies outlining the association of both current smoking habits and obesity with a higher risk of general sickness absence in specific populations of workers (i.e. local employees and health workers) [39, 40].",
+      "text_id": 98,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "These results differ from the findings of other studies outlining the association of both current smoking habits and obesity with a higher risk of general sickness absence in specific populations of workers (i.e. local employees and health workers) <ref type=\"bibr\" target=\"#b38\">[39,<\/ref> <ref type=\"bibr\" target=\"#b39\">40]<\/ref>."
+    },
+    {
+      "text": "Overall, achieving a minimum of 600 weekly METS of PA may contribute to reducing AL among a general population of workers.",
+      "text_id": 99,
+      "paragraph_id": 27,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Health strategies aiming at older workers performing low levels of PA or those suffering from anxiety, depression, or back pain might reduce AL.",
+      "text_id": 100,
+      "paragraph_id": 27,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Future research on AL might investigate its use as a potential marker for the two of them, although longitudinal research would be first required to confirm the suggested association.",
+      "text_id": 101,
+      "paragraph_id": 27,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The strengths of the current study comprise using a large random sample of Spanish workers, as well as measuring the exposure variable with a reliable tool.",
+      "text_id": 102,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To further avoid a possible recall bias in the outcome variable, only onsets, instead of days, of AL were contemplated.",
+      "text_id": 103,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In addition, a representative set of confounders covering a wide range of possible risk factors for AL were considered for the implemented logistic model.",
+      "text_id": 104,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, several limitations make this research to be carefully considered.",
+      "text_id": 105,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "First, the observational design of the study does not permit the inspection of a causal relationship between PA and AL.",
+      "text_id": 106,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, low levels of PA may lead to AL, but the reverse association may also be present, i.e. those with activity limitations are more prone to not being sufficiently physically active.",
+      "text_id": 107,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Second, the subjective nature of the measured variables, which represents an inherent risk of information bias.",
+      "text_id": 108,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Particularly, the question used to estimate the main outcome (AL) was not validated, which can exacerbate the aforementioned information bias.",
+      "text_id": 109,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Also, self-reported data on PA usually lead to overestimating overall PA.",
+      "text_id": 110,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Last, according to the IPAQ protocol, the final values of that tool do not discriminate among vigorous or moderate PA, which limits the scope of the study.",
+      "text_id": 111,
+      "paragraph_id": 28,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All things considered, the results of the present study suggest a determined level of PA (≥ 600 METS/week) to associate with lower AL, particularly among older workers.",
+      "text_id": 112,
+      "paragraph_id": 29,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Health strategies aiming at this specific population might reduce levels of AL.",
+      "text_id": 113,
+      "paragraph_id": 29,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The survey was funded by the Spanish Ministry of Health, Social Services and Equality, and the National Institute of Statistics as a part of an assessment program on general health.",
+      "text_id": 114,
+      "paragraph_id": 30,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "The survey was funded by the <rs type=\"funder\">Spanish Ministry of Health, Social Services and Equality<\/rs>, and the <rs type=\"institution\">National Institute of Statistics<\/rs> as a part of an assessment program on general health."
+    },
+    {
+      "text": "The authors declare that they have no competing interest.",
+      "text_id": 115,
+      "paragraph_id": 31,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Figure 1 Prevalence of activity limitation (AL) by level of physical activity (PA) and by age groups.",
+      "text_id": 116,
+      "paragraph_id": 32,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Characteristics of the study population.",
+      "text_id": 117,
+      "paragraph_id": 33,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Association of physical activity and other covariates with activity limitation (outcome) estimated by multivariable logistic regression.Estimates are odds ratio [95% confidence interval].",
+      "text_id": 118,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Models are adjusted for all variables in the Table and job role.",
+      "text_id": 119,
+      "paragraph_id": 34,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Association between different levels of physical activity and activity limitation (outcome) estimated by multivariable logistic regression.",
+      "text_id": 120,
+      "paragraph_id": 35,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Science & Sports 38 (2023) 247-254",
+      "text_id": 121,
+      "paragraph_id": 36,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "<note place=\"foot\" xml:id=\"foot_0\">   <p>Science &amp; Sports 38 (2023) 247-254<\/p> <\/note>"
+    },
+    {
+      "text": "World Health Organization (WHO). International clas- sification of functioning, disability and health world. Geneva; 2001. Disponible sur: https://apps.who.int/ iris/bitstream/handle/10665/42407/9241545429.pdf [cité le 16 avr 2019].",
+      "text_id": 122,
+      "paragraph_id": 37,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Van Oyen H, Heyden J, Perenboom R, Jagger C. Monitoring population disability: evaluation of a new Global Activity Limi- tation Indicator (GALI). Soz Praventivmed 2006;51:153-61.",
+      "text_id": 123,
+      "paragraph_id": 38,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Morgell R, Backlund LG, Arrelöv B, Strender LE, Nilsson GH. Health problems and disability in long-term sickness absence: ICF coding of medical certificates. BMC Public Health 2011:11.",
+      "text_id": 124,
+      "paragraph_id": 39,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tennant A, Penta M, Tesio L, Grimby G, Thonnard JL, Slade A, et al. Assessing and adjusting for cross-cultural validity of impairment and activity limitation scales through differential item functioning within the framework of the Rasch model: the PRO-ESOR project. Med Care 2004;42:37-48.",
+      "text_id": 125,
+      "paragraph_id": 40,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Berger N, Van der Heyden J, Van Oyen H. The global activity limitation indicator and self-rated health: two complementary predictors of mortality. Arch Public Heal 2015;73:1-7.",
+      "text_id": 126,
+      "paragraph_id": 41,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jagger C, Gillies C, Cambois E, Van Oyen H, Nusselder W, Robine JM. The Global Activity Limitation Index measured function and disability similarly across European countries. J Clin Epidemiol 2010;63:892-9.",
+      "text_id": 127,
+      "paragraph_id": 42,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Berger N, Van Oyen H, Cambois E, Fouweather T, Jagger C, Nusselder W, et al. Assessing the validity of the global activity limitation indicator in fourteen European countries. BMC Med Res Methodol 2015:15.",
+      "text_id": 128,
+      "paragraph_id": 43,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "von der Lippe E, Fehr A, Lange C. Limitations to usual acti- vities due to health problems in Germany. J Heal Monit 2017;2:84-90.",
+      "text_id": 129,
+      "paragraph_id": 44,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ohtake PJ, Coffey Scott J, Hinman RS, Lee AC, Smith JM. Impairments, activity limitations and participation restrictions experienced in the first year following a critical illness: proto- col for a systematic review. BMJ Open 2017;7:1-5.",
+      "text_id": 130,
+      "paragraph_id": 45,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Xiang H, Leff M, Stallones L. Non-fatal injuries among adults with activity limitations and participation restrictions. Inj Prev 2005;11:157-62.",
+      "text_id": 131,
+      "paragraph_id": 46,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Van Der Heyden J, Van Oyen H, Berger N, De Bacquer D, Van Herck K. Activity limitations predict health care expendi- tures in the general population in Belgium. BMC Public Health 2015;15:1-12.",
+      "text_id": 132,
+      "paragraph_id": 47,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abraído-Lanza AF, White K, Armbrister AN, Link BG. Health sta- tus, activity limitations, and disability in work and housework among Latinos and non-Latinos with arthritis: an analysis of national data. Arthritis Care Res 2006;55:442-50.",
+      "text_id": 133,
+      "paragraph_id": 48,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thyberg I, Hass UAM, Nordenskiöld U, Gerdle B, Skogh T. Acti- vity limitation in rheumatoid arthritis correlates with reduced grip force regardless of sex: The Swedish TIRA project. Arthritis Care Res 2005;53:886-96.",
+      "text_id": 134,
+      "paragraph_id": 49,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Goverover Y, Strober L, Chiaravalloti N, DeLuca J. Factors that moderate activity limitation and participation restriction in people with multiple sclerosis. Am J Occup Ther 2015;69:1-9.",
+      "text_id": 135,
+      "paragraph_id": 50,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ibikunle lanrewaj PO, Oladipo kunday SE, Chukwu goz JN, Odole hristian AC, Okeke foem AI. Establishing the reliability and construct validity of the Igbo version of Screening Activity Limitation and Safety Awareness scale in persons with Hansen disease. Lepr Rev 2015;86:220-8.",
+      "text_id": 136,
+      "paragraph_id": 51,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Moon JH. Factors affecting activity limitation in the elderly: data processed from the Korea National Health and Nutri- tion Examination Survey, 2016. Osong Public Heal Res Perspect 2019;10:117-22.",
+      "text_id": 137,
+      "paragraph_id": 52,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Aronsson G, Gustafsson K, Dallner M. Sick but Yet at Work. An empirical study of sickness presenteeism sick but yet at work. An sickness presenteeism empirical study of 2014;54:502-9.",
+      "text_id": 138,
+      "paragraph_id": 53,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nagata T, Mori K, Ohtani M, Nagata M, Kajiki S, Fujino Y, et al. Total health-related costs due to absenteeism, presen- teeism, and medical and pharmaceutical expenses in Japanese employers. J Occup Environ Med 2018;60:e273-80.",
+      "text_id": 139,
+      "paragraph_id": 54,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Molarius A, Berglund K, Eriksson C, Lambe M, Nordström E, Eriksson HG, et al. Socioeconomic conditions, lifestyle factors, and self-rated health among men and women in Sweden. Eur J Public Health 2007;17:125-33.",
+      "text_id": 140,
+      "paragraph_id": 55,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Saint-Maurice PF, Coughlan D, Kelly SP, Keadle SK, Cook MB, Carlson SA, et al. Association of leisure-time physical activity across the adult life course with all-cause and cause-specific mortality. JAMA Netw Open 2019;2:e190355.",
+      "text_id": 141,
+      "paragraph_id": 56,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Holtermann A, Hansen JV, Burr H, Søgaard K, Sjøgaard G. The health paradox of occupational and leisure-time physical acti- vity. Br J Sports Med 2012;46:291-5.",
+      "text_id": 142,
+      "paragraph_id": 57,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Walker TJ. The longitudinal relation between self- reported physical activity and presenteeism. J Med Virol 2010;82:175-85.",
+      "text_id": 143,
+      "paragraph_id": 58,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gebel K, Ding D, Chey T, Stamatakis E, Brown WJ, Bauman AE. Effect of moderate to vigorous physical activity on all-cause mortality in middle-aged and older Australians. JAMA Intern Med 2015;175:970-7.",
+      "text_id": 144,
+      "paragraph_id": 59,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sundstrup E, Due Jakobsen M, Mortensen OS, Andersen LL. Joint association of multimorbidity and work ability with risk of long- term sickness absence: a prospective cohort study with register follow-up. Scand J Work Environ Heal 2017;43:146-54.",
+      "text_id": 145,
+      "paragraph_id": 60,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP. The strengthening the repor- ting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies. Epidemiology 2007;18:800-4.",
+      "text_id": 146,
+      "paragraph_id": 61,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ministerio de Sanidad Servicios Sociales e Igualdad Instituto Nacional de Estadística. Spanish National Health Survey 2017: Methodology; 2017. Disponible sur: https://www.ine.es/en/metodologia/t15/t153041917 en.pdf [cité le 25 avr 2019].",
+      "text_id": 147,
+      "paragraph_id": 62,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, et al. International physical activity question- naire: 12-Country reliability and validity. Med Sci Sports Exerc 2003;35:1381-95.",
+      "text_id": 148,
+      "paragraph_id": 63,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ipaq. Guidelines for data processing and analysis of the international physical activity questionnaire (IPAQ)-short and long forms. Ipaq; 2005. p. 1-15. Disponible sur: https://sites.google.com/site/theipaq/scoring-protocol [cité le 15 avr 2019].",
+      "text_id": 149,
+      "paragraph_id": 64,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "López-Bueno R, Sundstrup E, Vinstrup J, Casajús JA, Andersen LL. High leisure-time physical activity reduces the risk of long- term sickness absence. Scand J Med Sci Sport 2020;30:939-46.",
+      "text_id": 150,
+      "paragraph_id": 65,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "López-Bueno R, Bláfoss R, Calatayud J, López-Sánchez GF, Smith L, Andersen LL, et al. Association between physical acti- vity and odds of chronic conditions among workers in Spain. Prev Chronic Dis 2020;17:200105.",
+      "text_id": 151,
+      "paragraph_id": 66,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Instituto Nacional de Estadística. Clasificación Nacional de Ocupaciones (CNO). Inst Nac Estadística; 2011. Disponible sur: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c= Estadistica C&cid=1254736177033&menu=ultiDatos&idp=12547 35976614 [cité le 9 avr 2019].",
+      "text_id": 152,
+      "paragraph_id": 67,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "World Health Organization (WHO). Global recommendations on physical activity for health. Geneva; 2014. Disponible sur: https://www.who.int/publications/i/item/9789241599979 [cité le 11 avr 2019].",
+      "text_id": 153,
+      "paragraph_id": 68,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Losina E, Yang HY, Deshpande BR, Katz JN, Collins JE. Physical activity and unplanned illness-related work absenteeism: data from an employee wellness program. PLoS One 2017;12:1-13.",
+      "text_id": 154,
+      "paragraph_id": 69,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lahti J, Laaksonen M, Lahelma E, Rahkonen O. The impact of physical activity on sickness absence. Scand J Med Sci Sport 2010;20:191-9.",
+      "text_id": 155,
+      "paragraph_id": 70,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tolonen A, Rahkonen O, Lahti J. Leisure-time physical activity and direct cost of short-term sickness absence among Finnish municipal employees. Arch Environ Occup Heal 2017;72:93-8.",
+      "text_id": 156,
+      "paragraph_id": 71,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Andersen L, Villadsen E, Clausen T. Influence of physical and psychosocial working conditions for the risk of disability pen- sion among healthy female eldercare workers: Prospective cohort. Scand J Public Health 2020;48:460-7.",
+      "text_id": 157,
+      "paragraph_id": 72,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "de Vroome EMM, Uegaki K, van der Ploeg CPB, Treutlein DB, Steenbeek R, de Weerd M, et al. Burden of sickness absence due to chronic disease in the Dutch workforce from 2007 to 2011. J Occup Rehabil 2015;25:675-84.",
+      "text_id": 158,
+      "paragraph_id": 73,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hassard J, Teoh K, Cox T, Dewe P, Cosmar M, Gründler R, et al. Calculating the cost of work-related stress and psychosocial risks. Luxembourg; 2014.",
+      "text_id": 159,
+      "paragraph_id": 74,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Laaksonen M, Piha K, Martikainen P, Rahkonen O, Lahelma E. Health-related behaviours and sickness absence from work. Occup Environ Med 2009;66:840-7.",
+      "text_id": 160,
+      "paragraph_id": 75,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Torres Lana A, Cabrera de León A, Marco García MT, Aguirre Jaime A. Smoking and sickness absence among public health workers. Public Health 2005;119:144-9.",
+      "text_id": 161,
+      "paragraph_id": 76,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. The survey",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Activity limitation (Outcome)",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.3. Physical activity (Exposure)",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.4. Covariates",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.5. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "5. Conclusions",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "Funding",
+      "parent_section_id": null,
+      "section_type": "funding",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "Disclosure of interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "Figure 1",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "Table 3",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "",
+      "parent_section_id": null,
+      "section_type": "foot",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [],
+  "bib": [
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "International classification of functioning, disability and health world",
+      "authors": "",
+      "editors": "",
+      "publisher": "World Health Organization",
+      "year": 2001,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 122
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Monitoring population disability: evaluation of a new Global Activity Limitation Indicator (GALI)",
+      "authors": "Van Oyen, H; Heyden, J; Perenboom, R; Jagger, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "51",
+      "issue": "",
+      "first_page": "153",
+      "last_page": "161",
+      "container": "Soz Praventivmed",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 123
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Health problems and disability in long-term sickness absence: ICF coding of medical certificates",
+      "authors": "Morgell, R; Backlund, L G; Arrelöv, B; Strender, L E; Nilsson, G H",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "",
+      "issue": "",
+      "first_page": "11",
+      "last_page": null,
+      "container": "BMC Public Health",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 124
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Assessing and adjusting for cross-cultural validity of impairment and activity limitation scales through differential item functioning within the framework of the Rasch model: the PRO-ESOR project",
+      "authors": "Tennant, A; Penta, M; Tesio, L; Grimby, G; Thonnard, J L; Slade, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "42",
+      "issue": "",
+      "first_page": "37",
+      "last_page": "48",
+      "container": "Med Care",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 125
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The global activity limitation indicator and self-rated health: two complementary predictors of mortality",
+      "authors": "Berger, N; Van Der Heyden, J; Van Oyen, H",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "73",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "7",
+      "container": "Arch Public Heal",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 126
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The Global Activity Limitation Index measured function and disability similarly across European countries",
+      "authors": "Jagger, C; Gillies, C; Cambois, E; Van Oyen, H; Nusselder, W; Robine, J M",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "63",
+      "issue": "",
+      "first_page": "892",
+      "last_page": "899",
+      "container": "J Clin Epidemiol",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 127
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Assessing the validity of the global activity limitation indicator in fourteen European countries",
+      "authors": "Berger, N; Van Oyen, H; Cambois, E; Fouweather, T; Jagger, C; Nusselder, W",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "",
+      "issue": "",
+      "first_page": "15",
+      "last_page": null,
+      "container": "BMC Med Res Methodol",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 128
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Limitations to usual activities due to health problems in Germany",
+      "authors": "Der Lippe, Von; Fehr, E; Lange, A; , C",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "2",
+      "issue": "",
+      "first_page": "84",
+      "last_page": "90",
+      "container": "J Heal Monit",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 129
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Impairments, activity limitations and participation restrictions experienced in the first year following a critical illness: protocol for a systematic review",
+      "authors": "Ohtake, P J; Scott, Coffey; Hinman, J; Lee, R S; Smith, A C; , J M",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "7",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "5",
+      "container": "BMJ Open",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 130
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Non-fatal injuries among adults with activity limitations and participation restrictions",
+      "authors": "Xiang, H; Leff, M; Stallones, L",
+      "editors": "",
+      "publisher": "",
+      "year": 2005,
+      "volume": "11",
+      "issue": "",
+      "first_page": "157",
+      "last_page": "162",
+      "container": "Inj Prev",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 131
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Activity limitations predict health care expenditures in the general population in Belgium",
+      "authors": "Van Der Heyden, J; Van Oyen, H; Berger, N; Bacquer, De; , D; Herck, Van; , K",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "15",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "12",
+      "container": "BMC Public Health",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 132
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Health status, activity limitations, and disability in work and housework among Latinos and non-Latinos with arthritis: an analysis of national data",
+      "authors": "Abraído-Lanza, A F; White, K; Armbrister, A N; Link, B G",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "55",
+      "issue": "",
+      "first_page": "442",
+      "last_page": "450",
+      "container": "Arthritis Care Res",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 133
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Activity limitation in rheumatoid arthritis correlates with reduced grip force regardless of sex: The Swedish TIRA project",
+      "authors": "Thyberg, I; Hass, Uam; Nordenskiöld, U; Gerdle, B; Skogh, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2005,
+      "volume": "53",
+      "issue": "",
+      "first_page": "886",
+      "last_page": "896",
+      "container": "Arthritis Care Res",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 134
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Factors that moderate activity limitation and participation restriction in people with multiple sclerosis",
+      "authors": "Goverover, Y; Strober, L; Chiaravalloti, N; Deluca, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "69",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "9",
+      "container": "Am J Occup Ther",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 135
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Chukwu goz JN, Odole hristian AC, Okeke foem AI. Establishing the reliability and construct validity of the Igbo version of Screening Activity Limitation and Safety Awareness scale in persons with Hansen disease",
+      "authors": "Ibikunle Lanrewaj, P O; Oladipo, ; Se, ",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "86",
+      "issue": "",
+      "first_page": "220",
+      "last_page": "228",
+      "container": "Lepr Rev",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 136
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Factors affecting activity limitation in the elderly: data processed from the Korea National Health and Nutrition Examination Survey",
+      "authors": "Moon, J H",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "10",
+      "issue": "",
+      "first_page": "117",
+      "last_page": "122",
+      "container": "Osong Public Heal Res Perspect",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 137
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Sick but Yet at Work. An empirical study of sickness presenteeism sick but yet at work. An sickness presenteeism empirical study of",
+      "authors": "Aronsson, G; Gustafsson, K; Dallner, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "54",
+      "issue": "",
+      "first_page": "502",
+      "last_page": "509",
+      "container": null,
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 138
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Total health-related costs due to absenteeism, presenteeism, and medical and pharmaceutical expenses in Japanese employers",
+      "authors": "Nagata, T; Mori, K; Ohtani, M; Nagata, M; Kajiki, S; Fujino, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "60",
+      "issue": "",
+      "first_page": "273",
+      "last_page": "280",
+      "container": "J Occup Environ Med",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 139
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Socioeconomic conditions, lifestyle factors, and self-rated health among men and women in Sweden",
+      "authors": "Molarius, A; Berglund, K; Eriksson, C; Lambe, M; Nordström, E; Eriksson, H G",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "17",
+      "issue": "",
+      "first_page": "125",
+      "last_page": "133",
+      "container": "Eur J Public Health",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 140
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Association of leisure-time physical activity across the adult life course with all-cause and cause-specific mortality",
+      "authors": "Saint-Maurice, P F; Coughlan, D; Kelly, S P; Keadle, S K; Cook, M B; Carlson, S A",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "2",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "JAMA Netw Open",
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 141
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The health paradox of occupational and leisure-time physical activity",
+      "authors": "Holtermann, A; Hansen, J V; Burr, H; Søgaard, K; Sjøgaard, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "46",
+      "issue": "",
+      "first_page": "291",
+      "last_page": "295",
+      "container": "Br J Sports Med",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 142
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The longitudinal relation between selfreported physical activity and presenteeism",
+      "authors": "Walker, T J",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "82",
+      "issue": "",
+      "first_page": "175",
+      "last_page": "185",
+      "container": "J Med Virol",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 143
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Effect of moderate to vigorous physical activity on all-cause mortality in middle-aged and older Australians",
+      "authors": "Gebel, K; Ding, D; Chey, T; Stamatakis, E; Brown, W J; Bauman, A E",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "175",
+      "issue": "",
+      "first_page": "970",
+      "last_page": "977",
+      "container": "JAMA Intern Med",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 144
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Joint association of multimorbidity and work ability with risk of longterm sickness absence: a prospective cohort study with register follow-up",
+      "authors": "Sundstrup, E; Jakobsen, Due; Mortensen, M; Andersen, O S; , L L",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "43",
+      "issue": "",
+      "first_page": "146",
+      "last_page": "154",
+      "container": "Scand J Work Environ Heal",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 145
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The strengthening the reporting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies",
+      "authors": "Von Elm, E; Altman, D G; Egger, M; Pocock, S J; Gøtzsche, P C; Vandenbroucke, J P",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "18",
+      "issue": "",
+      "first_page": "800",
+      "last_page": "804",
+      "container": "Epidemiology",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 146
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "",
+      "authors": "",
+      "editors": "",
+      "publisher": "Ministerio de Sanidad Servicios Sociales e Igualdad Instituto Nacional de Estadística",
+      "year": 2017,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Methodology",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 147
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "International physical activity questionnaire: 12-Country reliability and validity",
+      "authors": "Craig, C L; Marshall, A L; Sjöström, M; Bauman, A E; Booth, M L; Ainsworth, B E",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "35",
+      "issue": "",
+      "first_page": "1381",
+      "last_page": "1395",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 148
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Guidelines for data processing and analysis of the international physical activity questionnaire (IPAQ)-short and long forms",
+      "authors": "Ipaq, ",
+      "editors": "",
+      "publisher": "",
+      "year": 2005,
+      "volume": "",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "15",
+      "container": null,
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 149
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "High leisure-time physical activity reduces the risk of longterm sickness absence",
+      "authors": "López-Bueno, R; Sundstrup, E; Vinstrup, J; Casajús, J A; Andersen, L L",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "30",
+      "issue": "",
+      "first_page": "939",
+      "last_page": "946",
+      "container": "Scand J Med Sci Sport",
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 150
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Association between physical activity and odds of chronic conditions among workers in Spain",
+      "authors": "López-Bueno, R; Bláfoss, R; Calatayud, J; López-Sánchez, G F; Smith, L; Andersen, L L",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "17",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Prev Chronic Dis",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 151
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Clasificación Nacional de Ocupaciones (CNO)",
+      "authors": "",
+      "editors": "",
+      "publisher": "Instituto Nacional de Estadística",
+      "year": 2011,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 152
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Global recommendations on physical activity for health",
+      "authors": "",
+      "editors": "",
+      "publisher": "World Health Organization (WHO)",
+      "year": 2014,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 153
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Physical activity and unplanned illness-related work absenteeism: data from an employee wellness program",
+      "authors": "Losina, E; Yang, H Y; Deshpande, B R; Katz, J N; Collins, J E",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "12",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "13",
+      "container": "PLoS One",
+      "bib_id": 32,
+      "year_suffix": "",
+      "text_id": 154
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The impact of physical activity on sickness absence",
+      "authors": "Lahti, J; Laaksonen, M; Lahelma, E; Rahkonen, O",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "20",
+      "issue": "",
+      "first_page": "191",
+      "last_page": "199",
+      "container": "Scand J Med Sci Sport",
+      "bib_id": 33,
+      "year_suffix": "",
+      "text_id": 155
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Leisure-time physical activity and direct cost of short-term sickness absence among Finnish municipal employees",
+      "authors": "Tolonen, A; Rahkonen, O; Lahti, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "72",
+      "issue": "",
+      "first_page": "93",
+      "last_page": "98",
+      "container": "Arch Environ Occup Heal",
+      "bib_id": 34,
+      "year_suffix": "",
+      "text_id": 156
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Influence of physical and psychosocial working conditions for the risk of disability pension among healthy female eldercare workers: Prospective cohort",
+      "authors": "Andersen, L; Villadsen, E; Clausen, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "48",
+      "issue": "",
+      "first_page": "460",
+      "last_page": "467",
+      "container": "Scand J Public Health",
+      "bib_id": 35,
+      "year_suffix": "",
+      "text_id": 157
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Burden of sickness absence due to chronic disease in the Dutch workforce from 2007 to 2011",
+      "authors": "De Vroome, Emm; Uegaki, K; Van Der Ploeg, Cpb; Treutlein, D B; Steenbeek, R; De Weerd, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "25",
+      "issue": "",
+      "first_page": "675",
+      "last_page": "684",
+      "container": "J Occup Rehabil",
+      "bib_id": 36,
+      "year_suffix": "",
+      "text_id": 158
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Calculating the cost of work-related stress and psychosocial risks",
+      "authors": "Hassard, J; Teoh, K; Cox, T; Dewe, P; Cosmar, M; Gründler, R",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 37,
+      "year_suffix": "",
+      "text_id": 159
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Health-related behaviours and sickness absence from work",
+      "authors": "Laaksonen, M; Piha, K; Martikainen, P; Rahkonen, O; Lahelma, E",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "66",
+      "issue": "",
+      "first_page": "840",
+      "last_page": "847",
+      "container": "Occup Environ Med",
+      "bib_id": 38,
+      "year_suffix": "",
+      "text_id": 160
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Smoking and sickness absence among public health workers",
+      "authors": "Torres Lana, A; De León, Cabrera; , A; García, Marco; , M T; Jaime, Aguirre; , A",
+      "editors": "",
+      "publisher": "",
+      "year": 2005,
+      "volume": "119",
+      "issue": "",
+      "first_page": "144",
+      "last_page": "149",
+      "container": "Public Health",
+      "bib_id": 39,
+      "year_suffix": "",
+      "text_id": 161
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "[1]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "[1]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 14
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 15
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 15
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 17
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "[6]",
+      "text_id": 17
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 17
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "[8]",
+      "text_id": 17
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "[9,",
+      "text_id": 19
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10]",
+      "text_id": 19
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 21
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 22
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 23
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13]",
+      "text_id": 23
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "[14]",
+      "text_id": 23
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 23
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 23
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17]",
+      "text_id": 25
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "[18]",
+      "text_id": 26
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "[19]",
+      "text_id": 27
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[20]",
+      "text_id": 28
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "[21]",
+      "text_id": 28
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "[22]",
+      "text_id": 28
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "[23]",
+      "text_id": 29
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "[24]",
+      "text_id": 30
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "[24]",
+      "text_id": 30
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "[25]",
+      "text_id": 33
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "[26]",
+      "text_id": 35
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "[27]",
+      "text_id": 48
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "[27]",
+      "text_id": 49
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "[28]",
+      "text_id": 50
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "[28]",
+      "text_id": 52
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "[29,",
+      "text_id": 53
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30]",
+      "text_id": 53
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "[31]",
+      "text_id": 57
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 69
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 75
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 77
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 78
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 79
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 82
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "[32]",
+      "text_id": 87
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "[33,",
+      "text_id": 88
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34]",
+      "text_id": 88
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "[21,",
+      "text_id": 88
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "35]",
+      "text_id": 88
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "[21]",
+      "text_id": 89
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 91
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "[36]",
+      "text_id": 93
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "[37,",
+      "text_id": 94
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "38]",
+      "text_id": 94
+    },
+    {
+      "xref_id": 38,
+      "xref_type": "bibr",
+      "contents": "[39,",
+      "text_id": 98
+    },
+    {
+      "xref_id": 39,
+      "xref_type": "bibr",
+      "contents": "40]",
+      "text_id": 98
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 13,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 14,
+      "html": "<table>\n  <row>\n    <cell>Activity limitation a<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        "Activity limitation a"
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 15,
+      "html": "<table>\n  <row>\n    <cell>Characteristic<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        "Characteristic"
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 3,
+      "section_id": 16,
+      "html": "<table>\n  <row>\n    <cell>Age (years)<\/cell>\n    <cell cols=\"2\">Association between<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"2\">physical activity (&lt; 600<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"2\">MET-minutes/week) and<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"2\">activity limitation<\/cell>\n  <\/row>\n  <row>\n    <cell>17-36<\/cell>\n    <cell>1.09<\/cell>\n    <cell>[0.78, 1.51]<\/cell>\n  <\/row>\n  <row>\n    <cell>37-43<\/cell>\n    <cell>1.75**<\/cell>\n    <cell>[1.27, 2.41]<\/cell>\n  <\/row>\n  <row>\n    <cell>44-52<\/cell>\n    <cell>1.10<\/cell>\n    <cell>[0.82, 1.48]<\/cell>\n  <\/row>\n  <row>\n    <cell>53-69<\/cell>\n    <cell>1.67**<\/cell>\n    <cell>[1.22, 2.28]<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"3\">Estimates are odds ratio [95% confidence interval]. Models<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"3\">are adjusted for sex, education, BMI, smoking, job role,<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"3\">diabetes, hypertension, neck pain, low back pain, depression<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"3\">and anxiety. * P &lt; 0.05. ** P &lt; 0.01. *** P &lt; 0.001.<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Age (years)", "Association between / physical activity (< 600 / MET-minutes/week) and / activity limitation", "Association between / physical activity (< 600 / MET-minutes/week) and / activity limitation"],
+        ["17-36", "1.09", "[0.78, 1.51]"],
+        ["37-43", "1.75**", "[1.27, 2.41]"],
+        ["44-52", "1.10", "[0.82, 1.48]"],
+        ["53-69", "1.67**", "[1.22, 2.28]"],
+        ["Estimates are odds ratio [95% confidence interval]. Models", "Estimates are odds ratio [95% confidence interval]. Models", "Estimates are odds ratio [95% confidence interval]. Models"],
+        ["are adjusted for sex, education, BMI, smoking, job role,", "are adjusted for sex, education, BMI, smoking, job role,", "are adjusted for sex, education, BMI, smoking, job role,"],
+        ["diabetes, hypertension, neck pain, low back pain, depression", "diabetes, hypertension, neck pain, low back pain, depression", "diabetes, hypertension, neck pain, low back pain, depression"],
+        ["and anxiety. * P < 0.05. ** P < 0.01. *** P < 0.001.", "and anxiety. * P < 0.05. ** P < 0.01. *** P < 0.001.", "and anxiety. * P < 0.05. ** P < 0.01. *** P < 0.001."]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 9,
+      "grp_id": 1,
+      "lhs": "reaching",
+      "df": null,
+      "comp": "≥",
+      "rhs": "600"
+    },
+    {
+      "text_id": 39,
+      "grp_id": 2,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "11,287"
+    },
+    {
+      "text_id": 42,
+      "grp_id": 3,
+      "lhs": "adults",
+      "df": null,
+      "comp": "≥",
+      "rhs": "70"
+    },
+    {
+      "text_id": 42,
+      "grp_id": 3,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "5,310"
+    },
+    {
+      "text_id": 43,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "7,894"
+    },
+    {
+      "text_id": 49,
+      "grp_id": 5,
+      "lhs": "s",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.81"
+    },
+    {
+      "text_id": 54,
+      "grp_id": 6,
+      "lhs": "BMI",
+      "df": null,
+      "comp": "≥",
+      "rhs": "30"
+    },
+    {
+      "text_id": 65,
+      "grp_id": 7,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "190"
+    }
+  ]
+}

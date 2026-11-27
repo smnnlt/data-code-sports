@@ -1,0 +1,2444 @@
+{
+  "paper_id": "10.1016+j.scispo.2026.01.011",
+  "info": [
+    {
+      "title": "Epidemiology of female artistic roller skating related injuries: A one season observational study Épidémiologie des blessures liées au patinage artistique à roulettes féminin : une étude observationnelle sur une saison",
+      "keywords": null,
+      "doi": "10.1016/j.scispo.2026.01.011",
+      "file_hash": "1f42f5f69bc8c410",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.scispo.2026.01.011.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "M",
+      "family": "Quintana-Cepedal",
+      "affiliation": "Department of Functional Biology\n\t\t\t\t\t\t\t\tUniversidad de Oviedo\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOviedo\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "N",
+      "family": "Cuervo",
+      "affiliation": "Department of Functional Biology\n\t\t\t\t\t\t\t\tUniversidad de Oviedo\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOviedo\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "B",
+      "family": "Sanchez-Martinez",
+      "affiliation": "Department of Education Sciences\n\t\t\t\t\t\t\t\tUniversity of Oviedo\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOviedo\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "I",
+      "family": "Crespo",
+      "affiliation": "Department of Functional Biology\n\t\t\t\t\t\t\t\tUniversidad de Oviedo\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOviedo\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "M",
+      "family": "Del Valle",
+      "affiliation": "Asturian Research Group in Performance, Readaptation, Training, and Health (AstuRES)\n\t\t\t\t\t\t\t\tUniversity of Oviedo\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOviedo\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 6,
+      "given": "H",
+      "family": "Olmedillas",
+      "affiliation": "Department of Functional Biology\n\t\t\t\t\t\t\t\tUniversidad de Oviedo\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tOviedo\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "olmedillashugo@uniovi.es",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Objectives: The aim of this study is to describe the epidemiological characteristics of artistic roller skating in female athletes.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: Artistic roller skaters participating in the national league of the Spanish Federation of Skating (n = 152) were surveyed via an anonymous online questionnaire to screen for injury characteristics: incidence, location, tissue affected, and injury onset.",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injury rates were compared using the incidence rate ratio.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: There were 228 injuries (80% during training sessions) across 44,178 hours of exposure, giving an overall injury incidence of 5.2/1,000 hours.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Incidence was significantly higher in competitions (741/1,000 h) compared to training sessions (4.2/1,000 h) (P < 0.001).",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Incidence was significantly higher in competitions (741/1,000 h) compared to training sessions (4.2/1,000 h) (P &lt; 0.001)."
+    },
+    {
+      "text": "Ninety-seven artistic roller skaters sustained an injury, accounting for an overall prevalence of 64%.",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The body areas with the higher number of injuries were the knee (n = 33 [15%]), ankle (n = 30 [13%], and wrist (n = 25 [11%]).",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Objectifs : Le but de cette étude est de décrire les caractéristiques épidémiologiques des blessures liées au patinage artistique à roulettes chez les athlètes féminines.",
+      "text_id": 8,
+      "paragraph_id": 2,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Méthodes : Des patineuses artistiques à roulettes participant à la ligue nationale de la Fédération espagnole de patinage (n = 152) ont été interrogées via un questionnaire en ligne anonyme afin de dépister les caractéristiques des blessures : l'incidence, la localisation, le tissu affecté et le moment de l'apparition de la blessure.",
+      "text_id": 9,
+      "paragraph_id": 2,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Les taux de blessures ont été comparés en utilisant le taux d'incidence (Incidence Rate Ratio, IRR).",
+      "text_id": 10,
+      "paragraph_id": 2,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Résultats : Un total de 228 blessures (80 % survenues lors des sessions d'entraînement) a été recensé sur 44 178 heures d'exposition, ce qui donne une incidence globale des blessures de 5,2/1000 heures.",
+      "text_id": 11,
+      "paragraph_id": 2,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "L'inci dence était significativement plus élevée en compétition (741/1000 h) par rapport aux sessions d'entraînement (4,2/1000 h) (p < 0,001).",
+      "text_id": 12,
+      "paragraph_id": 2,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "L'inci dence était significativement plus élevée en compétition (741/1000 h) par rapport aux sessions d'entraînement (4,2/1000 h) (p &lt; 0,001)."
+    },
+    {
+      "text": "Quatre-vingt-dix-sept patineuses artistiques à roulettes ont subi une blessure, ce qui représente une prévalence globale de 64 %.",
+      "text_id": 13,
+      "paragraph_id": 2,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Les zones corporelles présentant le plus grand nombre de blessures étaient le genou (n = 33 [15 %]), la cheville (n = 30 [13 %]) et le poignet (n = 25 [11 %]).",
+      "text_id": 14,
+      "paragraph_id": 2,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Artistic roller skating (ARS) is a sport that combines physical skills such as flexibility, power, and coordination, with artistic abilities.",
+      "text_id": 15,
+      "paragraph_id": 3,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The high physical demands and extensive exposure hours in this discipline increase the risk of sport-related injuries. data is the first step, preceding the identification of risk factors and the inclusion of preventative strategies in the sequence of injury prevention to reduce injury risk [1].",
+      "text_id": 16,
+      "paragraph_id": 3,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "The high physical demands and extensive exposure hours in this discipline increase the risk of sport-related injuries. data is the first step, preceding the identification of risk factors and the inclusion of preventative strategies in the sequence of injury prevention to reduce injury risk <ref type=\"bibr\" target=\"#b0\">[1]<\/ref>."
+    },
+    {
+      "text": "The literature regarding this field in ARS is scarce.",
+      "text_id": 17,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data from ice fi gure skating suggest that the ankle and knee joints are the most injured body regions, representing 28 and 19% of all injuries, respectively.",
+      "text_id": 18,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One in every two injuries affect either ligament or musculotendinous tissue [2].",
+      "text_id": 19,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "One in every two injuries affect either ligament or musculotendinous tissue <ref type=\"bibr\" target=\"#b1\">[2]<\/ref>."
+    },
+    {
+      "text": "The stress placed on skaters' feet increases the risk of bone ove ruse injuries, which may lead to long lay-off periods and worse overall athlete health.",
+      "text_id": 20,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Other skating sports such as inline speed skating or rink hockey, report the highest occurrence of lower limb injuries, with injury incidence ranging from 1.3 to 2.1 injuries per 1,000 hours of exposure, which is significantly higher than for other body areas [3, 4].",
+      "text_id": 21,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Other skating sports such as inline speed skating or rink hockey, report the highest occurrence of lower limb injuries, with injury incidence ranging from 1.3 to 2.1 injuries per 1,000 hours of exposure, which is significantly higher than for other body areas <ref type=\"bibr\" target=\"#b2\">[3,<\/ref> <ref type=\"bibr\" target=\"#b3\">4]<\/ref>."
+    },
+    {
+      "text": "The dispa rity compared to upper body injuries may be explained by the frontal plane instability caused by the skate width, which places high stress on the stabilizing muscles and ligaments [5].",
+      "text_id": 22,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "The dispa rity compared to upper body injuries may be explained by the frontal plane instability caused by the skate width, which places high stress on the stabilizing muscles and ligaments <ref type=\"bibr\" target=\"#b4\">[5]<\/ref>."
+    },
+    {
+      "text": "Injury characteristics are si milar in gymnastics, where ankle injuries represent 18% of all injuries and ligament injuries are the most frequent tissue affected [6].",
+      "text_id": 23,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Injury characteristics are si milar in gymnastics, where ankle injuries represent 18% of all injuries and ligament injuries are the most frequent tissue affected <ref type=\"bibr\" target=\"#b5\">[6]<\/ref>."
+    },
+    {
+      "text": "On the contrary, injury incidence ranges from 8.5 to 8.8 per 1000 hours of ex posure [7].",
+      "text_id": 24,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "On the contrary, injury incidence ranges from 8.5 to 8.8 per 1000 hours of ex posure <ref type=\"bibr\" target=\"#b6\">[7]<\/ref>."
+    },
+    {
+      "text": "Given the similarities to other skating or artistic disciplines, it is expected that injuries in ARS align with the aforementioned sports.",
+      "text_id": 25,
+      "paragraph_id": 4,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It must be noted that extrapolating results from one sport to ano ther should be done cautiously, since each discipline presents specific characteristics.",
+      "text_id": 26,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The International Olympic Committee (IOC) recently released a consensus statement on recording and reporting of epide miological sport data [5], and none of the studies on injuries in figure skating adhere to this framework.",
+      "text_id": 27,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "The International Olympic Committee (IOC) recently released a consensus statement on recording and reporting of epide miological sport data <ref type=\"bibr\" target=\"#b4\">[5]<\/ref>, and none of the studies on injuries in figure skating adhere to this framework."
+    },
+    {
+      "text": "Thus, based on the paucity in the data available around ARS, the aim of this study is to describe the epidemio logical characteristics of artistic roller skating.",
+      "text_id": 28,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Our specific objectives were to describe the type of injury (situation, tissue affected, onset) and anatomic location, while comparing injury rates.",
+      "text_id": 29,
+      "paragraph_id": 5,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Material and methods",
+      "text_id": 30,
+      "paragraph_id": 6,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Material and methods<\/head>"
+    },
+    {
+      "text": "The reporting of the present cross-sectional study follows the STROBE (Strengthening the Reporting of Observational studies in Epi demiology) statement [8].",
+      "text_id": 31,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "The reporting of the present cross-sectional study follows the STROBE (Strengthening the Reporting of Observational studies in Epi demiology) statement <ref type=\"bibr\" target=\"#b7\">[8]<\/ref>."
+    },
+    {
+      "text": "This epidemiological study consisted of a self-reported electronic questionnaire created to be filled by the partici pating athletes.",
+      "text_id": 32,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It registered all training and competition-related injuries occurring during the past season (10 months) to retrospectively collect injury data.",
+      "text_id": 33,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The questionnaire was designed by two researchers (NC and HO) experienced in ARS and in sports epidemiological studies, and no information that could identify participants was collected.",
+      "text_id": 34,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ethical ap proval was obtained from the corresponding institutional review board (code: 2024.390).",
+      "text_id": 35,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants gave their consent to participate prior to the starting of data collection.",
+      "text_id": 36,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Given the anonymity of the data collec tion form, no additional parental consent was deemed necessary by the local ethics committee when participants were underage.",
+      "text_id": 37,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The principles of the Helsinki declaration were followed at all times.",
+      "text_id": 38,
+      "paragraph_id": 7,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Female artistic roller skaters competing in the National League of the Spanish Federation of Skating (RFEP) were directly contacted by the se cond author (NC) via email or phone call during November-December 2023.",
+      "text_id": 39,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To be considered for inclusion, the athlete had to be competing in the current season and needed to have a minimum of two-year ex perience in ARS.",
+      "text_id": 40,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injuries that happened during the previous season and forced the athlete to start preseason later than the rest of the participants were not considered [3].",
+      "text_id": 41,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "Injuries that happened during the previous season and forced the athlete to start preseason later than the rest of the participants were not considered <ref type=\"bibr\" target=\"#b2\">[3]<\/ref>."
+    },
+    {
+      "text": "Due to the unbalanced distribution of athletes by sex in this sport, we decided to include only female participants to obtain a representative sample of injuries.",
+      "text_id": 42,
+      "paragraph_id": 8,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "An injury was defined as tissue damage or other disorder of nor mal physical function due to participation in sports, as a result of a rapid or repetitive transfer of kinetic energy [3, 5].",
+      "text_id": 43,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "An injury was defined as tissue damage or other disorder of nor mal physical function due to participation in sports, as a result of a rapid or repetitive transfer of kinetic energy <ref type=\"bibr\" target=\"#b2\">[3,<\/ref> <ref type=\"bibr\" target=\"#b4\">5]<\/ref>."
+    },
+    {
+      "text": "All injuries had to cause absence from skating practice at least for one complete session, ei ther competition or training (i.e., time-loss injury definition).",
+      "text_id": 44,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Individual skating exposure was calculated by combining training (week training time (h) × Season duration (No. of exposure weeks) and competitive (No. of competitions × 0.057 h) exposure.",
+      "text_id": 45,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injury incidence and burden were calculated using the following formulas [9].",
+      "text_id": 46,
+      "paragraph_id": 9,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Injury incidence and burden were calculated using the following formulas <ref type=\"bibr\" target=\"#b8\">[9]<\/ref>."
+    },
+    {
+      "text": "Head/trunk injuries comprised those to the head, neck, chest, ab domen, spine, and back; upper limb injuries comprised those to the shoulder, arm, elbow, forearm, wrist, and hand; and lower limb inju ries comprised those to the hip/groin, thigh, knee, leg, ankle, and foot.",
+      "text_id": 47,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gradual-onset injuries were defined as those occurring without a known trauma, whereas acute injuries were characterized by an identifiable cause.",
+      "text_id": 48,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Definitions according to the International Olympic Committee for injuries per tissue affected are presented in Table 1 [5].",
+      "text_id": 49,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Definitions according to the International Olympic Committee for injuries per tissue affected are presented in Table 1 <ref type=\"bibr\" target=\"#b4\">[5]<\/ref>."
+    },
+    {
+      "text": "All statistical analyses were conducted in R (version 4.3.3) using the Positron integrated development environment (version 2025.08.0), with the epitools package [10].",
+      "text_id": 50,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "All statistical analyses were conducted in R (version 4.3.3) using the Positron integrated development environment (version 2025.08.0), with the epitools package <ref type=\"bibr\" target=\"#b9\">[10]<\/ref>."
+    },
+    {
+      "text": "Normality of continuous variables was checked using the Kolmogorov-Smirnov test and by visually inspec ting histograms and Q-Q plots.",
+      "text_id": 51,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Quantitative variables were presented as mean and standard deviation (SD), while categorical variables were presented as absolute (n) and relative frequencies (%).",
+      "text_id": 52,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Training and competition incidence rates, injury incidence according to body area, and mode of onset were compared using the incidence rate ratios (IRRs).",
+      "text_id": 53,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The IRR and corresponding 95% confidence intervals (CIs) were calcula ted using the epitab function with the Wald method, assuming a Poisson distribution that presumes injuries occur independently of each other [11].",
+      "text_id": 54,
+      "paragraph_id": 11,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "The IRR and corresponding 95% confidence intervals (CIs) were calcula ted using the epitab function with the Wald method, assuming a Poisson distribution that presumes injuries occur independently of each other <ref type=\"bibr\" target=\"#b10\">[11]<\/ref>."
+    },
+    {
+      "text": " >Results",
+      "text_id": 55,
+      "paragraph_id": 12,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "<head n=\"3.\" >Results<\/head>"
+    },
+    {
+      "text": "One hundred fifty-two artistic roller skaters completed the online form.",
+      "text_id": 56,
+      "paragraph_id": 13,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants' demographic characteristics can be found in Table 2 .",
+      "text_id": 57,
+      "paragraph_id": 13,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Participants' demographic characteristics can be found in Table <ref type=\"table\" target=\"#tab_1\">2<\/ref> ."
+    },
+    {
+      "text": "Participants were exposed to 44,178 h of artistic roller skating, of which 44,119 h were dedicated to training and 59 h were dedicated to compe tition.",
+      "text_id": 58,
+      "paragraph_id": 13,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A total of 228 time-loss injuries were registered, of which 184 occur red during training sessions and 44 during competitions.",
+      "text_id": 59,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ninety-seven athletes sustained an injury during the season, accounting for an overall prevalence of 64%.",
+      "text_id": 60,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fifty-three (34.8%) participants suffered one injury, 28 (18.4%) suffered two injuries, seven (4.6%) suffered three injuries, and the rest sustained four to eight injuries (5%).",
+      "text_id": 61,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The general incidence was 5.2 (95% CI: 4.5 to 5.8) injuries per 1,000 h.",
+      "text_id": 62,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injury incidence for training sessions was 4.2 (95% CI: 3.5 to 4.8), while competition inci dence was 741 (95% CI: 522 to 960).",
+      "text_id": 63,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injury incidence was significantly higher during competitions compared to training sessions (IRR = 178.8, 95% CI = 128.7 to 248.4, P < 0.001).",
+      "text_id": 64,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "Injury incidence was significantly higher during competitions compared to training sessions (IRR = 178.8, 95% CI = 128.7 to 248.4, P &lt; 0.001)."
+    },
+    {
+      "text": "The general injury burden was 89 per 1,000 h, with 74.5 per 1,000 h for training sessions and 11,081 per 1,000 h for competitions (P < 0.001).",
+      "text_id": 65,
+      "paragraph_id": 14,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "The general injury burden was 89 per 1,000 h, with 74.5 per 1,000 h for training sessions and 11,081 per 1,000 h for competitions (P &lt; 0.001)."
+    },
+    {
+      "text": "Players reported injuries in all possible areas except the abdomi nal region.",
+      "text_id": 66,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The body areas with the most number of injuries were the knee (33 [14.5%]), ankle (30 [13%]), and wrist (25 [11%]).",
+      "text_id": 67,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "The body areas with the most number of injuries were the knee (33 [14.5%]), ankle (30 [13%]), and wrist <ref type=\"bibr\">(25 [11%]<\/ref>)."
+    },
+    {
+      "text": "In juries affecting the lower limb were significantly more frequent than the head/trunk (IRR = 14.14, 95% CI = 6.57 to 30.43, P < 0.001) and upper limb (IRR = 2.02, 95% CI = 1.43 to 2.84, P < 0.001) injuries.",
+      "text_id": 68,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "In juries affecting the lower limb were significantly more frequent than the head/trunk (IRR = 14.14, 95% CI = 6.57 to 30.43, P &lt; 0.001) and upper limb (IRR = 2.02, 95% CI = 1.43 to 2.84, P &lt; 0.001) injuries."
+    },
+    {
+      "text": "Head/trunk and upper and lower limb incidences can be seen cluste red in Fig. 1.",
+      "text_id": 69,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Head/trunk and upper and lower limb incidences can be seen cluste red in Fig. <ref type=\"figure\" target=\"#fig_1\">1<\/ref>."
+    },
+    {
+      "text": "Table 3 presents frequence of each individual injured region along injury incidence and IRR, the reference body location was the knee.",
+      "text_id": 70,
+      "paragraph_id": 15,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Table <ref type=\"table\" target=\"#tab_2\">3<\/ref> presents frequence of each individual injured region along injury incidence and IRR, the reference body location was the knee."
+    },
+    {
+      "text": "Injury incidence was 0.7/1,000 h (95% CI: 0.47 to 1) for musculo tendinous injuries; 0.74 (95% CI: 0.51 to 1.04) for ligaments; 0.65 (95% CI: 0.43 to 0.94) for contusions; 0.36 (95% CI: 0.2 to 0.58) for bone; and 0.1 (95% CI: 0.03 to 0.26) for nerve injuries.",
+      "text_id": 71,
+      "paragraph_id": 16,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injury incidence was 2.3 (95% CI: 1.8 to 2.8) and 0.65 (95% CI: 0.44 to 0.94) for acute-onset and gradual-onset injuries, respectively (IRR = 3.51, 95% CI = 2.32 to 5.31, P < 0.001).",
+      "text_id": 72,
+      "paragraph_id": 16,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Injury incidence was 2.3 (95% CI: 1.8 to 2.8) and 0.65 (95% CI: 0.44 to 0.94) for acute-onset and gradual-onset injuries, respectively (IRR = 3.51, 95% CI = 2.32 to 5.31, P &lt; 0.001)."
+    },
+    {
+      "text": "This study describes the epidemiology of injuries that occurred in artistic roller skaters across one season.",
+      "text_id": 73,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It represents the largest study sample of athletes from this discipline to date.",
+      "text_id": 74,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The main findings were: (1) an overall injury incidence of 5.2 per 1,000 h of exposure; (2) a significantly higher injury incidence in competitions (741/1,000 h) com pared to training sessions (4.2/1,000 h); (3) a high incidence of ligament and muscle injuries (0.7/1,000 h); and (4) the two most common injury sites were the knee (14%) and ankle (13%).",
+      "text_id": 75,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This is the first study presenting injury data in artistic roller ska ting according to the consensus statement on reporting epidemiological data from the International Olympic Committee [5].",
+      "text_id": 76,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "This is the first study presenting injury data in artistic roller ska ting according to the consensus statement on reporting epidemiological data from the International Olympic Committee <ref type=\"bibr\" target=\"#b4\">[5]<\/ref>."
+    },
+    {
+      "text": "Our participants show a higher overall injury incidence compared to other skating sports, such as rink hockey (4 to 4.5 injuries per 1,000 hours) or inline speed skating (1.6 injuries per 1,000 hours) [3, 4, 12].",
+      "text_id": 77,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Our participants show a higher overall injury incidence compared to other skating sports, such as rink hockey (4 to 4.5 injuries per 1,000 hours) or inline speed skating (1.6 injuries per 1,000 hours) <ref type=\"bibr\" target=\"#b2\">[3,<\/ref> <ref type=\"bibr\" target=\"#b3\">4,<\/ref> <ref type=\"bibr\" target=\"#b11\">12]<\/ref>."
+    },
+    {
+      "text": "Unfortunately, injury in cidence per 1000 hours is not available in figure skating, and, to the authors' knowledge, no prior ARS studies exist, making direct compari son impossible.",
+      "text_id": 78,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The fact that artistic roller skaters suffer more injuries than hockey or speed skating athletes could be explained by the lon ger exposure hours to the sport.",
+      "text_id": 79,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Athletes in artistic disciplines often train for extended periods of up to 30 hours per week to master proper technique, increasing their risk of injury due to greater exposure to po tentially harmful events, while weekly training in rink hockey or speed skating rarely exceeds 10 hours.",
+      "text_id": 80,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Compared to a different artistic sport such as gymnastics, our athletes had a lower overall injury incidence, with gymnasts experiencing up to 9 injuries per 1,000 hours of exposure [7].",
+      "text_id": 81,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Compared to a different artistic sport such as gymnastics, our athletes had a lower overall injury incidence, with gymnasts experiencing up to 9 injuries per 1,000 hours of exposure <ref type=\"bibr\" target=\"#b6\">[7]<\/ref>."
+    },
+    {
+      "text": "This higher rate in this sport may be due to the prevalence of upper body injuries, such as shoulder instability or wrist pathology, as well as a significant number of lower body injuries [13, 14].",
+      "text_id": 82,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "This higher rate in this sport may be due to the prevalence of upper body injuries, such as shoulder instability or wrist pathology, as well as a significant number of lower body injuries <ref type=\"bibr\" target=\"#b12\">[13,<\/ref> <ref type=\"bibr\" target=\"#b13\">14]<\/ref>."
+    },
+    {
+      "text": "In contrast, ARS athletes primarily suffer from lower body injuries.",
+      "text_id": 83,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Taken together, the evidence suggests that ARS has a moderate injury incidence rate com pared with other artistic or skate-based sports.",
+      "text_id": 84,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Apart from the general injury incidence, the comparison between training and competition in juries yielded significant differences in favour of the second (P < 0.001).",
+      "text_id": 85,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Apart from the general injury incidence, the comparison between training and competition in juries yielded significant differences in favour of the second (P &lt; 0.001)."
+    },
+    {
+      "text": "This difference is primarily due to the high number of injuries (n = 44) combined with low exposure time (59 hours).",
+      "text_id": 86,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injury incidence is a com pound rate, so both the number of injuries and exposure time should be taken into consideration, since less than 20% of injuries occurred du ring competition.",
+      "text_id": 87,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It is important to note that the results may be biased due to the low exposure hours in competitive sessions.",
+      "text_id": 88,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, it is recommended to interpret these findings with caution [11].",
+      "text_id": 89,
+      "paragraph_id": 17,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Therefore, it is recommended to interpret these findings with caution <ref type=\"bibr\" target=\"#b10\">[11]<\/ref>."
+    },
+    {
+      "text": "Musculotendinous and ligament injuries displayed identical results (0.7/1,000 h).",
+      "text_id": 90,
+      "paragraph_id": 18,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Previous research in figure skaters have found large rates of ligament injuries (55%) [2].",
+      "text_id": 91,
+      "paragraph_id": 18,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Previous research in figure skaters have found large rates of ligament injuries (55%) <ref type=\"bibr\" target=\"#b1\">[2]<\/ref>."
+    },
+    {
+      "text": "Injuries affecting these structures are common in sports that require plyometric actions where the passive structures have to cope with large forces from the lower limb joints, however, rates presented in other skating sports show a higher inci dence of muscle over ligament injuries [4].",
+      "text_id": 92,
+      "paragraph_id": 18,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Injuries affecting these structures are common in sports that require plyometric actions where the passive structures have to cope with large forces from the lower limb joints, however, rates presented in other skating sports show a higher inci dence of muscle over ligament injuries <ref type=\"bibr\" target=\"#b3\">[4]<\/ref>."
+    },
+    {
+      "text": "This discrepancy could be explained by the higher speed reached by speed skaters and rink hockey players, since muscle injuries happen during actions that are closed to maximal velocity [15], while submaximal speed may be sufficient to practise ARS without posing excessive strain on the muscle tissue [16].",
+      "text_id": 93,
+      "paragraph_id": 18,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "This discrepancy could be explained by the higher speed reached by speed skaters and rink hockey players, since muscle injuries happen during actions that are closed to maximal velocity <ref type=\"bibr\" target=\"#b14\">[15]<\/ref>, while submaximal speed may be sufficient to practise ARS without posing excessive strain on the muscle tissue <ref type=\"bibr\" target=\"#b15\">[16]<\/ref>."
+    },
+    {
+      "text": "A larger amount of ligament injuries have been presented in epidemio logical data from female football, both adult and adolescents, where ligamentous knee and ankle injuries are amongst the most common in juries [17, 18].",
+      "text_id": 94,
+      "paragraph_id": 18,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "A larger amount of ligament injuries have been presented in epidemio logical data from female football, both adult and adolescents, where ligamentous knee and ankle injuries are amongst the most common in juries <ref type=\"bibr\" target=\"#b16\">[17,<\/ref> <ref type=\"bibr\" target=\"#b17\">18]<\/ref>."
+    },
+    {
+      "text": "Our sample was formed by female athletes, which could be the cause why we have recorded this substantial amount of ligament injuries, epidemiological studies on female populations have shown a trend towards higher rates of ligament injuries over muscle injuries, al though both types of injuries are common [19, 20].",
+      "text_id": 95,
+      "paragraph_id": 18,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Our sample was formed by female athletes, which could be the cause why we have recorded this substantial amount of ligament injuries, epidemiological studies on female populations have shown a trend towards higher rates of ligament injuries over muscle injuries, al though both types of injuries are common <ref type=\"bibr\" target=\"#b18\">[19,<\/ref> <ref type=\"bibr\" target=\"#b19\">20]<\/ref>."
+    },
+    {
+      "text": "Given the propensity of female athletes to suffer from ligament injuries, it is essential to mo nitor for symptoms indicative of these injuries in order to prevent them before they occur [21].",
+      "text_id": 96,
+      "paragraph_id": 18,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Given the propensity of female athletes to suffer from ligament injuries, it is essential to mo nitor for symptoms indicative of these injuries in order to prevent them before they occur <ref type=\"bibr\" target=\"#b20\">[21]<\/ref>."
+    },
+    {
+      "text": "One in four injuries affected the ankle or knee joints, while there was also a high incidence of wrist injuries.",
+      "text_id": 97,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Our rates are lower than previous figure skating data, which reported 28% of injuries affecting the ankle and 18% affecting the knee [2].",
+      "text_id": 98,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Our rates are lower than previous figure skating data, which reported 28% of injuries affecting the ankle and 18% affecting the knee <ref type=\"bibr\" target=\"#b1\">[2]<\/ref>."
+    },
+    {
+      "text": "ARS is characterised by intermittent acceleration and jumping movements, landing from a pirouette could stress the soft tissues in these joints when braking the body's speed, or result in a loss of balance and falling, which may explain the high rate of wrist injuries as skaters try to avoid damaging other body areas.",
+      "text_id": 99,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Knee and ankle injuries, although common, might be more severe, as ligamentous injuries in these areas require long recovery periods [20].",
+      "text_id": 100,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Knee and ankle injuries, although common, might be more severe, as ligamentous injuries in these areas require long recovery periods <ref type=\"bibr\" target=\"#b19\">[20]<\/ref>."
+    },
+    {
+      "text": "Including neuromuscular warm-up programmes could mitigate the risk of ankle and knee injuries, as shown in previous randomised control led trials, although the effectiveness in artistic roller skating is yet to be determined [22, 23].",
+      "text_id": 101,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Including neuromuscular warm-up programmes could mitigate the risk of ankle and knee injuries, as shown in previous randomised control led trials, although the effectiveness in artistic roller skating is yet to be determined <ref type=\"bibr\" target=\"#b21\">[22,<\/ref> <ref type=\"bibr\" target=\"#b22\">23]<\/ref>."
+    },
+    {
+      "text": "Additionally, training of falling skills should be encouraged, as it could also reduce the number of injuries to the wrists [4].",
+      "text_id": 102,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Additionally, training of falling skills should be encouraged, as it could also reduce the number of injuries to the wrists <ref type=\"bibr\" target=\"#b3\">[4]<\/ref>."
+    },
+    {
+      "text": "There are some limitations that should be acknowledged.",
+      "text_id": 103,
+      "paragraph_id": 20,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "First, a time-loss definition was used, which may have overlooked some mi nor issues that compromise performance without affecting participation.",
+      "text_id": 104,
+      "paragraph_id": 20,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Due to the cross-sectional design, using questionnaires like the Oslo Sports Trauma Research Center (OSTRC) was not feasible and thus, non-time-loss injuries could not be captured.",
+      "text_id": 105,
+      "paragraph_id": 20,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Second, injuries were selfreported, leading to missing data on certain fields due to limited access to medical professionals, such as affected tissue, which might have unde restimated some incidence calculations.",
+      "text_id": 106,
+      "paragraph_id": 20,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Third, some severe injuries may have been missed if they led to sport abandonment due to the study de sign, prospective studies could address this point in the future.",
+      "text_id": 107,
+      "paragraph_id": 20,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Finally, due to the anonymity of the survey, it is unknown how many athletes received the survey [24].",
+      "text_id": 108,
+      "paragraph_id": 20,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Finally, due to the anonymity of the survey, it is unknown how many athletes received the survey <ref type=\"bibr\" target=\"#b23\">[24]<\/ref>."
+    },
+    {
+      "text": "Certain strengths should also be stated.",
+      "text_id": 109,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This is the first epidemiolo gical study reporting ARS injury data.",
+      "text_id": 110,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sample size was large, providing a representative number of injuries for most body regions, making the injury incidence results reliable.",
+      "text_id": 111,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The IOC terminology facilitated com parison with other sports that follow the same consensus statement on reporting of epidemiological data.",
+      "text_id": 112,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Finally, the inclusion of data on fe male athletes is particularly significant, as their representation in sports research remains limited, underscoring the importance of addressing this gap [25].",
+      "text_id": 113,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Finally, the inclusion of data on fe male athletes is particularly significant, as their representation in sports research remains limited, underscoring the importance of addressing this gap <ref type=\"bibr\" target=\"#b24\">[25]<\/ref>."
+    },
+    {
+      "text": "Injury incidence in female artistic roller skating is moderate.",
+      "text_id": 114,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A large number of injuries affect the lower limbs, with knee and ankle injuries being the most common.",
+      "text_id": 115,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injury incidence is higher in competitions com pared to training sessions.",
+      "text_id": 116,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results from the present study represent the first step towards the design and implementation of preventative pro grammes.",
+      "text_id": 117,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Efforts should focus on the lower body, since this area is at higher risk of sustaining artistic roller skating related injuries.",
+      "text_id": 118,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors would like to thank all participating athletes.",
+      "text_id": 119,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors report there is no funding associated with the work featured in this article.",
+      "text_id": 120,
+      "paragraph_id": 24,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that they have no competing interest.",
+      "text_id": 121,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Collecting epidemiological https://doi.org/10.1016/j.scispo.2026.01.011 Reçu le 30 octobre 2025 ; Accepté le 18 janvier 2026 Disponible en ligne le 1 May 2026 0765-1597/© 2026 The Author(s).",
+      "text_id": 122,
+      "paragraph_id": 26,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Published by Elsevier Masson SAS.",
+      "text_id": 123,
+      "paragraph_id": 26,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/li censes/by-nc-nd/4.0/).",
+      "text_id": 124,
+      "paragraph_id": 26,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 1.",
+      "text_id": 125,
+      "paragraph_id": 27,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Aggregated injury incidence.",
+      "text_id": 126,
+      "paragraph_id": 27,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data are reported as n/1,000 hours (95% confidence interval).",
+      "text_id": 127,
+      "paragraph_id": 27,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injury definitions for tissue affected.",
+      "text_id": 128,
+      "paragraph_id": 28,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Demographic characteristics.Data is presented as mean and standard deviation.",
+      "text_id": 129,
+      "paragraph_id": 29,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Injury incidence according to body region.",
+      "text_id": 130,
+      "paragraph_id": 30,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Van Mechelen W, Hlobil H, Kemper HCG. Incidence, severity, aetiology and preven tion of sports injuries: a review of concepts. Sports Med 1992;14:82-99.",
+      "text_id": 131,
+      "paragraph_id": 31,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Han JS, Geminiani ET, Micheli LJ. Epidemiology of figure skating injuries: a review of the literature. Sports Health 2018;10:532-7.",
+      "text_id": 132,
+      "paragraph_id": 32,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Quintana-Cepedal M, Rodríguez MÁ, Nuño-Iglesias N, Del Valle M, Crespo I, Ol medillas H. Injury characteristics of young elite inline speed skaters: a one season retrospective study. Phys Sports Med 2024;52:181-6.",
+      "text_id": 133,
+      "paragraph_id": 33,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Quintana-Cepedal M, Rodríguez MÁ, Crespo I, Del Valle M, Olmedillas H. Epidemio logy of rink hockey-related injuries. J Sport Rehab 2023;32:70-5.",
+      "text_id": 134,
+      "paragraph_id": 34,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bahr R, Clarsen B, Derman W, Dvorak J, Emery CA, Finch CF, et al. International Olympic Committee consensus statement: methods for recording and reporting of epidemiological data on injury and illness in sport 2020 (including STROBE Ex tension for Sport Injury and Illness Surveillance [STROBE-SIIS]). Br J Sports Med 2020;54:372-89.",
+      "text_id": 135,
+      "paragraph_id": 35,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kerr ZY, Hayden R, Barr M, Klossner DA, Dompier TP. Epidemiology of natio nal collegiate athletic association women's gymnastics injuries, 2009-2010 through 2013-2014. J Athl Train 2015;50:870-8.",
+      "text_id": 136,
+      "paragraph_id": 36,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thomas RE, Thomas BC. A systematic review of injuries in gymnastics. Phys Sports Med 2019;47:96-121.",
+      "text_id": 137,
+      "paragraph_id": 37,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vandenbroucke JP, Von Elm E, Altman DG, Gøtzsche PC, Mulrow CD, Pocock SJ, et al. Strengthening the reporting of observational studies in epidemiology (STROBE): explanation and elaboration. Epidemiology 2007;18:805-35.",
+      "text_id": 138,
+      "paragraph_id": 38,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ekstrand J, Spreco A, Bengtsson H, Bahr R. Injury rates decreased in men's professio nal football: an 18-year prospective cohort study of almost 12,000 injuries sustained during 1.8 million hours of play. Br J Sports Med 2021;55:1084-92.",
+      "text_id": 139,
+      "paragraph_id": 39,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Aragon TJ. Epitools: epidemiology tools 2004 [0.5-10.1. citado 2025 oct 20. Avai lable from: https://CRAN.R-project.org/package=epitools].",
+      "text_id": 140,
+      "paragraph_id": 40,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "De Pablo B, Sugimoto D, Arboix-Alio J, Rodas G, Casals M. Analysis of injuries during the 2019 Rink Hockey World Championship. Phys Sports Med 2023;51:442-8.",
+      "text_id": 141,
+      "paragraph_id": 41,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Quintana-Cepedal M, Roces-Vila I, Del Valle M, Olmedillas H. Epidemiology of inju ries in elite female rink hockey players: a two season observational study. Phys Ther Sport 2024;67:7-12.",
+      "text_id": 142,
+      "paragraph_id": 42,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Desai N, Vance DD, Rosenwasser MP, Ahmad CS. Artistic gymnastics injuries; epide miology, evaluation, and treatment. J Am Acad Orthop Surg 2019;27:459-67.",
+      "text_id": 143,
+      "paragraph_id": 43,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Caine DJ, Nassar L. Gymnastics injuries. In: Caine DJ, Maffulli N, editors. Medicine and sport science. S. Karger AG; 2005 [citado 2024 ago 6. página 18-58.Available from: https://karger.com/books/book/2502/chapter/5739361].",
+      "text_id": 144,
+      "paragraph_id": 44,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Aiello F, Di Claudio C, Fanchini M, Impellizzeri FM, McCall A, Sharp C, et al. Do non-contact injuries occur during high-speed running in elite football? Preliminary results from a novel GPS and video-based method. J Sci Med Sport 2023;26:465-70.",
+      "text_id": 145,
+      "paragraph_id": 45,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fernández D, Varo F, Carmona G, Reche X. Quantification of external load of elite rink hockey players in official matches. J Sports Med Phys Fit 2020;60 [citado 2024 ago 6. Available from: https://www.minervamedica.it/in dex2.php?show=R40Y2020N12A1520].",
+      "text_id": 146,
+      "paragraph_id": 46,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Quintana-Cepedal M, López-Aguado I, Fernández-Somoano A, Rodríguez MÁ, Del Valle M, Olmedillas H. Injury incidence and characteristics in adolescent female footballplayers: a systematic review with meta-analysis of prospectivestudies. bs 2024;41:137-51.",
+      "text_id": 147,
+      "paragraph_id": 47,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "López-Valenciano A, Raya-González J, Garcia-Gómez JA, Aparicio-Sarmiento A, Sainz De Baranda P, De Ste Croix M, et al. Injury profile in women's football: a systematic review and meta-analysis. Sports Med 2021;51:423-42.",
+      "text_id": 148,
+      "paragraph_id": 48,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hallén A, Tomás R, Ekstrand J, Bengtsson H, Van Den Steen E, Hägglund M, et al. UEFA Women's Elite Club Injury Study: a prospective study on 1,527 inju ries over four consecutive seasons 2018/2019 to 2021/2022 reveals thigh muscle injuries to be most common and ACL injuries most burdensome. Br J Sports Med 2024;58:128-36.",
+      "text_id": 149,
+      "paragraph_id": 49,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Amundsen R, Thorarinsdottir S, Clarsen B, Andersen TE, Møller M, Bahr R. #Rea dyToPlay: health problems in women's football -a two-season prospective cohort study in the Norwegian premier league. Br J Sports Med 2024;58:4-10.",
+      "text_id": 150,
+      "paragraph_id": 50,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Whalan M, Lovell R, Sampson JA. Do niggles matter? -Increased injury risk follo wing physical complaints in football (soccer). Sci Med Football 2020;4:216-24.",
+      "text_id": 151,
+      "paragraph_id": 51,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Åkerlund I, Waldén M, Sonesson S, Lindblom H, Hägglund M. High compliance with the injury prevention exercise programme Knee Control is associated with a greater injury preventive effect in male, but not in female, youth floorball players. Knee Surg Sports Traumatol Arthrosc 2022;30:1480-90.",
+      "text_id": 152,
+      "paragraph_id": 52,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lindblom H, Sonesson S, Torvaldsson K, Waldén M, Hägglund M. Extended Knee Control programme lowers weekly hamstring, knee and ankle injury prevalence compared with an adductor strength programme or self-selected injury preven tion exercises in adolescent and adult amateur football players: a two-armed cluster-randomised trial with an additional comparison arm. Br J Sports Med 2023;57:83-90.",
+      "text_id": 153,
+      "paragraph_id": 53,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wörner T, Thorborg K, Eek F. High prevalence of hip and groin problems in profes sional ice hockey players, regardless of playing position. Knee Surg Sports Traumatol Arthrosc 2020;28:2302-8.",
+      "text_id": 154,
+      "paragraph_id": 54,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Anderson N, Robinson DG, Verhagen E, Fagher K, Edouard P, Rojas-Valverde D, et al. Under-representation of women is alive and well in sport and exercise medi cine: what it looks like and what we can do about it. BMJ Open Sport Exerc Med 2023;9:e001606.",
+      "text_id": 155,
+      "paragraph_id": 55,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 1,
+      "header": "a b s t r a c t",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "Mots clés : Athlètes féminines Incidence Facteurs de risque Patinage r é s u m é",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2. Material and methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.1. Study design",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.2. Participants",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.3. Definitions",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "2.4. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "3.1. Study population",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "3.2. Injury incidence, prevalence, and burden",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "3.3. Injury location, tissue affected, and mode of onset",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "5. Conclusion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "Acknowledgements",
+      "parent_section_id": null,
+      "section_type": "acknowledgement",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "Funding",
+      "parent_section_id": null,
+      "section_type": "funding",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "Disclosure of interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "Fig 1.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "Table 3",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Incidence, severity, aetiology and preven tion of sports injuries: a review of concepts",
+      "authors": "Van Mechelen, W; Hlobil, H; Kemper, Hcg",
+      "editors": "",
+      "publisher": "",
+      "year": 1992,
+      "volume": "14",
+      "issue": "",
+      "first_page": "82",
+      "last_page": "99",
+      "container": "Sports Med",
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 131
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Epidemiology of figure skating injuries: a review of the literature",
+      "authors": "Han, J S; Geminiani, E T; Micheli, L J",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "10",
+      "issue": "",
+      "first_page": "532",
+      "last_page": "537",
+      "container": "Sports Health",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 132
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Ol medillas H. Injury characteristics of young elite inline speed skaters: a one season retrospective study",
+      "authors": "Quintana-Cepedal, M; Rodríguez, M Á; Nuño-Iglesias, N; Valle, Del; Crespo, M; , I",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "52",
+      "issue": "",
+      "first_page": "181",
+      "last_page": "186",
+      "container": "Phys Sports Med",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 133
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Epidemio logy of rink hockey-related injuries",
+      "authors": "Quintana-Cepedal, M; Rodríguez, M Á; Crespo, I; Valle, Del; Olmedillas, M; , H",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "32",
+      "issue": "",
+      "first_page": "70",
+      "last_page": "75",
+      "container": "J Sport Rehab",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 134
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "International Olympic Committee consensus statement: methods for recording and reporting of epidemiological data on injury and illness in sport 2020 (including STROBE Ex tension for Sport Injury and Illness Surveillance [STROBE-SIIS])",
+      "authors": "Bahr, R; Clarsen, B; Derman, W; Dvorak, J; Emery, C A; Finch, C F",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "54",
+      "issue": "",
+      "first_page": "372",
+      "last_page": "389",
+      "container": "Br J Sports Med",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 135
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Epidemiology of natio nal collegiate athletic association women's gymnastics injuries",
+      "authors": "Kerr, Z Y; Hayden, R; Barr, M; Klossner, D A; Dompier, T P",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "50",
+      "issue": "",
+      "first_page": "870",
+      "last_page": "878",
+      "container": "J Athl Train",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 136
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "A systematic review of injuries in gymnastics",
+      "authors": "Thomas, R E; Thomas, B C",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "47",
+      "issue": "",
+      "first_page": "96",
+      "last_page": "121",
+      "container": "Phys Sports Med",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 137
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Strengthening the reporting of observational studies in epidemiology (STROBE): explanation and elaboration",
+      "authors": "Vandenbroucke, J P; Elm, Von; Altman, E; Gøtzsche, D G; Mulrow, P C; Pocock, C D; , S J",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "18",
+      "issue": "",
+      "first_page": "805",
+      "last_page": "835",
+      "container": "Epidemiology",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 138
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Injury rates decreased in men's professio nal football: an 18-year prospective cohort study of almost 12,000 injuries sustained during 1.8 million hours of play",
+      "authors": "Ekstrand, J; Spreco, A; Bengtsson, H; Bahr, R",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "55",
+      "issue": "",
+      "first_page": "1084",
+      "last_page": "1092",
+      "container": "Br J Sports Med",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 139
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Epitools: epidemiology tools",
+      "authors": "Aragon, T J",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 140
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Analysis of injuries during the 2019 Rink Hockey World Championship",
+      "authors": "De Pablo, B; Sugimoto, D; Arboix-Alio, J; Rodas, G; Casals, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "51",
+      "issue": "",
+      "first_page": "442",
+      "last_page": "448",
+      "container": "Phys Sports Med",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 141
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Epidemiology of inju ries in elite female rink hockey players: a two season observational study",
+      "authors": "Quintana-Cepedal, M; Roces-Vila, I; Valle, Del; Olmedillas, M; , H",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "67",
+      "issue": "",
+      "first_page": "7",
+      "last_page": "12",
+      "container": "Phys Ther Sport",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 142
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Artistic gymnastics injuries; epide miology, evaluation, and treatment",
+      "authors": "Desai, N; Vance, D D; Rosenwasser, M P; Ahmad, C S",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "27",
+      "issue": "",
+      "first_page": "459",
+      "last_page": "467",
+      "container": "J Am Acad Orthop Surg",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 143
+    },
+    {
+      "bib_type": "incollection",
+      "doi": "",
+      "title": "Gymnastics injuries",
+      "authors": "Caine, D J; Nassar, L",
+      "editors": "Caine, D J; Maffulli, N",
+      "publisher": "",
+      "year": null,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Medicine and sport science. S. Karger AG; 2005 [citado 2024 ago 6. página 18-58",
+      "bib_id": 13,
+      "year_suffix": null,
+      "text_id": 144
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Do non-contact injuries occur during high-speed running in elite football? Preliminary results from a novel GPS and video-based method",
+      "authors": "Aiello, F; Claudio, Di; Fanchini, C; Impellizzeri, M; Mccall, F M; Sharp, A; , C",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "26",
+      "issue": "",
+      "first_page": "465",
+      "last_page": "470",
+      "container": "J Sci Med Sport",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 145
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Quantification of external load of elite rink hockey players in official matches",
+      "authors": "Fernández, D; Varo, F; Carmona, G; Reche, X",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "60",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "J Sports Med Phys Fit",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 146
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Injury incidence and characteristics in adolescent female footballplayers: a systematic review with meta-analysis of prospectivestudies",
+      "authors": "Quintana-Cepedal, M; López-Aguado, I; Fernández-Somoano, A; Rodríguez, M Á; Valle, Del; Olmedillas, M; , H",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "41",
+      "issue": "",
+      "first_page": "137",
+      "last_page": "151",
+      "container": "bs",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 147
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Injury profile in women's football: a systematic review and meta-analysis",
+      "authors": "López-Valenciano, A; Raya-González, J; Garcia-Gómez, J A; Aparicio-Sarmiento, A; De Baranda, Sainz; , P; Ste Croix, De; , M",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "51",
+      "issue": "",
+      "first_page": "423",
+      "last_page": "442",
+      "container": "Sports Med",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 148
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "UEFA Women's Elite Club Injury Study: a prospective study on 1,527 inju ries over four consecutive seasons 2018/2019 to 2021/2022 reveals thigh muscle injuries to be most common and ACL injuries most burdensome",
+      "authors": "Hallén, A; Tomás, R; Ekstrand, J; Bengtsson, H; Van Den Steen, E; Hägglund, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "58",
+      "issue": "",
+      "first_page": "128",
+      "last_page": "136",
+      "container": "Br J Sports Med",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 149
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "#Rea dyToPlay: health problems in women's football -a two-season prospective cohort study in the Norwegian premier league",
+      "authors": "Amundsen, R; Thorarinsdottir, S; Clarsen, B; Andersen, T E; Møller, M; Bahr, R",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "58",
+      "issue": "",
+      "first_page": "4",
+      "last_page": "10",
+      "container": "Br J Sports Med",
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 150
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Do niggles matter? -Increased injury risk follo wing physical complaints in football (soccer)",
+      "authors": "Whalan, M; Lovell, R; Sampson, J A",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "4",
+      "issue": "",
+      "first_page": "216",
+      "last_page": "224",
+      "container": "Sci Med Football",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 151
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "High compliance with the injury prevention exercise programme Knee Control is associated with a greater injury preventive effect in male, but not in female, youth floorball players",
+      "authors": "Åkerlund, I; Waldén, M; Sonesson, S; Lindblom, H; Hägglund, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "30",
+      "issue": "",
+      "first_page": "1480",
+      "last_page": "1490",
+      "container": "Knee Surg Sports Traumatol Arthrosc",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 152
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Extended Knee Control programme lowers weekly hamstring, knee and ankle injury prevalence compared with an adductor strength programme or self-selected injury preven tion exercises in adolescent and adult amateur football players: a two-armed cluster-randomised trial with an additional comparison arm",
+      "authors": "Lindblom, H; Sonesson, S; Torvaldsson, K; Waldén, M; Hägglund, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "57",
+      "issue": "",
+      "first_page": "83",
+      "last_page": "90",
+      "container": "Br J Sports Med",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 153
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "High prevalence of hip and groin problems in profes sional ice hockey players, regardless of playing position",
+      "authors": "Wörner, T; Thorborg, K; Eek, F",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "28",
+      "issue": "",
+      "first_page": "2302",
+      "last_page": "2308",
+      "container": "Knee Surg Sports Traumatol Arthrosc",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 154
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Under-representation of women is alive and well in sport and exercise medi cine: what it looks like and what we can do about it",
+      "authors": "Anderson, N; Robinson, D G; Verhagen, E; Fagher, K; Edouard, P; Rojas-Valverde, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "9",
+      "issue": "",
+      "first_page": "1606",
+      "last_page": null,
+      "container": "BMJ Open Sport Exerc Med",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 155
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "[1]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 19
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3,",
+      "text_id": 21
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4]",
+      "text_id": 21
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 22
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "[6]",
+      "text_id": 23
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 24
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 27
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "[8]",
+      "text_id": 31
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 41
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3,",
+      "text_id": 43
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5]",
+      "text_id": 43
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "[9]",
+      "text_id": 46
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 49
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "[10]",
+      "text_id": 50
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 54
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 57
+    },
+    {
+      "xref_id": null,
+      "xref_type": "bibr",
+      "contents": "(25 [11%]",
+      "text_id": 67
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 69
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 70
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 76
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3,",
+      "text_id": 77
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4,",
+      "text_id": 77
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12]",
+      "text_id": 77
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 81
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13,",
+      "text_id": 82
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14]",
+      "text_id": 82
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 89
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 91
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 92
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 93
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 93
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17,",
+      "text_id": 94
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18]",
+      "text_id": 94
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "[19,",
+      "text_id": 95
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "20]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "[21]",
+      "text_id": 96
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 98
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[20]",
+      "text_id": 100
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "[22,",
+      "text_id": 101
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23]",
+      "text_id": 101
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 102
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "[24]",
+      "text_id": 108
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "[25]",
+      "text_id": 113
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 18,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 19,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 20,
+      "html": "<table>\n  <row>\n    <cell>Injury<\/cell>\n    <cell>Definition<\/cell>\n  <\/row>\n  <row>\n    <cell>Muscle/tendon<\/cell>\n    <cell>Muscle injury, contusion, tendinopathy or tendon<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>rupture<\/cell>\n  <\/row>\n  <row>\n    <cell>Ligament<\/cell>\n    <cell>Joint sprain including partial or complete ligament tears<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>and joint capsule injuries<\/cell>\n  <\/row>\n  <row>\n    <cell>Bone<\/cell>\n    <cell>Fractures or bone stress injuries, including teeth injuries<\/cell>\n  <\/row>\n  <row>\n    <cell>Nervous<\/cell>\n    <cell>Including concussion and all forms of brain/spinal cord<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>injuries, also peripheral nerve injuries<\/cell>\n  <\/row>\n  <row>\n    <cell>Contusion<\/cell>\n    <cell>Superficial tissue/skin injuries<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Injury / Muscle/tendon / Ligament / Bone / Nervous / Contusion", "Definition / Muscle injury, contusion, tendinopathy or tendon / rupture / Joint sprain including partial or complete ligament tears / and joint capsule injuries / Fractures or bone stress injuries, including teeth injuries / Including concussion and all forms of brain/spinal cord / injuries, also peripheral nerve injuries / Superficial tissue/skin injuries"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 21,
+      "html": "<table>\n  <row>\n    <cell>Variable<\/cell>\n    <cell>Total (n = 152)<\/cell>\n  <\/row>\n  <row>\n    <cell>Age (years)<\/cell>\n    <cell>15.2 ± 5<\/cell>\n  <\/row>\n  <row>\n    <cell>Height (cm)<\/cell>\n    <cell>156 ± 17<\/cell>\n  <\/row>\n  <row>\n    <cell>Body mass (kg)<\/cell>\n    <cell>49 ± 13<\/cell>\n  <\/row>\n  <row>\n    <cell>Body mass index (kg/m 2 )<\/cell>\n    <cell>21 ± 2<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variable", "Total (n = 152)"],
+        ["Age (years)", "15.2 ± 5"],
+        ["Height (cm)", "156 ± 17"],
+        ["Body mass (kg)", "49 ± 13"],
+        ["Body mass index (kg/m 2 )", "21 ± 2"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 3,
+      "section_id": 22,
+      "html": "<table>\n  <row>\n    <cell>Location<\/cell>\n    <cell>n (%)<\/cell>\n    <cell>Incidence (95% CI)*<\/cell>\n    <cell>IRR (95% CI)**<\/cell>\n  <\/row>\n  <row>\n    <cell>Head<\/cell>\n    <cell>2 (0.9%)<\/cell>\n    <cell>0.04 (-)<\/cell>\n    <cell>0.06 (0.01 to 0.25)<\/cell>\n  <\/row>\n  <row>\n    <cell>Trunk<\/cell>\n    <cell>5 (2.2%)<\/cell>\n    <cell>0.11 (0.01 to 0.21)<\/cell>\n    <cell>0.15 (0.06 to 0.38)<\/cell>\n  <\/row>\n  <row>\n    <cell>Back<\/cell>\n    <cell>12 (5.2%)<\/cell>\n    <cell>0.27 (0.14 to 0.47)<\/cell>\n    <cell>0.36 (0.18 to 0.7)<\/cell>\n  <\/row>\n  <row>\n    <cell>Shoulder<\/cell>\n    <cell>6 (2.6%)<\/cell>\n    <cell>0.13 (0.05 to 0.29)<\/cell>\n    <cell>0.18 (0.07 to 0.43)<\/cell>\n  <\/row>\n  <row>\n    <cell>Arm<\/cell>\n    <cell>5 (2.2%)<\/cell>\n    <cell>0.11 (0.01 to 0.21)<\/cell>\n    <cell>0.15 (0.06 to 0.38)<\/cell>\n  <\/row>\n  <row>\n    <cell>Elbow<\/cell>\n    <cell>3 (1.3%)<\/cell>\n    <cell>0.07 (-)<\/cell>\n    <cell>0.09 (0.03 to 0.3)<\/cell>\n  <\/row>\n  <row>\n    <cell>Forearm<\/cell>\n    <cell>2 (0.9%)<\/cell>\n    <cell>0.04 (-)<\/cell>\n    <cell>0.06 (0.01 to 0.25)<\/cell>\n  <\/row>\n  <row>\n    <cell>Wrist<\/cell>\n    <cell>25 (11%)<\/cell>\n    <cell>0.56 (0.36 to 0.83)<\/cell>\n    <cell>0.75 (0.45 to 1.27)<\/cell>\n  <\/row>\n  <row>\n    <cell>Hand/fingers<\/cell>\n    <cell>7 (3%)<\/cell>\n    <cell>0.15 (0.06 to 0.32)<\/cell>\n    <cell>0.21 (0.09 to 0.48)<\/cell>\n  <\/row>\n  <row>\n    <cell>Hip/groin<\/cell>\n    <cell>15 (6.6%)<\/cell>\n    <cell>0.34 (0.19 to 0.56)<\/cell>\n    <cell>0.45 (0.25 to 0.83)<\/cell>\n  <\/row>\n  <row>\n    <cell>Thigh<\/cell>\n    <cell>13 (5.7%)<\/cell>\n    <cell>0.29 (0.15 to 0.5)<\/cell>\n    <cell>0.39 (0.2 to 0.74)<\/cell>\n  <\/row>\n  <row>\n    <cell>Knee<\/cell>\n    <cell>33 (14.5%)<\/cell>\n    <cell>0.74 (0.51 to 1)<\/cell>\n    <cell>-<\/cell>\n  <\/row>\n  <row>\n    <cell>Leg<\/cell>\n    <cell>10 (4.4%)<\/cell>\n    <cell>0.22 (0.11 to 0.41)<\/cell>\n    <cell>0.3 (0.15 to 0.61)<\/cell>\n  <\/row>\n  <row>\n    <cell>Ankle<\/cell>\n    <cell>30 (13.2%)<\/cell>\n    <cell>0.68 (0.45 to 0.96)<\/cell>\n    <cell>0.9 (0.55 to 1.49)<\/cell>\n  <\/row>\n  <row>\n    <cell>Foot<\/cell>\n    <cell>13 (5.7%)<\/cell>\n    <cell>0.29 (0.15 to 0.5)<\/cell>\n    <cell>0.39 (0.2 to 0.74)<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Location", "n (%)", "Incidence (95% CI)*", "IRR (95% CI)**"],
+        ["Head", "2 (0.9%)", "0.04 (-)", "0.06 (0.01 to 0.25)"],
+        ["Trunk", "5 (2.2%)", "0.11 (0.01 to 0.21)", "0.15 (0.06 to 0.38)"],
+        ["Back", "12 (5.2%)", "0.27 (0.14 to 0.47)", "0.36 (0.18 to 0.7)"],
+        ["Shoulder", "6 (2.6%)", "0.13 (0.05 to 0.29)", "0.18 (0.07 to 0.43)"],
+        ["Arm", "5 (2.2%)", "0.11 (0.01 to 0.21)", "0.15 (0.06 to 0.38)"],
+        ["Elbow", "3 (1.3%)", "0.07 (-)", "0.09 (0.03 to 0.3)"],
+        ["Forearm", "2 (0.9%)", "0.04 (-)", "0.06 (0.01 to 0.25)"],
+        ["Wrist", "25 (11%)", "0.56 (0.36 to 0.83)", "0.75 (0.45 to 1.27)"],
+        ["Hand/fingers", "7 (3%)", "0.15 (0.06 to 0.32)", "0.21 (0.09 to 0.48)"],
+        ["Hip/groin", "15 (6.6%)", "0.34 (0.19 to 0.56)", "0.45 (0.25 to 0.83)"],
+        ["Thigh", "13 (5.7%)", "0.29 (0.15 to 0.5)", "0.39 (0.2 to 0.74)"],
+        ["Knee", "33 (14.5%)", "0.74 (0.51 to 1)", "-"],
+        ["Leg", "10 (4.4%)", "0.22 (0.11 to 0.41)", "0.3 (0.15 to 0.61)"],
+        ["Ankle", "30 (13.2%)", "0.68 (0.45 to 0.96)", "0.9 (0.55 to 1.49)"],
+        ["Foot", "13 (5.7%)", "0.29 (0.15 to 0.5)", "0.39 (0.2 to 0.74)"]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 2,
+      "grp_id": 1,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "152"
+    },
+    {
+      "text_id": 5,
+      "grp_id": 2,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 7,
+      "grp_id": 3,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "33"
+    },
+    {
+      "text_id": 7,
+      "grp_id": 3,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "30"
+    },
+    {
+      "text_id": 7,
+      "grp_id": 3,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "25"
+    },
+    {
+      "text_id": 9,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "152"
+    },
+    {
+      "text_id": 12,
+      "grp_id": 5,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0,001"
+    },
+    {
+      "text_id": 14,
+      "grp_id": 6,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "33"
+    },
+    {
+      "text_id": 14,
+      "grp_id": 6,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "30"
+    },
+    {
+      "text_id": 14,
+      "grp_id": 6,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "25"
+    },
+    {
+      "text_id": 64,
+      "grp_id": 7,
+      "lhs": "IRR",
+      "df": null,
+      "comp": "=",
+      "rhs": "178.8"
+    },
+    {
+      "text_id": 64,
+      "grp_id": 7,
+      "lhs": "95% CI",
+      "df": null,
+      "comp": "=",
+      "rhs": "128.7"
+    },
+    {
+      "text_id": 64,
+      "grp_id": 7,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 65,
+      "grp_id": 8,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 9,
+      "lhs": "IRR",
+      "df": null,
+      "comp": "=",
+      "rhs": "14.14"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 9,
+      "lhs": "95% CI",
+      "df": null,
+      "comp": "=",
+      "rhs": "6.57"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 9,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 9,
+      "lhs": "IRR",
+      "df": null,
+      "comp": "=",
+      "rhs": "2.02"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 9,
+      "lhs": "95% CI",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.43"
+    },
+    {
+      "text_id": 68,
+      "grp_id": 9,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 72,
+      "grp_id": 10,
+      "lhs": "IRR",
+      "df": null,
+      "comp": "=",
+      "rhs": "3.51"
+    },
+    {
+      "text_id": 72,
+      "grp_id": 10,
+      "lhs": "95% CI",
+      "df": null,
+      "comp": "=",
+      "rhs": "2.32"
+    },
+    {
+      "text_id": 72,
+      "grp_id": 10,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 85,
+      "grp_id": 11,
+      "lhs": "P",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 86,
+      "grp_id": 12,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "44"
+    }
+  ]
+}

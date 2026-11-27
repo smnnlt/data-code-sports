@@ -1,0 +1,2296 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0765159725001698</prism:url><dc:identifier>doi:10.1016/j.scispo.2025.09.002</dc:identifier><eid>1-s2.0-S0765159725001698</eid><prism:doi>10.1016/j.scispo.2025.09.002</prism:doi><pii>S0765-1597(25)00169-8</pii><dc:title>Hip function and golf swing characteristics differ in golfers with and without a previous history of low back pain </dc:title><prism:publicationName>Science &amp; Sports</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>07651597</prism:issn><prism:volume>41</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>109</prism:startingPage><prism:endingPage>115</prism:endingPage><prism:pageRange>109-115</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2026-01-31</prism:coverDate><prism:coverDisplayDate>January 2026</prism:coverDisplayDate><prism:copyright>© 2025 The Authors. Published by Elsevier Masson SAS.</prism:copyright><prism:publisher>The Authors. Published by Elsevier Masson SAS.</prism:publisher><dc:creator>Hamada, Y.</dc:creator><dc:creator>Akasaka, K.</dc:creator><dc:creator>Otsudo, T.</dc:creator><dc:creator>Sawada, Y.</dc:creator><dc:creator>Hattori, H.</dc:creator><dc:creator>Kikuchi, Y.</dc:creator><dc:creator>Hall, T.</dc:creator><dc:description>
+                  Objective
+                  The objective of this pilot study was to examine the association between low back pain (LBP) experienced by amateur golfers and their hip muscle flexibility, hip muscle strength, and golf swing characteristics.
+               
+                  Methods
+                  Twenty-two amateur male golfers were divided into two groups based on their history of LBP, being present or not: with 9 and 13 participants in each group, respectively. Hip function was assessed through hip range of motion (ROM), hip muscle flexibility tests, as well as hip internal rotation (IR) and external rotation (ER) isometric muscle strength. Golf swing motion analysis was performed using a three-dimensional motion analyzer. Golf parameters included the starting golf position (Address) angle as well as hip and lumbar spine maximum ROM during the golf swing. Comparative analysis compared groups with respect to each measurement item.
+               
+                  Results
+                  The LBP group exhibited significantly lower hip ER strength bilaterally (P
+                     &lt;0.05). At the Address angle, hip flexion was significantly increased bilaterally in the LBP group (P
+                     &lt;0.05). The maximum ROM achieved during the golf swing was significantly higher in the LBP group but only for upper lumbar spine left and right rotation ROM (P
+                     &lt;0.05).
+               
+                  Conclusion
+                  While the present study was not designed to establish a causal relationship between LBP and golf performance, hip ER strength, excessive hip flexion angle at Address, and maximum lumbar rotation ROM during the golf swing are assessment items potentially worthy of investigation in golfers with a history of LBP.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>JUSTICE Core Hybrid FC 2024</openaccessSponsorName><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Lumbar spine</dcterms:subject><dcterms:subject>Hip flexibility</dcterms:subject><dcterms:subject>External rotation strength</dcterms:subject><dcterms:subject>Three-dimensional motion analysis</dcterms:subject><dcterms:subject>Colonne lombaire</dcterms:subject><dcterms:subject>Souplesse de la hanche</dcterms:subject><dcterms:subject>Force de rotation externe</dcterms:subject><dcterms:subject>Analyse tridimensionnelle du movement</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0765159725001698" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0765159725001698" rel="scidir"/></coredata><scopus-id>105019752473</scopus-id><scopus-eid>2-s2.0-105019752473</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/105019752473" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>272250</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291695</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Science &amp; Sports</xocs:srctitle>
+      <xocs:normalized-srctitle>SCIENCESPORTS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20251022">2025-10-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20251022">2025-10-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20260119">2026-01-19</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20260119">2026-01-19</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2026-01-19T10:57:01</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0765159725001698</xocs:eid>
+      <xocs:pii-formatted>S0765-1597(25)00169-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0765159725001698</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.scispo.2025.09.002</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0765159726X00028</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20260119">2026-01-19T12:06:49.183919Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20260101</xocs:date-search-begin>
+      <xocs:date-search-end>20260131</xocs:date-search-end>
+      <xocs:year-nav>2026</xocs:year-nav>
+      <xocs:indexeddate epoch="1761166690">2025-10-22T20:58:10.144752Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid fundingbodyid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav table body acknowledge affil altitemtitle articletitle auth authfirstini authfull authkeywords authlast nonengabst primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0765-1597</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>07651597</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:funding-body-id>JUSCHFC24</xocs:funding-body-id>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>41</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>41</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 41, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>109</xocs:first-fp>
+      <xocs:last-lp>115</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>109</xocs:first-page>
+         <xocs:last-page>115</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202601</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 2026</xocs:cover-date-text>
+      <xocs:cover-date-start>2026-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2026-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2026</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2025 The Authors. Published by Elsevier Masson SAS.</xocs:copyright-line>
+      <xocs:normalized-article-title>HIPFUNCTIONGOLFSWINGCHARACTERISTICSDIFFERINGOLFERSWITHOUTAPREVIOUSHISTORYLOWBACKPAIN</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>HAMADA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Participants</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Hip joint function assessment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Golf swing analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Statistical analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>SMITH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>538</xocs:ref-first-fp>
+            <xocs:ref-last-lp>546</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0135">
+            <xocs:ref-normalized-surname>ROBINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2024</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e001844</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0140">
+            <xocs:ref-normalized-surname>COLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>339</xocs:ref-first-fp>
+            <xocs:ref-last-lp>351</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0145">
+            <xocs:ref-normalized-surname>LINDSAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>80</xocs:ref-first-fp>
+            <xocs:ref-last-lp>89</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0150">
+            <xocs:ref-normalized-surname>MURRAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>135</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0155">
+            <xocs:ref-normalized-surname>VAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>494</xocs:ref-first-fp>
+            <xocs:ref-last-lp>497</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0160">
+            <xocs:ref-normalized-surname>ADEGOKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0165">
+            <xocs:ref-normalized-surname>VANDILLEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>307</xocs:ref-first-fp>
+            <xocs:ref-last-lp>316</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0170">
+            <xocs:ref-normalized-surname>NOURBAKHSH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>447</xocs:ref-first-fp>
+            <xocs:ref-last-lp>460</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0175">
+            <xocs:ref-normalized-surname>VAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-last-lp>75</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0180">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>430</xocs:ref-first-fp>
+            <xocs:ref-last-lp>438</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0185">
+            <xocs:ref-normalized-surname>QUINN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2022</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1041</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1051</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0190">
+            <xocs:ref-normalized-surname>LINDSAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>599</xocs:ref-first-fp>
+            <xocs:ref-last-lp>605</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0195">
+            <xocs:ref-normalized-surname>MURRAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>135</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0200">
+            <xocs:ref-normalized-surname>BAZETTJONES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100</xocs:ref-first-fp>
+            <xocs:ref-last-lp>106</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0205">
+            <xocs:ref-normalized-surname>GOMBATTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>539</xocs:ref-first-fp>
+            <xocs:ref-last-lp>544</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0210">
+            <xocs:ref-normalized-surname>AMABILE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e0177008</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0215">
+            <xocs:ref-normalized-surname>SKORUPSKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>e0159587</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0220">
+            <xocs:ref-normalized-surname>MARTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>803</xocs:ref-first-fp>
+            <xocs:ref-last-lp>813</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0225">
+            <xocs:ref-normalized-surname>SUHARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2023</xocs:ref-pub-year>
+            <xocs:ref-first-fp>859</xocs:ref-first-fp>
+            <xocs:ref-last-lp>865</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0230">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>87</xocs:ref-first-fp>
+            <xocs:ref-last-lp>93</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0235">
+            <xocs:ref-normalized-surname>COLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2829</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2833</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0240">
+            <xocs:ref-normalized-surname>ROACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13</xocs:ref-first-fp>
+            <xocs:ref-last-lp>20</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0245">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-last-lp>120</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0250">
+            <xocs:ref-normalized-surname>ZHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>487</xocs:ref-first-fp>
+            <xocs:ref-last-lp>493</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>HAMADAX2026X109</xocs:refkey3>
+         <xocs:refkey4lp>HAMADAX2026X109X115</xocs:refkey4lp>
+         <xocs:refkey4ai>HAMADAX2026X109XY</xocs:refkey4ai>
+         <xocs:refkey5>HAMADAX2026X109X115XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2025-10-31T04:24:50Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>JUSTICE Core Hybrid FC 2024</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2027-01-19T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2027-01-19T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2025 The Authors. Published by Elsevier Masson SAS.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0765-1597(25)00169-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0765159725001698</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0765159725001698</xocs:eid>
+         <xocs:doi>10.1016/j.scispo.2025.09.002</xocs:doi>
+         <xocs:cid>272250</xocs:cid>
+         <xocs:timestamp>2026-01-19T12:02:11.817883Z</xocs:timestamp>
+         <xocs:cover-date-start>2026-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2026-01-31</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:funding-body-id>JUSCHFC24</xocs:funding-body-id>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0765159725001698-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0765159725001698/MAIN/application/pdf/d996579beb75ddb7ccd3f546feedff6c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>562895</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0765159725001698-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0765159725001698/PREVIEW/image/png/6f862ab24f7075231034e40b2d2ac69d/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>57832</xocs:filesize>
+                     <xocs:pixel-height>928</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.7" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>SCISPO</jid>
+            <aid>3986</aid>
+            <ce:pii>S0765-1597(25)00169-8</ce:pii>
+            <ce:doi>10.1016/j.scispo.2025.09.002</ce:doi>
+            <ce:copyright type="other" year="2025">The Authors</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spar0045" view="all">Baseline characteristics.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at1" role="short">Table 1</ce:alt-text>
+               <tgroup cols="3">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">LBP group (<italic>n</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Non-LBP group (<italic>n</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>13)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Age, year</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">28.0 (27.0–28.0)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">38.0 (28.0–42.0)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Ages commencing golf, year</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">25.0 (20.0–30.0)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">22.0 (21.0–24.0)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Body Mass Index (kg/m<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">23.3<hsp sp="0.25"/>±<hsp sp="0.25"/>3.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">23.5<hsp sp="0.25"/>±<hsp sp="0.25"/>2.3</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Mean golf score for the past 5 rounds</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">96.3<hsp sp="0.25"/>±<hsp sp="0.25"/>11.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">99.6<hsp sp="0.25"/>±<hsp sp="0.25"/>18.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Practice frequency per year, number of times</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">52.14 (24.0–104.28)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">52.14 (24.0–104.28)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="spar0050" view="all">The p value was tested by independent <ce:italic>t</ce:italic>-test and Mann–Whitney U-test. Mean<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>standard deviation; Median (25–75 percentile); LBP: low back pain. * <ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="spar0055" view="all">Differences in hip joint function between the group with and without LBP.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at2" role="short">Table 2</ce:alt-text>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">LBP group (<italic>n</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Non-LBP group (<italic>n</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>13)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left" role="colgroup" namest="col5" nameend="col6">95% CI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Effect size</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hip IR ROM (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">30.1<hsp sp="0.25"/>±<hsp sp="0.25"/>10.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">27.2<hsp sp="0.25"/>±<hsp sp="0.25"/>8.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−11.27</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.44</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.32</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">28.7<hsp sp="0.25"/>±<hsp sp="0.25"/>7.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">25.1<hsp sp="0.25"/>±<hsp sp="0.25"/>7.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−10.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.17</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.48</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hip ER ROM (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">29.4<hsp sp="0.25"/>±<hsp sp="0.25"/>5.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">26.8<hsp sp="0.25"/>±<hsp sp="0.25"/>5.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−7.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.62</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.45</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">31.3<hsp sp="0.25"/>±<hsp sp="0.25"/>4.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">26.6<hsp sp="0.25"/>±<hsp sp="0.25"/>6.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−9.73</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.83</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">SLR test ROM (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">58.0 (56.0–62.0)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">70.0 (64.7–72.7)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.36</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">58.0 (58.0– 62.0)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">68.0 (66.0–72.0)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.35</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Thomas test ROM (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.9 ±2.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.6<hsp sp="0.25"/>±<hsp sp="0.25"/>2.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−3.54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.49</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.3 ±4.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.4<hsp sp="0.25"/>±<hsp sp="0.25"/>2.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−4.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.56</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hip IR muscle strength (N/kg)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.76<hsp sp="0.25"/>±<hsp sp="0.25"/>0.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.95<hsp sp="0.25"/>±<hsp sp="0.25"/>0.47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.44</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.03<hsp sp="0.25"/>±<hsp sp="0.25"/>0.42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.30<hsp sp="0.25"/>±<hsp sp="0.25"/>0.48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.21</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.28</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hip ER muscle strength (N/kg)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead<cross-ref id="crf0005" refid="tblfn0005">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.66<hsp sp="0.25"/>±<hsp sp="0.25"/>0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.13<hsp sp="0.25"/>±<hsp sp="0.25"/>0.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.17</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.52</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail<cross-ref id="crf0010" refid="tblfn0005">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.75<hsp sp="0.25"/>±<hsp sp="0.25"/>0.29</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.15<hsp sp="0.25"/>±<hsp sp="0.25"/>0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.55</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="spar0060" view="all">LBP, low back pain; CI, confidence interval; mean<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>standard deviation; median (25–75 percentile); IR: internal rotation; ER: external rotation; SLR test: straight leg raising test.</ce:simple-para>
+               </ce:legend>
+               <ce:table-footnote id="tblfn0005">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="npar0005" view="all">
+                     <ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="spar0065" view="all">Differences in Address during golf swing angle between the group with and without LBP.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at3" role="short">Table 3</ce:alt-text>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">LBP group (<italic>n</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Non-LBP group (<italic>n</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>13)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left" role="colgroup" namest="col5" nameend="col6">95% CI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Effect size</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hip flexion/extension angle (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead<cross-ref id="crf0015" refid="tblfn0010">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">44.3<hsp sp="0.25"/>±<hsp sp="0.25"/>7.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">35.7<hsp sp="0.25"/>±<hsp sp="0.25"/>8.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−16.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−1.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.02</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail<cross-ref id="crf0020" refid="tblfn0010">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">45.7<hsp sp="0.25"/>±<hsp sp="0.25"/>6.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">35.1<hsp sp="0.25"/>±<hsp sp="0.25"/>9.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−3.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.28</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hip abduction/adduction angle (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">17.1<hsp sp="0.25"/>±<hsp sp="0.25"/>2.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">14.0<hsp sp="0.25"/>±<hsp sp="0.25"/>5.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.71</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12.4<hsp sp="0.25"/>±<hsp sp="0.25"/>4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">13.1<hsp sp="0.25"/>±<hsp sp="0.25"/>5.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−5.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.14</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hip internal/external rotation angle (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">26.6 (7.8–29.5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">13.1 (7.2–18.1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.18</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">15.7<hsp sp="0.25"/>±<hsp sp="0.25"/>16.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12.1<hsp sp="0.25"/>±<hsp sp="0.25"/>15.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">-18.07</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10.99</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.22</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Lumbar flexion/extension angle (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Upper</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.9 (3.1–9.1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8.5 (2.4–7.4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.21</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lower</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−5.8<hsp sp="0.25"/>±<hsp sp="0.25"/>7.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−2.4<hsp sp="0.25"/>±<hsp sp="0.25"/>−2.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−4.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.89</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.27</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Lumbar left/right lateral flexion angle (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Upper</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.9<hsp sp="0.25"/>±<hsp sp="0.25"/>1.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.1<hsp sp="0.25"/>±<hsp sp="0.25"/>5.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−4.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.18</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lower</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−1.4 (−1.9–1.1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.1 (−2.2–1.8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.01</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Lumbar left/right rotation angle (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Upper</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.0 (−0.7–1.1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.2 (−0.9–1.1)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.16</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lower</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.1 (−1.2–1.5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.9 (−0.7–3.3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.21</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="spar0070" view="all">LBP, low back pain; CI, confidence interval; mean<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>standard deviation; median (25–75 percentile), flexion, abduction, internal rotation, left lateral flexion and left rotation were recorded as positive.</ce:simple-para>
+               </ce:legend>
+               <ce:table-footnote id="tblfn0010">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="npar0010" view="all">
+                     <ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0020" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="spar0075" view="all">Differences in maximum angle during golf swing between the group with and without LBP.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at4" role="short">Table 4</ce:alt-text>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">LBP group (<italic>n</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Non-LBP group (<italic>n</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>13)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left" role="colgroup" namest="col5" nameend="col6">95% CI</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Effect size</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Hip internal rotation (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Lead</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">17.0<hsp sp="0.25"/>±<hsp sp="0.25"/>2.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">14.5<hsp sp="0.25"/>±<hsp sp="0.25"/>7.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−2.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.38</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.40</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Trail</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12.1<hsp sp="0.25"/>±<hsp sp="0.25"/>3.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">12.1<hsp sp="0.25"/>±<hsp sp="0.25"/>6.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−4.99</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">4.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.11</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Upper lumbar lateral flexion (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Left</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.0<hsp sp="0.25"/>±<hsp sp="0.25"/>1.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.3<hsp sp="0.25"/>±<hsp sp="0.25"/>3.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.81</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Right</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10.1<hsp sp="0.25"/>±<hsp sp="0.25"/>3.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.5<hsp sp="0.25"/>±<hsp sp="0.25"/>3.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.77</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Lower lumbar lateral flexion (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Left</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.5<hsp sp="0.25"/>±<hsp sp="0.25"/>2.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.4<hsp sp="0.25"/>±<hsp sp="0.25"/>4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−3.34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.11</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Right</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.7<hsp sp="0.25"/>±<hsp sp="0.25"/>3.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.5<hsp sp="0.25"/>±<hsp sp="0.25"/>4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−3.97</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.01</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Upper lumbar rotation (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Left<cross-ref id="crf0025" refid="tblfn0015">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.8<hsp sp="0.25"/>±<hsp sp="0.25"/>2.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.9<hsp sp="0.25"/>±<hsp sp="0.25"/>2.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.06</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.93</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Right<cross-ref id="crf0030" refid="tblfn0015">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">10.8<hsp sp="0.25"/>±<hsp sp="0.25"/>2.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8.6<hsp sp="0.25"/>±<hsp sp="0.25"/>2.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−4.49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.91</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Lower lumbar rotation (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Left</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.7<hsp sp="0.25"/>±<hsp sp="0.25"/>2.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">7.1<hsp sp="0.25"/>±<hsp sp="0.25"/>2.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−1.86</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.24</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Right</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.9 (6.7–9.3)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">5.6 (3.6–7.4)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.70</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Upper lumbar extension (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.0<hsp sp="0.25"/>±<hsp sp="0.25"/>4.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">1.5<hsp sp="0.25"/>±<hsp sp="0.25"/>4.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−4.63</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">3.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.12</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" role="rowhead">Lower lumbar extension (°)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">8.9<hsp sp="0.25"/>±<hsp sp="0.25"/>4.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">6.3<hsp sp="0.25"/>±<hsp sp="0.25"/>5.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−7.15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">2.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.50</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="spar0080" view="all">LBP: low back pain; CI: confidence interval; mean<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>standard deviation; median (25–75 percentile).</ce:simple-para>
+               </ce:legend>
+               <ce:table-footnote id="tblfn0015">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="npar0015" view="all">
+                     <ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="doh0005">
+               <ce:textfn>Original article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tit0005">Hip function and golf swing characteristics differ in golfers with and without a previous history of low back pain</ce:title>
+            <ce:alt-title xml:lang="fr">La fonction de la hanche et les caractéristiques du swing diffèrent chez les golfeurs ayant ou non des antécédents de lombalgie</ce:alt-title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S0765159725001698-36fb1f111dc79087063cf3fdb3b47684">
+                  <ce:given-name>Y.</ce:given-name>
+                  <ce:surname>Hamada</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0040" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0010" author-id="S0765159725001698-0e9f9b4c43da7cd03b9be4e8f3bbe094">
+                  <ce:given-name>K.</ce:given-name>
+                  <ce:surname>Akasaka</ce:surname>
+                  <ce:cross-ref id="crf0045" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0050" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0055" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0015" author-id="S0765159725001698-796b0d78f7dd1c32865f0d9f0148b56f">
+                  <ce:given-name>T.</ce:given-name>
+                  <ce:surname>Otsudo</ce:surname>
+                  <ce:cross-ref id="crf0060" refid="aff0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020" author-id="S0765159725001698-978413650559de294f0b9c9cbe2e56c9">
+                  <ce:given-name>Y.</ce:given-name>
+                  <ce:surname>Sawada</ce:surname>
+                  <ce:cross-ref id="crf0065" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0025" author-id="S0765159725001698-fe5d3a1ba87523b32e38e755aeb5a2ff">
+                  <ce:given-name>H.</ce:given-name>
+                  <ce:surname>Hattori</ce:surname>
+                  <ce:cross-ref id="crf0070" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0075" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0030" author-id="S0765159725001698-6c50114def9fac30f0d1f87384cc9c9c">
+                  <ce:given-name>Y.</ce:given-name>
+                  <ce:surname>Kikuchi</ce:surname>
+                  <ce:cross-ref id="crf0080" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0085" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0035" author-id="S0765159725001698-3f731b2827df7efab5671ab7635963e9">
+                  <ce:given-name>T.</ce:given-name>
+                  <ce:surname>Hall</ce:surname>
+                  <ce:cross-ref id="crf0090" refid="aff0025">
+                     <ce:sup loc="post">e</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0765159725001698-b13bc40baae8dd3ba1e8ea3114ba9ce6">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Saitama Medical University Graduate School of Medicine, Moroyama, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Saitama Medical University Graduate School of Medicine</sa:organization>
+                     <sa:city>Moroyama</sa:city>
+                     <sa:country iso3166-1-alpha-3="JPN">Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="npr0005">a Saitama Medical University Graduate School of Medicine, Moroyama, Japan</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S0765159725001698-07d2910382fb9026d085d977bfcffa27">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Rehabilitation, Kawagoe Clinic, Saitama Medical University, Kawagoe, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Rehabilitation, Kawagoe Clinic, Saitama Medical University</sa:organization>
+                     <sa:city>Kawagoe</sa:city>
+                     <sa:country iso3166-1-alpha-3="JPN">Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="npr0010">b Department of Rehabilitation, Kawagoe Clinic, Saitama Medical University, Kawagoe, Japan</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S0765159725001698-1e60ebd3e3a71540cd978ace80b5f2fa">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>School of Physical Therapy, Saitama Medical University, Moroyama, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Physical Therapy, Saitama Medical University</sa:organization>
+                     <sa:city>Moroyama</sa:city>
+                     <sa:country iso3166-1-alpha-3="JPN">Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="npr0015">c School of Physical Therapy, Saitama Medical University, Moroyama, Japan</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0020" affiliation-id="S0765159725001698-fdd8722b61619683efaba60b3fef5aac">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Major of Physical Therapy, Department of Rehabilitation, Tokyo University of Technology, Kamata, Japan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Major of Physical Therapy, Department of Rehabilitation, Tokyo University of Technology</sa:organization>
+                     <sa:city>Kamata</sa:city>
+                     <sa:country iso3166-1-alpha-3="JPN">Japan</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="npr0020">d Major of Physical Therapy, Department of Rehabilitation, Tokyo University of Technology, Kamata, Japan</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0025" affiliation-id="S0765159725001698-c602036ed3f376c670506da268a62ddb">
+                  <ce:label>e</ce:label>
+                  <ce:textfn>Curtin School of Allied Health, Curtin University, Perth, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Curtin School of Allied Health, Curtin University</sa:organization>
+                     <sa:city>Perth</sa:city>
+                     <sa:country iso3166-1-alpha-3="AUS">Australia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="npr0025">e Curtin School of Allied Health, Curtin University, Perth, Australia</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: Saitama Medical University, 981, Kawakado, Moroyama, 350-0496 Saitama, Japan.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Saitama Medical University</sa:organization>
+                     <sa:address-line>981, Kawakado, Moroyama</sa:address-line>
+                     <sa:city>Saitama</sa:city>
+                     <sa:postal-code>350-0496</sa:postal-code>
+                     <sa:country iso3166-1-alpha-3="JPN">Japan</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="6" month="3" year="2025"/>
+            <ce:date-accepted day="27" month="9" year="2025"/>
+            <ce:abstract id="abs0010" class="author" view="all"><ce:abstract-sec id="abst0005" view="all">
+                  <ce:section-title id="sect0010">Objective</ce:section-title>
+                  <ce:simple-para id="spar0005" view="all">The objective of this pilot study was to examine the association between low back pain (LBP) experienced by amateur golfers and their hip muscle flexibility, hip muscle strength, and golf swing characteristics.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abst0010" view="all">
+                  <ce:section-title id="sect0015">Methods</ce:section-title>
+                  <ce:simple-para id="spar0010" view="all">Twenty-two amateur male golfers were divided into two groups based on their history of LBP, being present or not: with 9 and 13 participants in each group, respectively. Hip function was assessed through hip range of motion (ROM), hip muscle flexibility tests, as well as hip internal rotation (IR) and external rotation (ER) isometric muscle strength. Golf swing motion analysis was performed using a three-dimensional motion analyzer. Golf parameters included the starting golf position (Address) angle as well as hip and lumbar spine maximum ROM during the golf swing. Comparative analysis compared groups with respect to each measurement item.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abst0015" role="results" view="all">
+                  <ce:section-title id="sect0020">Results</ce:section-title>
+                  <ce:simple-para id="spar0015" view="all">The LBP group exhibited significantly lower hip ER strength bilaterally (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05). At the Address angle, hip flexion was significantly increased bilaterally in the LBP group (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05). The maximum ROM achieved during the golf swing was significantly higher in the LBP group but only for upper lumbar spine left and right rotation ROM (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05).</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abst0020" role="conclusion" view="all">
+                  <ce:section-title id="sect0025">Conclusion</ce:section-title>
+                  <ce:simple-para id="spar0020" view="all">While the present study was not designed to establish a causal relationship between LBP and golf performance, hip ER strength, excessive hip flexion angle at Address, and maximum lumbar rotation ROM during the golf swing are assessment items potentially worthy of investigation in golfers with a history of LBP.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="abs0005" xml:lang="fr" class="author" view="all">
+               <ce:section-title id="sect0030">Résumé</ce:section-title>
+               <ce:abstract-sec id="abst0025" view="all">
+                  <ce:section-title id="sect0035">Objectif</ce:section-title>
+                  <ce:simple-para id="spar0025" view="all">L’objectif de cette étude pilote était d’examiner le lien entre les douleurs lombaires ressenties par les golfeurs amateurs, et la souplesse et la force des muscles de la hanche, ainsi que les caractéristiques de leur swing.</ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec id="abst0030" view="all">
+                  <ce:section-title id="sect0040">Méthodes</ce:section-title>
+                  <ce:simple-para id="spar0030" view="all">Vingt-deux golfeurs amateurs masculins ont été répartis en deux groupes en fonction de leurs antécédents de lombalgie, présente ou non: 9 et 13 participants dans chaque groupe, respectivement. La fonction de la hanche a été évaluée à l’aide de tests de l’amplitude de mouvement (ROM) de la hanche, de la souplesse des muscles de la hanche, ainsi que de la force musculaire isométrique en rotation interne (IR) et en rotation externe (ER) de la hanche. L’analyse du mouvement du swing de golf a été réalisée à l’aide d’un analyseur de mouvement tridimensionnel. Les paramètres de golf comprenaient l’angle de la position de départ (Address) ainsi que l’amplitude maximale de mouvement de la hanche et de la colonne lombaire pendant le swing de golf. Une analyse comparative a été effectuée entre les groupes pour chaque élément de mesure.</ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec id="abst0035" view="all">
+                  <ce:section-title id="sect0045">Résultats</ce:section-title>
+                  <ce:simple-para id="spar0035" view="all">Le groupe souffrant de lombalgie présentait une force ER significativement plus faible au niveau des hanches bilatéralement (<ce:italic>p</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0,05). À l’angle Address, la flexion des hanches était significativement plus importante bilatéralement dans le groupe souffrant de lombalgie (<ce:italic>p</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0,05). L’amplitude maximale obtenue pendant le swing de golf était significativement plus élevée dans le groupe souffrant de lombalgie, mais uniquement pour l’amplitude de rotation gauche et droite de la colonne lombaire supérieure (<ce:italic>p</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0,05).</ce:simple-para>
+               </ce:abstract-sec>
+               <ce:abstract-sec id="abst0040" role="conclusion" view="all">
+                  <ce:section-title id="sect0050">Conclusion</ce:section-title>
+                  <ce:simple-para id="spar0040" view="all">Bien que cette étude n’ait pas été conçue pour établir un lien de causalité entre les lombalgies et les performances au golf, la force en extension de la hanche, l’angle de flexion excessive de la hanche à l’adresse et l’amplitude maximale de rotation lombaire pendant le swing sont des éléments d’évaluation qui mériteraient d’être étudiés chez les golfeurs ayant des antécédents de lombalgies.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0055">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Lumbar spine</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Hip flexibility</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>External rotation strength</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Three-dimensional motion analysis</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords id="kwd0010" class="keyword" xml:lang="fr" view="all">
+               <ce:section-title id="sect0060">Mots clés</ce:section-title>
+               <ce:keyword id="kw0025">
+                  <ce:text>Colonne lombaire</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text>Souplesse de la hanche</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0035">
+                  <ce:text>Force de rotation externe</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0040">
+                  <ce:text>Analyse tridimensionnelle du movement</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0065">Introduction</ce:section-title>
+                  <ce:para id="par0005" view="all">Low back pain (LBP) has been identified as a prevalent condition among athletes, with a particularly high incidence observed in sports that involve repetitive trunk rotation, such as golf <ce:cross-ref id="crf0095" refid="bib0130">[1]</ce:cross-ref>. Robinson et al. conducted a prospective study of injury incidence in over 900 amateur golfers, revealing that lumbosacral injuries were the most common <ce:cross-ref id="crf0100" refid="bib0135">[2]</ce:cross-ref>.</ce:para>
+                  <ce:para id="par0010" view="all">The golf swing is a complex whole-body motion that requires coordinated movements of the lower extremities, pelvis, spine, and upper extremities, among others <ce:cross-ref id="crf0105" refid="bib0140">[3]</ce:cross-ref>. A number of factors have been identified as being associated with LBP in golfers. These factors include age, a history of LBP, body weight, repeated incorrect swing biomechanics, excessive physical activity, and poor physical function <ce:cross-ref id="crf0110" refid="bib0130">[1]</ce:cross-ref>. A study of physical function in golfers concluded that factors associated with LBP include impairment of hip internal rotation (IR) range of motion (ROM) and trunk muscle weakness <ce:cross-refs id="crfs0005" refid="bib0145 bib0150 bib0155">[4–6]</ce:cross-refs>. These factors have also been identified in patients with LBP outside of golf <ce:cross-refs id="crfs0010" refid="bib0160 bib0165 bib0170 bib0175">[7–10]</ce:cross-refs>. Further support for the association between LBP and hip muscle strength in golfers, is shown by the identification of weakness of the lead-side hip abductor and adductor muscle groups in LBP <ce:cross-ref id="crf0115" refid="bib0180">[11]</ce:cross-ref>. Despite this evidence no studies have comprehensively examined hip flexibility and strength as factors in golf associated LBP.</ce:para>
+                  <ce:para id="par0015" view="all">A number of issues have been identified in the biomechanics of the golf swing, which is associated with the presence of LBP. The “Address” angle is defined as the body position immediately before striking the ball. A study revealed that at the Address position golfers complaining of LBP exhibited diminished knee joint flexion and ankle dorsiflexion angle in comparison to golfers without LBP. The investigation revealed that the spine angles at Address did not exhibit significant disparities between the groups with and without LBP <ce:cross-ref id="crf0120" refid="bib0185">[12]</ce:cross-ref>. During the golf swing, golfers with LBP had decreased maximum whole trunk right rotation ROM and increased maximum whole spine left lateral flexion ROM. Other reports have reported varied results <ce:cross-refs id="crfs0015" refid="bib0180 bib0190">[11,13]</ce:cross-refs>. One explanation for this is that previous studies have only evaluated the entire spine as a unit and do not reveal the detailed behavior of the lumbar spine. When evaluating LBP, it would be useful to know what is happening in the lumbar spine, the presumed nociceptive source of pain. A more comprehensive evaluation of the lumbar spine's maximum ROM during the golf swing may offer novel insights into LBP in golf. The objective of this pilot study was to identify differences in hip flexibility, hip muscle strength, and golf swing motion in amateur golfers with and without LBP. The present study will examine the role of the hip and lumbar spine in LBP for golfers and provide fundamental data for future studies aimed at identifying prevention and treatment methods for this population.</ce:para>
+               </ce:section>
+               <ce:section id="sec0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0070">Methods</ce:section-title>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sect0075">Participants</ce:section-title>
+                     <ce:para id="par0020" view="all">Participants were recruited through posters displayed at four golf driving ranges from May to November 2021. Prior to the commencement of the measurement process, participants were required to provide written consent. Inclusion criteria were that they had no current symptoms of LBP and were not currently receiving hospital treatment for their condition. Furthermore, subjects were required to have participated in a minimum of five rounds of golf, with a maximum score of 110 or less over 18 holes. A paper questionnaire was administered to collect data on subjects’ height, weight, golf scores, and history of LBP due to golf. It is noteworthy that the subjects with LBP were included if they experienced LBP exclusively while golfing, and were excluded if LBP occurred in daily life or in another sport.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sect0080">Hip joint function assessment</ce:section-title>
+                     <ce:para id="par0025" view="all">Passive hip IR and external rotation (ER) ROM was measured using an inclinometer placed on the prone subjects shin, with their hip positioned in mid adduction/abduction and their knee flexed to 90°. This measurement method has been reported to have high intra- and inter-examiner reliability <ce:cross-ref id="crf0125" refid="bib0195">[14]</ce:cross-ref>. Hamstring and hip flexor muscle extensibility was evaluated by the straight leg raise (SLR) and Thomas test respectively. For the SLR test, the subject lay supine, an inclinometer was placed on their shin and used to record SLR ROM. The measurement of SLR was obtained with their knee held in extension and their hip passively flexed to maximum range. Extensibility of the hip flexor muscles was determined by the Thomas test where contralateral hip flexion ROM was recorded while the subject's opposite hip was maintained in maximal flexion. Compensatory movement of pelvic rotation was corrected by the examiner. Intra-individual variability of the SLR test and Thomas test was determined by ICC (1,3). All values were above 0.9, indicating excellent reliability. ROM and flexibility tests were measured three times, and the average value used for measurements. Hip isometric muscle strength was measured using a hand-held dynamometer. Two parameters were evaluated: IR and ER. Replicating previous studies, strength measurements were evaluated in a seated position and all muscle strength measurements taken twice <ce:cross-ref id="crf0130" refid="bib0200">[15]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sect0085">Golf swing analysis</ce:section-title>
+                     <ce:para id="par0030" view="all">The golf swing was measured using a three-dimensional motion analyzer (Vicon MX System; Vicon Motion Systems Ltd., Oxford, UK). A Plug-in-Gait AI model was used to calculate the lower limb kinematic data. Additionally, ten markers were added to measure spine motion. This set of markers can be used to separate the upper and lower lumbar spine and calculate data for the lumbar spine <ce:cross-ref id="crf0135" refid="bib0205">[16]</ce:cross-ref>. The upper lumbar spine was defined as L1 to L3, and the lower lumbar spine as L4 to L5. Lumbar spine motion data were calculated using Visual 3D (C-Motion, Germantown, MD, USA). The sampling frequency was set at 240<ce:hsp sp="0.25"/>Hz, while the cutoff frequency was 6<ce:hsp sp="0.25"/>Hz. During data collection participants performed the golf swing with their own golf clubs, shoes, and gloves. Prior to the initiation of the golf swing measurements, the participants engaged in a three-minute warm-up period during which they were permitted to swing the golf club with any intensity and method they deemed appropriate. The measurement process involved the use of a driver and the execution of five full swings. The participants were instructed to imagine that they were situated on a golf tee and they should attempt to strike the ball towards a net positioned approximately three meters in front of them. The data from three of the five successful golf swing trials were used to calculate the average values. The data from the latter three was primarily utilized. In instances where data accuracy was deemed inadequate, data from the first or second was adopted. For right-handed golfers, the left side was designated as the lead side, and the right side was designated as the trail side. The posture of the golf swing prior to the movement of the golf club was defined as Address. The angles of the hip joints and the upper and lower lumbar spine were calculated. The maximum range during the golf swing was calculated for both hip IR as well as lateral flexion, rotation, and extension of the upper and lower lumbar spine.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sect0090">Statistical analysis</ce:section-title>
+                     <ce:para id="par0035" view="all">Normality of the data was determined. For each measurement item, independent <ce:italic>t</ce:italic>-tests or Mann–Whitney U-tests were employed, depending on the statistical assumptions of the test. The calculation of effect sizes and power was conducted for all test results. The calculation of effect sizes employed Cohen's d for the independent <ce:italic>t</ce:italic>-test and effect size r for the Mann–Whitney U-test. The statistical software utilized was IBM SPSS Statistics for Mac, version 29.0 (Armonk, NY, USA: IBM Corp 2020). A significance level of <ce:italic>P</ce:italic>
+                        <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05 was employed.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0035" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0095">Results</ce:section-title>
+                  <ce:para id="par0040" view="all">The demographic characteristics of the participants are shown in <ce:cross-ref id="crf0140" refid="tbl0005">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl0005"/>. All participants were right-handed with 9 in the LBP group and 13 in the Non-LBP group. A subsequent analysis revealed that there was no statistically significant difference in the basic demographics between the two groups (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>0.05). <ce:cross-ref id="crf0145" refid="tbl0010">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="tbl0010"/> presents the hip joint function characteristics of the 2 groups. There were no statistically significant differences in hip IR and ER ROM, or ROM on the SLR or Thomas test (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>0.05). However, a statistically significant difference was observed in hip ER strength, with the LBP group exhibiting lower strength compared to the Non-LBP group (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05). <ce:cross-refs id="crfs0020" refid="tbl0015 tbl0020">Tables 3 and 4</ce:cross-refs>
+                     <ce:float-anchor refid="tbl0015"/>
+                     <ce:float-anchor refid="tbl0020"/> present the three-dimensional motion analysis data for the hip and lumbar spine, respectively. At Address significantly higher values were noted for the LBP group in both left and right side hip flexion angle (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05). Furthermore, the upper lumbar spine left-right rotation maximum ROM during the golf swing was found to be significantly higher in the LBP group (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05). No statistically significant differences were observed in the lower lumbar spine left-right rotation ROM, upper and lower lateral flexion ROM, extension ROM, and left-right hip IR ROM (<ce:italic>P</ce:italic>
+                     <ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>0.05).</ce:para>
+               </ce:section>
+               <ce:section id="sec0040" role="discussion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0100">Discussion</ce:section-title>
+                  <ce:para id="par0045" view="all">The objective of this study was to identify potential disparities in hip joint function and golf swing parameters among golfers with LBP compared to those without pain. The investigation yielded several noteworthy findings. Significantly lower hip ER muscle strength was observed in the LBP group. Furthermore, the LBP group exhibited significantly greater upper lumbar spine left and right rotation ROM during the golf swing. Similar studies have reported that individuals with LBP exhibit reduced hip muscle strength compared to those without LBP <ce:cross-ref id="crf0150" refid="bib0170">[9]</ce:cross-ref>, and LBP has been associated with atrophy of the gluteus maximus muscle <ce:cross-refs id="crfs0025" refid="bib0210 bib0215">[17,18]</ce:cross-refs>. Hip ER muscle force generated during the golf swing is greater in the forward swing phase on the lead side and in the acceleration phase on the trail side <ce:cross-ref id="crf0155" refid="bib0220">[19]</ce:cross-ref>. These phases are of importance in accelerating the golf club and generating ball carry distance. It is reported that golf driving distance is more closely correlated with hip muscle strength than trunk core muscle strength <ce:cross-ref id="crf0160" refid="bib0225">[20]</ce:cross-ref>. This would infer that the hip ER muscles are important for the golf swing.</ce:para>
+                  <ce:para id="par0050" view="all">It has been hypothesized that individuals who suffer with LBP may have sought to enhance their golf performance by employing greater lumbar rotation movement to compensate for diminished strength in both left and right side hip ER muscle groups. Consequently, it can be considered potentially important to incorporate the hip ER muscle group into the evaluation and rehabilitation framework for golfers with LBP. A previous study similarly identified the hip and trunk muscle function as important for golfers with LBP <ce:cross-ref id="crf0165" refid="bib0180">[11]</ce:cross-ref>.</ce:para>
+                  <ce:para id="par0055" view="all">To the best of our knowledge, there is no difference in lumbar kyphosis angle or pelvic tilt angle between golfers with and without LBP <ce:cross-ref id="crf0170" refid="bib0170">[9]</ce:cross-ref>. Furthermore, no significant difference in hip or spine angle has been reported at the golf swing position Address <ce:cross-ref id="crf0175" refid="bib0185">[12]</ce:cross-ref>. However, a notable finding in our study was a significant increase in hip flexion angle at Address observed in the LBP group. We consider this observation as an important finding of our study, however the underlying reasons for the distinctive posture at Address in golfers with LBP remains to be determined.</ce:para>
+                  <ce:para id="par0060" view="all">It has been shown that the gluteus maximus muscles undergo both stretching and increased muscle activity when the hip joint is flexed <ce:cross-ref id="crf0180" refid="bib0230">[21]</ce:cross-ref>. This finding suggests that one of the characteristics of the altered Address position in the LBP group may be as a compensatory mechanism due to a decrease in hip ER muscle strength. Additionally, it has been documented that golfers with LBP exhibit a significantly faster onset of the erector spinae muscle activation during the back swing and with greater muscle activity <ce:cross-ref id="crf0185" refid="bib0235">[22]</ce:cross-ref>. This phenomenon could be attributed to the increased hip flexion angle, which has been observed to stretch the erector spinae muscles, thereby potentially augmenting the load on these muscles. In light of these considerations, it would appear to be useful to educate golfers who have experienced LBP about their altered Address posture.</ce:para>
+                  <ce:para id="par0065" view="all">No substantial differences were identified between groups with respect to hip IR and ER ROM, SLR test ROM, and Thomas test ROM outcomes. A well-documented risk factor for LBP is reduced flexibility of the hip muscles, including hamstrings and iliopsoas muscles <ce:cross-refs id="crfs0030" refid="bib0160 bib0165 bib0240">[7,8,23]</ce:cross-refs>. Golf is a sport requiring predominantly trunk and pelvis rotation. Consequently, the flexibility of the aforementioned muscles, while important limiting factors in hip flexion and extension, may not have a substantial impact on the load on the lumbar spine during the golf swing.</ce:para>
+                  <ce:para id="par0070" view="all">Previous reports have indicated that golfers with LBP demonstrate diminished hip IR ROM <ce:cross-refs id="crfs0035" refid="bib0150 bib0155">[5,6]</ce:cross-refs>. Given the established correlation between diminished hip IR ROM and augmented lumbar rotation ROM <ce:cross-ref id="crf0190" refid="bib0245">[24]</ce:cross-ref>, a plausible hypothesis is proposed that links LBP and hip IR ROM in golf. However, the findings of our study did not demonstrate such a correlation. The discrepancy between the findings of our study and those previous ones may be attributed to the distinct characteristics of the participants in the two studies, particularly their varying levels of competitive engagement. In contrast, Kim et al.’s study focused on young professional golfers. In contrast, the present study's participants were amateur golfers. It has been documented that the golf swing movement style varies according to the level of competition <ce:cross-ref id="crf0195" refid="bib0250">[25]</ce:cross-ref>. Consequently, it was proposed that varying levels of competition may be associated with distinct factors contributing to LBP.</ce:para>
+                  <ce:para id="par0075" view="all">Although this study does not establish a causal relationship between LBP and hip function, the findings provide clinically relevant implications for sports medicine. The assessment of hip ER muscle strength, posture at Address, and excessive upper lumbar spine rotation ROM during the golf swing may serve as useful screening items in clinical and field settings. For golfers with a history of LBP, monitoring these checkpoints may potentially help reduce lumbar load, prevent recurrence of injury, and support the maintenance of competitive performance.</ce:para>
+                  <ce:para id="par0080" view="all">The present study is not without its limitations. Firstly, the nature of this study, being cross-sectional and observational, precludes the establishment of a clear causal relationship between LBP and hip joint function. Future studies should employ longitudinal research designs to more thoroughly examine the interaction between LBP and hip joint function. Secondly, the study did not include data on muscle activity, center of gravity position, and ground reaction force during the golf swing. Consequently, the investigation of how these factors were influenced by LBP was precluded. These data may offer insights into the underlying mechanisms of LBP and should be considered in future studies. Thirdly, the study's participants were limited to amateur golfers, and the external validity of the results for professional golfers and players with higher levels of competition is unclear.</ce:para>
+               </ce:section>
+               <ce:section id="sec0045" role="conclusion" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sect0105">Conclusion</ce:section-title>
+                  <ce:para id="par0085" view="all">This study demonstrated an association between LBP and specific physical characteristics and golf swing mechanics in amateur golfers. Golfers with LBP demonstrated increased hip flexion angles during the Address position and greater upper lumbar spine rotation ROM during the golf swing compared to golfers without LBP. Furthermore, reduced hip ER muscle strength was observed in golfers with LBP, suggesting the presence of compensatory movement patterns and physical characteristics that may contribute to LBP. The cross-sectional design and the participants’ characteristics of this study limit the ability to establish causal relationships between LBP and its associated factors. However, the findings highlight the potential importance of addressing hip function and golf swing mechanics in golfers with LBP. Consequently, therapists and instructors may benefit from assessing hip ER muscle strength, Address position, and excessive lumbar rotation ROM during the golf swing to reduce LBP in amateur golfers.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0005" view="all">
+               <ce:section-title id="sect0110">Disclosure of interest</ce:section-title>
+               <ce:para id="par0090" view="all">The authors declare that they have no competing interests.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0115">Acknowledgments</ce:section-title>
+               <ce:para id="par0095" view="all">We would like to express our gratitude to all the golfers who participated in this study.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0120">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0015" view="all">
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Smith</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hawkins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Grant-Beuttler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Beuttler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-P.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Risk Factors Associated With Low Back Pain in Golfers: A Systematic Review and Meta-analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sports Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>538</sb:first-page>
+                              <sb:last-page>546</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0030">[1] Smith JA, Hawkins A, Grant-Beuttler M, Beuttler R, Lee S-P. Risk Factors Associated With Low Back Pain in Golfers: A Systematic Review and Meta-analysis. Sports Health 2018;10:538–46.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Robinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Clarsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Murray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Junge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Mountjoy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Drobny</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A prospective study of injuries and illnesses among 910 amateur golfers during one season</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMJ Open Sport Exerc Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2024</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e001844</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0035">[2] Robinson PG, Clarsen B, Murray A, Junge A, Mountjoy ML, Drobny T, et al. A prospective study of injuries and illnesses among 910 amateur golfers during one season. BMJ Open Sport Exerc Med 2024;10:e001844.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0140">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Cole</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Grimshaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The biomechanics of the modern Golf Swing: implications for lower back injuries</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>339</sb:first-page>
+                              <sb:last-page>351</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0040">[3] Cole MH, Grimshaw PN. The Biomechanics of the Modern Golf Swing: Implications for Lower Back Injuries. Sports Med 2016;46:339–51.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0145">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Lindsay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Horton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Trunk rotation strength and endurance in healthy normals and elite male golfers with and without low back pain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>N Am J Sports Phys Ther</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>80</sb:first-page>
+                              <sb:last-page>89</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0045">[4] Lindsay DM, Horton JF. Trunk rotation strength and endurance in healthy normals and elite male golfers with and without low back pain. N Am J Sports Phys Ther 2006;1:80–9.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0150">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Murray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Birley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Twycross-Lewis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Morrissey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The relationship between hip rotation range of movement and low back pain prevalence in amateur golfers: an observational study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys Ther Sport</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                              <sb:last-page>135</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0050">[5] Murray E, Birley E, Twycross-Lewis R, Morrissey D. The relationship between hip rotation range of movement and low back pain prevalence in amateur golfers: an observational study. Phys Ther Sport 2009;10:131–5.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0155">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.B.</ce:given-name>
+                                 <ce:surname>Vad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Bhat</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Basrai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gebeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.D.</ce:given-name>
+                                 <ce:surname>Aspergren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Andrews</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low back pain in professional golfers: the role of associated hip and low back range-of-motion deficits</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Am J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>494</sb:first-page>
+                              <sb:last-page>497</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0055">[6] Vad VB, Bhat AL, Basrai D, Gebeh A, Aspergren DD, Andrews JR. Low back pain in professional golfers: the role of associated hip and low back range-of-motion deficits. Am J Sports Med 2004;32:494–7.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0160">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Adegoke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Fapojuwo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Range of active hip motion in low back pain patients and apparently healthy controls</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Allied Health Scie Pract</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0060">[7] Adegoke B, Fapojuwo O. Range of Active Hip Motion in Low Back Pain Patients and Apparently Healthy Controls. Internet Journal of Allied Health Sciences and Practice 2010.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0165">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Van Dillen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>McDonnell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Fleming</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Sahrmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of knee and hip position on hip extension range of motion in individuals with and without low back pain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Orthop Sports Phys Ther</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>307</sb:first-page>
+                              <sb:last-page>316</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0065">[8] Van Dillen LR, McDonnell MK, Fleming DA, Sahrmann SA. Effect of knee and hip position on hip extension range of motion in individuals with and without low back pain. J Orthop Sports Phys Ther 2000;30:307–16.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0170">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Nourbakhsh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Arab</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Relationship between mechanical factors and incidence of low back pain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Orthop Sports Phys Ther</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>447</sb:first-page>
+                              <sb:last-page>460</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0070">[9] Nourbakhsh MR, Arab AM. Relationship between mechanical factors and incidence of low back pain. J Orthop Sports Phys Ther 2002;32:447–60.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0175">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.B.</ce:given-name>
+                                 <ce:surname>Vad</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gebeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Dines</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Altchek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Norris</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hip and shoulder internal rotation range of motion deficits in professional tennis players</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sci Med Sport</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                              <sb:last-page>75</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0075">[10] Vad VB, Gebeh A, Dines D, Altchek D, Norris B. Hip and shoulder internal rotation range of motion deficits in professional tennis players. J Sci Med Sport 2003;6:71–5.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0180">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.-S.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.C.</ce:given-name>
+                                 <ce:surname>Sell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Smoliga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Myers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Learman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Lephart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A comparison of physical characteristics and swing mechanics between golfers with and without a history of low back pain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Orthop Sports Phys Ther</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>430</sb:first-page>
+                              <sb:last-page>438</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0080">[11] Tsai Y-S, Sell TC, Smoliga JM, Myers JB, Learman KE, Lephart SM. A comparison of physical characteristics and swing mechanics between golfers with and without a history of low back pain. J Orthop Sports Phys Ther 2010;40:430–8.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0185">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-L.</ce:given-name>
+                                 <ce:surname>Quinn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Olivier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>McKinon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lower quadrant swing biomechanics identifies golfers with increased risk of low back pain: a prospective longitudinal cohort study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sport Rehabil</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2022</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1041</sb:first-page>
+                              <sb:last-page>1051</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0085">[12] Quinn S-L, Olivier B, McKinon W. Lower Quadrant Swing Biomechanics Identifies Golfers With Increased Risk of Low Back Pain: A Prospective Longitudinal Cohort Study. J Sport Rehabil 2022;31:1041–51.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0190">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Lindsay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Horton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparison of spine motion in elite golfers with and without low back pain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sports Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>599</sb:first-page>
+                              <sb:last-page>605</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0090">[13] Lindsay D, Horton J. Comparison of spine motion in elite golfers with and without low back pain. J Sports Sci 2002;20:599–605.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0195">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Murray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Birley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Twycross-Lewis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Morrissey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The relationship between hip rotation range of movement and low back pain prevalence in amateur golfers: an observational study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys Ther Sport</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                              <sb:last-page>135</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0095">[14] Murray E, Birley E, Twycross-Lewis R, Morrissey D. The relationship between hip rotation range of movement and low back pain prevalence in amateur golfers: an observational study. Phys Ther Sport 2009;10:131–5.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0200">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Bazett-Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Squier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measurement properties of hip strength measured by handheld dynamometry: Reliability and validity across the range of motion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys Ther Sport</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100</sb:first-page>
+                              <sb:last-page>106</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0100">[15] Bazett-Jones DM, Squier K. Measurement properties of hip strength measured by handheld dynamometry: Reliability and validity across the range of motion. Phys Ther Sport 2020;42:100–6.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0205">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Gombatto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Brock</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>DeLork</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Madden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Rinere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lumbar spine kinematics during walking in people with and people without low back pain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Gait Posture</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>539</sb:first-page>
+                              <sb:last-page>544</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0105">[16] Gombatto SP, Brock T, DeLork A, Jones G, Madden E, Rinere C. Lumbar spine kinematics during walking in people with and people without low back pain. Gait Posture 2015;42:539–44.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0210">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Amabile</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Bolte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Richter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Atrophy of gluteus maximus among women with a history of chronic low back pain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS One</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e0177008</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0110">[17] Amabile AH, Bolte JH, Richter SD. Atrophy of gluteus maximus among women with a history of chronic low back pain. PLoS One 2017;12:e0177008.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0215">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Skorupska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Keczmer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Łochowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Tomal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Rychlik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Samborski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reliability of MR-Based volumetric 3-D analysis of pelvic muscles among subjects with low back with leg pain and healthy volunteers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PLoS One</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>e0159587</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0115">[18] Skorupska E, Keczmer P, Łochowski RM, Tomal P, Rychlik M, Samborski W. Reliability of MR-Based Volumetric 3-D Analysis of Pelvic Muscles among Subjects with Low Back with Leg Pain and Healthy Volunteers. PLoS One 2016;11:e0159587.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0220">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Marta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Castro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Pezarat-Correia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Cabri</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electromyography variables during the golf swing: a literature review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Electromyogr Kinesiol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>803</sb:first-page>
+                              <sb:last-page>813</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0120">[19] Marta S, Silva L, Castro MA, Pezarat-Correia P, Cabri J. Electromyography variables during the golf swing: a literature review. J Electromyogr Kinesiol 2012;22:803–13.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0225">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0225">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Suhara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Nariai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Takagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Akiyama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Nagashima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Shiraki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Relationship of clubhead speed with explosive power and muscle strength of the hip and trunk joints of elite golfers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Strength Cond Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2023</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>859</sb:first-page>
+                              <sb:last-page>865</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0125">[20] Suhara H, Nariai M, Takagi T, Akiyama K, Nagashima J, Shiraki H. Relationship of Clubhead Speed With Explosive Power and Muscle Strength of the Hip and Trunk Joints of Elite Golfers. J Strength Cond Res 2023;37:859–65.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0230">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0230">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Schultz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Timgren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Staelgraeve</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An electromyographic and kinetic comparison of conventional and Romanian deadlifts</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Exerc Sci Fit</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>87</sb:first-page>
+                              <sb:last-page>93</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0130">[21] Lee S, Schultz J, Timgren J, Staelgraeve K, Miller M, Liu Y. An electromyographic and kinetic comparison of conventional and Romanian deadlifts. J Exerc Sci Fit 2018;16:87–93.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0235">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0235">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Cole</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Grimshaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Trunk muscle onset and cessation in golfers with and without low back pain</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Biomech</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2829</sb:first-page>
+                              <sb:last-page>2833</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0135">[22] Cole MH, Grimshaw PN. Trunk muscle onset and cessation in golfers with and without low back pain. J Biomech 2008;41:2829–33.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0240">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0240">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Roach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>San Juan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.N.</ce:given-name>
+                                 <ce:surname>Suprak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lyda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Bies</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Boydston</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Passive hip range of motion is reduced in active subjects with chronic low back pain compared to controls</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Sports Phys Ther</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13</sb:first-page>
+                              <sb:last-page>20</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0140">[23] Roach SM, San Juan JG, Suprak DN, Lyda M, Bies AJ, Boydston CR. Passive hip range of motion is reduced in active subjects with chronic low back pain compared to controls. Int J Sports Phys Ther 2015;10:13–20.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0245">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0245">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-B.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.H.</ce:given-name>
+                                 <ce:surname>You</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.-Y.</ce:given-name>
+                                 <ce:surname>Kwon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C-H.</ce:given-name>
+                                 <ce:surname>Yi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lumbopelvic kinematic characteristics of golfers with limited hip rotation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Am J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                              <sb:last-page>120</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0145">[24] Kim S-B, You JSH, Kwon O-Y, Yi C-H. Lumbopelvic kinematic characteristics of golfers with limited hip rotation. Am J Sports Med 2015;43:113–20.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0250">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0250">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Barrentine</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.S.</ce:given-name>
+                                 <ce:surname>Fleisig</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Andrews</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinematic analysis of swing in pro and amateur golfers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>487</sb:first-page>
+                              <sb:last-page>493</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="npr0150">[25] Zheng N, Barrentine SW, Fleisig GS, Andrews JR. Kinematic analysis of swing in pro and amateur golfers. Int J Sports Med 2008;29:487–93.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

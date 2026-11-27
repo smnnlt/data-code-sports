@@ -1,0 +1,2295 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S2095254618300723</prism:url><dc:identifier>doi:10.1016/j.jshs.2018.08.006</dc:identifier><eid>1-s2.0-S2095254618300723</eid><prism:doi>10.1016/j.jshs.2018.08.006</prism:doi><pii>S2095-2546(18)30072-3</pii><dc:title>Former athletes’ lifestyle and self-definition changes after retirement from sports </dc:title><prism:publicationName>Journal of Sport and Health Science</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>20952546</prism:issn><prism:volume>9</prism:volume><prism:issueIdentifier>4</prism:issueIdentifier><prism:startingPage>376</prism:startingPage><prism:endingPage>383</prism:endingPage><prism:pageRange>376-383</prism:pageRange><prism:number>4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2020-07-31</prism:coverDate><prism:coverDisplayDate>July 2020</prism:coverDisplayDate><prism:copyright>© 2018 Published by Elsevier B.V. on behalf of Shanghai University of Sport.</prism:copyright><prism:publisher>Published by Elsevier B.V. on behalf of Shanghai University of Sport.</prism:publisher><dc:creator>Yao, Pierre-Luc</dc:creator><dc:creator>Laurencelle, Louis</dc:creator><dc:creator>Trudeau, François</dc:creator><dc:description>
+                  Background
+                  Every high-level athlete will eventually see his or her sport career come to an end. Most former athletes will experience changes in their self-definition and everyday behaviors as they accept a nonathletic way of life. The present study aimed to identify discrepancies between actual and former athletes regarding athletic identity, physical activity (PA), and nutrition habits.
+               
+                  Methods
+                  Actual athletes (AA; n = 122), former athletes (FA; n = 230), and nonathletes (NA; n = 74) were asked to complete an online questionnaire on athletic identity, duration and intensity levels of occupational and leisure time PA, and nutritional habits.
+               
+                  Results
+                  FA healthy nutrition score was the lowest of the 3 groups and significantly different from that of AA. Athletic identity and intense and moderate PA during leisure time consistently decreased (p &lt; 0.01) across the 3 groups (AA &gt; FA &gt; NA). No significant difference between FA and NA was found regarding either nutritional habits or type of PA.
+               
+                  Conclusion
+                  Sport retirement may affect FA quality of nutritional habits that tends to decline below the NA level, as well as the amount of time spent practicing physical activities during leisure time. Athletic status does not ensure PA practice during sport postcareer.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName>Shanghai University of Sport</openaccessSponsorName><openaccessSponsorType>FundingBody</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Athletic identity</dcterms:subject><dcterms:subject>Nutrition</dcterms:subject><dcterms:subject>Physical activity</dcterms:subject><dcterms:subject>Sport retirement</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S2095254618300723" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S2095254618300723" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="19" height="21" size="965">https://api.elsevier.com/content/object/eid/1-s2.0-S2095254618300723-si1.gif?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="157872">https://api.elsevier.com/content/object/eid/1-s2.0-S2095254618300723-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85057032373</scopus-id><scopus-eid>2-s2.0-85057032373</scopus-eid><pubmed-id>32768131</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85057032373" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>282623</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291695</xocs:ssid>
+         <xocs:ssid type="subj">291733</xocs:ssid>
+         <xocs:ssid type="subj">291823</xocs:ssid>
+         <xocs:ssid type="subj">291927</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Sport and Health Science</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALSPORTHEALTHSCIENCE</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20180905">2018-09-05</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20180905">2018-09-05</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200804">2020-08-04</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200804">2020-08-04</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-11-23T12:43:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S2095254618300723</xocs:eid>
+      <xocs:pii-formatted>S2095-2546(18)30072-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S2095254618300723</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jshs.2018.08.006</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.5</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S2095254620X00032</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20201123">2020-11-23T13:38:36.149014Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200701</xocs:date-search-begin>
+      <xocs:date-search-end>20200731</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1536118050">2018-09-05T03:27:30.293941Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst pubtype ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>2095-2546</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>20952546</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>9</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>9</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>4</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 9, Issue 4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>15</xocs:sort-order>
+      <xocs:first-fp>376</xocs:first-fp>
+      <xocs:last-lp>383</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>376</xocs:first-page>
+         <xocs:last-page>383</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202007</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>July 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-07-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-07-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2018 Published by Elsevier B.V. on behalf of Shanghai University of Sport.</xocs:copyright-line>
+      <xocs:normalized-article-title>FORMERATHLETESLIFESTYLESELFDEFINITIONCHANGESAFTERRETIREMENTSPORTS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>YAO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Participants</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Measures</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>AIQ</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>GPAQ</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>2.2.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Nutritional index</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Procedures</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Statistical analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Impacts of sport status on athletic identity and lifestyle</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Athletic identity</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>PA</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Dietary habits</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Lifestyle behaviors and athletic identity across different sport statuses</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Impacts of sport status on athletic identity and lifestyle</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Lifestyle behaviors and athletic identity across different sport statuses</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Limitations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>REIFSTECK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>271</xocs:ref-first-fp>
+            <xocs:ref-last-lp>284</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>REIFSTECK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>38</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>BREWER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>237</xocs:ref-first-fp>
+            <xocs:ref-last-lp>254</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>WEBB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>338</xocs:ref-first-fp>
+            <xocs:ref-last-lp>362</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>ANDERSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>39</xocs:ref-first-fp>
+            <xocs:ref-last-lp>56</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="othref0001b"/>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>SORENSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>80</xocs:ref-first-fp>
+            <xocs:ref-last-lp>86</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>WONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>TRANSITIONPROCESSCOMPETITIVESPORTRETIREMENTFUTUREENGAGEMENTINPHYSICALACTIVITYINVOLVEMENTINFIGURESKATING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>COAKLEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>SINCLAIR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>138</xocs:ref-first-fp>
+            <xocs:ref-last-lp>150</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>STEPHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>354</xocs:ref-first-fp>
+            <xocs:ref-last-lp>371</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>WITKOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>952</xocs:ref-first-fp>
+            <xocs:ref-last-lp>953</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013">
+            <xocs:ref-normalized-surname>BOOTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>950</xocs:ref-first-fp>
+            <xocs:ref-last-lp>952</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0014">
+            <xocs:ref-normalized-surname>KUJALA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>553</xocs:ref-first-fp>
+            <xocs:ref-last-lp>561</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>LYNCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1124</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1130</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016">
+            <xocs:ref-normalized-surname>FOGELHOLM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>224</xocs:ref-first-fp>
+            <xocs:ref-last-lp>229</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016b">
+            <xocs:ref-normalized-surname>YAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>111</xocs:ref-first-fp>
+            <xocs:ref-last-lp>125</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0017">
+            <xocs:ref-normalized-surname>ARMSTRONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>66</xocs:ref-first-fp>
+            <xocs:ref-last-lp>70</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0018"/>
+         <xocs:ref-info refid="othref0001"/>
+         <xocs:ref-info refid="sbref0023a"/>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-normalized-surname>TURCONI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>753</xocs:ref-first-fp>
+            <xocs:ref-last-lp>763</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020"/>
+         <xocs:ref-info refid="sbref0021">
+            <xocs:ref-normalized-surname>BRUNK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STATISTICALINFERENCEUNDERORDERRESTRICTIONSTHEORYAPPLICATIONISOTONICREGRESSION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0022">
+            <xocs:ref-normalized-surname>LAURENCELLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STATISTICALTABLESEXPLAINEDAPPLIED</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0023"/>
+         <xocs:ref-info refid="sbref0024">
+            <xocs:ref-normalized-surname>LAMONTMILLS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>472</xocs:ref-first-fp>
+            <xocs:ref-last-lp>478</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>HOULE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>146</xocs:ref-first-fp>
+            <xocs:ref-last-lp>159</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0026">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>176</xocs:ref-first-fp>
+            <xocs:ref-last-lp>193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0027">
+            <xocs:ref-normalized-surname>HADIYAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>28</xocs:ref-first-fp>
+            <xocs:ref-last-lp>32</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0028">
+            <xocs:ref-normalized-surname>MACIEJEWSKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-last-lp>75</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0029">
+            <xocs:ref-normalized-surname>SHEPHARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>197</xocs:ref-first-fp>
+            <xocs:ref-last-lp>206</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>YAOX2020X376</xocs:refkey3>
+         <xocs:refkey4lp>YAOX2020X376X383</xocs:refkey4lp>
+         <xocs:refkey4ai>YAOX2020X376XP</xocs:refkey4ai>
+         <xocs:refkey5>YAOX2020X376X383XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2018-09-01T00:12:53Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>FundingBody</xocs:oa-sponsor-type>
+            <xocs:oa-sponsor-name>Shanghai University of Sport</xocs:oa-sponsor-name>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/20952546_UNBOUNDED_FB">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2018 Published by Elsevier B.V. on behalf of Shanghai University of Sport.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-08-13T23:57:08.219Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp-car</xocs:funding-addon-type>
+         <xocs:funding-text>The authors acknowledge the contribution of participants in the study. The authors each contributed to all aspects of this research, which was part of the doctoral works of Pierre-Luc Yao. All authors have read and approved the final version of the manuscript, and agree with the order of presentation of the authors. The authors declare that they have no competing interests.</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S2095-2546(18)30072-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S2095254618300723</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S2095254618300723</xocs:eid>
+         <xocs:doi>10.1016/j.jshs.2018.08.006</xocs:doi>
+         <xocs:cid>282623</xocs:cid>
+         <xocs:timestamp>2020-11-23T13:38:36.149014Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-07-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-07-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S2095254618300723-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095254618300723/MAIN/application/pdf/1e630c60d33212be10796417139337f4/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>415022</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S2095254618300723-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095254618300723/PREVIEW/image/png/f937042f229b973033ac2994c9e47e60/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59734</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095254618300723-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S2095254618300723/STRIPIN/image/gif/01273a819317baa8a5956a66b5550016/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>965</xocs:filesize>
+               <xocs:pixel-height>21</xocs:pixel-height>
+               <xocs:pixel-width>19</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S2095254618300723-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:107VL1STDLD/MAIN/application/pdf/8b7a355d57af37bc2b53ec70bdc7ff32/am.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:107VL1STDLD/MAIN/application/pdf/8b7a355d57af37bc2b53ec70bdc7ff32/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>157872</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.5" xml:lang="en">
+         <item-info>
+            <jid>JSHS</jid>
+            <aid>474</aid>
+            <ce:pii>S2095-2546(18)30072-3</ce:pii>
+            <ce:doi>10.1016/j.jshs.2018.08.006</ce:doi>
+            <ce:copyright type="unknown" year="2020"/>
+         </item-info>
+         <ce:floats>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara0005" view="all">Descriptive statistics for AIQ scales for AA, FA, and NA by gender.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Table 1</ce:alt-text>
+               <tgroup cols="7">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <colspec colnum="3" colname="col3" align="left"/>
+                  <colspec colnum="4" colname="col4" align="left"/>
+                  <colspec colnum="5" colname="col5" align="left"/>
+                  <colspec colnum="6" colname="col6" align="left"/>
+                  <colspec colnum="7" colname="col7" align="left"/>
+                  <thead>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0001" colname="col1" valign="top"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0002" align="center" namest="col2" nameend="col3" valign="top" rowsep="1">AA (<italic>n</italic> = 122)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0003" align="center" namest="col4" nameend="col5" valign="top" rowsep="1">FA (<italic>n</italic> = 230)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0004" align="center" namest="col6" nameend="col7" valign="top" rowsep="1">NA (<italic>n</italic> = 74)</entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0005" colname="col1" valign="top"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0006" colname="col2" valign="top">Women</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0007" colname="col3" valign="top">Men</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0008" colname="col4" valign="top">Women</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0009" colname="col5" valign="top">Men</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0010" colname="col6" valign="top">Women</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0011" colname="col7" valign="top">Men</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0012" colname="col1" role="rowhead" valign="top">Appearance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0013" colname="col2" valign="top">26.93 ± 2.81</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0014" colname="col3" valign="top">26.39 ± 2.79</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0015" colname="col4" valign="top">24.35 ± 4.34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0016" colname="col5" valign="top">23.34 ± 5.43</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0017" colname="col6" align="char" char="±" valign="top">21.96 ± 4.71</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0018" colname="col7" valign="top">25.00 ± 3.84<cross-ref id="crf0071" refid="tb1fn1">*</cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0019" colname="col1" role="rowhead" valign="top">Competence</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0020" colname="col2" valign="top">21.93 ± 2.41</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0021" colname="col3" valign="top">21.80 ± 2.72</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0022" colname="col4" valign="top">21.65 ± 2.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0023" colname="col5" valign="top">22.26 ± 2.71</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0024" colname="col6" align="char" char="±" valign="top">19.2 ± 4.05</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0025" colname="col7" valign="top">21.27 ± 3.92</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0026" colname="col1" role="rowhead" valign="top">Importance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0027" colname="col2" valign="top">24.62 ± 3.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0028" colname="col3" valign="top">24.49 ± 2.82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0029" colname="col4" valign="top">20.33 ± 5.24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0030" colname="col5" valign="top">20.97 ± 5.76</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0031" colname="col6" align="char" char="±" valign="top">22.11 ± 4.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0032" colname="col7" valign="top">21.93 ± 5.47</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0033" colname="col1" role="rowhead" valign="top">Total AIQ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0034" colname="col2" valign="top">73.49 ± 5.91</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0035" colname="col3" valign="top">72.69 ± 5.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0036" colname="col4" valign="top">66.33 ± 9.94</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0037" colname="col5" valign="top">66.56 ± 12.22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0038" colname="col6" align="char" char="±" valign="top">63.27 ± 10.92</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0039" colname="col7" valign="top">68.20 ± 10.94<cross-ref id="crf0072" refid="tb1fn1">*</cross-ref>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tb1fn1">
+                  <ce:label>⁎</ce:label>
+                  <ce:note-para id="notep0001" view="all">Significant difference between women and men in NA group (<ce:italic>p</ce:italic> &lt; 0.05).</ce:note-para>
+                  <ce:note-para id="notep0002" view="all">Abbreviations: AA = actual athletes; AIQ = Athlete Identity Questionnaire; FA = former athletes; NA = nonathletes.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0002" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0002">
+                  <ce:simple-para id="spara0006" view="all">Former athletes Athlete Identity Questionnaire scores comparisons between competition levels (mean ± SD).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0002" role="short">Table 2</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <colspec colnum="3" colname="col3" align="left"/>
+                  <colspec colnum="4" colname="col4" align="left"/>
+                  <colspec colnum="5" colname="col5" align="left"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0040" colname="col1" valign="top"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0041" colname="col2" valign="top">Provincial (<italic>n</italic> = 18)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0042" colname="col3" valign="top">National (<italic>n</italic> = 120)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0043" colname="col4" valign="top">International (<italic>n</italic> = 65)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0044" colname="col5" valign="top">Professional (<italic>n</italic> = 27)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0045" colname="col1" role="rowhead" valign="top">Appearance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0046" colname="col2" valign="top">23.97 ± 4.89</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0047" colname="col3" valign="top">24.41 ± 4.55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0048" colname="col4" valign="top">25.56 ± 4.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0049" colname="col5" valign="top">25.78 ± 4.42</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0050" colname="col1" role="rowhead" valign="top">Competence</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0051" colname="col2" valign="top">21.44 ± 2.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0052" colname="col3" valign="top">21.93 ± 2.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0053" colname="col4" valign="top">21.87 ± 2.83</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0054" colname="col5" valign="top">22.70 ± 2.32</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0055" colname="col1" role="rowhead" valign="top">Importance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0056" colname="col2" valign="top">22.31 ± 4.83</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0057" colname="col3" valign="top">21.81 ± 4.97</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0058" colname="col4" valign="top">22.11 ± 5.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0059" colname="col5" valign="top">22.59 ± 5.94</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0060" colname="col1" role="rowhead" valign="top">Total AIQ</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0061" colname="col2" valign="top">61.56 ± 10.17</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0062" colname="col3" valign="top">66.43 ± 11.31</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0063" colname="col4" valign="top">66.24 ± 10.70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0064" colname="col5" valign="top">69.89 ± 12.25</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0003" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0003">
+                  <ce:simple-para id="spara0008" view="all">Physical activity and nutritional index comparison between AA, FA, and NA, while controlling for age (mean ± SD).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0003" role="short">Table 3</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <colspec colnum="3" colname="col3" align="left"/>
+                  <colspec colnum="4" colname="col4" align="left"/>
+                  <colspec colnum="5" colname="col5" align="left"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0065" colname="col1" valign="top"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0066" colname="col2" valign="top">AA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0067" colname="col3" valign="top">FA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0068" colname="col4" valign="top">NA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0069" colname="col5" valign="top">
+                           <italic>F</italic>(2, 423)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0070" colname="col1" role="rowhead" valign="top">Active transportation (h/week)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0071" colname="col2" valign="top" align="char" char="±">2.15 ± 2.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0072" colname="col3" valign="top" align="char" char="±">2.67 ± 2.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0073" colname="col4" valign="top" align="char" char="±">1.95 ± 1.80</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0074" colname="col5" valign="top">1.82</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0075" colname="col1" role="rowhead" valign="top">HIPA (h/week)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0076" colname="col2" valign="top" align="char" char="±">7.40 ± 8.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0077" colname="col3" valign="top" align="char" char="±">3.09 ± 2.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0078" colname="col4" valign="top" align="char" char="±">2.59 ± 2.52</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0079" colname="col5" valign="top">30.30<cross-ref id="crf0073" refid="tb3fn1">
+                              <sup loc="post">⁎⁎</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0080" colname="col1" role="rowhead" valign="top">MIPA (h/week)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0081" colname="col2" valign="top" align="char" char="±">2.67 ± 3.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0082" colname="col3" valign="top" align="char" char="±">1.84 ± 1.96</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0083" colname="col4" valign="top" align="char" char="±">1.61 ± 1.43</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0084" colname="col5" valign="top">5.47<cross-ref id="crf0074" refid="tb3fn1">
+                              <sup loc="post">⁎⁎</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0085" colname="col1" role="rowhead" valign="top">Inactivity (h/week)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0086" colname="col2" valign="top" align="char" char="±">4.81 ± 2.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0087" colname="col3" valign="top" align="char" char="±">5.23 ± 2.64</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0088" colname="col4" valign="top" align="char" char="±">5.25 ± 2.49</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0089" colname="col5" valign="top">1.09</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0090" colname="col1" role="rowhead" valign="top">Nutritional index</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0091" colname="col2" valign="top" align="char" char="±">44.48 ± 10.45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0092" colname="col3" valign="top" align="char" char="±">40.97 ± 7.86</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0093" colname="col4" valign="top" align="char" char="±">41.92 ± 7.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0094" colname="col5" valign="top">5.12<cross-ref id="crf0075" refid="tb3fn1">
+                              <sup loc="post">⁎⁎</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tb3fn1">
+                  <ce:label>⁎⁎</ce:label>
+                  <ce:note-para id="notep0004" view="all">
+                     <ce:italic>p</ce:italic> &lt; 0.01.</ce:note-para>
+                  <ce:note-para id="notep0005" view="all">Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity physical activity; MIPA = moderate-intensity physical activity; NA = nonathletes.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0004" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="cap0004">
+                  <ce:simple-para id="spara0009" view="all">Correlation between behavioral variables and AIQ scales for all 3 groups combined.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0004" role="short">Table 4</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="char" char="."/>
+                  <colspec colnum="3" colname="col3" align="char" char="."/>
+                  <colspec colnum="4" colname="col4" align="char" char="."/>
+                  <colspec colnum="5" colname="col5" align="char" char="."/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0095" colname="col1" valign="top"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0096" colname="col2" valign="top">Appearance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0097" colname="col3" valign="top">Competence</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0098" colname="col4" valign="top">Importance</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0099" colname="col5" valign="top">Total AIQ</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0100" colname="col1" role="rowhead" valign="top">Active transportation (h/week)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0101" colname="col2" valign="top">−0.059</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0102" colname="col3" valign="top">−0.070</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0103" colname="col4" valign="top">−0.194**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0104" colname="col5" valign="top">−0.138*</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0105" colname="col1" role="rowhead" valign="top">HIPA (h/week)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0106" colname="col2" valign="top">0.297**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0107" colname="col3" valign="top">0.218**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0108" colname="col4" valign="top">0.430**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0109" colname="col5" valign="top">0.413**</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0110" colname="col1" role="rowhead" valign="top">MIPA (h/week)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0111" colname="col2" valign="top">0.219**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0112" colname="col3" valign="top">0.147*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0113" colname="col4" valign="top">0.196**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0114" colname="col5" valign="top">0.237**</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0115" colname="col1" role="rowhead" valign="top">Inactivity (h/week)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0116" colname="col2" valign="top">−0.170**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0117" colname="col3" valign="top">−0.061</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0118" colname="col4" valign="top">−0.039</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0119" colname="col5" valign="top">−0.113*</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0120" colname="col1" role="rowhead" valign="top">Nutritional index</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0121" colname="col2" valign="top">0.283**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0122" colname="col3" valign="top">0.115*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0123" colname="col4" valign="top">0.323**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0124" colname="col5" valign="top">0.315**</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp17" view="all">* <ce:italic>p</ce:italic> &lt; 0.05, ** <ce:italic>p</ce:italic> &lt; 0.01.</ce:simple-para>
+                  <ce:simple-para id="sp18" view="all">Abbreviations: AIQ = Athlete Identity Questionnaire; HIPA = high-intensity physical activity; MIPA = moderate-intensity physical activity.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0005" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 5</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="spara0010" view="all">
+                     <ce:italic>R</ce:italic>
+                     <ce:sup loc="post">2</ce:sup> for multiple linear regressions of lifestyle variables on the <ce:italic>appearance, competence</ce:italic>, and <ce:italic>importance</ce:italic> scales.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0005" role="short">Table 5</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <colspec colnum="3" colname="col3" align="left"/>
+                  <colspec colnum="4" colname="col4" align="left"/>
+                  <colspec colnum="5" colname="col5" align="left"/>
+                  <colspec colnum="6" colname="col6" align="left"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0125" colname="col1" valign="top"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0126" colname="col2" valign="top">Active transportation</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0127" colname="col3" valign="top">HIPA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0128" colname="col4" valign="top">MIPA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0129" colname="col5" valign="top">Inactivity</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0130" colname="col6" valign="top">Nutritional index</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0131" colname="col1" role="rowhead" valign="top">AA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0132" colname="col2" valign="top">0.148*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0133" colname="col3" valign="top">0.039</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0134" colname="col4" valign="top">0.065</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0135" colname="col5" valign="top">0.034</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0136" colname="col6" valign="top">0.094**</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0137" colname="col1" role="rowhead" valign="top">FA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0138" colname="col2" valign="top">0.080*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0139" colname="col3" valign="top">0.195**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0140" colname="col4" valign="top">0.071*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0141" colname="col5" valign="top">0.062**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0142" colname="col6" valign="top">0.137**</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0143" colname="col1" role="rowhead" valign="top">NA</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0144" colname="col2" valign="top">0.276*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0145" colname="col3" valign="top">0.406**</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0146" colname="col4" valign="top">0.251*</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0147" colname="col5" valign="top">0.071</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0148" colname="col6" valign="top">0.093</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp14" view="all">* <ce:italic>p</ce:italic> &lt; 0.05, ** <ce:italic>p</ce:italic> &lt; 0.01.</ce:simple-para>
+                  <ce:simple-para id="sp19" view="all">Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity physical activity; MIPA = moderate-intensity physical activity; NA= nonathletes.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:article-footnote>
+               <ce:note-para id="np1" view="all">Peer review under responsibility of Shanghai University of Sport.</ce:note-para>
+            </ce:article-footnote>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Original article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Former athletes’ lifestyle and self-definition changes after retirement from sports</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S2095254618300723-6c7e4fed3ee617428ed43dd4f0884bca">
+                  <ce:given-name>Pierre-Luc</ce:given-name>
+                  <ce:surname>Yao</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0001a" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0002" author-id="S2095254618300723-1752feafa5959f2b54b0bd015b203902">
+                  <ce:given-name>Louis</ce:given-name>
+                  <ce:surname>Laurencelle</ce:surname>
+                  <ce:cross-ref id="crf0002" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0003" author-id="S2095254618300723-46e4a4d739726904048d8d1dce99097f">
+                  <ce:given-name>François</ce:given-name>
+                  <ce:surname>Trudeau</ce:surname>
+                  <ce:cross-ref id="crf0003" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0004" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S2095254618300723-7188ae6a45cc2f30a71fd86f5c79ca42">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">Department of Human Kinetics, Université du Québec à Trois-Rivières, Trois-Rivières, Québec 999040, Canada</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Human Kinetics and Psychology</sa:organization>
+                     <sa:organization>Université du Québec à Trois-Rivières</sa:organization>
+                     <sa:city>Trois-Rivières</sa:city>
+                     <sa:state>Québec</sa:state>
+                     <sa:postal-code>999040</sa:postal-code>
+                     <sa:country>Canada</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S2095254618300723-6e14e18d4a999c3c67291c839ad28b6f">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">Department of Psychology, Université du Québec à Trois-Rivières, Trois-Rivières, Québec 999040, Canada</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Human Kinetics</sa:organization>
+                     <sa:organization>Université du Québec à Trois-Rivières</sa:organization>
+                     <sa:city>Trois-Rivières</sa:city>
+                     <sa:state>Québec</sa:state>
+                     <sa:postal-code>999040</sa:postal-code>
+                     <sa:country>Canada</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="30" month="12" year="2017"/>
+            <ce:date-revised day="29" month="3" year="2018"/>
+            <ce:date-accepted day="13" month="4" year="2018"/>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" role="background" view="all">
+                  <ce:section-title id="cesectitle0002">Background</ce:section-title>
+                  <ce:simple-para id="spara0001" view="all">Every high-level athlete will eventually see his or her sport career come to an end. Most former athletes will experience changes in their self-definition and everyday behaviors as they accept a nonathletic way of life. The present study aimed to identify discrepancies between actual and former athletes regarding athletic identity, physical activity (PA), and nutrition habits.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abss0002" role="materials-methods" view="all">
+                  <ce:section-title id="cesectitle0003">Methods</ce:section-title>
+                  <ce:simple-para id="spara0002" view="all">Actual athletes (AA; <ce:italic>n</ce:italic> = 122), former athletes (FA; <ce:italic>n</ce:italic> = 230), and nonathletes (NA; <ce:italic>n</ce:italic> = 74) were asked to complete an online questionnaire on athletic identity, duration and intensity levels of occupational and leisure time PA, and nutritional habits.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abss0003" role="results" view="all">
+                  <ce:section-title id="cesectitle0004">Results</ce:section-title>
+                  <ce:simple-para id="spara0003" view="all">FA healthy nutrition score was the lowest of the 3 groups and significantly different from that of AA. Athletic identity and intense and moderate PA during leisure time consistently decreased (<ce:italic>p</ce:italic> &lt; 0.01) across the 3 groups (AA &gt; FA &gt; NA). No significant difference between FA and NA was found regarding either nutritional habits or type of PA.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abss0004" role="conclusion" view="all">
+                  <ce:section-title id="cesectitle0005">Conclusion</ce:section-title>
+                  <ce:simple-para id="spara0004" view="all">Sport retirement may affect FA quality of nutritional habits that tends to decline below the NA level, as well as the amount of time spent practicing physical activities during leisure time. Athletic status does not ensure PA practice during sport postcareer.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0006">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0002">Athletic identity</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0003">Nutrition</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0004">Physical activity</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0005">Sport retirement</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec0001" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="cesectitle0007">Introduction</ce:section-title>
+                  <ce:para id="para0005" view="all">Eventually, every athlete will see his or her career in sport come to an end and will have to enter a transition period. This transition can be defined as the process through which the athlete retires from his or her competitive and regulated sport environment. Athletes form a particular population<ce:cross-refs id="crf0005" refid="bib0001 bib0002">
+                        <ce:sup loc="post">1,2</ce:sup>
+                     </ce:cross-refs> and athletic retirement is in itself different from other types of professional retirement. Athletes play a unique role in society and have a unique identity, and these characteristics change dramatically when the end of a career comes earlier than expected or is forced on the athlete. One of the essential concepts of the sport retirement transition model is athletic identity, which is defined as the degree to which an individual identifies with the athlete's role.<ce:cross-ref id="crf0007" refid="bib0003">
+                        <ce:sup loc="post">3</ce:sup>
+                     </ce:cross-ref> For more than 2 decades, researchers have included athletic identity as a conceptual compass to assess the impacts of sport retirement on the athletic community.<ce:cross-ref id="crf0008" refid="bib0004">
+                        <ce:sup loc="post">4</ce:sup>
+                     </ce:cross-ref> This self-defined identification with the athletic role is associated with multiple individual behaviors. Physical activity (PA) is a behavior that is consistent with the athletic role,<ce:cross-ref id="crf0009" refid="bib0001">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> and both of these concepts have been shown in the literature to have a positive relationship with each other,<ce:cross-refs id="crf0010" refid="bib0001 bib0002">
+                        <ce:sup loc="post">1,2</ce:sup>
+                     </ce:cross-refs>
+                     <ce:sup loc="post">,</ce:sup>
+                     <ce:cross-refs id="crf0012" refid="bib0004 bib0005">
+                        <ce:sup loc="post">4,5</ce:sup>
+                     </ce:cross-refs> that is, a strong athletic identity is logically related to a strong engagement in PA.<ce:cross-ref id="crf0014" refid="bib0001">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> To our knowledge, the literature on PA as it relates to sport retirement is fairly recent.<ce:cross-ref id="crf0015" refid="bib0001">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">,</ce:sup>
+                     <ce:cross-refs id="crf0016" refid="bib0006 bib0007 bib0008">
+                        <ce:sup loc="post">6–8</ce:sup>
+                     </ce:cross-refs> A first converging result in the literature was a higher level of PA in actual athletes (AA) than in former athletes (FA), and nonathletes (NA),<ce:cross-ref id="crf0018" refid="bib0001">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref>
+                     <ce:sup loc="post">,</ce:sup>
+                     <ce:cross-refs id="crf0019" refid="bib0006 bib0007 bib0008">
+                        <ce:sup loc="post">6–8</ce:sup>
+                     </ce:cross-refs> whereas in FAs it was either observed higher<ce:cross-ref id="crf0021" refid="bib0001">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> or similar <ce:cross-ref id="crf0022" refid="bib0007">
+                        <ce:sup loc="post">7</ce:sup>
+                     </ce:cross-ref> PA level than in nonathletes.</ce:para>
+                  <ce:para id="para0006" view="all">Retirement from sports has been conceptualized as a role transition through which athletes disengage from some activities and relationships to seek others.<ce:cross-ref id="crf0023" refid="bib0009">
+                        <ce:sup loc="post">9</ce:sup>
+                     </ce:cross-ref> When it comes to the sport retirement process, modifications concerning PA can be of a positive or negative nature. Early on, it was empirically demonstrated that specific coping strategies, such as continuing to train and exercise, are positively correlated with adjustment to retirement from sport.<ce:cross-ref id="crf0024" refid="bib0010">
+                        <ce:sup loc="post">10</ce:sup>
+                     </ce:cross-ref> Athletes who still practice their sport a few months after retirement with the purpose of maintaining physical health tend to have a healthier transitions.<ce:cross-ref id="crf0025" refid="bib0011">
+                        <ce:sup loc="post">11</ce:sup>
+                     </ce:cross-ref> According to Witkowski and Spangenburg,<ce:cross-ref id="crf0026" refid="bib0012">
+                        <ce:sup loc="post">12</ce:sup>
+                     </ce:cross-ref> if former athletes hope to remain in a state that is advantageous to prevent chronic diseases, they must refrain from being inactive and continue to exercise, albeit at a potentially lower level. FA who keep training are still at an advantage owing to their somewhat higher level of PA; conversely, those who stop all forms of PA develop the same, if not greater, risk for a number of chronic diseases as people who have been mostly inactive all their lives.<ce:cross-ref id="crf0027" refid="bib0013">
+                        <ce:sup loc="post">13</ce:sup>
+                     </ce:cross-ref> Kujala et al.<ce:cross-ref id="crf0028" refid="bib0014">
+                        <ce:sup loc="post">14</ce:sup>
+                     </ce:cross-ref> also found that self-rated health later in life was better in FA than in their control counterparts. In contrast, a recent study by Sorenson et al.<ce:cross-ref id="crf0029" refid="bib0007">
+                        <ce:sup loc="post">7</ce:sup>
+                     </ce:cross-ref> found that the amount of weekly exercise carried out by FA and NA was similar after college graduation, and that their level of exercise did not differ later in life.</ce:para>
+                  <ce:para id="para0007" view="all">Although regular PA after retirement has potentially beneficial and protective effects for FA, it is not the only behavioral factor that should be considered when examining career sport transition. Lynch et al.,<ce:cross-ref id="crf0030" refid="bib0015">
+                        <ce:sup loc="post">15</ce:sup>
+                     </ce:cross-ref> in their study of former football players’ chronic risk factors, did not include habits such as dietary habits or alcohol consumption, but did mention that these elements could have influenced the metabolism and body composition of the participants. Fogelholm et al.<ce:cross-ref id="crf0031" refid="bib0016">
+                        <ce:sup loc="post">16</ce:sup>
+                     </ce:cross-ref> found that former Finnish power sport and mixed sport athletes were more likely to have a heathier lifestyle than the NA group. Until now, very few empirical studies on sport retirement have included nutritional habits in their exploration of the sports retirement process. Even fewer studies have combined nutrition, PA, and athletic identity in seeking to understand how the end of their sport career affects athletes.</ce:para>
+                  <ce:para id="para0008" view="all">The main objective of this study was to better understand the impacts of sport status of 3 groups—AA, FA, and NA, who served as a reference group with no athletic experience—on athletic identity and postcareer health-related lifestyle behaviors. These behaviors included the practice of PA and nutritional habits in relation to gender-related and sport career-related variables such as level of competition and collective sport versus individual sport. The second objective was to examine and compare the relationships between lifestyle behaviors and athletic identity across different sport statuses before and during sport career transition using a quantitative approach to help measure the degree of association of sports variables such as competition level and some demographic variables.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" role="materials-methods" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="cesectitle0008">Methods</ce:section-title>
+                  <ce:para id="para0009" view="all">To fulfill the main research objective, an online survey was administered to participants. All participants completed the Global Physical Activity Questionnaire (GPAQ), the Athletic Identity Questionnaire (AIQ), demographic questions and 9 nutritional behavior questions, which were combined into a unique nutritional score for each participant.</ce:para>
+                  <ce:section id="sec0003" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="cesectitle0009">Participants</ce:section-title>
+                     <ce:para id="para0010" view="all">The sample consisted of 426 participants, which included 224 women (26.89 ± 7.49 years) and 202 men (28.89 ± 8.88 years). Principal work statuses were student (49.4%), working full time (35.1%), working part time (5.9%), and self-employed (6.9%). The remaining 2.7% included stay-at-home mothers, unemployed or inactive individuals. The highest academic degree obtained by participants was either high school (9.9%), Collège en enseignement général et professionel (Quebec preuniversity or precollege) (27.4%), bachelor (43.0%), master (13.7%), or doctorate (6.0%). Participants were identified as belonging to 1 of 3 groups—AA (<ce:italic>n</ce:italic> = 122), FA (<ce:italic>n</ce:italic> = 230), or NA (<ce:italic>n</ce:italic> = 74). AA were individuals currently involved in a high-level sport career for at least 5 years at the time of the study. FA were individuals who had spent at least 5 years competing in a high-level sport but had definitively ended their sporting careers. NA had never been involved in a high-level sport career. AA and FA were competing or had competed at the provincial (10.7%), national (50.1%), international (29.1%), or professional (10.1%) level at their highest level of competition. High-level sports included soccer, basketball, football, hockey, track and field, volleyball, figure skating, diving, tennis, swimming, and alpine skiing.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0004" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="cesectitle0010">Measures</ce:section-title>
+                     <ce:section id="sec0005" view="all">
+                        <ce:label>2.2.1</ce:label>
+                        <ce:section-title id="cesectitle0011">AIQ</ce:section-title>
+                        <ce:para id="para0011" view="all">Athletic identity was measured using the French version of the AIQ,<ce:cross-refs id="crf0032" refid="bib0005 bib0017">
+                              <ce:sup loc="post">5,17</ce:sup>
+                           </ce:cross-refs> a 21-item Likert scale questionnaire that measures the degree of a participant's association with the role of athlete, with responses ranging from 1 (<ce:italic>does not describe me at all</ce:italic>) to 5 (<ce:italic>describes me very well</ce:italic>). It is associated with 3 previously validated French scales: physical appearance, competence in sports, and importance of sports and PA.<ce:cross-ref id="crf0034" refid="bib0017">
+                              <ce:sup loc="post">17</ce:sup>
+                           </ce:cross-ref> A high score on these scales is associated with strong identification with the athletic role. Internal consistency for the 3 scales ranged from 0.827 to 0.913, and the present study confirmed good reliability, with Cronbach α values ranging from 0.749 to 0.906. The choice of this instrument was based on literature showing that the AIQ's 4 scales (including a social support scale) are significantly and positively correlated with the Stage of Exercise Adoption<ce:cross-ref id="crf0035" refid="bib0005">
+                              <ce:sup loc="post">5</ce:sup>
+                           </ce:cross-ref> and Brewer's Athletic Identity Measurement Scale.<ce:cross-ref id="crf0036" refid="bib0017">
+                              <ce:sup loc="post">17</ce:sup>
+                           </ce:cross-ref>
+                        </ce:para>
+                     </ce:section>
+                     <ce:section id="sec0006" view="all">
+                        <ce:label>2.2.2</ce:label>
+                        <ce:section-title id="cesectitle0012">GPAQ</ce:section-title>
+                        <ce:para id="para0012" view="all">The GPAQ measures PA with regard to duration, frequency, intensity, and context (work, transport, and leisure time)<ce:cross-refs id="crf0037" refid="bib0018 bib0019">
+                              <ce:sup loc="post">18,19</ce:sup>
+                           </ce:cross-refs> and is comparable with the International Physical Activity Questionnaire (IPAQ) in terms of reliability and validity.<ce:cross-ref id="crf0039" refid="bib0018">
+                              <ce:sup loc="post">18</ce:sup>
+                           </ce:cross-ref> The main outcome variables from the GPAQ used in this study were high-intensity physical activity (HIPA), moderate-intensity physical activity (MIPA), active transportation, and inactivity, which refers to time spent sitting or lying down, excluding sleep. Each of those continuous variables was expressed in minutes per week and used to compare groups among them. Groups were also compared with the general Canadian population using the 2013 American College of Sports Medicine (ACSM)<ce:cross-ref id="crf0039a" refid="bib0020">
+                              <ce:sup loc="post">20</ce:sup>
+                           </ce:cross-ref> guidelines for recommended weekly PA.</ce:para>
+                     </ce:section>
+                     <ce:section id="sec0007" view="all">
+                        <ce:label>2.2.3</ce:label>
+                        <ce:section-title id="cesectitle0013">Nutritional index</ce:section-title>
+                        <ce:para id="para0013" view="all">A measure of nutritional habits was obtained using part of a combined questionnaire based on Canadian Community Health Survey Cycle 2.2 and the Quebec Health and Social Survey.<ce:cross-ref id="crf0040" refid="bib0021">
+                              <ce:sup loc="post">21</ce:sup>
+                           </ce:cross-ref> Questions on eating habits included ones about consumption frequency of fruits, vegetables, alcohol, soft drinks, homemade food, and takeout food, as well as breakfast variety. A high score on this scale was associated with a healthy nutritional lifestyle using different questions on distinct eating behaviors that added together. Our nutritional index was obtained using a principal component analysis on nutrition indicators. The first vector explained 27% of the variance, and the Cronbach α for the 9-item nutritional index was 0.625. Considering the multifaceted structure of nutritional behavior scales, internal consistency tends to be lower than other psychometric aggregates, and our α repeated those of previously published nutritional questionnaires.<ce:cross-ref id="crf0041" refid="bib0022">
+                              <ce:sup loc="post">22</ce:sup>
+                           </ce:cross-ref> The 9 items were weighted using their principal component analysis loading. Using the Canadian Food Guide,<ce:cross-ref id="crf0042" refid="bib0023">
+                              <ce:sup loc="post">23</ce:sup>
+                           </ce:cross-ref> a recommended value was determined for each item and then weight-summed to obtain a criterion nutritional score. Participants with a score of greater than 46.07 were considered to have dietary habits at or above the recommended level.</ce:para>
+                        <ce:para id="para0014" view="all">Descriptive variables included sport status (AA, FA, NA), type of sport (collective <ce:italic>vs.</ce:italic> individual), and current and past level of competition. Other descriptive questions involved age, gender, professional occupation, marital status, and level of education.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="sec0008" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="cesectitle0014">Procedures</ce:section-title>
+                     <ce:para id="para0015" view="all">AA and FA were recruited via email with the collaboration of departments of physical activities and sport from 5 Québec universities and the Fondation de l'athlète d'excellence du Québec, a nonprofit entity that financially supports AA and maintains a network of scholarship FA in Québec. NA were recruited from university campuses via student email lists of all academic departments. The email also contained the intranet link to the electronic questionnaire. Follow-ups were made 2, 4, and 6 weeks after the initial solicitation. This study was approved by the Institutional Ethics Committee of Université du Québec à Trois-Rivières. All participants provided informed consent electronically before participating in the study.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0009" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="cesectitle0015">Statistical analysis</ce:section-title>
+                     <ce:para id="para0016" view="all">Data analysis involved one-way analyses of covariance (ANCOVAs) to compare our 3 groups, controlling for age differences among participants. Since group sizes were unequal, an unweighted (“harmonic <ce:italic>N</ce:italic>”) solution was used throughout. Monotonicity analysis<ce:cross-refs id="crf0043" refid="bib0024 bib0025">
+                           <ce:sup loc="post">24,25</ce:sup>
+                        </ce:cross-refs> (<mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:msup>
+                              <mml:mover accent="true">
+                                 <mml:mi>E</mml:mi>
+                                 <mml:mo>¯</mml:mo>
+                              </mml:mover>
+                              <mml:mn>2</mml:mn>
+                           </mml:msup>
+                        </mml:math>) helped to assess the consistent decrease (or increase) across our ordered groups for each measured variable. Groups were also compared relative to their correlation levels using Fisher's <ce:italic>Z</ce:italic> transformation. Pearson correlations followed by simultaneous multiple linear regressions were used to measure relationships between athletic identity scales and lifestyle variables. The asymmetrical distributions of all lifestyle variables were adjusted for normality using a log transformation before all analyses. Cronbach α followed by principal component analysis helped to determine the composition and reliability of the nutritional index composite score. Tests on proportions were computed to compare groups among them concerning weekly PA and global nutritional index criterions. This method was also used to assess whether groups differ from the general population when using ACSM recommended weekly PA guidelines.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0010" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="cesectitle0016">Results</ce:section-title>
+                  <ce:section id="sec0011" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="cesectitle0017">Impacts of sport status on athletic identity and lifestyle</ce:section-title>
+                     <ce:section id="sec0012" view="all">
+                        <ce:label>3.1.1</ce:label>
+                        <ce:section-title id="cesectitle0018">Athletic identity</ce:section-title>
+                        <ce:para id="para0017" view="all">
+                           <ce:cross-ref id="crf0045" refid="tbl0001">Table 1</ce:cross-ref>
+                           <ce:float-anchor refid="tbl0001"/> shows the average AIQ scores across the 3 measured groups. ANCOVA with age as a covariate showed significant differences between groups for perceived appearance (<ce:italic>F</ce:italic>(2, 423) = 24.32, <ce:italic>p</ce:italic> &lt; 0.01), competence (<ce:italic>F</ce:italic>(2, 423) = 4.87, <ce:italic>p</ce:italic> &lt; 0.01), importance related to sport and exercise (<ce:italic>F</ce:italic>(2, 423) = 17.15, <ce:italic>p</ce:italic> &lt; 0.01), and for total AIQ score (<ce:italic>F</ce:italic>(2, 423) = 17.74, <ce:italic>p</ce:italic> &lt; 0.01). Tukey's honest significant difference test showed that AA had a significantly (<ce:italic>p</ce:italic> &lt; 0.01) higher general athletic identity score than FA and NA.</ce:para>
+                        <ce:para id="para0018" view="all">FA scored higher than the NA only on the competence scale (<ce:italic>p</ce:italic> &lt; 0.01). Monotonic decrease was significant across the 3 groups for the appearance (<mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:msup>
+                                 <mml:mover accent="true">
+                                    <mml:mi>E</mml:mi>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msup>
+                           </mml:math> (3, 421) = 0.105, <ce:italic>p</ce:italic> &lt; 0.01) and competence (<mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:msup>
+                                 <mml:mover accent="true">
+                                    <mml:mi>E</mml:mi>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msup>
+                           </mml:math> (3, 421) = 0.023, <ce:italic>p</ce:italic> &lt; 0.05) scales and for total AIQ (<mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:msup>
+                                 <mml:mover accent="true">
+                                    <mml:mi>E</mml:mi>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msup>
+                           </mml:math> (3, 421) = 0.126, <ce:italic>p</ce:italic> &lt; 0.01). No differences in athletic identity were found between genders for AA and FA. Differences between genders were found in the NA group; the appearance scale (<ce:italic>t</ce:italic>(72) = 2.260, <ce:italic>p</ce:italic> &lt; 0.05) and total AIQ (<ce:italic>t</ce:italic>(72) = 2.001, <ce:italic>p</ce:italic> &lt; 0.05) favored men. Some discrepancies concerning individual and collective sports were also found when comparing groups. Regarding athletic identity, AA in individual sports reported higher importance scores than AA from collective sports (<ce:italic>t</ce:italic>(120) = 2.972, <ce:italic>p</ce:italic> &lt; 0.01). However, this difference was not found in the FA group (<ce:italic>t</ce:italic>(228) = –0.714, <ce:italic>p</ce:italic> &gt; 0.05). General athletic identity was significantly higher (<ce:italic>t</ce:italic>(120) = 2.126, <ce:italic>p</ce:italic> &lt; 0.05) for AA who participated in individual sports compared with their collective sport counterparts.</ce:para>
+                        <ce:para id="para0019" view="all">Athletic identity differences between the 4 sport competition levels for the FA group are shown in <ce:cross-ref id="crf0046" refid="tbl0002">Table 2</ce:cross-ref>
+                           <ce:float-anchor refid="tbl0002"/>. Perceived appearance was the only scale that differed among groups (<ce:italic>p</ce:italic> &lt; 0.05). The Tukey's honest significant difference criterion identified the difference between the provincial and professional status as significant (<ce:italic>p</ce:italic> &lt; 0.05). Former professional athletes had the highest scores for the appearance, competence, and importance scales and for total AIQ. Significant monotonic decrease was observed across the groups for the appearance (<mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:msup>
+                                 <mml:mover accent="true">
+                                    <mml:mi>E</mml:mi>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msup>
+                           </mml:math> (3, 421) = 0.087, <ce:italic>p</ce:italic> &lt; 0.01) and total AIQ (<mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:msup>
+                                 <mml:mover accent="true">
+                                    <mml:mi>E</mml:mi>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msup>
+                           </mml:math> (3, 421) = 0.047, <ce:italic>p</ce:italic> &lt; 0.01) scales, with a tendency to increase toward the former professional athlete status.</ce:para>
+                     </ce:section>
+                     <ce:section id="sec0013" view="all">
+                        <ce:label>3.1.2</ce:label>
+                        <ce:section-title id="cesectitle0019">PA</ce:section-title>
+                        <ce:para id="para0020" view="all">The recommended guidelines from the American College of Sports Medicine<ce:cross-ref id="crf0047a" refid="bib0020">
+                              <ce:sup loc="post">20</ce:sup>
+                           </ce:cross-ref> are 150 min/week of MIPA or 60 min/week of HIPA. In the Canadian population, 22% of people between 18 and 79 years of age had PA levels above the recommended guidelines.<ce:cross-ref id="crf0047" refid="bib0026">
+                              <ce:sup loc="post">26</ce:sup>
+                           </ce:cross-ref> In the current sample, 14.47% of FA did meet the weekly PA recommendation, a score that does not differ significantly from the general population according to the <ce:italic>Z</ce:italic> test on 2 proportions (<ce:italic>z</ce:italic> = –0.984, <ce:italic>p</ce:italic> &gt; 0.05). As for the NA, 24.66% did meet the recommendations, which is not statistically different from the general population (<ce:italic>z</ce:italic> = 0.549, <ce:italic>p</ce:italic> &gt; 0.05). AA met the recommendation in a proportion of 87.29%, which was significantly higher than the general population (<ce:italic>z</ce:italic> = 16.53, <ce:italic>p</ce:italic> &lt; 0.001), FA (<ce:italic>z</ce:italic> = 18.13, <ce:italic>p</ce:italic> &lt; 0.001), and NA (<ce:italic>z</ce:italic> = 10.92, <ce:italic>p</ce:italic> &lt; 0.001). Some particularities emerged for the PA variables when controlling for age difference between groups. ANCOVA showed a significant difference (<ce:italic>p</ce:italic> &lt; 0.01) when comparing groups for HIPA practice (<ce:cross-ref id="crf0048" refid="tbl0003">Table 3</ce:cross-ref>
+                           <ce:float-anchor refid="tbl0003"/>). Tukey's <ce:italic>post hoc</ce:italic> tests revealed that AA spent significantly more time in engaging in HIPA than the other 2 groups (<ce:italic>F</ce:italic>(2, 423) = 30.30, <ce:italic>p</ce:italic> &lt; 0.01), but no difference was found between FA and NA. Similar results could be found regarding MIPA practice. ANCOVA confirmed a difference between groups (<ce:italic>F</ce:italic>(2, 423) = 5.47, <ce:italic>p</ce:italic> &lt; 0.01), showing that AA spend significantly more time practicing MIPA than the FA and NA groups. None of the groups did stand out from the others for active transportation (<ce:italic>F</ce:italic>(2, 423) = 1.82, <ce:italic>p</ce:italic> &gt; 0.05) or for time of inactivity (<ce:italic>F</ce:italic>(2, 423) = 1.09, <ce:italic>p</ce:italic> &gt; 0.05). HIPA and MIPA practice during leisure time showed a significant monotonic decrease between sport status (AA &gt; FA &gt; NA, <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:msup>
+                                 <mml:mover accent="true">
+                                    <mml:mi>E</mml:mi>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msup>
+                           </mml:math> (3, 336) = 0.186, <ce:italic>p</ce:italic> &lt; 0.01; <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:msup>
+                                 <mml:mover accent="true">
+                                    <mml:mi>E</mml:mi>
+                                    <mml:mo>¯</mml:mo>
+                                 </mml:mover>
+                                 <mml:mn>2</mml:mn>
+                              </mml:msup>
+                           </mml:math> (3, 269) = 0.037, <ce:italic>p</ce:italic> &lt; 0.01). Male FA spent significantly more time practicing HIPA (<ce:italic>t</ce:italic>(183) = 2.011, <ce:italic>p</ce:italic> &lt; 0.05) than women FA, but declared more inactive time during the week (<ce:italic>t</ce:italic>(211) = 2.640, <ce:italic>p</ce:italic> &lt; 0.01). Competition level did not impact the amount of time spent practicing PA; no difference emerged between provincial, national, international, or professional statuses.</ce:para>
+                     </ce:section>
+                     <ce:section id="sec0014" view="all">
+                        <ce:label>3.1.3</ce:label>
+                        <ce:section-title id="cesectitle0020">Dietary habits</ce:section-title>
+                        <ce:para id="para0021" view="all">As shown in <ce:cross-ref id="crf0049" refid="tbl0003">Table 3</ce:cross-ref>, a significant difference was found between groups for the nutritional index (<ce:italic>F</ce:italic>(2, 423) = 5.12, <ce:italic>p</ce:italic> &lt; 0.01). According to <ce:italic>post hoc</ce:italic> comparisons, the AA group obtained the statistically highest nutritional index of the 3 groups. The nutrition level of FA did not differ statistically from that of NA. Gender comparison showed that female FA (<ce:italic>t</ce:italic>(230) = 4.132, <ce:italic>p</ce:italic> &lt; 0.01) and female NA (<ce:italic>t</ce:italic>(72) = 2.343, <ce:italic>p</ce:italic> &lt; 0.05) had a significantly higher nutritional index than their male counterparts. Male and female AA did not differ regarding their nutritional habits(<ce:italic>t</ce:italic>(120) = 0.518, <ce:italic>p</ce:italic> &gt; 0.05). Nutrition scores favored individual sports in the AA group (<ce:italic>t</ce:italic>(120) = 2.805, <ce:italic>p</ce:italic> &lt; 0.01), but this advantage was not repeated in the FA group for the same variable (<ce:italic>t</ce:italic>(228) = 0.996, <ce:italic>p</ce:italic> &gt; 0.05). Notwithstanding a tendency to increase with competition level, the nutrition score did not vary significantly in the FA (<ce:italic>F</ce:italic>(3, 226) = 1.553, <ce:italic>p</ce:italic> &gt; 0.05) or the AA group (<ce:italic>F</ce:italic>(3, 118) = 1.635, <ce:italic>p</ce:italic> &gt; 0.05). With regard to dietary recommendations, 79.13% of FA did not meet the globalized nutritional recommendations compared with 74.67% of the NA. These 2 percentages did not statistically differ from each other (<ce:italic>z</ce:italic> = 0.811, <ce:italic>p</ce:italic> &gt; 0.05).</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="sec0015" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="cesectitle0021">Lifestyle behaviors and athletic identity across different sport statuses</ce:section-title>
+                     <ce:para id="para0022" view="all">Overall, athletic identity was positively correlated with HIPA (<ce:italic>p</ce:italic> &lt; 0.01), MIPA (<ce:italic>p</ce:italic> &lt; 0.01), and nutritional index (<ce:italic>p</ce:italic> &lt; 0.01). The AIQ score was also found to have a negative relationship with active transportation (<ce:italic>p</ce:italic> &lt; 0.05) and inactivity (<ce:italic>p</ce:italic> &lt; 0.05). <ce:cross-ref id="crf0050" refid="tbl0004">Table 4</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0004"/> summarizes the relationships between lifestyle variables and AIQ scales. Fisher's arctanh transformation was used to test for potential correlation differences between groups. The total AIQ score's relationship with HIPA was higher in the FA group compared with the AA group (<ce:italic>z</ce:italic> = −2.913, <ce:italic>p</ce:italic> &lt; 0.01). The same difference occurred with MIPA (<ce:italic>z</ce:italic> = −2.746, <ce:italic>p</ce:italic> &lt; 0.01). The NA group showed stronger associations of total AIQ with HIPA, MIPA, and active transportation than the AA group. One major difference can be found when examining the connection between total AIQ and active transportation: the correlation difference between these 2 variables was significant (<ce:italic>z</ce:italic> = −2.698, <ce:italic>p</ce:italic> &lt; 0.05) when comparing the FA (<ce:italic>r</ce:italic> = 0.333) and NA (<ce:italic>r</ce:italic> = –0.222) groups.</ce:para>
+                     <ce:para id="para0023" view="all">Multiple linear regressions were used to predict physical behavior variables, the predictors being our 3 AIQ scales: appearance, competence, and importance. <ce:cross-ref id="crf0051" refid="tbl0005">Table 5</ce:cross-ref>
+                        <ce:float-anchor refid="tbl0005"/> shows the explained variance for all the regression models. Active transportation was significantly predicted for all 3 groups, with the FA group having the lowest explained variance. HIPA prediction was significant for the FA (<ce:italic>F</ce:italic>(3, 182) = 14.175, <ce:italic>p</ce:italic> &lt; 0.01) and NA (<ce:italic>F</ce:italic>(3, 50) = 11.388, <ce:italic>p</ce:italic> &lt; 0.01) groups. Regression models for MIPA were also significant for the FA (<ce:italic>F</ce:italic>(3, 148) = 3.758, <ce:italic>p</ce:italic> &lt; 0.05) and NA (<ce:italic>F</ce:italic>(3, 42) = 4.689, <ce:italic>p</ce:italic> &lt; 0.05) groups, with the latter having the highest explained variance. Inactivity time models showed relatively small amounts of explained variance: only the FA model reached significance (<ce:italic>F</ce:italic>(3, 209) = 4.663, <ce:italic>p</ce:italic> &lt; 0.01). When predicting nutritional index, the FA (<ce:italic>F</ce:italic>(3, 226) = 11.924, <ce:italic>p</ce:italic> &lt; 0.01) and AA (<ce:italic>F</ce:italic>(3, 118) = 4.071, <ce:italic>p</ce:italic> &lt; 0.01) models were significant. Overall, explained variance was significant for all FA regression models. Predictability in the AA group was only significant for the active transportation and nutrition variables, and models for the NA group were all significant except for inactivity and nutrition.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0016" role="discussion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="cesectitle0022">Discussion</ce:section-title>
+                  <ce:section id="sec0017" view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title id="cesectitle0023">Impacts of sport status on athletic identity and lifestyle</ce:section-title>
+                     <ce:para id="para0024" view="all">The first purpose of this study was to better understand the impacts of sport status on athletic identity and postcareer healthy lifestyle behaviors (PA level and nutritional habits). Primary results associated the highest athletic identity to the AA status, and the FA group had a greater attachment to the athletic role than the NA group. As pointed out by Lamont-Mills and Christensen,<ce:cross-ref id="crf0052" refid="bib0027">
+                           <ce:sup loc="post">27</ce:sup>
+                        </ce:cross-ref> an athlete should have an athletic identity greater than that of an individual who has never practiced sport. As could be expected from previous work,<ce:cross-ref id="crf0053" refid="bib0019">
+                           <ce:sup loc="post">19</ce:sup>
+                        </ce:cross-ref> this type of self-perception seems to decrease steadily when an athlete leaves sport and becomes an ex-athlete. Our results also showed that the age of participants negatively correlated with athletic identity. Those results were expected, because athletic identity should wane when individuals get older.<ce:cross-refs id="crf0054" refid="bib0001 bib0028">
+                           <ce:sup loc="post">1,28</ce:sup>
+                        </ce:cross-refs>
+                     </ce:para>
+                     <ce:para id="para0025" view="all">Gender differentiation regarding athletic identity only appeared in the NA group. Males in the NA group related more to the athletic identity or persona than females in the NA group, suggesting that sport identity dissimilarities between genders can be better shown within NA. This finding corroborates several studies<ce:cross-refs id="crf0056" refid="bib0001 bib0004">
+                           <ce:sup loc="post">1,4</ce:sup>
+                        </ce:cross-refs>
+                        <ce:sup loc="post">,</ce:sup>
+                        <ce:cross-ref id="crf0058" refid="bib0029">
+                           <ce:sup loc="post">29</ce:sup>
+                        </ce:cross-ref> indicating that, in the general population, men are more prone than women to value the athletic role and status. In contrast, the lack of athletic identity differences between genders in both the AA and FA groups was a noteworthy result found in the present study, which corroborates the result reported by Chen et al.<ce:cross-ref id="crf0059" refid="bib0029">
+                           <ce:sup loc="post">29</ce:sup>
+                        </ce:cross-ref> showing no difference between male and female student athletes with regard to the athletic role. It would seem that athletic identity cannot help characterize genders in athletic or postathletic status. Overall, the men's roles to some extent intertwined with athletic identity. If there is a difference between male and female NA, sport training and practices may enhance athletic identity in women.</ce:para>
+                     <ce:para id="para0026" view="all">The current findings also show that athletic identity can be affected by contextual variables, such as past competition level. FA who previously competed at the professional level were more likely to have a higher athletic identity score than FA at the provincial level. This finding implies that the closer the athlete has gotten to the elite level, the more important one's association with the athletic role becomes. This imprint of the athletic role could be linked to a more demanding sport context in terms of physical training, practice, competition, and traveling.</ce:para>
+                     <ce:para id="para0027" view="all">From another standpoint, collective sport athletes and individual sport athletes showed differences regarding AIQ scores. AA who practice individual sports related more to the athletic role than AA who practice collective sports. A possible reason for this difference may be that, contrary to AA in collective sports, AA who practice individual sports are solely accountable for the resulting performance and outcome, both of which help to strengthen their self-identity and social identity.<ce:cross-ref id="crf0060" refid="bib0030">
+                           <ce:sup loc="post">30</ce:sup>
+                        </ce:cross-ref> Because athletic identity can be influenced by the nature of the sport activities one practices,<ce:cross-ref id="crf0061" refid="bib0029">
+                           <ce:sup loc="post">29</ce:sup>
+                        </ce:cross-ref> it seems reasonable for individual and collective sport athletes to be different regarding their self-definition. Nevertheless, this difference was not observed in the FA group, which suggests that the effect of the nature of the sport practiced on athletic identity may vanish during career transition.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0018" view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title id="cesectitle0024">Lifestyle behaviors and athletic identity across different sport statuses</ce:section-title>
+                     <ce:para id="para0028" view="all">Four facets of PA behavior were measured in the current study to address the second purpose of the study. The groups did not differ in weekly active transportation. This type of PA does not seem to be affected by retirement from sport, and to our knowledge no empirical studies have looked at this type of PA in a sport retirement context. For leisure-time PA, major differences were found between AA, FA, and NA. AA were the front runners for HIPA and MIPA practice, and FA and NA came in second and third, respectively. This consistent decrease in weekly periods of PA across the 3 groups was confirmed by a significant monotonic test for both HIPA and MIPA. These results are in line with conclusions of Sorenson et al.,<ce:cross-ref id="crf0062" refid="bib0007">
+                           <ce:sup loc="post">7</ce:sup>
+                        </ce:cross-ref> who saw a significant difference in exercise behavior between alumni student athletes and student nonathletes. In the same study, current NCAA student athletes showed a significantly superior PA level compared with the other 2 groups. In the present study, proportions of both FA and NA who did not meet the recommended weekly level of PA were similar to what was observed in the general Canadian population. This finding suggests that past athletic status does not dictate that FA will have healthier PA habits than the general population. Finally, no group was found to be markedly different from the others in the amount of time they spent sitting or lying down during the week. These results could indicate that retirement from sport may not favor a change in sedentary behaviors and that FA status is not a strong enough incentive to reduce sedentary time to a lower level than in the general population.</ce:para>
+                     <ce:para id="para0029" view="all">Regarding nutritional habits, AA had the best scores compared with the other 2 groups; FA and NA had statistically similar scores, although the FA group had the lowest score of the 3 groups. Furthermore, 79.13% of FA and 74.67% of NA had nutritional scores below the established nutritional benchmark and neither groups differed significantly on that criterion. According to these results, diet behaviors, which were at a healthier level during an athlete's career, seem to deteriorate in the after-career period, with a tendency to plunge below that found among NA. These results differ from the findings reported by Fogelholm et al.,<ce:cross-ref id="crf0063" refid="bib0016">
+                           <ce:sup loc="post">16</ce:sup>
+                        </ce:cross-ref> which showed that, for several types of sports, FA had healthier dietary habits than the reference groups. Their study used a larger sample, which differed in composition from the present study in that it included only Olympic-level athletes.<ce:cross-ref id="crf0064" refid="bib0016">
+                           <ce:sup loc="post">16</ce:sup>
+                        </ce:cross-ref> In the present study, nutritional scores for FA tended to be higher when accounting for past competition levels. Gender was also a significant factor when assessing nutritional behavior. Women generally had a higher nutritional score than men, but only in the FA and NA groups did these differences attain significance. It would seem that women in general favor more healthy nutrition behaviors compared with men and that past athletic status does not influence this gender asymmetry. The results are in line with a recent Canadian survey<ce:cross-ref id="crf0065" refid="bib0021">
+                           <ce:sup loc="post">21</ce:sup>
+                        </ce:cross-ref> that showed women tended to eat more fruit and vegetables and drink less alcohol than men in a given month. However, being male or female did not seem to have an effect regarding nutrition when competing in high-level sports. Regardless of gender, athletes prioritize healthy nutritional habits to perform better in sports. Athletes in individual sports seemed to have better eating habits compared with athletes in collective sports; however, this difference was not found in the FA group. The literature concerning this particular dimension in sports career transition is, to date, scarce at best. One hypothesis could be that performance in individual sports is based mainly on an individual's training and preparation, which includes diet decisions to optimize the body's readiness to compete, whereas athletes in collective sports rely on mutual collaboration and group adherence to achieve the best results. Diet decisions might, however, be adjusted because sport performance objectives may change at career's end. Overall, the sport environment requires athletes to structure their diet, just as training is necessary for better performance. Once the athletic status changes, these nutritional needs are modified and constraints are removed. As mentioned by Maciejewska et al.,<ce:cross-ref id="crf0066" refid="bib0031">
+                           <ce:sup loc="post">31</ce:sup>
+                        </ce:cross-ref> some athletes decrease their PA but do not adjust their dietary habits after retirement. This finding might explain why, in our results, FA in large part did not reach the proposed nutritional criteria and did not fare better than NA in this way. Additionally, the AA variable seems to supersede other variables such as gender, competition level, or type of sport when it comes to nutritional habits.</ce:para>
+                     <ce:para id="para0030" view="all">In our study, the relationship between athletic identity and HIPA and MIPA was strongly positive and significant. However, a more thorough analysis showed this relationship to be present only for the FA and NA groups. Correlation analysis showed some positive and significant relationships between AIQ scales and PA variables for the FA and NA. Multiple linear prediction models have shown significant predictive variance for both PA levels in the FA and NA groups. These findings support those of Reifsteck et al.,<ce:cross-ref id="crf0067" refid="bib0002">
+                           <ce:sup loc="post">2</ce:sup>
+                        </ce:cross-ref> who suggested that athletic identity was not a strong predictor of a more general type of PA participation. The present study suggests that prediction models are more efficient in predicting HIPA and MIPA for populations that are not actually competing in high-level sports (FA and NA). This is possibly due to restricted variance of both the athletic identity and PA variables in AA and the fact that their PA is somewhat “externally” regulated, freeing it from personal determinants.</ce:para>
+                     <ce:para id="para0031" view="all">Athletic identity levels in AA are higher compared with other groups, but this identity is not specifically linked to their sport practice. Indeed, correlations between AIQ and PA diverge when comparing AA with FA and NA. Thus, the more we perceived ourselves to be athletes, the more likely we are to practice PA and sports, unless we are AA. It seems that AA possess a self-perception that reflects their status without being a predictive determinant of practicing sport. It seems appropriate to assume that motivation to practice a sport during one's career differs from athletic identity, which is strongly intrinsic in AA. Athletic status (being an athlete) in itself may be a strong enough condition so that it substitutes for athletic identity when it comes to sport practice during leisure time. After the end of the sport career, HIPA and MIPA practice can be more easily determined by the dimensions of athletic identity: the athletic status, the strongest determinant of managed sport participation, is no longer present. FA and NA are, by definition, not AA, but as mentioned by Anderson,<ce:cross-ref id="crf0068" refid="bib0005">
+                           <ce:sup loc="post">5</ce:sup>
+                        </ce:cross-ref> everyone possesses some level of athletic identity, however small it may be. This athletic identity, which remains from the past career for FA and as the sum of past sport experiences for NA, is strongly and positively related to PA and sport practice. Therefore, athletic identity constitutes a good predictor for both FA and NA because their athletic status no longer regulates their PA behaviors.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec0019" view="all">
+                     <ce:label>4.3</ce:label>
+                     <ce:section-title id="cesectitle0025">Limitations</ce:section-title>
+                     <ce:para id="para0032" view="all">Some limitations must be considered regarding the present results. Self-reported PA levels and nutritional behaviors can be influenced by social desirability and may not reliably represent actual PA practice or nutritional behavior. A longitudinal study design including several lifestyle measures at different points in time may prove helpful in having participants accurately report their activities. In general, people tend to over-report PA and underestimate inactivity.<ce:cross-ref id="crf0069" refid="bib0032">
+                           <ce:sup loc="post">32</ce:sup>
+                        </ce:cross-ref> Also, lifestyle variables were not normally distributed, as would be expected from socially desirable answers. To remediate this situation, a log transformation was used before all analyses. In this study, there was a recruiting challenge for FA because FA are usually not attached to any organization or group once their career has ended.<ce:cross-ref id="crf0070" refid="bib0001">
+                           <ce:sup loc="post">1</ce:sup>
+                        </ce:cross-ref> The present study relied on recruitments of FA from the first author's relations, universities, and athletics department, as well as nonprofit organizations such as the Fondation de l'athlète d'excellence du Québec. This factor may also explain the unbalanced sample for our 3 groups. The conclusions drawn from this study may be limited by the cultural context of Québec. To better understand the impact of sport career transition on FA lifestyle, a longitudinal study design should be used, and it should include a transition model where a wider range of lifestyle variables are measured, including anthropometric measures, sleeping patterns, and medical histories of illnesses and injuries.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec0020" role="conclusion" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="cesectitle0026">Conclusion</ce:section-title>
+                  <ce:para id="para0033" view="all">The degree of self-identification with the athletic role is clearly associated with PA practice and nutritional habits in the postsport career. Athletic identity is a good positive predictor of HIPA and MIPA and nutritional habits among FA and NA. This association, however, does not apply to AA, even though they fully embrace their role as sport performers. Their personal PA levels, although higher than those of FA and NA, correlate negatively or not at all with their athletic identity scores. During the athletic career, the athletic status substitutes for personal factors in predicting PA practice, and these factors become effective once the AA status vanishes. Sport retirement may affect quality of nutritional habits that tend to decrease below the level of NA, especially for male FA. FA do not benefit from their past athletic status in protection against chronic diseases. High-level sports put athletes in a unique environment that does not favor long-term PA practice after the career is over. Some practical implications may include for athletes’ support staff (e.g., sport psychologists) or other stakeholders involved with athletes, to use the present results for counseling or other type of interventions to help prepare AA for retirement. AA should be made aware of how to include and implement other form of PA than their main sport during their career to identify themselves to something other than only high-level sport. A postcareer follow-up may also be warranted. Future research should longitudinally examine lifestyle behaviors in the different stages of sport retirement while taking into account particular sports to help future retirees in dealing with their postathletic career transition process.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0001" view="all">
+               <ce:section-title id="cesectitle0029">Acknowledgment</ce:section-title>
+               <ce:para id="para0036" view="all">The authors acknowledge the contribution of participants in the study.</ce:para>
+               <ce:section id="sec0021" view="all">
+                  <ce:section-title id="cesectitle0027">Authors’ contribution</ce:section-title>
+                  <ce:para id="para0034" view="all">The authors each contributed to all aspects of this research, which was part of the doctoral works of Pierre-Luc Yao. All authors have read and approved the final version of the manuscript, and agree with the order of presentation of the authors.</ce:para>
+               </ce:section>
+               <ce:section id="sec0022" view="all">
+                  <ce:section-title id="cesectitle0028">Competing interests</ce:section-title>
+                  <ce:para id="para0035" view="all">The authors declare that they have no competing interests.</ce:para>
+               </ce:section>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0030">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>EJ</ce:given-name>
+                                 <ce:surname>Reifsteck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DL</ce:given-name>
+                                 <ce:surname>Gill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DL</ce:given-name>
+                                 <ce:surname>Brooks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The relationship between athletic identity and physical activity among former college athletes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Athl Insight</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>271</sb:first-page>
+                              <sb:last-page>284</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>EJ</ce:given-name>
+                                 <ce:surname>Reifsteck</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DL</ce:given-name>
+                                 <ce:surname>Gill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JD</ce:given-name>
+                                 <ce:surname>Labban</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Athletes” and “exercisers”: understanding identity, motivation, and physical activity participation in former college athletes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sport Exerc Perform Psychol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>38</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>BW</ce:given-name>
+                                 <ce:surname>Brewer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>JL</ce:given-name>
+                                 <ce:surname>Van Raalte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>DE</ce:given-name>
+                                 <ce:surname>Linder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Athletic identity: Hercules' muscles or Achilles heel?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Sport Psychol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>237</sb:first-page>
+                              <sb:last-page>254</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>WM</ce:given-name>
+                                 <ce:surname>Webb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SA</ce:given-name>
+                                 <ce:surname>Nasco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Riley</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B</ce:given-name>
+                                 <ce:surname>Headrick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Athlete identity and reactions to retirement from sports</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sport Behav</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>338</sb:first-page>
+                              <sb:last-page>362</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>CB</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Athletic identity and its relation to exercise behavior: scale development and initial validation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sport Exerc Psychol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>39</sb:first-page>
+                              <sb:last-page>56</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>6</ce:label>
+                     <ce:other-ref id="othref0001b">
+                        <ce:textref>Reifsteck EJ. <ce:italic>The relationship between athletic identity and physical activity levels after retirement from collegiate sports.</ce:italic> Greensboro, NC: University of North Carolina; 2011. [Master's thesis]</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>SC</ce:given-name>
+                                 <ce:surname>Sorenson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Romano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SP</ce:given-name>
+                                 <ce:surname>Azen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>ET</ce:given-name>
+                                 <ce:surname>Schroeder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>GJ</ce:given-name>
+                                 <ce:surname>Salem</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Life span exercise among elite intercollegiate student athletes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sports Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>80</sb:first-page>
+                              <sb:last-page>86</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The transition process from competitive sport to retirement: future engagement in physical activity and involvement in figure skating</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book class="report">
+                              <sb:date>2010</sb:date>
+                              <sb:publisher>
+                                 <sb:name>York University</sb:name>
+                                 <sb:location>Toronto</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>[Master's thesis]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>JJ</ce:given-name>
+                                 <ce:surname>Coakley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Leaving competitive sport: retirement or rebirth?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Quest</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>11</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>DA</ce:given-name>
+                                 <ce:surname>Sinclair</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Orlick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Positive transitions from high-performance sport</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sport Psychol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>138</sb:first-page>
+                              <sb:last-page>150</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y</ce:given-name>
+                                 <ce:surname>Stephan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Bilard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Ninot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Delignieres</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Repercussions of transition out of elite sport on subjective well-being: a one-year study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Appl Sport Psychol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>354</sb:first-page>
+                              <sb:last-page>371</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Witkowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>EE</ce:given-name>
+                                 <ce:surname>Spangenburg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reduced physical activity and the retired athlete: a dangerous combination?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Br J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>952</sb:first-page>
+                              <sb:last-page>953</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sbref0013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>FW</ce:given-name>
+                                 <ce:surname>Booth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>CK</ce:given-name>
+                                 <ce:surname>Roberts</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Linking performance and chronic disease risk: indices of physical performance are surrogates for health</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Br J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>950</sb:first-page>
+                              <sb:last-page>952</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="sbref0014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>UM</ce:given-name>
+                                 <ce:surname>Kujala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P</ce:given-name>
+                                 <ce:surname>Marti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Kaprio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Hernelahti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Tikkanen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Sarna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Occurrence of chronic disease in former top-level athletes: predominance of benefits, risks or selection effects?</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>553</sb:first-page>
+                              <sb:last-page>561</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>15</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>NA</ce:given-name>
+                                 <ce:surname>Lynch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AS</ce:given-name>
+                                 <ce:surname>Ryan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Evans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>LI</ce:given-name>
+                                 <ce:surname>Katzel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AP</ce:given-name>
+                                 <ce:surname>Goldberg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Older elite football players have reduced cardiac and osteoporosis risk factors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Med Sci Sports Exerc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1124</sb:first-page>
+                              <sb:last-page>1130</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>16</ce:label>
+                     <sb:reference id="sbref0016">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Fogelholm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Kaprio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Sarna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Healthy lifestyles of former Finnish world class athletes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Med Sci Sports Exerc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>224</sb:first-page>
+                              <sb:last-page>229</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="sbref0016b">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P-L</ce:given-name>
+                                 <ce:surname>Yao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F</ce:given-name>
+                                 <ce:surname>Trudeau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Laurencelle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anderson's athletic identity concept: French validation of the Athletic Identity Questionnaire. Manuscript accepted for publication</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Appl Sport Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>111</sb:first-page>
+                              <sb:last-page>125</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="sbref0017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T</ce:given-name>
+                                 <ce:surname>Armstrong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F</ce:given-name>
+                                 <ce:surname>Bull</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of the World Health Organization Global Physical Activity Questionnaire (GPAQ)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Public Health</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>66</sb:first-page>
+                              <sb:last-page>70</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>19</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>World Health Organization (WHO)</sb:collaboration>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>
+                                 <ce:italic>WHO STEPS Surveillance Manual: the WHO STEPwise approach to chronic disease risk factor surveillance.</ce:italic> Geneva: WHO</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>Available at:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0001" xlink:href="http://apps.who.int/iris/handle/10665/43376" xlink:type="simple">http://apps.who.int/iris/handle/10665/43376</ce:inter-ref>
+                              <sb:date>2005</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>[accessed 10.01.2018]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>20</ce:label>
+                     <ce:other-ref id="othref0001">
+                        <ce:textref>Pescatello LS, Arena R, Riebe D, Thompson PD. <ce:italic>ACSM's Guidelines for Exercise Testing and Prescription.</ce:italic> Baltimore, MD: Lippincott Williams &amp; Wilkins; 2014.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>21</ce:label>
+                     <sb:reference id="sbref0023a">
+                        <sb:contribution langtype="iso" xml:lang="fr">
+                           <sb:authors>
+                              <sb:collaboration>Statistics Canada</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:comment>
+                           <ce:italic>Canadian Community Health Survey (CCHS) (Statistique Canada. Enquête sur la santé dans les collectivités canadiennes), 2007-2008, 2009-2010,2011-2012 et 2013-2014. Adapted by the Institut de la statistique du Québec. 2016</ce:italic>. Available at:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0003a" xlink:href="https://stat.gouv.qc.ca/enquetes/sante/escc.html" xlink:type="simple">https://stat.gouv.qc.ca/enquetes/sante/escc.html</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>[accessed 18.09.2018]. [in French]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0022">
+                     <ce:label>22</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Turconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Celsa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Rezzani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G</ce:given-name>
+                                 <ce:surname>Biino</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>MA</ce:given-name>
+                                 <ce:surname>Sartirana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C</ce:given-name>
+                                 <ce:surname>Roggi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reliability of a dietary questionnaire on food habits, eating behaviour and nutritional knowledge of adolescents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eur J Clin Nutr</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>753</sb:first-page>
+                              <sb:last-page>763</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0023">
+                     <ce:label>23</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:collaboration>Health Canada</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:comment>
+                           <ce:italic>Eating well with Canada's Food Guide.</ce:italic> Available at:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0002" xlink:href="https://www.canada.ca/en/health-canada/services/food-nutrition/canada-food-guide/get-your-copy.html" xlink:type="simple">https://www.canada.ca/en/health-canada/services/food-nutrition/canada-food-guide/get-your-copy.html</ce:inter-ref>
+                              <sb:date>2013</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>[accessed 27.03.2018]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0024">
+                     <ce:label>24</ce:label>
+                     <sb:reference id="sbref0021">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H</ce:given-name>
+                                 <ce:surname>Brunk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R</ce:given-name>
+                                 <ce:surname>Barlow</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Bartholomew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J</ce:given-name>
+                                 <ce:surname>Bremner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Statistical inference under order restrictions: the theory and application of isotonic regression</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons Ltd.</sb:name>
+                                 <sb:location>New York, NY</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>25</ce:label>
+                     <sb:reference id="sbref0022">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L</ce:given-name>
+                                 <ce:surname>Laurencelle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>FA</ce:given-name>
+                                 <ce:surname>Dupuis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Statistical tables, explained and applied</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2002</sb:date>
+                              <sb:publisher>
+                                 <sb:name>World Scientific</sb:name>
+                                 <sb:location>Singapore</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0026">
+                     <ce:label>26</ce:label>
+                     <sb:reference id="sbref0023">
+                        <sb:contribution langtype="iso" xml:lang="fr">
+                           <sb:authors>
+                              <sb:collaboration>Statistics Canada</sb:collaboration>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:comment>
+                           <ce:italic>Survey measures of health: physical activity measured by Canadians. (Enquête canadienne sur les mesures de la santé: activité physique directement mesurée chez les Canadiens), 2012–2013</ce:italic>. Available at:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="interref0003" xlink:href="https://www150.statcan.gc.ca/n1/pub/82-625-x/2015001/article/14135-fra.htm" xlink:type="simple">https://www150.statcan.gc.ca/n1/pub/82-625-x/2015001/article/14135-fra.htm</ce:inter-ref>
+                              <sb:date>2015</sb:date>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:comment>[accessed 27.03.2018]. [in French]</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0027">
+                     <ce:label>27</ce:label>
+                     <sb:reference id="sbref0024">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A</ce:given-name>
+                                 <ce:surname>Lamont-Mills</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>SA</ce:given-name>
+                                 <ce:surname>Christensen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Athletic identity and its relationship to sport participation levels</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sci Med Sport</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>472</sb:first-page>
+                              <sb:last-page>478</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0028">
+                     <ce:label>28</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>JLW</ce:given-name>
+                                 <ce:surname>Houle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>BW</ce:given-name>
+                                 <ce:surname>Brewer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>AS</ce:given-name>
+                                 <ce:surname>Kluck</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Developmental trends in athletic identity: a two-part retrospective study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sport Behav</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>146</sb:first-page>
+                              <sb:last-page>159</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0029">
+                     <ce:label>29</ce:label>
+                     <sb:reference id="sbref0026">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S</ce:given-name>
+                                 <ce:surname>Snyder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Magner</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effects of sport participation on student-athletes’ and non-athlete students’ social life and identity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Issues Interchol Athl</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>176</sb:first-page>
+                              <sb:last-page>193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>30</ce:label>
+                     <sb:reference id="sbref0027">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>HM</ce:given-name>
+                                 <ce:surname>Hadiyan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Sheikh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How different sports establish different athletic identity levels</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Kin Sports Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>28</sb:first-page>
+                              <sb:last-page>32</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0031">
+                     <ce:label>31</ce:label>
+                     <sb:reference id="sbref0028">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D</ce:given-name>
+                                 <ce:surname>Maciejewska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Michalczyk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Czerwińska-Rogowska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M</ce:given-name>
+                                 <ce:surname>Banaszczak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Ryterska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K</ce:given-name>
+                                 <ce:surname>Jakubczyk</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Seeking optimal nutrition for healthy body mass reduction among former athletes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Hum Kin</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                              <sb:last-page>75</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0032">
+                     <ce:label>32</ce:label>
+                     <sb:reference id="sbref0029">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>RJ</ce:given-name>
+                                 <ce:surname>Shephard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Limits to the measurement of habitual physical activity by questionnaires</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Br J Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>197</sb:first-page>
+                              <sb:last-page>206</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

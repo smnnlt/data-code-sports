@@ -1,0 +1,4520 @@
+{
+  "paper_id": "10.1016+j.jesf.2026.200548",
+  "info": [
+    {
+      "title": "Relationships between power at the second ventilatory threshold and peak power during incremental cycling in amateur road cyclists",
+      "keywords": null,
+      "doi": "10.1016/j.jesf.2026.200548",
+      "file_hash": "b29369197670482f",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.jesf.2026.200548.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "David",
+      "family": "Arriagada-Tarifeño",
+      "affiliation": "School of Kinesiology\n\t\t\t\t\t\t\t\tFaculty of Medical Sciences\n\t\t\t\t\t\t\t\tLaboratory of Applied Neuromechanics\n\t\t\t\t\t\t\t\tUniversidad de Santiago de Chile\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSantiago\n\t\t\t\t\t\t\t\t\tChile",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "Natalia",
+      "family": "Belmar",
+      "affiliation": "School of Kinesiology\n\t\t\t\t\t\t\t\tFaculty of Medical Sciences\n\t\t\t\t\t\t\t\tLaboratory of Applied Neuromechanics\n\t\t\t\t\t\t\t\tUniversidad de Santiago de Chile\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSantiago\n\t\t\t\t\t\t\t\t\tChile",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0000-0003-3540-6345",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "Esteban",
+      "family": "Aedo-Muñoz",
+      "affiliation": "Department of Physical Activity Sciences, Sport and Health\n\t\t\t\t\t\t\t\tFaculty of Medical Sciences\n\t\t\t\t\t\t\t\tUniversidad de Santiago de Chile\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSantiago\n\t\t\t\t\t\t\t\t\tChile",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0009-0000-5221-9678",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "Jorge",
+      "family": "Cancino-Jiménez",
+      "affiliation": "School of Kinesiology\n\t\t\t\t\t\t\t\tFaculty of Medical Sciences\n\t\t\t\t\t\t\t\tLaboratory of Applied Neuromechanics\n\t\t\t\t\t\t\t\tUniversidad de Santiago de Chile\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSantiago\n\t\t\t\t\t\t\t\t\tChile",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0000-0003-1544-2824",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "Britam",
+      "family": "Gómez",
+      "affiliation": "Department of Biomedical Engineering\n\t\t\t\t\t\t\t\tFaculty of Engineering\n\t\t\t\t\t\t\t\tUniversidad de Santiago de Chile\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tSantiago\n\t\t\t\t\t\t\t\t\tChile",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0000-0002-5183-6129",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Background/objective: Ventilatory thresholds characterize physiological responses during incremental exercise, but how power at the second ventilatory threshold (VT2) relates to other power-derived features of the same test remains unclear.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study examined relationships between VT2 power and first ventilatory threshold (VT1), peak power output (Pmax), and the fractional position of VT2 relative to Pmax (VT2/Pmax) during standardized incremental cycling.",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: This cross-sectional secondary analysis included ninety amateur road cyclists (79 men, 11 women) who completed a standardized incremental cycling test to volitional exhaustion with automated determination of VT1 and VT2.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "VT2 power was examined as a continuous variable in relation to Pmax, VT1, and VT2/Pmax in relative and absolute units.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sensitivity analyses examined the robustness of the primary VT2-Pmax association.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: Relative VT2 was strongly associated with relative Pmax (r = 0.911, 95% CI 0.867-0.941, p < 0.001), with a similar association in absolute units (r = 0.923, 95% CI 0.885-0.949, p < 0.001).",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Results: Relative VT2 was strongly associated with relative Pmax (r = 0.911, 95% CI 0.867-0.941, p &lt; 0.001), with a similar association in absolute units (r = 0.923, 95% CI 0.885-0.949, p &lt; 0.001)."
+    },
+    {
+      "text": "Associations with VT1 were weaker in relative (r = 0.719) and absolute (r = 0.746) units, while relative VT2 showed a modest association with VT2/Pmax (r = 0.307).",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The VT2-Pmax relationship remained strong after controlling for body mass and in multivariable sensitivity analyses accounting for body mass, age, and weekly training volume.",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Conclusion: Threshold-associated and peak power outputs provide complementary information for interpreting individual physiological responses during incremental cycling.",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Their non-uniform relationships support the use of VT2 power as a quantitative reference within standardized assessments, while recognizing that these measures represent distinct features of the incremental response.",
+      "text_id": 10,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Physiological assessment in endurance exercise increasingly considers complementary variables rather than isolated measurements because individual responses reflect multiple interacting determinants.",
+      "text_id": 11,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Contemporary approaches therefore emphasize physiological transitions, external workload, and inter-individual variability when characterizing exercise capacity. [1] [2] [3] [4] Athletes with similar global capacities may nevertheless display different metabolic, ventilatory, and mechanical responses as exercise intensity rises.",
+      "text_id": 12,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Contemporary approaches therefore emphasize physiological transitions, external workload, and inter-individual variability when characterizing exercise capacity. <ref type=\"bibr\">[1]<\/ref> <ref type=\"bibr\" target=\"#b1\">[2]<\/ref> <ref type=\"bibr\" target=\"#b2\">[3]<\/ref> <ref type=\"bibr\" target=\"#b3\">[4]<\/ref> Athletes with similar global capacities may nevertheless display different metabolic, ventilatory, and mechanical responses as exercise intensity rises."
+    },
+    {
+      "text": "A standardized incremental test is therefore useful not only for identifying individual physiological landmarks, but also for examining how those landmarks are positioned in relation to the external workload produced throughout the test. 5 Endurance cycling performance reflects the interaction of maximal aerobic capacity, submaximal physiological regulation, and the ability to generate and sustain external power. [6] [7] [8] [9] Within this framework, maximal aerobic capacity represents the upper limit for aerobic energy provision, threshold-related responses characterize the fraction of this capacity that can be sustained as exercise intensity increases, and efficiency influences the external power that can be generated for a given metabolic demand. [6] [7] [8] These physiological determinants should also be distinguished from the external workload imposed or produced during exercise.",
+      "text_id": 13,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "A standardized incremental test is therefore useful not only for identifying individual physiological landmarks, but also for examining how those landmarks are positioned in relation to the external workload produced throughout the test. <ref type=\"bibr\" target=\"#b4\">5<\/ref> Endurance cycling performance reflects the interaction of maximal aerobic capacity, submaximal physiological regulation, and the ability to generate and sustain external power. <ref type=\"bibr\" target=\"#b5\">[6]<\/ref> <ref type=\"bibr\" target=\"#b6\">[7]<\/ref> <ref type=\"bibr\" target=\"#b7\">[8]<\/ref> <ref type=\"bibr\" target=\"#b8\">[9]<\/ref> Within this framework, maximal aerobic capacity represents the upper limit for aerobic energy provision, threshold-related responses characterize the fraction of this capacity that can be sustained as exercise intensity increases, and efficiency influences the external power that can be generated for a given metabolic demand. <ref type=\"bibr\" target=\"#b5\">[6]<\/ref> <ref type=\"bibr\" target=\"#b6\">[7]<\/ref> <ref type=\"bibr\" target=\"#b7\">[8]<\/ref> These physiological determinants should also be distinguished from the external workload imposed or produced during exercise."
+    },
+    {
+      "text": "Internal load reflects the individual physiological response to exercise, whereas external load describes the work performed independently of that response. 10 In cycling, power output is a direct measure of external mechanical load, while ventilatory responses used to identify the first ventilatory threshold (VT1) and second ventilatory threshold (VT2) represent internal physiological responses.",
+      "text_id": 14,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Internal load reflects the individual physiological response to exercise, whereas external load describes the work performed independently of that response. <ref type=\"bibr\" target=\"#b9\">10<\/ref> In cycling, power output is a direct measure of external mechanical load, while ventilatory responses used to identify the first ventilatory threshold (VT1) and second ventilatory threshold (VT2) represent internal physiological responses."
+    },
+    {
+      "text": "The power output corresponding to a ventilatory threshold therefore links an internally identified physiological transition to the external mechanical workload at which it occurs.",
+      "text_id": 15,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although maximal aerobic capacity is an important component of endurance physiology, it does not fully describe how cyclists respond across increasing exercise intensity. 9 Cycling is particularly suitable for examining these relationships because physiological responses can be directly linked to the external mechanical power produced by the athlete, allowing several complementary features of the incremental response to be expressed on the same workload scale.",
+      "text_id": 16,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Although maximal aerobic capacity is an important component of endurance physiology, it does not fully describe how cyclists respond across increasing exercise intensity. <ref type=\"bibr\" target=\"#b8\">9<\/ref> Cycling is particularly suitable for examining these relationships because physiological responses can be directly linked to the external mechanical power produced by the athlete, allowing several complementary features of the incremental response to be expressed on the same workload scale."
+    },
+    {
+      "text": "VT1 reflects the first disproportionate increase in ventilation relative to oxygen uptake as exercise intensity increases, whereas VT2 represents a subsequent higher-intensity ventilatory transition characterized by a further disproportionate increase in ventilation. 11, 12 These thresholds are widely used to characterize exercise-intensity domains and support exercise prescription.",
+      "text_id": 17,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "VT1 reflects the first disproportionate increase in ventilation relative to oxygen uptake as exercise intensity increases, whereas VT2 represents a subsequent higher-intensity ventilatory transition characterized by a further disproportionate increase in ventilation. <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b11\">12<\/ref> These thresholds are widely used to characterize exercise-intensity domains and support exercise prescription."
+    },
+    {
+      "text": "VT2 occurs at a high exercise intensity and reflects a marked change in ventilatory regulation as physiological demand increases. 11, 12 As a higher-intensity transition associated with the boundary between the heavy and severe-intensity domains, VT2 is particularly relevant for characterizing the upper portion of the incremental physiological response. 13 However, its corresponding power output remains dependent on the testing protocol and threshold-identification method. 10, 13, 14 Power output is an important variable in the physiological and performance characterization of road cycling, particularly in studies involving trained and professional cyclists. [15] [16] [17] [18] [19] Relative power facilitates comparisons across cyclists of different body mass, whereas absolute power describes the external workload itself.",
+      "text_id": 18,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "VT2 occurs at a high exercise intensity and reflects a marked change in ventilatory regulation as physiological demand increases. <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b11\">12<\/ref> As a higher-intensity transition associated with the boundary between the heavy and severe-intensity domains, VT2 is particularly relevant for characterizing the upper portion of the incremental physiological response. <ref type=\"bibr\" target=\"#b12\">13<\/ref> However, its corresponding power output remains dependent on the testing protocol and threshold-identification method. <ref type=\"bibr\" target=\"#b9\">10,<\/ref> <ref type=\"bibr\" target=\"#b12\">13,<\/ref> <ref type=\"bibr\" target=\"#b13\">14<\/ref> Power output is an important variable in the physiological and performance characterization of road cycling, particularly in studies involving trained and professional cyclists. <ref type=\"bibr\" target=\"#b14\">[15]<\/ref> <ref type=\"bibr\" target=\"#b15\">[16]<\/ref> <ref type=\"bibr\" target=\"#b17\">[17]<\/ref> <ref type=\"bibr\" target=\"#b18\">[18]<\/ref> <ref type=\"bibr\" target=\"#b19\">[19]<\/ref> Relative power facilitates comparisons across cyclists of different body mass, whereas absolute power describes the external workload itself."
+    },
+    {
+      "text": "When two variables are both normalized to body mass, however, part of their association may arise from the shared denominator.",
+      "text_id": 19,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Examining VT2 relationships in both W⋅kg -1 and W is therefore important for determining whether associations are robust to the way power is expressed.",
+      "text_id": 20,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Threshold-associated power must be interpreted within the incremental protocol in which it is obtained.",
+      "text_id": 21,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Work rates associated with ventilatory thresholds can vary with ramp slope 20 and their corresponding power outputs depend on the testing protocol and threshold-identification method.",
+      "text_id": 22,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Work rates associated with ventilatory thresholds can vary with ramp slope <ref type=\"bibr\" target=\"#b20\">20<\/ref> and their corresponding power outputs depend on the testing protocol and threshold-identification method."
+    },
+    {
+      "text": "Thus, VT2 power is best interpreted as a protocol-dependent external workload linked to a physiologically identified transition.",
+      "text_id": 23,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Amateur road cyclists span heterogeneous experience and performance levels, 21 providing a useful range for examining continuous relationships among threshold and peak power variables.",
+      "text_id": 24,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Amateur road cyclists span heterogeneous experience and performance levels, <ref type=\"bibr\" target=\"#b21\">21<\/ref> providing a useful range for examining continuous relationships among threshold and peak power variables."
+    },
+    {
+      "text": "Wearable physiological monitoring has expanded options for exercise assessment. 22 Recent developments in respiratory monitoring have also enabled automated identification of ventilatory thresholds during exercise, with wearable-based approaches evaluated against laboratory cardiopulmonary exercise testing. 23 Although ventilatory thresholds are well established, comparatively less attention has been directed toward whether VT1, VT2, peak power output (Pmax) and the fractional position of VT2 relative to Pmax scale similarly across cyclists within the same incremental response.",
+      "text_id": 25,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Wearable physiological monitoring has expanded options for exercise assessment. <ref type=\"bibr\" target=\"#b22\">22<\/ref> Recent developments in respiratory monitoring have also enabled automated identification of ventilatory thresholds during exercise, with wearable-based approaches evaluated against laboratory cardiopulmonary exercise testing. <ref type=\"bibr\" target=\"#b23\">23<\/ref> Although ventilatory thresholds are well established, comparatively less attention has been directed toward whether VT1, VT2, peak power output (Pmax) and the fractional position of VT2 relative to Pmax scale similarly across cyclists within the same incremental response."
+    },
+    {
+      "text": "If higher VT2 simply accompanied proportional increases in all other power-derived measures, the variables would largely reproduce a common scaling of workload.",
+      "text_id": 26,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Different strengths of association would instead indicate a more differentiated organization of threshold and peak power outputs.",
+      "text_id": 27,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The aim was therefore to characterize relationships between VT2 power and VT1, Pmax and VT2/Pmax during a standardized incremental cycling test.",
+      "text_id": 28,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "VT2 was examined primarily as a continuous variable, with the VT2-Pmax relationship evaluated in relative and absolute units and with adjustment for body mass.",
+      "text_id": 29,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We hypothesized that higher VT2 power would be associated with higher VT1 and Pmax.",
+      "text_id": 30,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The association between VT2 and VT2/Pmax was considered exploratory because VT2 is mathematically incorporated into the ratio itself, precluding an independent directional hypothesis.",
+      "text_id": 31,
+      "paragraph_id": 6,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Methods",
+      "text_id": 32,
+      "paragraph_id": 7,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Methods<\/head>"
+    },
+    {
+      "text": "A cross-sectional secondary analysis was conducted to evaluate the relationships between power output at the second ventilatory threshold (VT2) and other power-output variables obtained during an incremental exercise test in amateur road cyclists.",
+      "text_id": 33,
+      "paragraph_id": 8,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The primary VT2-Pmax relationship was evaluated using both relative (W⋅kg -1 ) and absolute (W) values.",
+      "text_id": 34,
+      "paragraph_id": 8,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data were obtained from physiological evaluations performed at the Laboratory of Applied Neuromechanics, School of Kinesiology, Faculty of Medical Sciences, Universidad de Santiago de Chile (Santiago, Chile).",
+      "text_id": 35,
+      "paragraph_id": 9,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These evaluations were part of two institutional research projects that included ventilatory threshold assessment as part of their protocol for physiological and performance characterization in cycling.",
+      "text_id": 36,
+      "paragraph_id": 9,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although the projects addressed different research questions, the incremental test analyzed here was performed once per participant using the same protocol, respiratory monitoring system and laboratory procedures.",
+      "text_id": 37,
+      "paragraph_id": 9,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The present study therefore represents a secondary analysis of standardized assessments conducted over a 26-month period.",
+      "text_id": 38,
+      "paragraph_id": 9,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study procedures were approved by the Institutional Ethics Committee of Universidad de Santiago de Chile (approval No.",
+      "text_id": 39,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "306.22 and No.",
+      "text_id": 40,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "053.24) and were conducted in accordance with the Declaration of Helsinki.",
+      "text_id": 41,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants provided written informed consent prior to participation, including authorization for subsequent analyses of their physiological recordings.",
+      "text_id": 42,
+      "paragraph_id": 10,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A total of 94 amateur road cyclists were evaluated.",
+      "text_id": 43,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Four were excluded because they did not complete the incremental test, resulting in insufficient data for ventilatory-threshold determination, leaving a final analytical sample of 90 cyclists (79 men, 11 women) with complete VT1, VT2, and Pmax data.",
+      "text_id": 44,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Inclusion criteria were at least two years of road-cycling experience and active participation in road-cycling training at the time of enrollment.",
+      "text_id": 45,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants represented a heterogeneous sample of regularly trained road cyclists, characterized according to cycling experience and weekly training volume.",
+      "text_id": 46,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Based on these characteristics, participants could be broadly positioned within Tiers 1-2 24 , although this approximation should be interpreted cautiously given the variability in participant classification according to the criteria applied. 25 Participants with cardiovascular, metabolic, or musculoskeletal conditions contraindicating incremental exercise testing to volitional exhaustion were excluded.",
+      "text_id": 47,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Based on these characteristics, participants could be broadly positioned within Tiers 1-2 <ref type=\"bibr\" target=\"#b24\">24<\/ref> , although this approximation should be interpreted cautiously given the variability in participant classification according to the criteria applied. <ref type=\"bibr\" target=\"#b25\">25<\/ref> Participants with cardiovascular, metabolic, or musculoskeletal conditions contraindicating incremental exercise testing to volitional exhaustion were excluded."
+    },
+    {
+      "text": "As the present study was a secondary analysis, no a priori sample-size calculation was performed specifically for this research question.",
+      "text_id": 48,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As a complementary sensitivity assessment, the final sample size (n = 90) provided approximately 80% power to detect a correlation of |r| ≈ 0.29 at a two-sided α = 0.05.",
+      "text_id": 49,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Before testing, participants reported cycling experience and weekly training volume for the preceding week.",
+      "text_id": 50,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "They were instructed to avoid strenuous exercise for at least 24 h and maintain usual dietary and hydration habits.",
+      "text_id": 51,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Body mass and standing height were measured immediately before testing using a mechanical scale and telescopic stadiometer.",
+      "text_id": 52,
+      "paragraph_id": 11,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Testing used Wahoo KICKR PowerTrainer V6 and Wahoo KICKR Bike Pro Smart Bike systems (Wahoo Fitness, Atlanta, GA, USA).",
+      "text_id": 53,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants used either their own bicycle mounted on the KICKR trainer or the laboratory KICKR Bike Pro (37 and 53 participants, respectively).",
+      "text_id": 54,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "When the laboratory bike was used, it was adjusted to reproduce the participant's habitual cycling position, including saddle height, saddle setback, reach, and stack.",
+      "text_id": 55,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Both systems used the manufacturer's power calibration procedures and were operated in ERG mode to control the prescribed workload throughout the incremental test.",
+      "text_id": 56,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Power was measured by the Wahoo cycling systems and displayed in real time through Zwift (Zwift Inc., CA, USA), and heart rate was monitored continuously with a Polar H10 chest strap (Polar Electro Oy, Kempele, Finland).",
+      "text_id": 57,
+      "paragraph_id": 12,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Respiratory signals were recorded with the Chaski wearable respiratory monitoring system (IC Innovations SpA, Santiago, Chile), positioned in the nasolabial region.",
+      "text_id": 58,
+      "paragraph_id": 13,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The device derives respiratory information from temperature changes associated with respiratory airflow. 26",
+      "text_id": 59,
+      "paragraph_id": 13,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "The device derives respiratory information from temperature changes associated with respiratory airflow. <ref type=\"bibr\" target=\"#b26\">26<\/ref>"
+    },
+    {
+      "text": "The test began with a 3-min warm-up at 50 W, followed by 100 W, with workload increased by 20 W every 80 s until volitional exhaustion.",
+      "text_id": 60,
+      "paragraph_id": 14,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants selected cadence and gear ratio freely, with a recommended cadence of 80-100 rpm, and remained seated with both hands on the handlebars.",
+      "text_id": 61,
+      "paragraph_id": 14,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tests were supervised by two trained evaluators.",
+      "text_id": 62,
+      "paragraph_id": 15,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Termination criteria were volitional exhaustion, inability to maintain the required power output, or termination for physiological or clinical safety concerns.",
+      "text_id": 63,
+      "paragraph_id": 15,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pmax was operationally defined as the highest workload fully completed during the test.",
+      "text_id": 64,
+      "paragraph_id": 15,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Respiratory signals, heart rate, and power output were recorded throughout.",
+      "text_id": 65,
+      "paragraph_id": 15,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "VT1 and VT2 were estimated automatically by the Chaski system.",
+      "text_id": 66,
+      "paragraph_id": 16,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These estimates were derived from temperature-based respiratory signals without direct measurement of oxygen uptake or gas exchange.",
+      "text_id": 67,
+      "paragraph_id": 16,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Its temperature-based sensing approach has been described previously, 26 including signal-processing methods used to estimate ventilatory variables, 27 and the system has been evaluated against laboratory cardiopulmonary exercise testing for automated ventilatory-threshold estimation. 23 After each test, data were exported to the associated analysis platform.",
+      "text_id": 68,
+      "paragraph_id": 16,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Its temperature-based sensing approach has been described previously, <ref type=\"bibr\" target=\"#b26\">26<\/ref> including signal-processing methods used to estimate ventilatory variables, <ref type=\"bibr\" target=\"#b27\">27<\/ref> and the system has been evaluated against laboratory cardiopulmonary exercise testing for automated ventilatory-threshold estimation. <ref type=\"bibr\" target=\"#b23\">23<\/ref> After each test, data were exported to the associated analysis platform."
+    },
+    {
+      "text": "VT1 and VT2 were obtained using the platform's proprietary automated threshold-identification procedure, informed by the published methodological literature.",
+      "text_id": 69,
+      "paragraph_id": 16,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The reports included the identified thresholds and their corresponding response curves, which were available for visualization by the investigators.",
+      "text_id": 70,
+      "paragraph_id": 16,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "According to the manufacturer, the automated analysis may be supervised by specialists who can make adjustments when appropriate.",
+      "text_id": 71,
+      "paragraph_id": 16,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The resulting values were used as reported by the platform without independent reassignment or adjustment by the investigators.",
+      "text_id": 72,
+      "paragraph_id": 16,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Values were analyzed in W and relative to measured body mass (W⋅kg -1 ).",
+      "text_id": 73,
+      "paragraph_id": 16,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "During the assessments, respiratory signals were visually monitored by the investigators, with no evident interruptions or alterations in signal continuity observed, including during the highest-intensity stages.",
+      "text_id": 74,
+      "paragraph_id": 17,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data consistency was checked before analysis.",
+      "text_id": 75,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All 90 records satisfied VT1 < VT2 < Pmax, VT2/Pmax ranged from 68.8% to 94.8%, and no values were missing for variables included in the final analyses.",
+      "text_id": 76,
+      "paragraph_id": 18,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "All 90 records satisfied VT1 &lt; VT2 &lt; Pmax, VT2/Pmax ranged from 68.8% to 94.8%, and no values were missing for variables included in the final analyses."
+    },
+    {
+      "text": "Analyses were performed in Python using SciPy and statsmodels.",
+      "text_id": 77,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Continuous variables are summarized as mean ± SD and categorical variables as counts and percentages.",
+      "text_id": 78,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Distributional assumptions were examined using Shapiro-Wilk tests and homogeneity of variance using Levene tests when applicable.",
+      "text_id": 79,
+      "paragraph_id": 19,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Primary analyses treated VT2 power continuously.",
+      "text_id": 80,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pearson correlations (r) with 95% confidence intervals (CIs) were calculated for 11 prespecified associations: relative and absolute VT2 with corresponding Pmax and VT1; relative VT2 with VT2/Pmax; and relative and absolute VT2 with body mass, weekly training volume, and age.",
+      "text_id": 81,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Associations involving VT2/Pmax and body mass were interpreted descriptively because of their mathematical dependence on VT2 or its body-mass normalization, respectively, and were not considered independent evidence of a physiological relationship.",
+      "text_id": 82,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Spearman correlations (ρ) were sensitivity analyses.",
+      "text_id": 83,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pearson p values across the 11 correlations were adjusted using the Benjamini-Hochberg false discovery rate (FDR).",
+      "text_id": 84,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Secondary descriptive and sensitivity analyses were not included in this correction because they addressed distinct analytical purposes and were interpreted as supportive rather than independent confirmatory tests.",
+      "text_id": 85,
+      "paragraph_id": 20,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because relative VT2 and Pmax share body mass as a denominator, their association was examined in relative and absolute units.",
+      "text_id": 86,
+      "paragraph_id": 21,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Partial correlations controlled for body mass and, in a further sensitivity analysis, body mass, age, and weekly training volume simultaneously.",
+      "text_id": 87,
+      "paragraph_id": 21,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Secondary descriptive analyses stratified participants by relative VT2 at 3.377 and 3.800 W kg -1 into Low (n = 31), Mid (n = 29), and High (n = 30) groups.",
+      "text_id": 88,
+      "paragraph_id": 22,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These cutoffs corresponded to sample-derived tertiles and were not intended to represent physiologically defined thresholds.",
+      "text_id": 89,
+      "paragraph_id": 22,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because the groups were derived directly from VT2, they were not used as the primary inferential basis.",
+      "text_id": 90,
+      "paragraph_id": 22,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Welch one-way ANOVA was used for group comparisons, with η² reported descriptively and Games-Howell pairwise comparisons when appropriate.",
+      "text_id": 91,
+      "paragraph_id": 22,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These analyses are reported in the Supplementary Material: the complete tertile characterization is provided in Supplementary Table S1, pairwise Games-Howell comparisons in Supplementary Table S2, and the distribution of relative Pmax across the three VT2-derived groups in Supplementary Fig. S1.",
+      "text_id": 92,
+      "paragraph_id": 22,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "These analyses are reported in the Supplementary Material: the complete tertile characterization is provided in Supplementary Table <ref type=\"table\" target=\"#tab_0\">S1<\/ref>, pairwise Games-Howell comparisons in Supplementary Table <ref type=\"table\" target=\"#tab_1\">S2<\/ref>, and the distribution of relative Pmax across the three VT2-derived groups in Supplementary Fig. <ref type=\"figure\" target=\"#fig_0\">S1<\/ref>."
+    },
+    {
+      "text": "Multivariable linear regression provided additional sensitivity analyses of VT2-Pmax while accounting for body mass, age, and weekly training volume.",
+      "text_id": 93,
+      "paragraph_id": 23,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Separate relative and absolute models reported unstandardized B with HC3 robust standard errors and 95% CIs, standardized β, p values, VIFs, R² , and adjusted R² .",
+      "text_id": 94,
+      "paragraph_id": 23,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Standardized β coefficients were calculated as B × (SD of the predictor/SD of the outcome).",
+      "text_id": 95,
+      "paragraph_id": 23,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Residual normality and heteroscedasticity were assessed using Shapiro-Wilk and Breusch-Pagan tests, respectively.",
+      "text_id": 96,
+      "paragraph_id": 23,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Because residual normality showed a slight deviation in the absolute model, a bootstrap 95% confidence interval for the VT2 coefficient was additionally estimated as a sensitivity analysis using 10,000 resamples with the bias-corrected and accelerated (BCa) method.",
+      "text_id": 97,
+      "paragraph_id": 23,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These models were interpreted as sensitivity analyses rather than as predictive models.",
+      "text_id": 98,
+      "paragraph_id": 23,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Equipment-related sensitivity analyses included Fisher's z comparison and HC3 robust regression models.",
+      "text_id": 99,
+      "paragraph_id": 23,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Given the sex imbalance in the sample, an additional sensitivity analysis was performed by repeating the primary VT2-Pmax and VT2-VT1 correlations after excluding female participants (male-only sample, n = 79).",
+      "text_id": 100,
+      "paragraph_id": 24,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sex was not otherwise used as an inferential grouping factor or covariate because sex-related performance differences were outside the primary study question.",
+      "text_id": 101,
+      "paragraph_id": 24,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tests were two-sided with α = 0.05.",
+      "text_id": 102,
+      "paragraph_id": 24,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Exact p values are reported to three decimals, with p < 0.001 for smaller values.",
+      "text_id": 103,
+      "paragraph_id": 25,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Exact p values are reported to three decimals, with p &lt; 0.001 for smaller values."
+    },
+    {
+      "text": "Secondary analyses and full regression models are provided in Supplementary Table S1-S3 and Supplementary Fig. S1.",
+      "text_id": 104,
+      "paragraph_id": 25,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Secondary analyses and full regression models are provided in Supplementary Table <ref type=\"table\" target=\"#tab_0\">S1<\/ref>-S3 and Supplementary Fig. <ref type=\"figure\" target=\"#fig_0\">S1<\/ref>."
+    },
+    {
+      "text": " >Results",
+      "text_id": 105,
+      "paragraph_id": 26,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "<head n=\"3.\" >Results<\/head>"
+    },
+    {
+      "text": "Ninety cyclists were included (79 men and 11 women).",
+      "text_id": 106,
+      "paragraph_id": 27,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participant characteristics, training volume, and power-related variables are summarized in Table 1.",
+      "text_id": 107,
+      "paragraph_id": 27,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Participant characteristics, training volume, and power-related variables are summarized in Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>."
+    },
+    {
+      "text": "Relative VT2 was strongly associated with relative Pmax, with a comparable association observed in absolute units (Figs. 1 and 2).",
+      "text_id": 108,
+      "paragraph_id": 28,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "Relative VT2 was strongly associated with relative Pmax, with a comparable association observed in absolute units (Figs. <ref type=\"figure\" target=\"#fig_0\">1<\/ref> and <ref type=\"figure\" target=\"#fig_1\">2<\/ref>)."
+    },
+    {
+      "text": "Associations between VT2 and VT1 were also positive but weaker in both relative and absolute units (Fig. 3).",
+      "text_id": 109,
+      "paragraph_id": 28,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "Associations between VT2 and VT1 were also positive but weaker in both relative and absolute units (Fig. <ref type=\"figure\" target=\"#fig_2\">3<\/ref>)."
+    },
+    {
+      "text": "Spearman correlation analyses showed a similar pattern.",
+      "text_id": 110,
+      "paragraph_id": 28,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relative VT2 showed a modest positive association with VT2/Pmax and an inverse association with body mass, whereas absolute VT2 was positively associated with body mass.",
+      "text_id": 111,
+      "paragraph_id": 29,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Neither age nor weekly training volume showed significant associations with VT2 after FDR correction.",
+      "text_id": 112,
+      "paragraph_id": 29,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Complete correlation coefficients, confidence intervals, and adjusted significance values are presented in Table 2.",
+      "text_id": 113,
+      "paragraph_id": 29,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "Complete correlation coefficients, confidence intervals, and adjusted significance values are presented in Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>."
+    },
+    {
+      "text": "After controlling for body mass, VT2-Pmax correlations remained very strong in relative (partial r = 0.902) and absolute units (partial r = 0.903; both p < 0.001).",
+      "text_id": 114,
+      "paragraph_id": 30,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "After controlling for body mass, VT2-Pmax correlations remained very strong in relative (partial r = 0.902) and absolute units (partial r = 0.903; both p &lt; 0.001)."
+    },
+    {
+      "text": "Further adjustment for body mass, age, and weekly training volume yielded partial r = 0.897 and 0.899, respectively (both p < 0.001).",
+      "text_id": 115,
+      "paragraph_id": 30,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Further adjustment for body mass, age, and weekly training volume yielded partial r = 0.897 and 0.899, respectively (both p &lt; 0.001)."
+    },
+    {
+      "text": "These partial-correlation results are summarized in Table 3.",
+      "text_id": 116,
+      "paragraph_id": 30,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "These partial-correlation results are summarized in Table <ref type=\"table\" target=\"#tab_2\">3<\/ref>."
+    },
+    {
+      "text": "Results were also consistent when the analysis was restricted to male participants (n = 79), with strong VT2-Pmax associations in both relative (r = 0.902, 95% CI 0.851-0.936, p < 0.001) and absolute units (r = 0.885, 95% CI 0.825-0.925, p < 0.001).",
+      "text_id": 117,
+      "paragraph_id": 31,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Results were also consistent when the analysis was restricted to male participants (n = 79), with strong VT2-Pmax associations in both relative (r = 0.902, 95% CI 0.851-0.936, p &lt; 0.001) and absolute units (r = 0.885, 95% CI 0.825-0.925, p &lt; 0.001)."
+    },
+    {
+      "text": "The VT2-VT1 associations were also maintained in relative (r = 0.718, 95% CI 0.591-0.811, p < 0.001) and absolute units (r = 0.686, 95% CI 0.548-0.788, p < 0.001).",
+      "text_id": 118,
+      "paragraph_id": 31,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "The VT2-VT1 associations were also maintained in relative (r = 0.718, 95% CI 0.591-0.811, p &lt; 0.001) and absolute units (r = 0.686, 95% CI 0.548-0.788, p &lt; 0.001)."
+    },
+    {
+      "text": "Multivariable models produced consistent results.",
+      "text_id": 119,
+      "paragraph_id": 32,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relative VT2 remained strongly associated with relative Pmax (B = 1.052, 95% CI 0.918-1.185, β = 0.905, p < 0.001; adjusted R² = 0.822), and absolute VT2 with absolute Pmax (B = 1.064, 95% CI 0.935-1.194, β = 0.877, p < 0.001; adjusted R² = 0.854).",
+      "text_id": 120,
+      "paragraph_id": 32,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Relative VT2 remained strongly associated with relative Pmax (B = 1.052, 95% CI 0.918-1.185, β = 0.905, p &lt; 0.001; adjusted R² = 0.822), and absolute VT2 with absolute Pmax (B = 1.064, 95% CI 0.935-1.194, β = 0.877, p &lt; 0.001; adjusted R² = 0.854)."
+    },
+    {
+      "text": "For the absolute model, the BCa bootstrap 95% CI for the VT2 coefficient (0.944-1.185) was closely consistent with the HC3-based interval.",
+      "text_id": 121,
+      "paragraph_id": 32,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Full coefficients and diagnostics are reported in Supplementary Table S3.",
+      "text_id": 122,
+      "paragraph_id": 32,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Full coefficients and diagnostics are reported in Supplementary Table <ref type=\"table\" target=\"#tab_2\">S3<\/ref>."
+    },
+    {
+      "text": "Additional sensitivity analyses showed no significant differences in the VT2-Pmax association between cycling equipment configurations (Fisher's z, p = 0.848), nor significant effects of equipment configuration (p = 0.962) or its interaction with Pmax (p = 0.755).",
+      "text_id": 123,
+      "paragraph_id": 32,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Detailed results are provided in Supplementary Table S4.",
+      "text_id": 124,
+      "paragraph_id": 32,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Detailed results are provided in Supplementary Table <ref type=\"table\">S4<\/ref>."
+    },
+    {
+      "text": "Secondary descriptive tertile analyses are reported in Supplementary Table S1 rather than in the main tables because the groups were constructed from relative VT2 itself.",
+      "text_id": 125,
+      "paragraph_id": 33,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Secondary descriptive tertile analyses are reported in Supplementary Table <ref type=\"table\" target=\"#tab_0\">S1<\/ref> rather than in the main tables because the groups were constructed from relative VT2 itself."
+    },
+    {
+      "text": "Relative and absolute Pmax increased across VT2-derived groups (both p < 0.001), whereas VT2/Pmax did not differ significantly (Welch p = 0.051).",
+      "text_id": 126,
+      "paragraph_id": 33,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Relative and absolute Pmax increased across VT2-derived groups (both p &lt; 0.001), whereas VT2/Pmax did not differ significantly (Welch p = 0.051)."
+    },
+    {
+      "text": "Games-Howell comparisons are provided in Supplementary Table S2 and relative Pmax distributions in Supplementary Fig. S1.",
+      "text_id": 127,
+      "paragraph_id": 33,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Games-Howell comparisons are provided in Supplementary Table <ref type=\"table\" target=\"#tab_1\">S2<\/ref> and relative Pmax distributions in Supplementary Fig. <ref type=\"figure\" target=\"#fig_0\">S1<\/ref>."
+    },
+    {
+      "text": "These results are presented as a descriptive complement to the continuous analyses and are not used as independent confirmation of the primary VT2-Pmax relationship.",
+      "text_id": 128,
+      "paragraph_id": 33,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abbreviations: Pmax, peak power output; SD, standard deviation; VT1, first ventilatory threshold; VT2, second ventilatory threshold.",
+      "text_id": 129,
+      "paragraph_id": 33,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The principal finding was a very strong relationship between VT2 power and Pmax within the same standardized incremental cycling test.",
+      "text_id": 130,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This finding supports our primary hypothesis that cyclists with higher VT2 power would also achieve higher Pmax, while the comparatively  weaker VT2-VT1 association indicates that these physiological landmarks do not scale uniformly across individuals.",
+      "text_id": 131,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The association was nearly identical in relative and absolute units and remained very strong after controlling for body mass.",
+      "text_id": 132,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This pattern is consistent with the established importance of threshold-related responses and maximal external power in the physiological characterization of endurance cycling, [6] [7] [8] 15, 16 while also indicating that these variables provide related but non-equivalent information within an incremental assessment.",
+      "text_id": 133,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "This pattern is consistent with the established importance of threshold-related responses and maximal external power in the physiological characterization of endurance cycling, <ref type=\"bibr\" target=\"#b5\">[6]<\/ref> <ref type=\"bibr\" target=\"#b6\">[7]<\/ref> <ref type=\"bibr\" target=\"#b7\">[8]<\/ref> <ref type=\"bibr\" target=\"#b14\">15,<\/ref> <ref type=\"bibr\" target=\"#b15\">16<\/ref> while also indicating that these variables provide related but non-equivalent information within an incremental assessment."
+    },
+    {
+      "text": "The contribution therefore lies not in proposing VT2 as a new performance marker or as a substitute for an independent performance test, but in demonstrating that power-derived variables across the incremental response relate to VT2 with clearly different magnitudes.",
+      "text_id": 134,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This differentiated pattern supports the use of VT2 power as a quantitative reference for examining how threshold and peak power outputs are organized within a standardized incremental assessment.",
+      "text_id": 135,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The strong VT2-Pmax association is physiologically plausible because both variables occupy positions along a progressive increase in external workload.",
+      "text_id": 136,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The VT2-Pmax association was stronger than the VT2-VT1 association, suggesting that VT2 power was more closely related to peak workload than to the lower ventilatory transition.",
+      "text_id": 137,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A strong relationship is therefore expected to some extent because both emerge from the same workload progression.",
+      "text_id": 138,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Previous studies in cyclists have reported associations ranging from moderate to very strong between ventilatory threshold-related measures, peak power, and timetrial performance, with magnitudes varying according to the physiological variable, performance outcome, and testing protocol. [28] [29] [30] [31] [32] Amann et al. reported coefficients of determination ranging from 0.53 to 0.64 for associations between ventilatory-derived measures and mean power output during a 40-km cycling time trial, and an R² of 0.65 for the association between maximal power during incremental testing and time-trial mean power output. 29 However, these studies primarily examined associations involving cycling performance, whereas the present analysis compared power-derived variables obtained within the same incremental test.",
+      "text_id": 139,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Previous studies in cyclists have reported associations ranging from moderate to very strong between ventilatory threshold-related measures, peak power, and timetrial performance, with magnitudes varying according to the physiological variable, performance outcome, and testing protocol. <ref type=\"bibr\" target=\"#b28\">[28]<\/ref> <ref type=\"bibr\" target=\"#b29\">[29]<\/ref> <ref type=\"bibr\" target=\"#b30\">[30]<\/ref> <ref type=\"bibr\" target=\"#b31\">[31]<\/ref> <ref type=\"bibr\" target=\"#b32\">[32]<\/ref> Amann et al. reported coefficients of determination ranging from 0.53 to 0.64 for associations between ventilatory-derived measures and mean power output during a 40-km cycling time trial, and an R² of 0.65 for the association between maximal power during incremental testing and time-trial mean power output. <ref type=\"bibr\" target=\"#b29\">29<\/ref> However, these studies primarily examined associations involving cycling performance, whereas the present analysis compared power-derived variables obtained within the same incremental test."
+    },
+    {
+      "text": "Consequently, the reported correlation magnitudes are not directly comparable.",
+      "text_id": 140,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In the present study, VT2 and Pmax were strongly correlated in both relative (r = 0.911) and absolute units (r = 0.923), although these coefficients describe within-test relationships rather than associations with independent cycling performance.",
+      "text_id": 141,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In addition, strong relationships have been reported between power at the respiratory compensation point and functional threshold power in road cyclists, while emphasizing that strongly associated physiological and performance-derived constructs should not be considered interchangeable. 33 The stronger VT2-Pmax association relative to VT2-VT1 in the present study should therefore be interpreted as a characteristic of the relationships observed within this incremental test rather than as evidence of greater predictive value for cycling performance.",
+      "text_id": 142,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "In addition, strong relationships have been reported between power at the respiratory compensation point and functional threshold power in road cyclists, while emphasizing that strongly associated physiological and performance-derived constructs should not be considered interchangeable. <ref type=\"bibr\" target=\"#b33\">33<\/ref> The stronger VT2-Pmax association relative to VT2-VT1 in the present study should therefore be interpreted as a characteristic of the relationships observed within this incremental test rather than as evidence of greater predictive value for cycling performance."
+    },
+    {
+      "text": "The broad range of VT2 power represented in our sample may also have contributed to the magnitude of the observed correlations, as correlation strength is sensitive to the range of values examined.",
+      "text_id": 143,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Importantly, the strength of this association was consistent across relative and absolute power expressions and remained substantial after adjustment for body mass.",
+      "text_id": 144,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Multivariable sensitivity models produced the same general pattern after accounting for body mass, age, and weekly training volume.",
+      "text_id": 145,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, body mass influences the expression of relative cycling power but does not account for the central association observed here.",
+      "text_id": 146,
+      "paragraph_id": 34,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The relationships with VT1 and VT2/Pmax provide the more differentiated finding.",
+      "text_id": 147,
+      "paragraph_id": 35,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "VT2-VT1 associations were substantial but weaker than VT2-Pmax, indicating that the two ventilatory transitions do not behave as interchangeable power landmarks.",
+      "text_id": 148,
+      "paragraph_id": 35,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This interpretation is consistent with the conceptual distinction between the first and second ventilatory thresholds 11, 12 and with evidence in trained cyclists showing that VT1 and VT2 can differ in their measurement characteristics and reproducibility. 34 The association between relative VT2 and VT2/Pmax was comparatively modest and this ratio did not differ significantly across secondary VT2 tertiles.",
+      "text_id": 149,
+      "paragraph_id": 35,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "This interpretation is consistent with the conceptual distinction between the first and second ventilatory thresholds <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b11\">12<\/ref> and with evidence in trained cyclists showing that VT1 and VT2 can differ in their measurement characteristics and reproducibility. <ref type=\"bibr\" target=\"#b34\">34<\/ref> The association between relative VT2 and VT2/Pmax was comparatively modest and this ratio did not differ significantly across secondary VT2 tertiles."
+    },
+    {
+      "text": "However, this association should be interpreted descriptively rather than as evidence of an independent physiological relationship because VT2 is mathematically incorporated into the VT2/Pmax ratio.",
+      "text_id": 150,
+      "paragraph_id": 35,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The relevant observation is therefore the inter-individual variability in the fractional position of VT2 within the incremental test, rather than the magnitude of the correlation itself.",
+      "text_id": 151,
+      "paragraph_id": 35,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cyclists with higher VT2 power therefore did not simply reach VT2 at a uniformly greater fraction of Pmax.",
+      "text_id": 152,
+      "paragraph_id": 35,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This variability is consistent with broader evidence that physiological responses to standardized exercise cannot always be represented adequately by a common percentage of a maximal reference value. [2] [3] [4] 35 Instead, threshold and peak power outputs were related while retaining distinguishable behavior across individuals.",
+      "text_id": 153,
+      "paragraph_id": 35,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "This variability is consistent with broader evidence that physiological responses to standardized exercise cannot always be represented adequately by a common percentage of a maximal reference value. <ref type=\"bibr\" target=\"#b1\">[2]<\/ref> <ref type=\"bibr\" target=\"#b2\">[3]<\/ref> <ref type=\"bibr\" target=\"#b3\">[4]<\/ref> <ref type=\"bibr\" target=\"#b35\">35<\/ref> Instead, threshold and peak power outputs were related while retaining distinguishable behavior across individuals."
+    },
+    {
+      "text": "The mean VT2/Pmax ratio of 81.9% characterizes the relative position of VT2 within the present incremental protocol.",
+      "text_id": 154,
+      "paragraph_id": 35,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Previous research has demonstrated that ventilatory thresholds are influenced by incremental-test characteristics, suggesting that differences in their relative position across studies should be interpreted in light of the testing protocol and threshold-identification method. 20 Peinado et al. reported VT2 at 78.3 ± 6.3% of maximal workload in amateur cyclists, compared with 81.9 ± 5.2% of Pmax in the present study. 5 Although these values provide a quantitative reference,  Abbreviations: CI, confidence interval; Pmax, peak power output; VT2, second ventilatory threshold.",
+      "text_id": 155,
+      "paragraph_id": 35,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Previous research has demonstrated that ventilatory thresholds are influenced by incremental-test characteristics, suggesting that differences in their relative position across studies should be interpreted in light of the testing protocol and threshold-identification method. <ref type=\"bibr\" target=\"#b20\">20<\/ref> Peinado et al. reported VT2 at 78.3 ± 6.3% of maximal workload in amateur cyclists, compared with 81.9 ± 5.2% of Pmax in the present study. <ref type=\"bibr\" target=\"#b4\">5<\/ref> Although these values provide a quantitative reference,  Abbreviations: CI, confidence interval; Pmax, peak power output; VT2, second ventilatory threshold."
+    },
+    {
+      "text": "differences in testing protocols, participant characteristics, and threshold-identification methods limit direct comparisons.",
+      "text_id": 156,
+      "paragraph_id": 36,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tertile analyses were retained as a descriptive complement because categories derived from VT2 cannot independently confirm the primary association.",
+      "text_id": 157,
+      "paragraph_id": 36,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These sample-derived categories should not be interpreted as physiologically defined training or performance zones, consistent with the importance of individualized physiological thresholds. [2] [3] [4] 11, 12 Detailed results are provided in Supplementary Table S1-S2 and Supplementary Fig. S1.",
+      "text_id": 158,
+      "paragraph_id": 36,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "These sample-derived categories should not be interpreted as physiologically defined training or performance zones, consistent with the importance of individualized physiological thresholds. <ref type=\"bibr\" target=\"#b1\">[2]<\/ref> <ref type=\"bibr\" target=\"#b2\">[3]<\/ref> <ref type=\"bibr\" target=\"#b3\">[4]<\/ref> <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b11\">12<\/ref> Detailed results are provided in Supplementary Table <ref type=\"table\" target=\"#tab_0\">S1<\/ref>-S2 and Supplementary Fig. <ref type=\"figure\" target=\"#fig_0\">S1<\/ref>."
+    },
+    {
+      "text": "Protocol characteristics remain important when interpreting threshold-associated power.",
+      "text_id": 159,
+      "paragraph_id": 37,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Work rate at ventilatory thresholds changes with ramp slope, 20 and power observed at the respiratory compensation point during ramp exercise should not automatically be interpreted as maximal metabolic steady-state power because physiological responses lag behind changes in workload. 14 This distinction is supported by studies comparing incremental-test landmarks with subsequent constant-load exercise.",
+      "text_id": 160,
+      "paragraph_id": 37,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Work rate at ventilatory thresholds changes with ramp slope, <ref type=\"bibr\" target=\"#b20\">20<\/ref> and power observed at the respiratory compensation point during ramp exercise should not automatically be interpreted as maximal metabolic steady-state power because physiological responses lag behind changes in workload. <ref type=\"bibr\" target=\"#b13\">14<\/ref> This distinction is supported by studies comparing incremental-test landmarks with subsequent constant-load exercise."
+    },
+    {
+      "text": "Faude et al. showed that the work rate corresponding to a ventilatory threshold during ramp exercise may differ substantially from that required to elicit the same physiological response during steady-state exercise, with considerable inter-individual variability in the temporal adjustment between oxygen uptake and work rate. 36 Similarly, in amateur cyclists, Peinado et al. found that VT2 overestimated maximal lactate steady-state workload, whereas an intensity between VT1 and VT2 showed closer agreement with the maximal lactate steady state. 5 Accordingly, VT2 power here represents the external power associated with the automatically identified ventilatory transition under this specific incremental protocol.",
+      "text_id": 161,
+      "paragraph_id": 37,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Faude et al. showed that the work rate corresponding to a ventilatory threshold during ramp exercise may differ substantially from that required to elicit the same physiological response during steady-state exercise, with considerable inter-individual variability in the temporal adjustment between oxygen uptake and work rate. <ref type=\"bibr\" target=\"#b36\">36<\/ref> Similarly, in amateur cyclists, Peinado et al. found that VT2 overestimated maximal lactate steady-state workload, whereas an intensity between VT1 and VT2 showed closer agreement with the maximal lactate steady state. <ref type=\"bibr\" target=\"#b4\">5<\/ref> Accordingly, VT2 power here represents the external power associated with the automatically identified ventilatory transition under this specific incremental protocol."
+    },
+    {
+      "text": "It should therefore be interpreted as a protocol-specific threshold-associated workload rather than as a direct estimate of sustainable power or maximal metabolic steady state.",
+      "text_id": 162,
+      "paragraph_id": 37,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This supports internal standardization while limiting direct transfer of absolute threshold-power values to substantially different protocols or to claims about sustainable power.",
+      "text_id": 163,
+      "paragraph_id": 37,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "VT1 and VT2 were identified automatically using a wearable respiratory monitoring approach evaluated against laboratory cardiopulmonary exercise testing 23 and supported by previous work on temperature-based sensing and respiratory-signal processing. 26, 27 Investigators did not manually alter threshold identification or threshold-associated power.",
+      "text_id": 164,
+      "paragraph_id": 38,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "VT1 and VT2 were identified automatically using a wearable respiratory monitoring approach evaluated against laboratory cardiopulmonary exercise testing <ref type=\"bibr\" target=\"#b23\">23<\/ref> and supported by previous work on temperature-based sensing and respiratory-signal processing. <ref type=\"bibr\" target=\"#b26\">26,<\/ref> <ref type=\"bibr\" target=\"#b27\">27<\/ref> Investigators did not manually alter threshold identification or threshold-associated power."
+    },
+    {
+      "text": "Although automated identification provides a standardized procedure that avoids investigator-dependent reassignment of individual thresholds, it does not eliminate uncertainty associated with threshold determination.",
+      "text_id": 165,
+      "paragraph_id": 38,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Previous work in trained cyclists has shown that ventilatory-threshold determination can demonstrate good reliability when standardized procedures are used, while also emphasizing the importance of the specific criteria and testing protocol used to identify these transitions. 34, 37 Measurement error has not, however, been established specifically for threshold-associated power in W⋅kg -1 under the configuration used here.",
+      "text_id": 166,
+      "paragraph_id": 38,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Previous work in trained cyclists has shown that ventilatory-threshold determination can demonstrate good reliability when standardized procedures are used, while also emphasizing the importance of the specific criteria and testing protocol used to identify these transitions. <ref type=\"bibr\" target=\"#b34\">34,<\/ref> <ref type=\"bibr\" target=\"#b37\">37<\/ref> Measurement error has not, however, been established specifically for threshold-associated power in W⋅kg -1 under the configuration used here."
+    },
+    {
+      "text": "Moreover, the proprietary nature of the algorithm limits methodological transparency regarding the specific decision rules used for threshold classification.",
+      "text_id": 167,
+      "paragraph_id": 38,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This is particularly relevant to categorical boundaries, because small measurement differences could alter classification near a cutoff.",
+      "text_id": 168,
+      "paragraph_id": 38,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It further supports treating VT2 continuously in the primary analysis and retaining tertiles only as supplementary descriptive analyses.",
+      "text_id": 169,
+      "paragraph_id": 38,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Several limitations should be considered when interpreting these findings.",
+      "text_id": 170,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The study characterizes within-test organization rather than external performance prediction because all principal power variables arose from the same incremental test.",
+      "text_id": 171,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The very strong VT2-Pmax association should therefore not be interpreted as evidence that VT2 independently predicts road-cycling performance.",
+      "text_id": 172,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nevertheless, the relationships were non-uniform across VT1, Pmax, and VT2/Pmax, which argues against reducing the findings to a single common scaling of workload.",
+      "text_id": 173,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The cross-sectional design cannot establish whether longitudinal changes in VT2 track changes in Pmax or independent cycling outcomes.",
+      "text_id": 174,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pmax was operationally defined as the highest workload completed under this protocol rather than as a verified physiological maximum.",
+      "text_id": 175,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In addition, the 20-W stepwise progression limits the resolution of Pmax and threshold-associated power, while freely selected cadence may introduce additional inter-individual variability.",
+      "text_id": 176,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These characteristics should be considered when comparing values across incremental protocols. 16, 17, 29, 36 Furthermore, the use of two cycling equipment configurations represents a potential methodological limitation, as equipment-related variability cannot be entirely excluded despite the standardized incremental testing protocol.",
+      "text_id": 177,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "These characteristics should be considered when comparing values across incremental protocols. <ref type=\"bibr\" target=\"#b15\">16,<\/ref> <ref type=\"bibr\" target=\"#b17\">17,<\/ref> <ref type=\"bibr\" target=\"#b29\">29,<\/ref> <ref type=\"bibr\" target=\"#b36\">36<\/ref> Furthermore, the use of two cycling equipment configurations represents a potential methodological limitation, as equipment-related variability cannot be entirely excluded despite the standardized incremental testing protocol."
+    },
+    {
+      "text": "Automated VT1 and VT2 determination also requires consideration.",
+      "text_id": 178,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although the respiratory monitoring system has been evaluated against laboratory cardiopulmonary exercise testing, 23 its proprietary threshold-identification procedure and the absence of independent investigator-based reassignment limit methodological transparency.",
+      "text_id": 179,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Although the respiratory monitoring system has been evaluated against laboratory cardiopulmonary exercise testing, <ref type=\"bibr\" target=\"#b23\">23<\/ref> its proprietary threshold-identification procedure and the absence of independent investigator-based reassignment limit methodological transparency."
+    },
+    {
+      "text": "Accordingly, the automated thresholds should be interpreted as estimates derived from temperature-based respiratory monitoring rather than direct gas-exchange measurements, with potential signal-quality variability at higher exercise intensities and without independent verification against gas-exchange measurements in the present study.",
+      "text_id": 180,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The findings should therefore be interpreted within this specific testing and threshold-identification procedure rather than as protocol-independent estimates of the underlying physiological transitions. 23, 26, 27, 34, 37 Finally, no a priori sample-size calculation was performed specifically for this secondary analysis, although a complementary sensitivity assessment was reported in the Methods.",
+      "text_id": 181,
+      "paragraph_id": 39,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "The findings should therefore be interpreted within this specific testing and threshold-identification procedure rather than as protocol-independent estimates of the underlying physiological transitions. <ref type=\"bibr\" target=\"#b23\">23,<\/ref> <ref type=\"bibr\" target=\"#b26\">26,<\/ref> <ref type=\"bibr\" target=\"#b27\">27,<\/ref> <ref type=\"bibr\" target=\"#b34\">34,<\/ref> <ref type=\"bibr\" target=\"#b37\">37<\/ref> Finally, no a priori sample-size calculation was performed specifically for this secondary analysis, although a complementary sensitivity assessment was reported in the Methods."
+    },
+    {
+      "text": "The predominantly male composition of the sample limits generalizability to female cyclists.",
+      "text_id": 182,
+      "paragraph_id": 40,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, male-only sensitivity analyses showed that the primary VT2-Pmax associations remained strong in both relative and absolute units.",
+      "text_id": 183,
+      "paragraph_id": 40,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The small number of women nevertheless precluded meaningful sex-specific analyses.",
+      "text_id": 184,
+      "paragraph_id": 40,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Similarly, the heterogeneous training backgrounds of these amateur cyclists increase the relevance of the findings to recreationally and regularly trained populations but limit extrapolation to highly trained or elite cyclists, particularly because classification based on the available training characteristics may not fully reflect individual performance caliber. 25 Performance caliber, training history, and competition demands may influence relationships between physiological thresholds and maximal power output. [15] [16] [17] [18] [19].",
+      "text_id": 185,
+      "paragraph_id": 40,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Similarly, the heterogeneous training backgrounds of these amateur cyclists increase the relevance of the findings to recreationally and regularly trained populations but limit extrapolation to highly trained or elite cyclists, particularly because classification based on the available training characteristics may not fully reflect individual performance caliber. <ref type=\"bibr\" target=\"#b25\">25<\/ref> Performance caliber, training history, and competition demands may influence relationships between physiological thresholds and maximal power output. <ref type=\"bibr\" target=\"#b14\">[15]<\/ref> <ref type=\"bibr\" target=\"#b15\">[16]<\/ref> <ref type=\"bibr\" target=\"#b17\">[17]<\/ref> <ref type=\"bibr\" target=\"#b18\">[18]<\/ref> <ref type=\"bibr\" target=\"#b19\">[19]<\/ref>."
+    },
+    {
+      "text": "From a practical perspective, VT2 power provides an individualized external workload linked to a physiological transition, supporting exercise prescription beyond fixed percentages of Pmax. [2] [3] [4] 11, 12 In the present sample, VT2 occurred at 81.9 ± 5.2% of Pmax, with individual values ranging from 68.8% to 94.8%.",
+      "text_id": 186,
+      "paragraph_id": 41,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "From a practical perspective, VT2 power provides an individualized external workload linked to a physiological transition, supporting exercise prescription beyond fixed percentages of Pmax. <ref type=\"bibr\" target=\"#b1\">[2]<\/ref> <ref type=\"bibr\" target=\"#b2\">[3]<\/ref> <ref type=\"bibr\" target=\"#b3\">[4]<\/ref> <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b11\">12<\/ref> In the present sample, VT2 occurred at 81.9 ± 5.2% of Pmax, with individual values ranging from 68.8% to 94.8%."
+    },
+    {
+      "text": "This variability suggests that prescribing exercise intensity using a fixed percentage of Pmax may correspond to different positions relative to the individually estimated VT2 across cyclists.",
+      "text_id": 187,
+      "paragraph_id": 41,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Importantly, VT2 and Pmax should be interpreted together rather than interchangeably, as cyclists with higher Pmax do not necessarily locate VT2 at the same fractional position within the incremental response.",
+      "text_id": 188,
+      "paragraph_id": 41,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, VT1, VT2, and Pmax may provide complementary information during repeated assessments. 11, 12, 15, 16, 35, 38, 39 However, VT2 power should not be interpreted as a direct estimate of functional threshold power, critical power, maximal lactate steady state, or sustainable competition power without independent assessment of those constructs. 5, 14, 33, 40, 41",
+      "text_id": 189,
+      "paragraph_id": 41,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Thus, VT1, VT2, and Pmax may provide complementary information during repeated assessments. <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b11\">12,<\/ref> <ref type=\"bibr\" target=\"#b14\">15,<\/ref> <ref type=\"bibr\" target=\"#b15\">16,<\/ref> <ref type=\"bibr\" target=\"#b35\">35,<\/ref> <ref type=\"bibr\" target=\"#b38\">38,<\/ref> <ref type=\"bibr\" target=\"#b39\">39<\/ref> However, VT2 power should not be interpreted as a direct estimate of functional threshold power, critical power, maximal lactate steady state, or sustainable competition power without independent assessment of those constructs. <ref type=\"bibr\" target=\"#b4\">5,<\/ref> <ref type=\"bibr\" target=\"#b13\">14,<\/ref> <ref type=\"bibr\" target=\"#b33\">33,<\/ref> <ref type=\"bibr\" target=\"#b40\">40,<\/ref> <ref type=\"bibr\" target=\"#b41\">41<\/ref>"
+    },
+    {
+      "text": "Future studies should therefore examine whether longitudinal changes in VT2 correspond to changes in Pmax and independent cyclingperformance measures across different protocols, training periods, performance levels, and more sex-balanced samples.",
+      "text_id": 190,
+      "paragraph_id": 42,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In conclusion, higher VT2 power was strongly associated with higher Pmax and, to a lesser extent, with VT1 in amateur road cyclists, supporting the primary hypothesis.",
+      "text_id": 191,
+      "paragraph_id": 43,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These relationships remained consistent across relative and absolute power and after accounting for body mass.",
+      "text_id": 192,
+      "paragraph_id": 43,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, VT2, VT1, and Pmax represent related but distinct features of the incremental response rather than interchangeable indicators of cycling performance.",
+      "text_id": 193,
+      "paragraph_id": 43,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "VT2 power therefore provides a useful quantitative reference within a standardized incremental test, while its interpretation should remain specific to the testing protocol and the threshold-identification method.",
+      "text_id": 194,
+      "paragraph_id": 43,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors thank the students in training who assisted with data collection and recording procedures and all participants for their participation in the study.",
+      "text_id": 195,
+      "paragraph_id": 44,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This work was supported by the Dirección de Investigación Científica y Tecnológica (DICYT), Universidad de Santiago de Chile, under project 022406AT_DAS.",
+      "text_id": 196,
+      "paragraph_id": 45,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "This work was supported by the <rs type=\"funder\">Dirección de Investigación Científica y Tecnológica (DICYT)<\/rs>, <rs type=\"institution\">Universidad de Santiago de Chile<\/rs>, under project <rs type=\"grantNumber\">022406AT_DAS<\/rs>."
+    },
+    {
+      "text": "The funder had no role in study design, data collection, analysis or interpretation, manuscript preparation, or the decision to submit the article for publication.",
+      "text_id": 197,
+      "paragraph_id": 45,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The dataset analyzed for this study is available from the corresponding author upon reasonable request.",
+      "text_id": 198,
+      "paragraph_id": 46,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that no generative AI or AI-assisted technologies were used in the preparation or writing of this manuscript.",
+      "text_id": 199,
+      "paragraph_id": 47,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All content was produced entirely by the authors without automated assistance.",
+      "text_id": 200,
+      "paragraph_id": 47,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This declaration does not apply to the use of basic tools for checking grammar, spelling, or references.",
+      "text_id": 201,
+      "paragraph_id": 47,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "None.",
+      "text_id": 202,
+      "paragraph_id": 48,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The author contribution: DAT: Conceptualization, Methodology, Investigation, Data curation, Formal analysis, Visualization, Project administration, Writingoriginal draft, Writingreview &amp; editing.",
+      "text_id": 203,
+      "paragraph_id": 49,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "The author contribution: DAT: Conceptualization, Methodology, Investigation, Data curation, Formal analysis, Visualization, Project administration, Writingoriginal draft, Writingreview &amp;amp; editing."
+    },
+    {
+      "text": "NB: Investigation, Data curation, Project administration, Writingreview &amp; editing.",
+      "text_id": 204,
+      "paragraph_id": 49,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "NB: Investigation, Data curation, Project administration, Writingreview &amp;amp; editing."
+    },
+    {
+      "text": "EAM: Formal analysis, Data interpretation, Writing review &amp; editing.",
+      "text_id": 205,
+      "paragraph_id": 49,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "EAM: Formal analysis, Data interpretation, Writing review &amp;amp; editing."
+    },
+    {
+      "text": "JCJ: Formal analysis, Data interpretation, Writingreview &amp; editing.",
+      "text_id": 206,
+      "paragraph_id": 49,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "JCJ: Formal analysis, Data interpretation, Writingreview &amp;amp; editing."
+    },
+    {
+      "text": "BG: Data curation, Formal analysis, Data interpretation, Project administration, Writingreview &amp; editing.",
+      "text_id": 207,
+      "paragraph_id": 49,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "BG: Data curation, Formal analysis, Data interpretation, Project administration, Writingreview &amp;amp; editing."
+    },
+    {
+      "text": "All authors contributed to manuscript writing, critically revised its intellectual content, approved the final version, and agreed with the order of authorship.",
+      "text_id": 208,
+      "paragraph_id": 49,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Written informed consent to take part in the study and to publish the article has been obtained from all participants or their legal representatives.",
+      "text_id": 209,
+      "paragraph_id": 50,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The privacy rights of participants have been observed.",
+      "text_id": 210,
+      "paragraph_id": 50,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study was performed in compliance with relevant laws, regulatory frameworks and guidelines where the research took place.",
+      "text_id": 211,
+      "paragraph_id": 51,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study was approved by the Institutional Ethics Committee of the Universidad de Santiago de Chile.",
+      "text_id": 212,
+      "paragraph_id": 51,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "(Approval No.",
+      "text_id": 213,
+      "paragraph_id": 52,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "306.22 & 053.24) Appendix A. Supplementary data Supplementary data to this article can be found online at https://doi.org/10.1016/j.jesf.2026.200548.",
+      "text_id": 214,
+      "paragraph_id": 52,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": "306.22 &amp; 053.24) Appendix A. Supplementary data Supplementary data to this article can be found online at <ref type=\"url\" target=\"https://doi.org/10.1016/j.jesf.2026.200548\">https://doi.  org/10.1016/j.jesf.2026.200548<\/ref>."
+    },
+    {
+      "text": "Fig 1.",
+      "text_id": 215,
+      "paragraph_id": 53,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relationship between relative power output at the second ventilatory threshold (VT2) and relative peak power output (Pmax) in 90 amateur road cyclists.",
+      "text_id": 216,
+      "paragraph_id": 53,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Each point represents one participant; the solid line represents the ordinary least-squares regression fit and the shaded area the 95% confidence interval.",
+      "text_id": 217,
+      "paragraph_id": 53,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pearson r = 0.911 (95% CI 0.867-0.941; p < 0.001).",
+      "text_id": 218,
+      "paragraph_id": 53,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": "Pearson r = 0.911 (95% CI 0.867-0.941; p &lt; 0.001)."
+    },
+    {
+      "text": "Dark blue markers indicate female participants (n = 11), whereas light blue markers indicate male participants (n = 79).",
+      "text_id": 219,
+      "paragraph_id": 53,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abbreviations: CI, confidence interval; Pmax, peak power output; VT2, second ventilatory threshold.",
+      "text_id": 220,
+      "paragraph_id": 53,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 2.",
+      "text_id": 221,
+      "paragraph_id": 54,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relationship between absolute power output at the second ventilatory threshold (VT2) and absolute peak power output (Pmax) in 90 amateur road cyclists.",
+      "text_id": 222,
+      "paragraph_id": 54,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Each point represents one participant; the solid line represents the ordinary least-squares regression fit and the shaded area the 95% confidence interval.",
+      "text_id": 223,
+      "paragraph_id": 54,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pearson r = 0.923 (95% CI 0.885-0.949; p < 0.001).",
+      "text_id": 224,
+      "paragraph_id": 54,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": "Pearson r = 0.923 (95% CI 0.885-0.949; p &lt; 0.001)."
+    },
+    {
+      "text": "Dark blue markers indicate female participants (n = 11), whereas light blue markers indicate male participants (n = 79).",
+      "text_id": 225,
+      "paragraph_id": 54,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Minimal jitter was applied to overlapping observations for visualization only.",
+      "text_id": 226,
+      "paragraph_id": 54,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abbreviations: CI, confidence interval; Pmax, peak power output; VT2, second ventilatory threshold.",
+      "text_id": 227,
+      "paragraph_id": 54,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 3.",
+      "text_id": 228,
+      "paragraph_id": 55,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relationship between relative power output at the second ventilatory threshold (VT2) and relative power output at the first ventilatory threshold (VT1) in 90 amateur road cyclists.",
+      "text_id": 229,
+      "paragraph_id": 55,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Each point represents one participant; the solid line represents the ordinary least-squares regression fit and the shaded area the 95% confidence interval.",
+      "text_id": 230,
+      "paragraph_id": 55,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pearson r = 0.719 (95% CI 0.601-0.806; p < 0.001).",
+      "text_id": 231,
+      "paragraph_id": 55,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": "Pearson r = 0.719 (95% CI 0.601-0.806; p &lt; 0.001)."
+    },
+    {
+      "text": "Dark blue markers indicate female participants (n = 11), whereas light blue markers indicate male participants (n = 79).",
+      "text_id": 232,
+      "paragraph_id": 55,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Abbreviations: CI, confidence interval; VT1, first ventilatory threshold; VT2, second ventilatory threshold.",
+      "text_id": 233,
+      "paragraph_id": 55,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participant characteristics and physiological variables (n = 90).",
+      "text_id": 234,
+      "paragraph_id": 56,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Continuous associations centered on VT2.",
+      "text_id": 235,
+      "paragraph_id": 57,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Partial correlations for the primary VT2-Pmax association.",
+      "text_id": 236,
+      "paragraph_id": 58,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Joyner MJ, Coyle EF. Endurance exercise performance: the physiology of champions. J Physiol. 2008;586:35-44. https://doi.org/10.1113/jphysiol.2007.143834.",
+      "text_id": 237,
+      "paragraph_id": 59,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Noone J, Mucinski JM, DeLany JP, et al. Understanding the variation in exercise responses to guide personalized physical activity prescriptions. Cell Metab. 2024;36: 702-724. https://doi.org/10.1016/j.cmet.2023.12.025.",
+      "text_id": 238,
+      "paragraph_id": 60,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lehtonen E, Gagnon D, Eklund D, et al. Hierarchical framework to improve individualised exercise prescription in adults: a critical review. BMJ Open Sport Exerc Med. 2022;8, e001339. https://doi.org/10.1136/bmjsem-2022-001339.",
+      "text_id": 239,
+      "paragraph_id": 61,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Meyler S, Bottoms L, Wellsted D, et al. Variability in exercise tolerance and physiological responses to exercise prescribed relative to physiological thresholds and to maximum oxygen uptake. Exp Physiol. 2023;108:581-594. https://doi.org/10.1113/EP090878.",
+      "text_id": 240,
+      "paragraph_id": 62,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Peinado AB, Pessôa Filho DM, Díaz V, et al. The midpoint between ventilatory thresholds approaches maximal lactate steady state intensity in amateur cyclists. Biol Sport. 2016;33(4):373-380. https://doi.org/10.5604/20831862.1221812.",
+      "text_id": 241,
+      "paragraph_id": 63,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Coyle EF. Physiological determinants of endurance exercise performance. J Sci Med Sport. 1999;2:181-189. https://doi.org/10.1016/S1440-2440(99)80172-8.",
+      "text_id": 242,
+      "paragraph_id": 64,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jeukendrup AE, Martin J. Improving cycling performance: how should we spend our time and money. Sports Med. 2001;31:559-569. https://doi.org/10.2165/00007256-200131070-00009.",
+      "text_id": 243,
+      "paragraph_id": 65,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bassett DR Jr, Howley ET. Limiting factors for maximum oxygen uptake and determinants of endurance performance. Med Sci Sports Exerc. 2000;32:70-84. https://doi.org/10.1097/00005768-200001000-00012.",
+      "text_id": 244,
+      "paragraph_id": 66,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Joyner MJ, Saltin B. Exercise physiology and human performance: systems biology before systems biology. J Physiol. 2008;586:9. https://doi.org/10.1113/jphysiol.2007.148411.",
+      "text_id": 245,
+      "paragraph_id": 67,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Impellizzeri FM, Marcora SM, Coutts AJ. Internal and external training load: 15 years on. Int J Sports Physiol Perform. 2019;14(2):270-273. https://doi.org/10.1123/ijspp.2018-0935.",
+      "text_id": 246,
+      "paragraph_id": 68,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jamnick NA, Pettitt RW, Granata C, et al. An examination and critique of current methods to determine exercise intensity. Sports Med. 2020;50:1729-1756. https://doi.org/10.1007/s40279-020-01322-8.",
+      "text_id": 247,
+      "paragraph_id": 69,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Iannetta D, Inglis EC, Mattu AT, et al. A critical evaluation of current methods for exercise prescription in women and men. Med Sci Sports Exerc. 2020;52:466-473. https://doi.org/10.1249/MSS.0000000000002147.",
+      "text_id": 248,
+      "paragraph_id": 70,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Galán-Rioja MA, González-Mohíno F, Poole DC, González-Ravé JM. Relative proximity of critical power and Metabolic/Ventilatory thresholds: systematic review and meta-analysis. Sports Med. 2020;50:1771-1783. https://doi.org/10.1007/s40279-020-01314-8.",
+      "text_id": 249,
+      "paragraph_id": 71,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Iannetta D, Inglis EC, Pogliaghi S, et al. A step-ramp-step protocol to identify the maximal metabolic steady state. Med Sci Sports Exerc. 2020;52:2011-2019. https://doi.org/10.1249/MSS.0000000000002343.",
+      "text_id": 250,
+      "paragraph_id": 72,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lucia A, Hoyos J, Chicharro JL. Physiology of professional road cycling. Sports Med. 2001;31:325-337. https://doi.org/10.2165/00007256-200131050-00004.",
+      "text_id": 251,
+      "paragraph_id": 73,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Faria EW, Parker DL, Faria IE. The science of cycling: physiology and training-part",
+      "text_id": 252,
+      "paragraph_id": 74,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sports Med. 2005;35:285-312. https://doi.org/10.2165/00007256-200535040-00002.",
+      "text_id": 253,
+      "paragraph_id": 75,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sanders D, van Erp T. The physical demands and power profile of professional men's cycling races: an updated review. Int J Sports Physiol Perform. 2021;16:3-12. https://doi.org/10.1123/ijspp.2020-0508.",
+      "text_id": 254,
+      "paragraph_id": 76,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pinot J, Grappe F. The record power profile to assess performance in elite cyclists. Int J Sports Med. 2011;32:839-844. https://doi.org/10.1055/s-0031-1279773.",
+      "text_id": 255,
+      "paragraph_id": 77,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "van Erp T, Lamberts RP, Sanders D. Power profile of top 5 results in World Tour cycling races. Int J Sports Physiol Perform. 2022;17:203-209. https://doi.org/10.1123/ijspp.2021-0081.",
+      "text_id": 256,
+      "paragraph_id": 78,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Weston SB, Gray AB, Schneider DA, et al. Effect of ramp slope on ventilation thresholds and V˙O 2 peak in male cyclists. Int J Sports Med. 2002;23:22-27. https://doi.org/10.1055/s-2002-19267.",
+      "text_id": 257,
+      "paragraph_id": 79,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Priego Quesada JI, Kerr ZY, Bertucci WM, et al. The categorization of amateur cyclists as research participants: findings from an observational study. J Sports Sci. 2018;36:2018-2024. https://doi.org/10.1080/02640414.2018.1432239.",
+      "text_id": 258,
+      "paragraph_id": 80,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Düking P, Hotho A, Holmberg HC, et al. Comparison of non-invasive individual monitoring of the training and health of athletes with commercially available wearable technologies. Front Physiol. 2016;7:71. https://doi.org/10.3389/fphys.2016.00071.",
+      "text_id": 259,
+      "paragraph_id": 81,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Contreras-Briceño F, Espinosa-Ramírez M, Moya-Gallardo E, et al. Estimation of ventilatory thresholds during exercise using respiratory wearable sensors. npj Digit Med. 2024;7:198. https://doi.org/10.1038/s41746-024-01191-9.",
+      "text_id": 260,
+      "paragraph_id": 82,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "McKay AKA, Stellingwerff T, Smith ES, et al. Defining training and performance caliber: a participant classification framework. Int J Sports Physiol Perform. 2022;17 (2):317-331. https://doi.org/10.1123/ijspp.2021-0451.",
+      "text_id": 261,
+      "paragraph_id": 83,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wilkins L, Broadbent D, Bruce L, et al. Reliability of participant classification in sport and exercise science: application of McKay et al.'s (2022) framework. J Sports Sci. 2025;43(23):2914-2926. https://doi.org/10.1080/02640414.2025.2567783.",
+      "text_id": 262,
+      "paragraph_id": 84,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hurtado DE, Abusleme A, Chávez JAP. Non-invasive continuous respiratory monitoring using temperature-based sensors. J Clin Monit Comput. 2020;34: 223-231. https://doi.org/10.1007/s10877-019-00329-5.",
+      "text_id": 263,
+      "paragraph_id": 85,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hurtado DE, Chávez JAP, Mansilla R, et al. Respiratory volume monitoring: a machine-learning approach to the non-invasive prediction of tidal volume and minute ventilation. IEEE Access. 2020;8:227936-227944. https://doi.org/10.1109/ACCESS.2020.3045603.",
+      "text_id": 264,
+      "paragraph_id": 86,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Amann M, Subudhi A, Foster C. Influence of testing protocol on ventilatory thresholds and cycling performance. Med Sci Sports Exerc. 2004;36(4):613-622. https://doi.org/10.1249/01.MSS.0000122076.21804.10.",
+      "text_id": 265,
+      "paragraph_id": 87,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Amann M, Subudhi AW, Foster C. Predictive validity of ventilatory and lactate thresholds for cycling time trial performance. Scand J Med Sci Sports. 2006;16(1): 27-34. https://doi.org/10.1111/j.1600-0838.2004.00424.x.",
+      "text_id": 266,
+      "paragraph_id": 88,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Borszcz FK, Tramontin AF, de Souza KM, Carminatti LJ, Costa VP. Physiological correlations with short, medium, and long cycling time-trial performance. Res Q Exerc Sport. 2018;89(1):120-125. https://doi.org/10.1080/02701367.2017.1411578.",
+      "text_id": 267,
+      "paragraph_id": 89,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Laursen PB, Shing CM, Tennant SC, Prentice CM, Jenkins DG. A comparison of the cycling performance of cyclists and triathletes. J Sports Sci. 2003;21(5):411-418. https://doi.org/10.1080/0264041031000071155.",
+      "text_id": 268,
+      "paragraph_id": 90,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Valenzuela PL, Alejo LB, Montalvo-Pérez A, et al. Laboratory-based determinants of simulated time trial performance in cyclists. Biol Sport. 2023;40(4):1169-1176. https://doi.org/10.5114/biolsport.2023.122484.",
+      "text_id": 269,
+      "paragraph_id": 91,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sitko S, Cirer-Sastre R, Corbi F, López-Laval I. Relationship between functional threshold power, ventilatory threshold and respiratory compensation point in road cycling. J Sports Med Phys Fitness. 2022;62(5):626-632. https://doi.org/10.23736/S0022-4707.21.12285-6.",
+      "text_id": 270,
+      "paragraph_id": 92,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Weston SB, Gabbett TJ. Reproducibility of ventilation thresholds in trained cyclists during ramp cycle exercise. J Sci Med Sport. 2001;4(3):357-366. https://doi.org/10.1016/S1440-2440(01)80044-X.",
+      "text_id": 271,
+      "paragraph_id": 93,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ross R, Goodpaster BH, Koch LG, et al. Precision exercise medicine: understanding exercise response variability. Br J Sports Med. 2019;53:1141-1153. https://doi.org/10.1136/bjsports-2018-100328.",
+      "text_id": 272,
+      "paragraph_id": 94,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Faude O, Meyer T, Kindermann W. The work rate corresponding to ventilatory threshold during steady-state and ramp exercise. Int J Sports Physiol Perform. 2006;1 (3):222-232. https://doi.org/10.1123/ijspp.1.3.222.",
+      "text_id": 273,
+      "paragraph_id": 95,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pallarés JG, Morán-Navarro R, Ortega JF, Fernández-Elías VE, Mora-Rodriguez R. Validity and reliability of ventilatory and blood lactate thresholds in well-trained cyclists. PLoS One. 2016;11(9), e0163389. https://doi.org/10.1371/journal.pone.0163389.",
+      "text_id": 274,
+      "paragraph_id": 96,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Maunder E, Seiler S, Mildenhall MJ, et al. The importance of 'durability' in the physiological profiling of endurance athletes. Sports Med. 2021;51:1619-1628. https://doi.org/10.1007/s40279-021-01459-0.",
+      "text_id": 275,
+      "paragraph_id": 97,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lucia A, Hoyos J, Pérez M, Chicharro JL. Heart rate and performance parameters in elite cyclists: a longitudinal study. Med Sci Sports Exerc. 2000;32(10):1777-1782. https://doi.org/10.1097/00005768-200010000-00018.",
+      "text_id": 276,
+      "paragraph_id": 98,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Smith JC, Dangelmaier BS, Hill DW. Critical power is related to cycling time trial performance. Int J Sports Med. 1999;20(6):374-378. https://doi.org/10.1055/s-2007-971147.",
+      "text_id": 277,
+      "paragraph_id": 99,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Barranco-Gil D, Gil-Cabrera J, Valenzuela PL, et al. Functional threshold power: relationship with respiratory compensation point and effects of various warm-up protocols. Int J Sports Physiol Perform. 2020;15(7):1047-1051. https://doi.org/10.1123/ijspp.2019-0402.",
+      "text_id": 278,
+      "paragraph_id": 100,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Study design",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Participants",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.3. Equipment and experimental conditions",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.4. Incremental exercise protocol",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.5. Determination of ventilatory thresholds",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "2.6. Data analysis and statistical procedures",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "3.1. Participant characteristics",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "3.2. Continuous associations centered on VT2",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "3.3. Sensitivity analyses of the VT2-Pmax association",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "3.4. Secondary VT2 tertile analyses",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "4.1. Limitations",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "4.2. Practical applications",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "4.3. Future research",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "5. Conclusion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "Acknowledgments",
+      "parent_section_id": null,
+      "section_type": "acknowledgement",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "Funding/support statement",
+      "parent_section_id": null,
+      "section_type": "funding",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Data availability statement",
+      "parent_section_id": null,
+      "section_type": "availability",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "Declaration of generative AI and AI-assisted technologies in the manuscript preparation process",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "Declarations of interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 24,
+      "header": "Author contributions",
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 25,
+      "header": "Ethics declaration",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 26,
+      "header": "Fig 1.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 27,
+      "header": "Fig 2.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 28,
+      "header": "Fig 3.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 29,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 30,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 31,
+      "header": "Table 3",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 32,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [
+    {
+      "href": "https://doi.org/10.1016/j.jesf.2026.200548",
+      "link_text": null,
+      "text_id": 214
+    }
+  ],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "10.1113/jphysiol.2007.143834",
+      "title": "Endurance exercise performance: the physiology of champions",
+      "authors": "Joyner, M J; Coyle, E F",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "586",
+      "issue": "",
+      "first_page": "35",
+      "last_page": "44",
+      "container": "J Physiol",
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 237
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.cmet.2023.12.025",
+      "title": "Understanding the variation in exercise responses to guide personalized physical activity prescriptions",
+      "authors": "Noone, J; Mucinski, J M; Delany, J P",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "36",
+      "issue": "",
+      "first_page": "702",
+      "last_page": "724",
+      "container": "Cell Metab",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 238
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bmjsem-2022-001339",
+      "title": "Hierarchical framework to improve individualised exercise prescription in adults: a critical review",
+      "authors": "Lehtonen, E; Gagnon, D; Eklund, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "8",
+      "issue": "",
+      "first_page": "1339",
+      "last_page": null,
+      "container": "BMJ Open Sport Exerc Med",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 239
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1113/EP090878",
+      "title": "Variability in exercise tolerance and physiological responses to exercise prescribed relative to physiological thresholds and to maximum oxygen uptake",
+      "authors": "Meyler, S; Bottoms, L; Wellsted, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "108",
+      "issue": "",
+      "first_page": "581",
+      "last_page": "594",
+      "container": "Exp Physiol",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 240
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.5604/20831862.1221812",
+      "title": "The midpoint between ventilatory thresholds approaches maximal lactate steady state intensity in amateur cyclists",
+      "authors": "Peinado, A B; Filho, Pessôa; Díaz, D M; , V",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "33",
+      "issue": "4",
+      "first_page": "373",
+      "last_page": "380",
+      "container": "Biol Sport",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 241
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/S1440-2440(99)80172-8",
+      "title": "Physiological determinants of endurance exercise performance",
+      "authors": "Coyle, E F",
+      "editors": "",
+      "publisher": "",
+      "year": 1999,
+      "volume": "2",
+      "issue": "",
+      "first_page": "181",
+      "last_page": "189",
+      "container": "J Sci Med Sport",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 242
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2165/00007256-200131070-00009",
+      "title": "Improving cycling performance: how should we spend our time and money",
+      "authors": "Jeukendrup, A E; Martin, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2001,
+      "volume": "31",
+      "issue": "",
+      "first_page": "559",
+      "last_page": "569",
+      "container": "Sports Med",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 243
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/00005768-200001000-00012",
+      "title": "Limiting factors for maximum oxygen uptake and determinants of endurance performance",
+      "authors": "Bassett Dr, ; Howley, E T",
+      "editors": "",
+      "publisher": "",
+      "year": 2000,
+      "volume": "32",
+      "issue": "",
+      "first_page": "70",
+      "last_page": "84",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 244
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1113/jphysiol.2007.148411",
+      "title": "Exercise physiology and human performance: systems biology before systems biology",
+      "authors": "Joyner, M J; Saltin, B",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "586",
+      "issue": "",
+      "first_page": "9",
+      "last_page": null,
+      "container": "J Physiol",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 245
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1123/ijspp.2018-0935",
+      "title": "Internal and external training load: 15 years on",
+      "authors": "Impellizzeri, F M; Marcora, S M; Coutts, A J",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "14",
+      "issue": "2",
+      "first_page": "270",
+      "last_page": "273",
+      "container": "Int J Sports Physiol Perform",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 246
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-020-01322-8",
+      "title": "An examination and critique of current methods to determine exercise intensity",
+      "authors": "Jamnick, N A; Pettitt, R W; Granata, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "50",
+      "issue": "",
+      "first_page": "1729",
+      "last_page": "1756",
+      "container": "Sports Med",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 247
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1249/MSS.0000000000002147",
+      "title": "A critical evaluation of current methods for exercise prescription in women and men",
+      "authors": "Iannetta, D; Inglis, E C; Mattu, A T",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "52",
+      "issue": "",
+      "first_page": "466",
+      "last_page": "473",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 248
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-020-01314-8",
+      "title": "Relative proximity of critical power and Metabolic/Ventilatory thresholds: systematic review and meta-analysis",
+      "authors": "Galán-Rioja, M A; González-Mohíno, F; Poole, D C; González-Ravé, J M",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "50",
+      "issue": "",
+      "first_page": "1771",
+      "last_page": "1783",
+      "container": "Sports Med",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 249
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1249/MSS.0000000000002343",
+      "title": "A step-ramp-step protocol to identify the maximal metabolic steady state",
+      "authors": "Iannetta, D; Inglis, E C; Pogliaghi, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "52",
+      "issue": "",
+      "first_page": "2011",
+      "last_page": "2019",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 250
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2165/00007256-200131050-00004",
+      "title": "Physiology of professional road cycling",
+      "authors": "Lucia, A; Hoyos, J; Chicharro, J L",
+      "editors": "",
+      "publisher": "",
+      "year": 2001,
+      "volume": "31",
+      "issue": "",
+      "first_page": "325",
+      "last_page": "337",
+      "container": "Sports Med",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 251
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "The science of cycling: physiology and training-part",
+      "authors": "Faria, E W; Parker, D L; Faria, I E",
+      "editors": "",
+      "publisher": "",
+      "year": null,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 15,
+      "year_suffix": null,
+      "text_id": 252
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.2165/00007256-200535040-00002",
+      "title": "",
+      "authors": "",
+      "editors": "",
+      "publisher": "",
+      "year": 2005,
+      "volume": "35",
+      "issue": "",
+      "first_page": "285",
+      "last_page": "312",
+      "container": "Sports Med",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 253
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1123/ijspp.2020-0508",
+      "title": "The physical demands and power profile of professional men's cycling races: an updated review",
+      "authors": "Sanders, D; Van Erp, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "16",
+      "issue": "",
+      "first_page": "3",
+      "last_page": "12",
+      "container": "Int J Sports Physiol Perform",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 254
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1055/s-0031-1279773",
+      "title": "The record power profile to assess performance in elite cyclists",
+      "authors": "Pinot, J; Grappe, F",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "32",
+      "issue": "",
+      "first_page": "839",
+      "last_page": "844",
+      "container": "Int J Sports Med",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 255
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1123/ijspp.2021-0081",
+      "title": "Power profile of top 5 results in World Tour cycling races",
+      "authors": "Van Erp, T; Lamberts, R P; Sanders, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "17",
+      "issue": "",
+      "first_page": "203",
+      "last_page": "209",
+      "container": "Int J Sports Physiol Perform",
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 256
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1055/s-2002-19267",
+      "title": "Effect of ramp slope on ventilation thresholds and V˙O 2 peak in male cyclists",
+      "authors": "Weston, S B; Gray, A B; Schneider, D A",
+      "editors": "",
+      "publisher": "",
+      "year": 2002,
+      "volume": "23",
+      "issue": "",
+      "first_page": "22",
+      "last_page": "27",
+      "container": "Int J Sports Med",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 257
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/02640414.2018.1432239",
+      "title": "The categorization of amateur cyclists as research participants: findings from an observational study",
+      "authors": "Quesada, Priego; Kerr, J I; Bertucci, Z Y; , W M",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "36",
+      "issue": "",
+      "first_page": "2018",
+      "last_page": "2024",
+      "container": "J Sports Sci",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 258
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3389/fphys.2016.00071",
+      "title": "Comparison of non-invasive individual monitoring of the training and health of athletes with commercially available wearable technologies",
+      "authors": "Düking, P; Hotho, A; Holmberg, H C",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "7",
+      "issue": "",
+      "first_page": "71",
+      "last_page": null,
+      "container": "Front Physiol",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 259
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1038/s41746-024-01191-9",
+      "title": "Estimation of ventilatory thresholds during exercise using respiratory wearable sensors",
+      "authors": "Contreras-Briceño, F; Espinosa-Ramírez, M; Gallardo, Moya -; , E",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "7",
+      "issue": "",
+      "first_page": "198",
+      "last_page": null,
+      "container": "Digit Med",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 260
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1123/ijspp.2021-0451",
+      "title": "Defining training and performance caliber: a participant classification framework",
+      "authors": "Mckay, Aka; Stellingwerff, T; Smith, E S",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "17",
+      "issue": "2",
+      "first_page": "317",
+      "last_page": "331",
+      "container": "Int J Sports Physiol Perform",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 261
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/02640414.2025.2567783",
+      "title": "Reliability of participant classification in sport and exercise science: application of McKay et al.'s (2022) framework",
+      "authors": "Wilkins, L; Broadbent, D; Bruce, L",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "43",
+      "issue": "23",
+      "first_page": "2914",
+      "last_page": "2926",
+      "container": "J Sports Sci",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 262
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s10877-019-00329-5",
+      "title": "Non-invasive continuous respiratory monitoring using temperature-based sensors",
+      "authors": "Hurtado, D E; Abusleme, A; Chávez, Jap",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "34",
+      "issue": "",
+      "first_page": "223",
+      "last_page": "231",
+      "container": "J Clin Monit Comput",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 263
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1109/ACCESS.2020.3045603",
+      "title": "Respiratory volume monitoring: a machine-learning approach to the non-invasive prediction of tidal volume and minute ventilation",
+      "authors": "Hurtado, D E; Chávez, Jap; Mansilla, R",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "8",
+      "issue": "",
+      "first_page": "227936",
+      "last_page": "227944",
+      "container": "IEEE Access",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 264
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1249/01.MSS.0000122076.21804.10",
+      "title": "Influence of testing protocol on ventilatory thresholds and cycling performance",
+      "authors": "Amann, M; Subudhi, A; Foster, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "36",
+      "issue": "4",
+      "first_page": "613",
+      "last_page": "622",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 265
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1111/j.1600-0838.2004.00424.x",
+      "title": "Predictive validity of ventilatory and lactate thresholds for cycling time trial performance",
+      "authors": "Amann, M; Subudhi, A W; Foster, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "16",
+      "issue": "1",
+      "first_page": "27",
+      "last_page": "34",
+      "container": "Scand J Med Sci Sports",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 266
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/02701367.2017.1411578",
+      "title": "Physiological correlations with short, medium, and long cycling time-trial performance",
+      "authors": "Borszcz, F K; Tramontin, A F; De Souza, K M; Carminatti, L J; Costa, V P",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "89",
+      "issue": "1",
+      "first_page": "120",
+      "last_page": "125",
+      "container": "Res Q Exerc Sport",
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 267
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/0264041031000071155",
+      "title": "A comparison of the cycling performance of cyclists and triathletes",
+      "authors": "Laursen, P B; Shing, C M; Tennant, S C; Prentice, C M; Jenkins, D G",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "21",
+      "issue": "5",
+      "first_page": "411",
+      "last_page": "418",
+      "container": "J Sports Sci",
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 268
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.5114/biolsport.2023.122484",
+      "title": "Laboratory-based determinants of simulated time trial performance in cyclists",
+      "authors": "Valenzuela, P L; Alejo, L B; Montalvo-Pérez, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "40",
+      "issue": "4",
+      "first_page": "1169",
+      "last_page": "1176",
+      "container": "Biol Sport",
+      "bib_id": 32,
+      "year_suffix": "",
+      "text_id": 269
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.23736/S0022-4707.21.12285-6",
+      "title": "López-Laval I. Relationship between functional threshold power, ventilatory threshold and respiratory compensation point in road cycling",
+      "authors": "Sitko, S; Cirer-Sastre, R; Corbi, F",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "62",
+      "issue": "5",
+      "first_page": "12285",
+      "last_page": "12286",
+      "container": "J Sports Med Phys Fitness",
+      "bib_id": 33,
+      "year_suffix": "",
+      "text_id": 270
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/S1440-2440(01)80044-X",
+      "title": "Reproducibility of ventilation thresholds in trained cyclists during ramp cycle exercise",
+      "authors": "Weston, S B; Gabbett, T J",
+      "editors": "",
+      "publisher": "",
+      "year": 2001,
+      "volume": "4",
+      "issue": "3",
+      "first_page": "357",
+      "last_page": "366",
+      "container": "J Sci Med Sport",
+      "bib_id": 34,
+      "year_suffix": "",
+      "text_id": 271
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2018-100328",
+      "title": "Precision exercise medicine: understanding exercise response variability",
+      "authors": "Ross, R; Goodpaster, B H; Koch, L G",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "53",
+      "issue": "",
+      "first_page": "1141",
+      "last_page": "1153",
+      "container": "Br J Sports Med",
+      "bib_id": 35,
+      "year_suffix": "",
+      "text_id": 272
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1123/ijspp.1.3.222",
+      "title": "The work rate corresponding to ventilatory threshold during steady-state and ramp exercise",
+      "authors": "Faude, O; Meyer, T; Kindermann, W",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "1",
+      "issue": "3",
+      "first_page": "222",
+      "last_page": "232",
+      "container": "Int J Sports Physiol Perform",
+      "bib_id": 36,
+      "year_suffix": "",
+      "text_id": 273
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0163389",
+      "title": "Validity and reliability of ventilatory and blood lactate thresholds in well-trained cyclists",
+      "authors": "Pallarés, J G; Morán-Navarro, R; Ortega, J F; Ve, Fernández-Elías; Rodriguez, Mora -; , R",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "11",
+      "issue": "9",
+      "first_page": "163389",
+      "last_page": null,
+      "container": "PLoS One",
+      "bib_id": 37,
+      "year_suffix": "",
+      "text_id": 274
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s40279-021-01459-0",
+      "title": "The importance of 'durability' in the physiological profiling of endurance athletes",
+      "authors": "Maunder, E; Seiler, S; Mildenhall, M J",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "51",
+      "issue": "",
+      "first_page": "1619",
+      "last_page": "1628",
+      "container": "Sports Med",
+      "bib_id": 38,
+      "year_suffix": "",
+      "text_id": 275
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1097/00005768-200010000-00018",
+      "title": "Heart rate and performance parameters in elite cyclists: a longitudinal study",
+      "authors": "Lucia, A; Hoyos, J; Pérez, M; Chicharro, J L",
+      "editors": "",
+      "publisher": "",
+      "year": 2000,
+      "volume": "32",
+      "issue": "10",
+      "first_page": "1777",
+      "last_page": "1782",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 39,
+      "year_suffix": "",
+      "text_id": 276
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1055/s-2007-971147",
+      "title": "Critical power is related to cycling time trial performance",
+      "authors": "Smith, J C; Dangelmaier, B S; Hill, D W",
+      "editors": "",
+      "publisher": "",
+      "year": 1999,
+      "volume": "20",
+      "issue": "6",
+      "first_page": "374",
+      "last_page": "378",
+      "container": "Int J Sports Med",
+      "bib_id": 40,
+      "year_suffix": "",
+      "text_id": 277
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1123/ijspp.2019-0402",
+      "title": "Functional threshold power: relationship with respiratory compensation point and effects of various warm-up protocols",
+      "authors": "Barranco-Gil, D; Gil-Cabrera, J; Valenzuela, P L",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "15",
+      "issue": "7",
+      "first_page": "1047",
+      "last_page": "1051",
+      "container": "Int J Sports Physiol Perform",
+      "bib_id": 41,
+      "year_suffix": "",
+      "text_id": 278
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": null,
+      "xref_type": "bibr",
+      "contents": "[1]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 12
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 13
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "[6]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "[8]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "[9]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "[6]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "[8]",
+      "text_id": 13
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 14
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 16
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 17
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 17
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 18
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 18
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13",
+      "text_id": 18
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10,",
+      "text_id": 18
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13,",
+      "text_id": 18
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 18
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "[17]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "[18]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[19]",
+      "text_id": 18
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "20",
+      "text_id": 22
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 24
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "22",
+      "text_id": 25
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 25
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "24",
+      "text_id": 47
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 47
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 59
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 68
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 68
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 68
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "S1",
+      "text_id": 92
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "S2",
+      "text_id": 92
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "S1",
+      "text_id": 92
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "S1",
+      "text_id": 104
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "S1",
+      "text_id": 104
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 107
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 108
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 108
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "3",
+      "text_id": 109
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 113
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 116
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "S3",
+      "text_id": 122
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S4",
+      "text_id": 124
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "S1",
+      "text_id": 125
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "S2",
+      "text_id": 127
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "S1",
+      "text_id": 127
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "[6]",
+      "text_id": 133
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 133
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "[8]",
+      "text_id": 133
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15,",
+      "text_id": 133
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 133
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "[28]",
+      "text_id": 139
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "[29]",
+      "text_id": 139
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "[30]",
+      "text_id": 139
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "[31]",
+      "text_id": 139
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "[32]",
+      "text_id": 139
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 139
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "33",
+      "text_id": 142
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 149
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 149
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 149
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 153
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 153
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 153
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "35",
+      "text_id": 153
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "20",
+      "text_id": 155
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 155
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 158
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 158
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 158
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 158
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 158
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "S1",
+      "text_id": 158
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "S1",
+      "text_id": 158
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "20",
+      "text_id": 160
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 160
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "36",
+      "text_id": 161
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 161
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 164
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "26,",
+      "text_id": 164
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 164
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "34,",
+      "text_id": 166
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "37",
+      "text_id": 166
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16,",
+      "text_id": 177
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "17,",
+      "text_id": 177
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "29,",
+      "text_id": 177
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "36",
+      "text_id": 177
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 179
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "23,",
+      "text_id": 181
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "26,",
+      "text_id": 181
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "27,",
+      "text_id": 181
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "34,",
+      "text_id": 181
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "37",
+      "text_id": 181
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 185
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 185
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 185
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "[17]",
+      "text_id": 185
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "[18]",
+      "text_id": 185
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[19]",
+      "text_id": 185
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "[2]",
+      "text_id": 186
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 186
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 186
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 186
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 186
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "35,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 38,
+      "xref_type": "bibr",
+      "contents": "38,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 39,
+      "xref_type": "bibr",
+      "contents": "39",
+      "text_id": 189
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "33,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 40,
+      "xref_type": "bibr",
+      "contents": "40,",
+      "text_id": 189
+    },
+    {
+      "xref_id": 41,
+      "xref_type": "bibr",
+      "contents": "41",
+      "text_id": 189
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 26,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 27,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 3,
+      "section_id": 28,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 29,
+      "html": "<table>\n  <row>\n    <cell>Variable<\/cell>\n    <cell>n<\/cell>\n    <cell>Mean ± SD<\/cell>\n    <cell>Range<\/cell>\n  <\/row>\n  <row>\n    <cell>Age (y)<\/cell>\n    <cell>90<\/cell>\n    <cell>29.6 ± 5.7<\/cell>\n    <cell>18.0-40.0<\/cell>\n  <\/row>\n  <row>\n    <cell>Body mass (kg)<\/cell>\n    <cell>90<\/cell>\n    <cell>72.9 ± 9.8<\/cell>\n    <cell>52.0-96.0<\/cell>\n  <\/row>\n  <row>\n    <cell>Height (cm) Training volume (h⋅wk -1 )<\/cell>\n    <cell>90 90<\/cell>\n    <cell>172.5 ± 7.7 12.5 ± 4.8<\/cell>\n    <cell>148.0-190.0 3.0-25.0<\/cell>\n  <\/row>\n  <row>\n    <cell>Cycling experience (y)<\/cell>\n    <cell>90<\/cell>\n    <cell>4.8 ± 1.4<\/cell>\n    <cell>2.5-7.1<\/cell>\n  <\/row>\n  <row>\n    <cell>VT1 (W) VT1 (W⋅kg -1 )<\/cell>\n    <cell>90 90<\/cell>\n    <cell>164.8 ± 33.5 2.28 ± 0.44<\/cell>\n    <cell>100.0-240.0 1.37-3.53<\/cell>\n  <\/row>\n  <row>\n    <cell>VT2 (W) VT2 (W⋅kg -1 )<\/cell>\n    <cell>90 90<\/cell>\n    <cell>260.9 ± 43.2 3.61 ± 0.57<\/cell>\n    <cell>150.0-359.0 2.45-5.20<\/cell>\n  <\/row>\n  <row>\n    <cell>Pmax (W) Pmax (W⋅kg -1 )<\/cell>\n    <cell>90 90<\/cell>\n    <cell>319.1 ± 52.4 4.41 ± 0.66<\/cell>\n    <cell>180.0-420.0 2.92-6.18<\/cell>\n  <\/row>\n  <row>\n    <cell>VT2/Pmax (%)<\/cell>\n    <cell>90<\/cell>\n    <cell>81.9 ± 5.2<\/cell>\n    <cell>68.8-94.8<\/cell>\n  <\/row>\n  <row>\n    <cell>Male, n (%)<\/cell>\n    <cell>79<\/cell>\n    <cell>87.8<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Female, n (%)<\/cell>\n    <cell>11<\/cell>\n    <cell>12.2<\/cell>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variable", "n", "Mean ± SD", "Range"],
+        ["Age (y)", "90", "29.6 ± 5.7", "18.0-40.0"],
+        ["Body mass (kg)", "90", "72.9 ± 9.8", "52.0-96.0"],
+        ["Height (cm) Training volume (h⋅wk -1 )", "90 90", "172.5 ± 7.7 12.5 ± 4.8", "148.0-190.0 3.0-25.0"],
+        ["Cycling experience (y)", "90", "4.8 ± 1.4", "2.5-7.1"],
+        ["VT1 (W) VT1 (W⋅kg -1 )", "90 90", "164.8 ± 33.5 2.28 ± 0.44", "100.0-240.0 1.37-3.53"],
+        ["VT2 (W) VT2 (W⋅kg -1 )", "90 90", "260.9 ± 43.2 3.61 ± 0.57", "150.0-359.0 2.45-5.20"],
+        ["Pmax (W) Pmax (W⋅kg -1 )", "90 90", "319.1 ± 52.4 4.41 ± 0.66", "180.0-420.0 2.92-6.18"],
+        ["VT2/Pmax (%)", "90", "81.9 ± 5.2", "68.8-94.8"],
+        ["Male, n (%)", "79", "87.8", ""],
+        ["Female, n (%)", "11", "12.2", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 30,
+      "html": "<table>\n  <row>\n    <cell>Association<\/cell>\n    <cell>Pearson r<\/cell>\n    <cell>95% CI<\/cell>\n    <cell>p<\/cell>\n    <cell>Spearman ρ<\/cell>\n    <cell>Spearman p<\/cell>\n    <cell>BH-FDR q<\/cell>\n  <\/row>\n  <row>\n    <cell>VT2 (W⋅kg -1 ) vs Pmax (W⋅kg -1 )<\/cell>\n    <cell>0.911<\/cell>\n    <cell>0.867 to 0.941<\/cell>\n    <cell>&lt; 0.001<\/cell>\n    <cell>0.910<\/cell>\n    <cell>&lt; 0.001<\/cell>\n    <cell>&lt; 0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>VT2 (W) vs Pmax (W) VT2 (W⋅kg -1 ) vs VT1 (W⋅kg -1 )<\/cell>\n    <cell>0.923 0.719<\/cell>\n    <cell>0.885 to 0.949 0.601 to 0.806<\/cell>\n    <cell>&lt; 0.001 &lt; 0.001<\/cell>\n    <cell>0.903 0.709<\/cell>\n    <cell>&lt; 0.001 &lt; 0.001<\/cell>\n    <cell>&lt; 0.001 &lt; 0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>VT2 (W) vs VT1 (W) VT2 (W⋅kg -1 ) vs VT2/Pmax (%) VT2 (W⋅kg -1 ) vs body mass (kg)<\/cell>\n    <cell>0.746 0.307 -0.325<\/cell>\n    <cell>0.637 to 0.825 0.107 to 0.483 -0.499 to -0.127<\/cell>\n    <cell>&lt; 0.001 0.003 0.002<\/cell>\n    <cell>0.707 0.270 -0.329<\/cell>\n    <cell>&lt; 0.001 0.010 0.002<\/cell>\n    <cell>&lt; 0.001 0.005 0.003<\/cell>\n  <\/row>\n  <row>\n    <cell>VT2 (W) vs body mass (kg) VT2 (W⋅kg -1 ) vs training (h⋅wk -1 ) VT2 (W) vs training (h⋅wk -1 ) VT2 (W⋅kg -1 ) vs age (y)<\/cell>\n    <cell>0.451 0.197 0.163 -0.088<\/cell>\n    <cell>0.269 to 0.602 -0.011 to 0.388 -0.046 to 0.358 -0.290 to 0.121<\/cell>\n    <cell>&lt; 0.001 0.063 0.126 0.408<\/cell>\n    <cell>0.444 0.219 0.146 -0.128<\/cell>\n    <cell>&lt; 0.001 0.038 0.169 0.229<\/cell>\n    <cell>&lt; 0.001 0.087 0.154 0.449<\/cell>\n  <\/row>\n  <row>\n    <cell>VT2 (W) vs age (y)<\/cell>\n    <cell>-0.034<\/cell>\n    <cell>-0.239 to 0.175<\/cell>\n    <cell>0.754<\/cell>\n    <cell>-0.066<\/cell>\n    <cell>0.536<\/cell>\n    <cell>0.754<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"5\">BH-FDR q values refer to Benjamini-Hochberg adjustment of the Pearson p values across the prespecified 11-association family.<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell cols=\"7\">Abbreviations: BH-FDR, Benjamini-Hochberg false discovery rate; CI, confidence interval; Pmax, peak power output; VT1, first ventilatory threshold; VT2, second<\/cell>\n  <\/row>\n  <row>\n    <cell>ventilatory threshold.<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Association / VT2 (W⋅kg -1 ) vs Pmax (W⋅kg -1 ) / VT2 (W) vs Pmax (W) VT2 (W⋅kg -1 ) vs VT1 (W⋅kg -1 ) / VT2 (W) vs VT1 (W) VT2 (W⋅kg -1 ) vs VT2/Pmax (%) VT2 (W⋅kg -1 ) vs body mass (kg) / VT2 (W) vs body mass (kg) VT2 (W⋅kg -1 ) vs training (h⋅wk -1 ) VT2 (W) vs training (h⋅wk -1 ) VT2 (W⋅kg -1 ) vs age (y)", "Pearson r / 0.911 / 0.923 0.719 / 0.746 0.307 -0.325 / 0.451 0.197 0.163 -0.088", "95% CI / 0.867 to 0.941 / 0.885 to 0.949 0.601 to 0.806 / 0.637 to 0.825 0.107 to 0.483 -0.499 to -0.127 / 0.269 to 0.602 -0.011 to 0.388 -0.046 to 0.358 -0.290 to 0.121", "p / < 0.001 / < 0.001 < 0.001 / < 0.001 0.003 0.002 / < 0.001 0.063 0.126 0.408", "Spearman ρ / 0.910 / 0.903 0.709 / 0.707 0.270 -0.329 / 0.444 0.219 0.146 -0.128", "Spearman p / < 0.001 / < 0.001 < 0.001 / < 0.001 0.010 0.002 / < 0.001 0.038 0.169 0.229", "BH-FDR q / < 0.001 / < 0.001 < 0.001 / < 0.001 0.005 0.003 / < 0.001 0.087 0.154 0.449"],
+        ["VT2 (W) vs age (y)", "-0.034", "-0.239 to 0.175", "0.754", "-0.066", "0.536", "0.754"],
+        ["BH-FDR q values refer to Benjamini-Hochberg adjustment of the Pearson p values across the prespecified 11-association family.", "BH-FDR q values refer to Benjamini-Hochberg adjustment of the Pearson p values across the prespecified 11-association family.", "BH-FDR q values refer to Benjamini-Hochberg adjustment of the Pearson p values across the prespecified 11-association family.", "BH-FDR q values refer to Benjamini-Hochberg adjustment of the Pearson p values across the prespecified 11-association family.", "BH-FDR q values refer to Benjamini-Hochberg adjustment of the Pearson p values across the prespecified 11-association family.", "", ""],
+        ["Abbreviations: BH-FDR, Benjamini-Hochberg false discovery rate; CI, confidence interval; Pmax, peak power output; VT1, first ventilatory threshold; VT2, second", "Abbreviations: BH-FDR, Benjamini-Hochberg false discovery rate; CI, confidence interval; Pmax, peak power output; VT1, first ventilatory threshold; VT2, second", "Abbreviations: BH-FDR, Benjamini-Hochberg false discovery rate; CI, confidence interval; Pmax, peak power output; VT1, first ventilatory threshold; VT2, second", "Abbreviations: BH-FDR, Benjamini-Hochberg false discovery rate; CI, confidence interval; Pmax, peak power output; VT1, first ventilatory threshold; VT2, second", "Abbreviations: BH-FDR, Benjamini-Hochberg false discovery rate; CI, confidence interval; Pmax, peak power output; VT1, first ventilatory threshold; VT2, second", "Abbreviations: BH-FDR, Benjamini-Hochberg false discovery rate; CI, confidence interval; Pmax, peak power output; VT1, first ventilatory threshold; VT2, second", "Abbreviations: BH-FDR, Benjamini-Hochberg false discovery rate; CI, confidence interval; Pmax, peak power output; VT1, first ventilatory threshold; VT2, second"],
+        ["ventilatory threshold.", "", "", "", "", "", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 3,
+      "section_id": 31,
+      "html": "<table>\n  <row>\n    <cell>Scale<\/cell>\n    <cell>Covariates controlled<\/cell>\n    <cell>Partial r<\/cell>\n    <cell>95% CI<\/cell>\n    <cell>p<\/cell>\n  <\/row>\n  <row>\n    <cell>Relative<\/cell>\n    <cell>Body mass<\/cell>\n    <cell>0.902<\/cell>\n    <cell>0.854-0.934<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>Relative<\/cell>\n    <cell>Body mass + age + training<\/cell>\n    <cell>0.897<\/cell>\n    <cell>0.848-0.931<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>volume<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Absolute<\/cell>\n    <cell>Body mass<\/cell>\n    <cell>0.903<\/cell>\n    <cell>0.855-0.935<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>Absolute<\/cell>\n    <cell>Body mass + age + training<\/cell>\n    <cell>0.899<\/cell>\n    <cell>0.850-0.932<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>volume<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Scale", "Covariates controlled", "Partial r", "95% CI", "p"],
+        ["Relative", "Body mass", "0.902", "0.854-0.934", "<0.001"],
+        ["Relative", "Body mass + age + training", "0.897", "0.848-0.931", "<0.001"],
+        ["", "volume", "", "", ""],
+        ["Absolute", "Body mass", "0.903", "0.855-0.935", "<0.001"],
+        ["Absolute", "Body mass + age + training", "0.899", "0.850-0.932", "<0.001"],
+        ["", "volume", "", "", ""]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 6,
+      "grp_id": 1,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.911"
+    },
+    {
+      "text_id": 6,
+      "grp_id": 1,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 6,
+      "grp_id": 1,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.923"
+    },
+    {
+      "text_id": 6,
+      "grp_id": 1,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 7,
+      "grp_id": 2,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.719"
+    },
+    {
+      "text_id": 7,
+      "grp_id": 2,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.746"
+    },
+    {
+      "text_id": 7,
+      "grp_id": 2,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.307"
+    },
+    {
+      "text_id": 49,
+      "grp_id": 3,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "90"
+    },
+    {
+      "text_id": 49,
+      "grp_id": 3,
+      "lhs": "α",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 88,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "31"
+    },
+    {
+      "text_id": 88,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "29"
+    },
+    {
+      "text_id": 88,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "30"
+    },
+    {
+      "text_id": 100,
+      "grp_id": 5,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "79"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 6,
+      "lhs": "α",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 7,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 8,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.902"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 8,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.903"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 8,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 115,
+      "grp_id": 9,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.897"
+    },
+    {
+      "text_id": 115,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 117,
+      "grp_id": 10,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "79"
+    },
+    {
+      "text_id": 117,
+      "grp_id": 10,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.902"
+    },
+    {
+      "text_id": 117,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 117,
+      "grp_id": 10,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.885"
+    },
+    {
+      "text_id": 117,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 11,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.718"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 11,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.686"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 120,
+      "grp_id": 12,
+      "lhs": "B",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.052"
+    },
+    {
+      "text_id": 120,
+      "grp_id": 12,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.905"
+    },
+    {
+      "text_id": 120,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 120,
+      "grp_id": 12,
+      "lhs": "R²",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.822"
+    },
+    {
+      "text_id": 120,
+      "grp_id": 12,
+      "lhs": "B",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.064"
+    },
+    {
+      "text_id": 120,
+      "grp_id": 12,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.877"
+    },
+    {
+      "text_id": 120,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 120,
+      "grp_id": 12,
+      "lhs": "R²",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.854"
+    },
+    {
+      "text_id": 123,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.848"
+    },
+    {
+      "text_id": 123,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.962"
+    },
+    {
+      "text_id": 123,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.755"
+    },
+    {
+      "text_id": 126,
+      "grp_id": 14,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 126,
+      "grp_id": 14,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.051"
+    },
+    {
+      "text_id": 141,
+      "grp_id": 15,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.911"
+    },
+    {
+      "text_id": 141,
+      "grp_id": 15,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.923"
+    },
+    {
+      "text_id": 218,
+      "grp_id": 16,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.911"
+    },
+    {
+      "text_id": 218,
+      "grp_id": 16,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 219,
+      "grp_id": 17,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "11"
+    },
+    {
+      "text_id": 219,
+      "grp_id": 17,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "79"
+    },
+    {
+      "text_id": 224,
+      "grp_id": 18,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.923"
+    },
+    {
+      "text_id": 224,
+      "grp_id": 18,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 225,
+      "grp_id": 19,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "11"
+    },
+    {
+      "text_id": 225,
+      "grp_id": 19,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "79"
+    },
+    {
+      "text_id": 231,
+      "grp_id": 20,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.719"
+    },
+    {
+      "text_id": 231,
+      "grp_id": 20,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 232,
+      "grp_id": 21,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "11"
+    },
+    {
+      "text_id": 232,
+      "grp_id": 21,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "79"
+    },
+    {
+      "text_id": 234,
+      "grp_id": 22,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "90"
+    }
+  ]
+}

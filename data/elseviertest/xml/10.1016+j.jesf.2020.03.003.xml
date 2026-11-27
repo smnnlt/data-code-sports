@@ -1,0 +1,2308 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1728869X19303508</prism:url><dc:identifier>doi:10.1016/j.jesf.2020.03.003</dc:identifier><eid>1-s2.0-S1728869X19303508</eid><prism:doi>10.1016/j.jesf.2020.03.003</prism:doi><pii>S1728-869X(19)30350-8</pii><dc:title>Resistance training affects the hemodynamic parameters of hypertensive and normotensive women differently, and regardless of performance improvement </dc:title><prism:publicationName>Journal of Exercise Science &amp; Fitness</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>1728869X</prism:issn><prism:volume>18</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>122</prism:startingPage><prism:endingPage>128</prism:endingPage><prism:pageRange>122-128</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2020-09-30</prism:coverDate><prism:coverDisplayDate>September 2020</prism:coverDisplayDate><prism:copyright>© 2020 The Society of Chinese Scholars on Exercise Physiology and Fitness. Published by Elsevier (Singapore) Pte Ltd.</prism:copyright><prism:publisher>The Society of Chinese Scholars on Exercise Physiology and Fitness. Published by Elsevier (Singapore) Pte Ltd.</prism:publisher><dc:creator>De Sá, Clodoaldo Antônio</dc:creator><dc:creator>Catani, Diana</dc:creator><dc:creator>Cardoso, Andréia Machado</dc:creator><dc:creator>Da Silva-Grigoletto, Marzo Edir</dc:creator><dc:creator>Battiston, Francielle Garghetti</dc:creator><dc:creator>Corralo, Vanessa Silva</dc:creator><dc:description>
+                  Background/Objective
+                  Although the positive effects of resistance training (RT) on strength and functional capacity have been well evidenced in the scientific literature, the effects of RT on blood pressure and the relationship of these responses with performance improvement are not yet well established. This study aimed to analyze the effects of three and six months of RT on the hemodynamic parameters and functional capacity of hypertensive and normotensive women.
+               
+                  Method
+                  Sixteen hypertensive and 15 normotensive elderly women participated in a RT protocol designed to increase muscle strength and hypertrophy, lasting six months, twice a week.
+               
+                  Results
+                  Systolic blood pressure (SBP) had a reduction at six months only in hypertensive patients, while diastolic blood pressure (DBP) decreased at six months of intervention in both groups (p &lt; 0.05). SBP showed differences between the groups in the pretest (p &lt; 0.05), but not at three and six months of intervention (p &gt; 0.05). Heart rate (HR) was reduced at three months in hypertensive patients, and at six months in the normotensive (p &lt; 0.05). The strength and functional mobility of both hypertensive and normotensive individuals significantly increased at three and six months of intervention (p &lt; 0.05). Hypertensive women showed increased strength at all moments, while normotensive ones showed improvement only at six months.
+               
+                  Conclusion
+                  Moderate to high intensity RT improves the hemodynamic parameters of hypertensive and normotensive women differently, and independently of strength gain and functional capacity improvement.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Elderly</dcterms:subject><dcterms:subject>Exercise therapy</dcterms:subject><dcterms:subject>Hypertension</dcterms:subject><dcterms:subject>Strength training</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1728869X19303508" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1728869X19303508" rel="scidir"/></coredata><objects><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="252" size="13956">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="535" height="613" size="55802">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="251" size="10141">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="856" size="34901">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="145" size="4242">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="143" height="164" size="6776">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="142" size="3245">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="74" height="164" size="2537">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1693" height="1118" size="117684">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2370" height="2715" size="442765">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="1113" size="84906">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1713" height="3791" size="306646">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="xml" mimetype="text/xml" size="253">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-mmc1.xml?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="579731">https://api.elsevier.com/content/object/eid/1-s2.0-S1728869X19303508-am.pdf?httpAccept=%2A%2F%2A</object></objects><scopus-id>85083517665</scopus-id><scopus-eid>2-s2.0-85083517665</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85083517665" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>279359</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291695</xocs:ssid>
+         <xocs:ssid type="subj">291927</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Journal of Exercise Science &amp; Fitness</xocs:srctitle>
+      <xocs:normalized-srctitle>JOURNALEXERCISESCIENCEFITNESS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20200313">2020-03-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20200313">2020-03-13</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20200423">2020-04-23</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20200423">2020-04-23</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-07-28T03:56:04</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1728869X19303508</xocs:eid>
+      <xocs:pii-formatted>S1728-869X(19)30350-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1728869X19303508</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.jesf.2020.03.003</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1728869X20X00025</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20200728">2020-07-28T03:02:42.65363Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20200901</xocs:date-search-begin>
+      <xocs:date-search-end>20200930</xocs:date-search-end>
+      <xocs:year-nav>2020</xocs:year-nav>
+      <xocs:indexeddate epoch="1584109299">2020-03-13T14:21:39.979722Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder sponsoredaccesstype srctitle srctitlenorm srctype ssids alllist content oa subj subheadings tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1728-869X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>1728869X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>18</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>18</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 18, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>122</xocs:first-fp>
+      <xocs:last-lp>128</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>122</xocs:first-page>
+         <xocs:last-page>128</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>202009</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2020</xocs:cover-date-text>
+      <xocs:cover-date-start>2020-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2020-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2020</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Original Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2020 The Society of Chinese Scholars on Exercise Physiology and Fitness. Published by Elsevier (Singapore) Pte Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>RESISTANCETRAININGAFFECTSHEMODYNAMICPARAMETERSHYPERTENSIVENORMOTENSIVEWOMENDIFFERENTLYREGARDLESSPERFORMANCEIMPROVEMENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>DESA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Method</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Intervention protocol</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Blood pressure assessment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Heart rate assessment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Maximal dynamic strength assessment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Functional strength and mobility assessment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Ethical procedures</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Statistical analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Hemodynamic responses</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-section-title>Functional capacity responses</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>Funding source</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-section-title>CRediT authorship contribution statement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>BRAZILIANSOCIETYOFHYPERTENSION</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>WORLDHEALTHORGANIZATION</xocs:ref-normalized-surname>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>MALACHIAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36</xocs:ref-first-fp>
+            <xocs:ref-last-lp>45</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>MACDONALD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-article-number>e003231</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>LOPEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>889</xocs:ref-first-fp>
+            <xocs:ref-last-lp>899</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>DACUNHANASCIMENTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>541</xocs:ref-first-fp>
+            <xocs:ref-last-lp>553</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>GJOVAAG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>581</xocs:ref-first-fp>
+            <xocs:ref-last-lp>588</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>ROSSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>622</xocs:ref-first-fp>
+            <xocs:ref-last-lp>627</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>BROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>21</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>RIKLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>161</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>PODSIADLO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>142</xocs:ref-first-fp>
+            <xocs:ref-last-lp>148</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>ARAZI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>KRINSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-last-lp>75</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>PEARSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>187</xocs:ref-first-fp>
+            <xocs:ref-last-lp>200</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>REIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>34</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>YASUDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>799</xocs:ref-first-fp>
+            <xocs:ref-last-lp>806</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>ALVES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref19">
+            <xocs:ref-normalized-surname>BAPTISTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1483</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1495</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref20">
+            <xocs:ref-normalized-surname>NOONE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>247</xocs:ref-first-fp>
+            <xocs:ref-last-lp>255</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref21">
+            <xocs:ref-normalized-surname>WILLIAMSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2673</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2682</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref22">
+            <xocs:ref-normalized-surname>WISE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1059</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1065</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref23">
+            <xocs:ref-normalized-surname>KWON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref24">
+            <xocs:ref-normalized-surname>KOJIMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref25">
+            <xocs:ref-normalized-surname>SAVVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>441</xocs:ref-first-fp>
+            <xocs:ref-last-lp>446</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref26">
+            <xocs:ref-normalized-surname>HERMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-last-lp>210</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref27">
+            <xocs:ref-normalized-surname>DEMATOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>272</xocs:ref-first-fp>
+            <xocs:ref-last-lp>277</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref28">
+            <xocs:ref-normalized-surname>ALLENDORF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>134</xocs:ref-first-fp>
+            <xocs:ref-last-lp>144</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>DESAX2020X122</xocs:refkey3>
+         <xocs:refkey4lp>DESAX2020X122X128</xocs:refkey4lp>
+         <xocs:refkey4ai>DESAX2020X122XC</xocs:refkey4ai>
+         <xocs:refkey5>DESAX2020X122X128XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2020-03-11T03:23:52Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2020 The Society of Chinese Scholars on Exercise Physiology and Fitness. Published by Elsevier (Singapore) Pte Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-03-19T12:12:47.787Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/eoas</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-acronym>CAPES</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100002322</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/3469034</xocs:funding-agency-country>
+         </xocs:funding>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1728-869X(19)30350-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1728869X19303508</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1728869X19303508</xocs:eid>
+         <xocs:doi>10.1016/j.jesf.2020.03.003</xocs:doi>
+         <xocs:cid>279359</xocs:cid>
+         <xocs:timestamp>2020-07-28T03:02:42.65363Z</xocs:timestamp>
+         <xocs:cover-date-start>2020-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2020-09-30</xocs:cover-date-end>
+         <xocs:sponsored-access-type>UNLIMITED</xocs:sponsored-access-type>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/MAIN/application/pdf/7d048c917c0a4cdc9f89c5aa946c7b0b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>744285</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1728869X19303508-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/PREVIEW/image/png/87a31aed83eba64adc8c8fede52529bb/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55227</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr2/DOWNSAMPLED/image/jpeg/88ff80bd3c88c0b7c9689ac364ece412/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>13956</xocs:filesize>
+               <xocs:pixel-height>252</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr1/DOWNSAMPLED/image/jpeg/9555b5258389e013eee3a3c13442549f/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>55802</xocs:filesize>
+               <xocs:pixel-height>613</xocs:pixel-height>
+               <xocs:pixel-width>535</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr3/DOWNSAMPLED/image/jpeg/f93b93286424711b4e086bb050bfd958/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>10141</xocs:filesize>
+               <xocs:pixel-height>251</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr4/DOWNSAMPLED/image/jpeg/2f2f447a56662167274418c2dfca39af/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34901</xocs:filesize>
+               <xocs:pixel-height>856</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr2/THUMBNAIL/image/gif/abcd281368e188b1b30b856ed08493d0/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4242</xocs:filesize>
+               <xocs:pixel-height>145</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr1/THUMBNAIL/image/gif/5f41154ec80293bb8bc5f770bf84c977/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6776</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>143</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr3/THUMBNAIL/image/gif/277656ba3c3f6065262d7685f6f338b3/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3245</xocs:filesize>
+               <xocs:pixel-height>142</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr4/THUMBNAIL/image/gif/9755e0119aa79ed36242702b56511351/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2537</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>74</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr2/HIGHRES/image/jpeg/681a321943a5544d79d63b7378b6c59f/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>117684</xocs:filesize>
+               <xocs:pixel-height>1118</xocs:pixel-height>
+               <xocs:pixel-width>1693</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr1/HIGHRES/image/jpeg/19dd1a237218215d5025b20ebea4d272/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>442765</xocs:filesize>
+               <xocs:pixel-height>2715</xocs:pixel-height>
+               <xocs:pixel-width>2370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr3/HIGHRES/image/jpeg/5d7254552421ce8003b308fb38f6967e/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>84906</xocs:filesize>
+               <xocs:pixel-height>1113</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/gr4/HIGHRES/image/jpeg/37286fd1194007cb712e9ee707f039ca/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>306646</xocs:filesize>
+               <xocs:pixel-height>3791</xocs:pixel-height>
+               <xocs:pixel-width>1713</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-mmc1.xml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1728869X19303508/mmc1/MAIN/application/xml/5bb7c530e062a21d2e6daffcbb5c76c8/mmc1.xml</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.xml</xocs:filename>
+               <xocs:extension>xml</xocs:extension>
+               <xocs:filesize>253</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1728869X19303508-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10XH10S0DDH/MAIN/application/pdf/8acce75fe43b9c74b61c1b2f29727287/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>579731</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>JESF</jid>
+            <aid>153</aid>
+            <ce:pii>S1728-869X(19)30350-8</ce:pii>
+            <ce:doi>10.1016/j.jesf.2020.03.003</ce:doi>
+            <ce:copyright type="society" year="2020">The Society of Chinese Scholars on Exercise Physiology and Fitness</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Flowchart of study.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0015" role="short">Fig. 1</ce:alt-text>
+               <ce:link locator="gr1" xlink:href="pii:S1728869X19303508/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Behavior of systolic (SBP) and diastolic (DBP) blood pressure in the pre-test and after three and six months of resistance training in hypertensive (Hyper) and normotensivewomen (Normo). <ce:bold>∗</ce:bold>Statistically significant difference in relation to the pre-test for SBP in the hypertensive group (p &lt; 0.05); <ce:bold>§</ce:bold>Statistically significant difference in relation to the pre-test and three months of intervention for DBP in the hypertensive and normotensive groups (p &lt; 0.05); <ce:bold>#</ce:bold>Statistically significant difference between groups for SBP (p &lt; 0.05).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0020" role="short">Fig. 2</ce:alt-text>
+               <ce:link locator="gr2" xlink:href="pii:S1728869X19303508/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Heart rate behavior in the pre-test and after three and six months of resistance training in hypertensive (Hyper) and normotensive women (Normo). <ce:bold>∗</ce:bold>Statistically significant difference in relation to the pre-test for the hypertensive group (p &lt; 0.05); <ce:bold>§</ce:bold>Statistically significant difference in relation to the pre-test and three months of intervention for the normotensive group (p &lt; 0.05); <ce:bold>#</ce:bold>Statistically significant difference between groups (p &lt; 0.05).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0025" role="short">Fig. 3</ce:alt-text>
+               <ce:link locator="gr3" xlink:href="pii:S1728869X19303508/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Assessment of strength (A - for one-repetition maximum), functional strength (B. Chair-test) and mobility (C - Timed up and go test) in the pre-test and at three and six months of resistance training in hypertensive and normotensive women. <ce:bold>∗</ce:bold>Statistically significant difference in relation to the pre-test for the hypertensive group (p &lt; 0.05); <ce:bold>$</ce:bold>Statistically significant difference in relation to the pre-test and three months of intervention for the normotensive group (p &lt; 0.05); <ce:bold>#</ce:bold>Statistically significant difference between groups (p &lt; 0.05).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0030" role="short">Fig. 4</ce:alt-text>
+               <ce:link locator="gr4" xlink:href="pii:S1728869X19303508/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:type="simple"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" colsep="0" frame="topbot" id="tbl1" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="tspara0010" view="all">Characterization of the sample.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0035" role="short">Table 1</ce:alt-text>
+               <tgroup cols="5">
+                  <colspec colname="col1" colnum="1"/>
+                  <colspec colname="col2" colnum="2"/>
+                  <colspec colname="col3" colnum="3"/>
+                  <colspec colname="col4" colnum="4"/>
+                  <colspec colname="col5" colnum="5"/>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" morerows="1" role="rowgroup">Variable</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" nameend="col3" namest="col2" role="colgroup">Hypertensive (N = 16)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left" nameend="col5" namest="col4" role="colgroup">Normotensive (N = 15)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pre-test Mean (±SE)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Post-test Mean (±SE)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Pre-test Mean (±SE)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Post-test Mean (±SE)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Body mass (kg)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">79.81 (16.22)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">79.14 (17,36)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">62.59<cross-ref id="crosref0235" refid="tbl1fna">
+                              <sup loc="post">a</sup>
+                           </cross-ref> (8.57)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">62.04 (8.32)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Body mass index (kg/m<sup loc="post">2</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">30.87 (5.39)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">30,59 (5,79)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">25.31<cross-ref id="crosref0240" refid="tbl1fna">
+                              <sup loc="post">a</sup>
+                           </cross-ref> (3.14)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">25,07 (2,85)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Waist circumference (cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">92.59 (10.9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">87,91 (11,69)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">79.23<cross-ref id="crosref0245" refid="tbl1fna">
+                              <sup loc="post">a</sup>
+                           </cross-ref> (7.18)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">75,07 (6,80)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Hip circumference (cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">107,75 (10,18)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">104,81 (8,89)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">97.53<cross-ref id="crosref0250" refid="tbl1fna">
+                              <sup loc="post">a</sup>
+                           </cross-ref> (4.65)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">96,33 (5,41)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl1fna">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="ntpara0010" view="all">Statistically significant differences in relation to the pretest of the group of hypertensive women (p &lt;0.05).</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" colsep="0" frame="topbot" id="tbl2" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="tspara0015" view="all">Pearson’s correlation coefficient between the variation (percentage delta - Δ%) of the strength, functional strength and mobility, and systolic (SBP) and diastolic blood pressure (DBP) in hypertensive (N = 16) and normotensive women (N = 15).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alttext0040" role="short">Table 2</ce:alt-text>
+               <tgroup cols="9">
+                  <colspec colname="col1" colnum="1"/>
+                  <colspec colname="col2" colnum="2"/>
+                  <colspec colname="col3" colnum="3"/>
+                  <colspec colname="col4" colnum="4"/>
+                  <colspec colname="col5" colnum="5"/>
+                  <colspec colname="col6" colnum="6"/>
+                  <colspec colname="col7" colnum="7"/>
+                  <colspec colname="col8" colnum="8"/>
+                  <colspec colname="col9" colnum="9"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2" role="rowgroup">Variables</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" nameend="col5" namest="col2" role="colgroup">Hypertensive Women</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" nameend="col9" namest="col6" role="colgroup">Normotensive Women</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" nameend="col3" namest="col2" role="colgroup">Δ% SBP</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" nameend="col5" namest="col4" role="colgroup">Δ% DBP</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" nameend="col7" namest="col6" role="colgroup">Δ% SBP</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" nameend="col9" namest="col8" role="colgroup">Δ% DBP</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">r</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">p</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">R</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">p</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">r</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">p</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">r</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">p</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Δ% 1-RM</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.152</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.574</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.387</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.138</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.410</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.130</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.370</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.175</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Δ% Chair test</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.304</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.252</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.346</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.189</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.012</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.965</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.086</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.761</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Δ% TUG</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.284</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.287</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.063</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.816</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">−0.065</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.818</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.638</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">0.011</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="tspara0020" view="all">1-RM: One-Repetition maximum test; TUG<ce:bold>:</ce:bold> Timed up and go test; Chair test: Chair sit-to-stand test; SBP: Systolic blood pressure; DBP: Diastolic blood pressure.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Resistance training affects the hemodynamic parameters of hypertensive and normotensive women differently, and regardless of performance improvement</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S1728869X19303508-826ee82167e705d16b58deb1ef3cd807">
+                  <ce:given-name>Clodoaldo Antônio</ce:given-name>
+                  <ce:surname>De Sá</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Funding_acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft">Writing - original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing">Writing - review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref id="crosref0010" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crosref0015" refid="cor1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+                  
+               </ce:author>
+               <ce:author id="au2" author-id="S1728869X19303508-776a6babe24fbcd32fdf5dcc0d84c5fa">
+                  <ce:given-name>Diana</ce:given-name>
+                  <ce:surname>Catani</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Conceptualization">Conceptualization</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Funding_acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft">Writing - original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing">Writing - review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref id="crosref0020" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au3" author-id="S1728869X19303508-e5dd3c4a298eddb14a164c21248740a3">
+                  <ce:given-name>Andréia Machado</ce:given-name>
+                  <ce:surname>Cardoso</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Funding_acquisition">Funding acquisition</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft">Writing - original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing">Writing - review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref id="crosref0025" refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au4" author-id="S1728869X19303508-f5d55dc683f1cbdb2d3980f95289397e">
+                  <ce:given-name>Marzo Edir</ce:given-name>
+                  <ce:surname>Da Silva-Grigoletto</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft">Writing - original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing">Writing - review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref id="crosref0030" refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au5" author-id="S1728869X19303508-ee05423e3a3ae71df3a9a5ccddd1b11e">
+                  <ce:given-name>Francielle Garghetti</ce:given-name>
+                  <ce:surname>Battiston</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft">Writing - original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing">Writing - review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref id="crosref0035" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au6" author-id="S1728869X19303508-8b9e34643f780d970c71f8317abbc6d9">
+                  <ce:given-name>Vanessa Silva</ce:given-name>
+                  <ce:surname>Corralo</ce:surname>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Formal_analysis">Formal analysis</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_original_draft">Writing - original draft</ce:contributor-role>
+                  <ce:contributor-role role="http://dictionary.casrai.org/Contributor_Roles/Writing_%E2%80%93_review_%26_editing">Writing - review &amp; editing</ce:contributor-role>
+                  <ce:cross-ref id="crosref0040" refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1" affiliation-id="S1728869X19303508-03debc0d9e998b8ad9c77941b5c8211b">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Health Sciences Post-Graduate Program, Unochapecó University, Chapecó, SC, Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Health Sciences Post-Graduate Program</sa:organization>
+                     <sa:organization>Unochapecó University</sa:organization>
+                     <sa:address-line>Chapecó</sa:address-line>
+                     <sa:state>SC</sa:state>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0010">Health Sciences Post-Graduate Program, Unochapeco University, Chapeco, SC, Brazil</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff2" affiliation-id="S1728869X19303508-8d22e5ce012162a1de34d44c8e58f8f5">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Federal University of Fronteira Sul, Campus Chapecó, Chapecó, SC, Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Federal University of Fronteira Sul</sa:organization>
+                     <sa:organization>Campus Chapecó</sa:organization>
+                     <sa:address-line>Chapecó</sa:address-line>
+                     <sa:state>SC</sa:state>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0015">Federal University of Fronteira Sul, Campus Chapeco, Chapeco, SC, Brazil</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff3" affiliation-id="S1728869X19303508-779c10ba700f73d9ec402161be788836">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Physical Education, Federal University of Sergipe, Aracaju, SE, Brazil</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Physical Education</sa:organization>
+                     <sa:organization>Federal University of Sergipe</sa:organization>
+                     <sa:city>Aracaju</sa:city>
+                     <sa:state>SE</sa:state>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="srct0020">Department of Physical Education, Federal University of Sergipe, Aracaju, SE, Brazil</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. 295-D, Servidão Anjo da Guarda Street, Zip Code: 89809-900, Efapi, Chapecó/SC, Brazil.</ce:text>
+                  <sa:affiliation>
+                     <sa:address-line>295-D, Servidão Anjo da Guarda Street</sa:address-line>
+                     <sa:city>Efapi</sa:city>
+                     <sa:state>Chapecó/SC</sa:state>
+                     <sa:postal-code>Zip Code: 89809-900</sa:postal-code>
+                     <sa:country>Brazil</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="17" month="12" year="2019"/>
+            <ce:date-revised day="4" month="3" year="2020"/>
+            <ce:date-accepted day="11" month="3" year="2020"/>
+            <ce:abstract id="abs0010" xml:lang="en" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:section-title id="sectitle0015">Background/Objective</ce:section-title>
+                  <ce:simple-para id="abspara0010" view="all">Although the positive effects of resistance training (RT) on strength and functional capacity have been well evidenced in the scientific literature, the effects of RT on blood pressure and the relationship of these responses with performance improvement are not yet well established. This study aimed to analyze the effects of three and six months of RT on the hemodynamic parameters and functional capacity of hypertensive and normotensive women.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abssec0020" view="all">
+                  <ce:section-title id="sectitle0025">Method</ce:section-title>
+                  <ce:simple-para id="abspara0020" view="all">Sixteen hypertensive and 15 normotensive elderly women participated in a RT protocol designed to increase muscle strength and hypertrophy, lasting six months, twice a week.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abssec0025" view="all">
+                  <ce:section-title id="sectitle0030">Results</ce:section-title>
+                  <ce:simple-para id="abspara0025" view="all">Systolic blood pressure (SBP) had a reduction at six months only in hypertensive patients, while diastolic blood pressure (DBP) decreased at six months of intervention in both groups (p &lt; 0.05). SBP showed differences between the groups in the pretest (p &lt; 0.05), but not at three and six months of intervention (p &gt; 0.05). Heart rate (HR) was reduced at three months in hypertensive patients, and at six months in the normotensive (p &lt; 0.05). The strength and functional mobility of both hypertensive and normotensive individuals significantly increased at three and six months of intervention (p &lt; 0.05). Hypertensive women showed increased strength at all moments, while normotensive ones showed improvement only at six months.</ce:simple-para>
+               </ce:abstract-sec><ce:abstract-sec id="abssec0030" role="background" view="all">
+                  <ce:section-title id="sectitle0035">Conclusion</ce:section-title>
+                  <ce:simple-para id="abspara0030" view="all">Moderate to high intensity RT improves the hemodynamic parameters of hypertensive and normotensive women differently, and independently of strength gain and functional capacity improvement.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwrds0010" xml:lang="en" view="all" class="keyword">
+               <ce:section-title id="sectitle0040">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Elderly</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Exercise therapy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Hypertension</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Strength training</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" role="introduction" view="all">
+                  <ce:section-title id="sectitle0045">Introduction</ce:section-title>
+                  <ce:para id="p0010" view="all">Systemic arterial hypertension (SAH), defined as the elevation and maintenance of systolic blood pressure (SBP) values above 139 mmHg and/or diastolic blood pressure (DBP) above 89 mmHg, is a chronic-degenerative disease of a multifactorial nature and, in most cases, asymptomatic.<ce:cross-ref id="crosref0045" refid="bib1">
+                        <ce:sup loc="post">1</ce:sup>
+                     </ce:cross-ref> Hypertension is a major risk factor for cardiovascular disease and, according to the World Health Organization, about 1.13 billion people worldwide have hypertension.<ce:cross-ref id="crosref0050" refid="bib2">
+                        <ce:sup loc="post">2</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="p0015" view="all">Among the various interventions recommended for the control of arterial hypertension (AH), which include low sodium and alcohol intake, body weight control, and others, physical exercise plays a fundamental role.<ce:cross-ref id="crosref0055" refid="bib3">
+                        <ce:sup loc="post">3</ce:sup>
+                     </ce:cross-ref> In recent decades, chronic effects of exercise on blood pressure have been studied in different experimental models<ce:cross-ref id="crosref0060" refid="bib4">
+                        <ce:sup loc="post">4</ce:sup>
+                     </ce:cross-ref> as well as in human hypertensive patients.<ce:cross-ref id="crosref0065" refid="bib5">
+                        <ce:sup loc="post">5</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="p0020" view="all">Despite the effects of resistance training (RT) on functional capacity and its impact on the ability to perform basic and instrumental activities of daily living and on the quality of life of the elderly are well known in the literature,<ce:cross-ref id="crosref0070" refid="bib6">
+                        <ce:sup loc="post">6</ce:sup>
+                     </ce:cross-ref> the effects of RT on arterial pressure and its relationship with changes in strength and functional capacity are not well established. Previous studies,<ce:cross-ref id="crosref0075" refid="bib7">
+                        <ce:sup loc="post">7</ce:sup>
+                     </ce:cross-ref> reported no reduction of blood pressure levels after 10 weeks of intervention in hypertensive and normotensive elderly women. In general, the magnitude of the external load is not the main determinant of acute response of blood pressure (BP) to ST<ce:cross-ref id="crosref0080" refid="bib8">
+                        <ce:sup loc="post">8</ce:sup>
+                     </ce:cross-ref> although, according to these authors, these mechanisms and their chronic responses need to be better studied.</ce:para>
+                  <ce:para id="p0025" view="all">Rossi et al.,<ce:cross-ref id="crosref0085" refid="bib9">
+                        <ce:sup loc="post">9</ce:sup>
+                     </ce:cross-ref> in a systematic review study, demonstrated that resistance training was not effective in producing important blood pressure responses. The authors demonstrated that participation in a resistance training program has no significant effect on systolic blood pressure (SBP), and only slightly reduces diastolic blood pressure (DBP) (2.0 mmHg).</ce:para>
+                  <ce:para id="p0030" view="all">In general, studies involving resistance training have used a wide range of protocols (different combinations of exercises and training intensities) with different intervention periods, presenting results that ranged from modest and inconsistent,<ce:cross-ref id="crosref0090" refid="bib9">
+                        <ce:sup loc="post">9</ce:sup>
+                     </ce:cross-ref> to consistent and comparable to aerobic training.<ce:cross-ref id="crosref0095" refid="bib5">
+                        <ce:sup loc="post">5</ce:sup>
+                     </ce:cross-ref>
+                  </ce:para>
+                  <ce:para id="p0035" view="all">Thus, the objective of the present study was to analyze the effects of three and six months of intervention based on resistance training on the hemodynamic parameters and functional capacity of hypertensive and normotensive women.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:section-title id="sectitle0050">Method</ce:section-title>
+                  <ce:para id="p0040" view="all">An applied experimental study with a quantitative approach was carried out. Anthropometric measurements and blood samples were collected at the Laboratory of Exercise Physiology and Biochemistry of the Unochapecó University. The familiarization, functional capacity assessment, and resistance training protocols took place at the Bodybuilding Gym of Unochapecó.</ce:para>
+                  <ce:para id="p0045" view="all">The sample of the present study consisted of female volunteers aged between 42 and 68 years with and without diagnosis of hypertension. The selection of the sample was non-probabilistic by quotas, considering the eligibility criteria.</ce:para>
+                  <ce:para id="p0050" view="all">The sample size was calculated in 30 participants (15 hypertensive and 15 normotensive), considering a mean standard deviation of the main outcome variables of ten units, with a statistical power of 80%, a significance level of 0.05 (two-tailed distribution), a detectable difference between treatment of 10.6 units. Considering the strict exclusion criteria related to missing the training sessions (missing no more than three consecutive sessions or five sessions during the six months of intervention), the initial sample consisted of 50 women (25 hypertensive and 25 normotensive). Considering the exclusion criterion of missing sessions, nine hypertensive and 10 normotensive women were excluded from the data analysis, so that the final sample of the study consisted of 31 women (16 hypertensive and 15 normotensive). The study flowchart is shown in <ce:cross-ref id="opt1gKOPXktre" refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/>.</ce:para>
+                  <ce:para id="p0055" view="all">The diagnosis of hypertension was made by a doctor, according to the Seventh Brazilian Hypertension Guidelines<ce:cross-ref id="crosref0100" refid="bib3">
+                        <ce:sup loc="post">3</ce:sup>
+                     </ce:cross-ref> (SBP and DBP greater than or equal to 140 and 90 mmHg, respectively). All women in this group were clinically diagnosed as hypertensive and underwent medical follow-up at Basic Health Units in the city of Chapecó, SC, Brazil and used one or more medications to treat hypertension: Angiotensin-converting enzyme inhibitor (n = 6); Diuretics (n = 8); Angiotensin Receptor Blocker (n = 4); Beta-blocker (n = 1); Ca<ce:sup loc="post">++</ce:sup> channel inhibitor (n = 1). Women without a diagnosis of hypertension, with systolic and diastolic blood pressure values, measured on two non-consecutive days and at different times, were lower than 139 and 89 mmHg, respectively,<ce:cross-ref id="crosref0105" refid="bib3">
+                        <ce:sup loc="post">3</ce:sup>
+                     </ce:cross-ref> were included in the normotensive group.</ce:para>
+                  <ce:para id="p0060" view="all">Women who presented comorbidities that represented a clinical contraindication to participate in the study, who used any medication that could influence the results, and smokers were excluded from the sample. Data from women who missed three consecutive sessions or more than five sessions over the six-month period of the intervention protocol were excluded from the analysis.</ce:para>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:section-title id="sectitle0055">Intervention protocol</ce:section-title>
+                     <ce:para id="p0065" view="all">The training protocol included resistance exercise sessions, which were performed alternately by segment (upper and lower limbs). The sequence of exercises in each session included: chest fly machine, hip adductor chair, lat pulldown, hip abductor chair, alternate bicep curl, leg press 45, triceps extension, shoulder lateral raise, knee extension, knee flexion and abdominal flexion. The training was carried out twice a week, with the duration of each session varying from 40 (in the adaptation phase) to 60 min (in the specific phase).</ce:para>
+                     <ce:para id="p0070" view="all">The intervention protocol was divided into three phases: a) Adaptation phase (One set in the first week, two in the second and three sets of 15 maximum repetitions in the third week): three weeks involving six sessions, in which emphasis was placed on learning the technique, body self-awareness, and coordination of movement; b) Basic phase (three sets of 15 maximum repetitions): 17 weeks involving 34 sessions aimed at increasing muscle strength; c) Specific phase (three sets of 15 maximum repetitions): ten weeks involving twenty sessions with the purpose of intensifying the process of muscle strength gaining and hypertrophy.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:section-title id="sectitle0060">Blood pressure assessment</ce:section-title>
+                     <ce:para id="p0075" view="all">All measurements were performed at rest and all subjects had their blood pressure measured before a training session at least once a week with an automatic blood pressure monitor (Omron™ HEM-742INT, China), as routine follow-up.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:section-title id="sectitle0065">Heart rate assessment</ce:section-title>
+                     <ce:para id="p0080" view="all">The participants remained at rest before beginning the exercise protocol, seated for 5 min, and then had their heart rate (HR) checked using the same automatic blood pressure monitor (Omron™ HEM-742INT, China).</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:section-title id="sectitle0070">Maximal dynamic strength assessment</ce:section-title>
+                     <ce:para id="p0085" view="all">The leg press 45° exercise was used for evaluation of the maximal dynamic strength (1-RM). The 1-RM evaluation protocol followed the recommendations of the American Society of Exercises Physiologists.<ce:cross-ref id="crosref0110" refid="bib10">
+                           <ce:sup loc="post">10</ce:sup>
+                        </ce:cross-ref> The test was performed on the leg press 45° machine, and the load for 1-RM was considered to be the one with which the subject was able to perform the complete movement.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.5" view="all">
+                     <ce:section-title id="sectitle0075">Functional strength and mobility assessment</ce:section-title>
+                     <ce:para id="p0090" view="all">The 30-s chair sit-to-stand test was used to evaluate the functional strength and resistance of the lower limbs.<ce:cross-ref id="crosref0115" refid="bib11">
+                           <ce:sup loc="post">11</ce:sup>
+                        </ce:cross-ref> Mobility, which involves speed, agility and dynamic balance, was assessed using the timed up and go (TUG) test.<ce:cross-ref id="crosref0120" refid="bib12">
+                           <ce:sup loc="post">12</ce:sup>
+                        </ce:cross-ref>
+                     </ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.6" view="all">
+                     <ce:section-title id="sectitle0080">Ethical procedures</ce:section-title>
+                     <ce:para id="p0095" view="all">The study was approved by the Research Ethics Committee of Fronteira Sul Federal University and was carried out in accordance with established ethical standards (Opinion nº 1.916.904). All subjects were duly informed about the objectives of the study and the data collection procedures, as well as the relative risks and benefits. They signed two copies of the Informed Consent Form to express their agreement to participate in the study; one copy remained with the subject and the other was given to the researchers. It should be noted that the subjects were advised that they could withdraw their consent and give up participating in the study at any time.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.7" view="all">
+                     <ce:section-title id="sectitle0085">Statistical analysis</ce:section-title>
+                     <ce:para id="p0100" view="all">The Statistical Package for the Social Sciences, version 24.0 for Windows™, was used for all the analyses. Descriptive statistics with mean and standard deviations were used to represent all variables analyzed. The Shapiro-Wilk, Levene and Mauchly tests were used to analyze the distribution and characteristics of the data (normality, homoscedasticity and sphericity, respectively). Logarithmic adjustments and the Greenhouse-Geisser correction were made when the distribution did not meet the assumptions of parametric statistics. An analysis of variance of repeated measures was used for comparisons between groups (hypertensive and normotensive) and between the moments of assessment (pre-test, three and six months of intervention). All tests were two-tailed, with a significance level of 5%.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" role="results" view="all">
+                  <ce:section-title id="sectitle0090">Results</ce:section-title>
+                  <ce:para id="p0105" view="all">The sample characteristics regarding body mass, body mass index, waist circumference, hip circumference are shown in <ce:cross-ref id="crosref0125" refid="tbl1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. As expected, statistically significant differences were observed between the groups (hypertensive and normotensive) in the pre-test (p &lt; 0.05) for all anthropometric parameters evaluated. On the other hand, no statistically significant differences were observed between the pre and the post-test in both groups analyzed (p &gt; 0.05) (see <ce:cross-ref id="opta45zKUoyk8" refid="tbl1">Table 1</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0110" view="all">The analysis of hemodynamic responses (<ce:cross-ref id="crosref0135" refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>) showed that SBP presented statistically significant changes at three and six months when compared to pre-training values, only in the hypertensive group (p &lt; 0.05). On the other hand, DBP presented statistically significant differences in relation to pre-test values only at six months of intervention in both hypertensive and normotensive subjects (p &lt; 0.05). SBP showed statistically significant differences between groups only in the pre-test (p &lt; 0.05). No statistically significant differences (p &gt; 0.05) were found for DBP between hypertensive and normotensive individuals in any of the times analyzed. The HR (<ce:cross-ref id="crosref0140" refid="fig3">Fig. 3</ce:cross-ref>
+                     <ce:float-anchor refid="fig3"/>) of the hypertensive group presented a statistically significant difference (p &lt; 0.05) after three months in relation to the pre-test values, whereas among the normotensive patients this difference was significant only after six months (p &lt; 0.05). Statistically significant differences in HR were found between groups only after six months of intervention (p &lt; 0.05).</ce:para>
+                  <ce:para id="p0115" view="all">The analysis of the performance in the maximal dynamic strength test (1-RM) and the functional tests (TUG and Chair test) is presented in <ce:cross-ref id="crosref0145" refid="fig4">Fig. 4</ce:cross-ref>
+                     <ce:float-anchor refid="fig4"/>. Regarding to strength, the hypertensive patients presented statistically significant improvement at both three and six months after RT (p &lt; 0.05), whereas for the normotensive patients, statistically significant increase were found at six months, when compared to pre-test values and three months of training (p &lt; 0.05). On the other hand, the analysis of performance in the functional tests showed statistically significant differences (p &lt; 0.05) between all the times analyzed, both in the hypertensive and normotensive groups. There were no statistically significant differences (p &gt; 0.05) between groups for the functional variables and for the strength in any of the moments analyzed, except for performance in the Chair test in the pre-test values, in which normotensive group presented augmented functional strength when compared to hypertensive subjects (p &gt; 0.05).</ce:para>
+                  <ce:para id="p0120" view="all">
+                     <ce:cross-ref id="crosref0150" refid="tbl2">Table 2</ce:cross-ref>
+                     <ce:float-anchor refid="tbl2"/> shows the correlation coefficients between the variations (expressed as percentage changes from pre to post-test - Δ%) of maximal dynamic strength (1-RM), functional strength (Chair test), functional mobility (TUG) and systolic and diastolic blood pressure in hypertensive and normotensive women. No statistically significant correlations were found between the analyzed variables (p &gt; 0.05), both for hypertensive and normotensive women.</ce:para>
+               </ce:section>
+               <ce:section id="sec4" role="discussion" view="all">
+                  <ce:section-title id="sectitle0095">Discussion</ce:section-title>
+                  <ce:para id="p0125" view="all">The most important finding of this study was the fact that six months of resistance training reduced the SBP and DBP of hypertensive women by 6% and 12%, respectively, and the DBP in the normotensive group (7%), independently of the variation in the performance of maximum dynamic force, functional strength and functional mobility.</ce:para>
+                  <ce:section id="sec4.1" view="all">
+                     <ce:section-title id="sectitle0100">Hemodynamic responses</ce:section-title>
+                     <ce:para id="p0130" view="all">The effect of RT protocols on blood pressure has already been studied in healthy elderly without hypertension. Arazi et al.<ce:cross-ref id="crosref0155" refid="bib13">
+                           <ce:sup loc="post">13</ce:sup>
+                        </ce:cross-ref> demonstrated that SBP of the low intensity resistance training groups was lower compared to the control group after the final session, but the differences were not significant after the first session. The participants’ heart rate increased considerably after the first session compared with the resting values, but there was no significant difference after the last session. These results demonstrate that low intensity resistance training promotes cardiac and vascular adaptations in hypertensive women, since BP results decreased after 6 weeks.</ce:para>
+                     <ce:para id="p0135" view="all">The differences observed in DBP at six months of treatment, compared to the pre-test values, evidenced both groups demonstrate that the resistance training protocol used in the present study, considering its structure and periodization, had positive hemodynamic effects for both hypertensive and normotensive patients. Corroborating to our results, Krinski et al.<ce:cross-ref id="crosref0160" refid="bib14">
+                           <ce:sup loc="post">14</ce:sup>
+                        </ce:cross-ref> evaluated hypertensive elderly women after six months of RT with a 50% intensity of 1-RM and they experienced a reduction of resting DBP. Decreased BP due to the action of resistance exercise may explain muscle vasodilation due to decreased sympathetic nerve activity, changes in pulmonary and arterial pressoreceptors, thermoregulation and increased levels of serotonin and nitric oxide.<ce:cross-ref id="crosref0165" refid="bib15">
+                           <ce:sup loc="post">15</ce:sup>
+                        </ce:cross-ref>
+                     </ce:para>
+                     <ce:para id="p0140" view="all">Consistent with the conditions of the investigated groups (hypertensive and normotensive), SBP was different between the pretest groups. Even with the hypertensive group being under medical supervision and drug therapy, subjects had higher SBP values than normotensive peers.</ce:para>
+                     <ce:para id="p0145" view="all">With regard to resting HR, the results of this study showed a reduction of 4% at three months of intervention, and 6% at six months in hypertensive patients, in relation to pre-test values. On the other hand, in the normotensive group, a reduction of 9% in the resting HR was observed only after six months of intervention. Post-exercise hypotension may occur due to neural changes in the circulation or presence of some vasodilatory substances because the neural mechanism has shown that sympathetic nervous activity performs a kind of command over vasoconstriction, reducing HR during hypotension after exercise, contributing to the reduction of peripheral vascular resistance.<ce:cross-ref id="crosref0170" refid="bib16">
+                           <ce:sup loc="post">16</ce:sup>
+                        </ce:cross-ref> The results showed a significant reduction in resting SBP values after the treatment period, without concomitant changes in DBP and resting HR. Although adaptations of the cardiovascular system are among the most significant mechanisms associated with the regulation of hemodynamic parameters in response to exercise, it is important conducting more controlled studies to understand these mechanisms.<ce:cross-ref id="crosref0175" refid="bib17">
+                           <ce:sup loc="post">17</ce:sup>
+                        </ce:cross-ref>
+                     </ce:para>
+                     <ce:para id="p0150" view="all">HR in the hypertensive group decreased at three and six months of training compared to the pretest, while in the normotensive group, the reduction was significant only at the sixth month of intervention. Differences between groups in HR were observed only at six months. Alves et al.<ce:cross-ref id="crosref0180" refid="bib18">
+                           <ce:sup loc="post">18</ce:sup>
+                        </ce:cross-ref> demonstrated, in an experimental model of heart failure, that resistance training improves cardiac function as a consequence of improved myocardial perfusion, increased heart systolic pressure and improved hemodynamic parameters, thus promoting an increase in cardiac performance. The heart rate response shown in our study and supported by the mechanisms mentioned above supports the indication of RT in blood pressure control.</ce:para>
+                     <ce:para id="p0155" view="all">The results of the study by Baptista et al.<ce:cross-ref id="crosref0185" refid="bib19">
+                           <ce:sup loc="post">19</ce:sup>
+                        </ce:cross-ref> showed that regardless of the choice of first-line antihypertensive therapies, exercise training should be added to standard pharmacological treatment of hypertension to reduce physical disability among elderly hypertensive individuals, as they increase the ability to perform basic movement functions such as standing, walking, climbing stairs, and other activities of daily living.</ce:para>
+                     <ce:para id="p0160" view="all">In general, considering the HR and BP responses, the intervention used in the present study had positive effects on the hemodynamic parameters analyzed, providing subsidies that support the prescription of this type of protocol both in the prevention and treatment of hypertension. It is noteworthy that, because hypertensive patients use antihypertensive medication, the hemodynamic responses found do not isolate the effect of training on the analyzed variables, because the medication helps to reduce cardiac overload.<ce:cross-ref id="crosref0190" refid="bib20">
+                           <ce:sup loc="post">20</ce:sup>
+                        </ce:cross-ref>
+                     </ce:para>
+                  </ce:section>
+                  <ce:section id="sec4.2" view="all">
+                     <ce:section-title id="sectitle0105">Functional capacity responses</ce:section-title>
+                     <ce:para id="p0165" view="all">Resistance training was efficient to improve performance in functional tests (TUG and Chair test) at all moments analyzed in both groups. Among hypertensive patients, there was a reduction of 7% and 14% in TUG time after three and six months of intervention, respectively, whereas in normotensive patients, these improvements were 7% and 11%.</ce:para>
+                     <ce:para id="p0170" view="all">The improvement in the Chair test at three and six months of intervention, when compared to pre-training values, was 41% and 71%, respectively, in hypertensive women, and 25% and 54%, in normotensive women. The variable strength showed a significant increase in the hypertensive group of 15% and 29% at three and six months, respectively. On the other hand, among normotensive women, strength increased only after six months of intervention (26%) when compared to pre-test values. Therefore, the protocol used in this study was efficient when it comes to gains of muscular strength and improvement of functional capacity.</ce:para>
+                     <ce:para id="p0175" view="all">As in the present study, studies have shown that moderate to high intensity RT increases strength levels, positively influencing autonomy and, consequently, self-assessment of health.<ce:cross-ref id="crosref0195" refid="bib21">
+                           <ce:sup loc="post">21</ce:sup>
+                        </ce:cross-ref>
+                     </ce:para>
+                     <ce:para id="p0180" view="all">However, it is important to say that loss of muscle strength and balance are characteristics of human aging that can lead subjects to functional dependence. In this sense, training programs similar to the one used in this study are a positive intervention to avoid or minimize functional losses that compromise functional independence. As described Wise and Patrick<ce:cross-ref id="crosref0200" refid="bib22">
+                           <ce:sup loc="post">22</ce:sup>
+                        </ce:cross-ref> the inability to perform social roles as the return to gainful employment, coexistence of leisure-oriented groups is often observed after myocardial infarction and other vascular events.</ce:para>
+                     <ce:para id="p0185" view="all">The improvement in functional capacity, as assessed by TUG, is due to the increase in muscle strength, which consequently increases stride length and walking speed,<ce:cross-ref id="crosref0205" refid="bib23">
+                           <ce:sup loc="post">23</ce:sup>
+                        </ce:cross-ref> improving test performance, as observed in our study. The performance evaluation in the functional mobility test showed that all subjects in the sample presented a performance considered adequate.<ce:cross-ref id="crosref0210" refid="bib24">
+                           <ce:sup loc="post">24</ce:sup>
+                        </ce:cross-ref> In the studies by Savva et al.<ce:cross-ref id="crosref0215" refid="bib25">
+                           <ce:sup loc="post">25</ce:sup>
+                        </ce:cross-ref> and Herman et al.<ce:cross-ref id="crosref0220" refid="bib26">
+                           <ce:sup loc="post">26</ce:sup>
+                        </ce:cross-ref> the performance on TUG correlated with frailty, exhaustion, weight loss, slowness, weakness, physical activity deficit, cognitive ability and execution capacity, demonstrating the importance of preserving strength and mobility for the functional capacity of seniors.</ce:para>
+                     <ce:para id="p0190" view="all">Muscle function is extremely important to preserve or improve people’s autonomy, with positive impacts on daily activities<ce:cross-ref id="crosref0225" refid="bib27">
+                           <ce:sup loc="post">27</ce:sup>
+                        </ce:cross-ref> and, therefore, on hemodynamic parameters, especially on blood pressure. That is the reason why RT is an important component in intervention protocols focused on improving the quality of life and preventing chronic diseases. Elderly people who practice RT have better results in the TUG and Chair test compared to those who are physically active but do not practice any strength exercise. This indicates the important role of RT in maintaining or improving mobility.<ce:cross-ref id="crosref0230" refid="bib28">
+                           <ce:sup loc="post">28</ce:sup>
+                        </ce:cross-ref>
+                     </ce:para>
+                     <ce:para id="p0195" view="all">Thus, the results of this study help understanding the relationship between resistance training and functional capacity. In the elderly population or other groups, the realization of a protocol for six months proved to positively change and improve the functional capacity of the subjects, contributing to a better performance and satisfaction in activities of daily living and maintenance of autonomy.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec5" role="conclusion" view="all">
+                  <ce:section-title id="sectitle0110">Conclusion</ce:section-title>
+                  <ce:para id="p0200" view="all">From the data analysis it can be concluded that, regardless of the improvement of strength and functional capacity, resistance training is efficient to produce positive adaptations in heart rate and blood pressure, as well as to increase the maximum dynamic force, the functional force and the functional mobility of elderly women, both hypertensive and normotensive.</ce:para>
+               </ce:section>
+               <ce:section id="sec6" view="all">
+                  <ce:section-title id="sectitle0115">Funding source</ce:section-title>
+                  <ce:para id="p0205" view="all">This study was financed in part by the <ce:grant-sponsor id="gs3" sponsor-id="https://doi.org/10.13039/501100002322" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">
+                        <ce:italic>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil</ce:italic> (CAPES)</ce:grant-sponsor> - Finance Code <ce:grant-number refid="gs3">001</ce:grant-number>, and <ce:grant-sponsor id="gs4" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor" xlink:type="simple">Unochapecó University</ce:grant-sponsor>.</ce:para>
+               </ce:section>
+               <ce:section id="sec7" view="all">
+                  <ce:section-title id="sectitle0120">CRediT authorship contribution statement</ce:section-title>
+                  <ce:para id="p0210" view="all">
+                     <ce:bold>Clodoaldo Antônio De Sá:</ce:bold> Conceptualization, Funding acquisition, Formal analysis, Writing - original draft, Writing - review &amp; editing. <ce:bold>Diana Catani:</ce:bold> Conceptualization, Funding acquisition, Formal analysis, Writing - original draft, Writing - review &amp; editing. <ce:bold>Andréia Machado Cardoso:</ce:bold> Funding acquisition, Formal analysis, Writing - original draft, Writing - review &amp; editing. <ce:bold>Marzo Edir Da Silva-Grigoletto:</ce:bold> Formal analysis, Writing - original draft, Writing - review &amp; editing. <ce:bold>Francielle Garghetti Battiston:</ce:bold> Formal analysis, Writing - original draft, Writing - review &amp; editing. <ce:bold>Vanessa Silva Corralo:</ce:bold> Formal analysis, Writing - original draft, Writing - review &amp; editing.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0010" view="all">
+               <ce:section-title id="sectitle0125">Declaration of competing interest</ce:section-title>
+               <ce:para id="p0215" view="all">The authors have no conflicts of interest to this article.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0130">Acknowledgments</ce:section-title>
+               <ce:para id="p0220" view="all">All persons who have made substantial contributions to the work reported in the manuscript (e.g., technical help, writing and editing assistance, general support), but who do not meet the criteria for authorship, are named in the Acknowledgments and have given us their written permission to be named. If we have not included an Acknowledgments in our manuscript, then that indicates that we have not received substantial contributions from non-authors.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="appsec1" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0135">Supplementary data</ce:section-title>
+                  <ce:para id="p0225" view="all">The following is the Supplementary data to this article:<ce:display>
+                        <ce:e-component id="mmc1">
+                           <ce:label>Multimedia component 1</ce:label>
+                           <ce:alt-text id="alttext0010" role="short">Multimedia component 1</ce:alt-text>
+                           <ce:link locator="mmc1" xlink:href="pii:S1728869X19303508/mmc1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.6" xlink:type="simple"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section id="appsec2" view="compact-standard">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="sectitle0140">Supplementary data</ce:section-title>
+                  <ce:para id="p0230" view="all">Supplementary data to this article can be found online at <ce:inter-ref id="intref0010" xlink:href="https://doi.org/10.1016/j.jesf.2020.03.003" xlink:type="simple">https://doi.org/10.1016/j.jesf.2020.03.003</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0145">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Brazilian Society of Hypertension</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>National Day to combat hypertension is a milestone in the fight against 300,000 deaths per year</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0015" xlink:href="http://www.sbh.org.br/geral/noticias.asp?id=115" xlink:type="simple">http://www.sbh.org.br/geral/noticias.asp?id=115</ce:inter-ref>
+                              <sb:date>2016</sb:date>
+                              <sb:date-accessed day="10" month="9" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0025">Brazilian Society of Hypertension. National Day to combat hypertension is a milestone in the fight against 300,000 deaths per year. 2016. http://www.sbh.org.br/geral/noticias.asp?id=115. Accessed 10 September 2019.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>World Health Organization</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hypertension</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref id="intref0020" xlink:href="https://www.who.int/news-room/fact-sheets/detail/hypertension" xlink:type="simple">https://www.who.int/news-room/fact-sheets/detail/hypertension</ce:inter-ref>
+                              <sb:date-accessed day="20" month="11" year="2019"/>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0030">World Health Organization. Hypertension. https://www.who.int/news-room/fact-sheets/detail/hypertension. Accessed 20 November 2019.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.V.B.</ce:given-name>
+                                 <ce:surname>Malachias</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.M.</ce:given-name>
+                                 <ce:surname>Gomes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Nobre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Alessi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Feitosa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Coelho</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>7th Brazilian guideline of arterial hypertension: chapter 2-diagnosis and classification</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Arq Bras Cardiol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                              <sb:last-page>13</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.5935/abc.20160152</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0035">Malachias MVB, Gomes MAM, Nobre F, Alessi A, Feitosa AD, Coelho EB. 7th Brazilian guideline of arterial hypertension: chapter 2-diagnosis and classification. Arq Bras Cardiol 2016; 107: 7-13. https://doi.org/10.5935/abc.20160152</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of moderate-and high-intensity exercise on the endothelial ultrastructure and function in mesenteric arteries from hypertensive rats</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Life Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>222</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36</sb:first-page>
+                              <sb:last-page>45</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.lfs.2019.01.058</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0040">Ye F, Wu Y, Chen Y, Xiao D, Shi L. Impact of moderate-and high-intensity exercise on the endothelial ultrastructure and function in mesenteric arteries from hypertensive rats. Life Sci 2016; 222: 36-45. https://doi.org/10.1016/j.lfs.2019.01.058</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.V.</ce:given-name>
+                                 <ce:surname>MacDonald</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.T.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.B.</ce:given-name>
+                                 <ce:surname>Huedo-Medina</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dynamic resistance training as stand-alone antihypertensive lifestyle therapy: a meta-analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Am Heart Assoc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:article-number>e003231</sb:article-number>
+                           <ce:doi>10.1161/JAHA.116.003231</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0045">MacDonald HV, Johnson BT, Huedo-Medina TB, Livingston J, Forsyth KC, Kraemer WJ, Pescatello LS. Dynamic resistance training as stand-alone antihypertensive lifestyle therapy: a meta-analysis. J Am Heart Assoc 2016; 5: e003231. https://doi.org/10.1161/JAHA.116.003231</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lopez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Pinto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Radaelli</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Benefits of resistance training in physically frail elderly: a systematic review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aging Clin Exp Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>889</sb:first-page>
+                              <sb:last-page>899</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s40520-017-0863-z</ce:doi>
+                        </sb:host>
+                        <sb:comment>889-899</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0050">Lopez P, Pinto RS, Radaelli R, Rech A, Grazioli R, Izquierdo M, et al. Benefits of resistance training in physically frail elderly: a systematic review. Aging Clin Exp Res 30:8 2018; 889-899. https://doi.org/10.1007/s40520-017-0863-z</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Da Cunha Nascimento</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Valduga</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Blood pressure response to resistance training in hypertensive and normotensive older women</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Clin Interv Aging</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>541</sb:first-page>
+                              <sb:last-page>553</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.2147/CIA.S157479</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0055">Da Cunha Nascimento D, Silva CR, Valduga R, Saraiva B, Sousa Neto IV, Vieira A, et al. Blood pressure response to resistance training in hypertensive and normotensive older women. Clin Interv Aging 2018; 13: 541. https://doi.org/10.2147/CIA.S157479</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.F.</ce:given-name>
+                                 <ce:surname>Gjovaag</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Mirtaheri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Simon</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hemodynamic responses to resistance exercise in patients with coronary artery disease</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Med Sci Sports Exerc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>581</sb:first-page>
+                              <sb:last-page>588</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1249/MSS.0000000000000811</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0060">Gjovaag TF, Mirtaheri P, Simon K, Berdal G, Tuchel I, Westlie T, et al. Hemodynamic responses to resistance exercise in patients with coronary artery disease. Med Sci Sports Exerc 2016; 48: 581-588. https://doi.org/10.1249/MSS.0000000000000811</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Rossi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Moullec</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.L.</ce:given-name>
+                                 <ce:surname>Lavoie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gour-Provencal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Bacon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The evolution of a Canadian Hypertension Education Program recommendation: the impact of resistance training on resting blood pressure in adults as an example</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can J Cardiol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>622</sb:first-page>
+                              <sb:last-page>627</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.cjca.2013.02.010</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0065">Rossi AM, Moullec G, Lavoie KL, Gour-Provencal G, Bacon SL. The evolution of a Canadian Hypertension Education Program recommendation: the impact of resistance training on resting blood pressure in adults as an example. Can J Cardiol 2013; 29: 622-627. https://doi.org/10.1016/j.cjca.2013.02.010</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.E.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Weir</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>ASEP procedures recommendation I: accurate assessment of muscular strength and power</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Exerc Physiol Online</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>21</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0070">Brown, LE, Weir JP. ASEP procedures recommendation I: accurate assessment of muscular strength and power. J Exerc Physiol Online 2001; 4:3 1-21.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Rikli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development and validation of a functional fitness test for community-residing older adults</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Aging Phys Activ</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                              <sb:last-page>161</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1093/geront/gns071</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0075">Rikli RE, Jones CJ. Development and validation of a functional fitness test for community-residing older adults. J Aging Phys Act 1999; 7: 129-161. https://doi.org/10.1093/geront/gns071</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Podsiadlo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Richardson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The timed “Up &amp; Go”: a test of basic functional mobility for frail elderly persons</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Am Geriatr Soc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>142</sb:first-page>
+                              <sb:last-page>148</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/j.1532-5415.1991.tb01616.x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0080">Podsiadlo D, Richardson S. The timed “Up &amp; Go”: a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc 1991; 39: 142-148. https://doi.org/10.1111/j.1532-5415.1991.tb01616.x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Arazi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Taati</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kheirkhah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ramezanpour</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Changes in pain following an interaction period of resistance training and green tea extract consumption in sedentary hypertensive women: impact of blood pressure swings</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Health Popul Nutr</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1186/s41043-019-0188-y</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0085">Arazi H, Taati B, Kheirkhah J, Ramezanpour S. Changes in pain following an interaction period of resistance training and green tea extract consumption in sedentary hypertensive women: impact of blood pressure swings. J Health Popul Nutr 2019; 38: 1-8. https://doi.org/10.1186/s41043-019-0188-y</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>14</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Krinski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.M.</ce:given-name>
+                                 <ce:surname>Elsangedy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Junior</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.A.</ce:given-name>
+                                 <ce:surname>Soares</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Efeito do exercício aeróbio e resistido no perfil antropométrico e respostas cardiovasculares de idosos portadores de hipertensão</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Sci Health Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                              <sb:last-page>75</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0090">Krinski K, Elsangedy HM, Junior NN, Soares IA. Efeito do exercicio aerobio e resistido no perfil antropometrico e respostas cardiovasculares de idosos portadores de hipertensao. Acta Sci, Health Sci 2006; 28: 71-75. https://doi.org/</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>15</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Pearson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Hussain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A review on the mechanisms of blood-flow restriction resistance training-induced muscle hypertrophy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sports Med</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>187</sb:first-page>
+                              <sb:last-page>200</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s40279-014-0264-9</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0095">Pearson SJ, Hussain SR. A review on the mechanisms of blood-flow restriction resistance training-induced muscle hypertrophy. Sports Med 2015; 45: 187-200. https://doi.org/10.1007/s40279-014-0264-9</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>16</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.C.</ce:given-name>
+                                 <ce:surname>Reis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Silva Almeida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Silva Souza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.S.R.</ce:given-name>
+                                 <ce:surname>de Sousa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of resistance training with different intensities on blood pressure in hypertensive patients</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int J Cardiovasc Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>34</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.5935/2177-7772.20150005</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0100">Reis JPC, Silva Almeida K, Silva Souza RA, de Sousa MSSR. Effect of resistance training with different intensities on blood pressure in hypertensive patients. Int J Cardiovasc Sci 2015; 28: 25-34. https://doi.org/10.5935/2177-7772.20150005</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>17</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yasuda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Fukumura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Fukuda</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Muscle size and arterial stiffness after blood flow-restricted low-intensity resistance training in older adults</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scand J Med Sci Sports</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>799</sb:first-page>
+                              <sb:last-page>806</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1111/sms.12087</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0105">Yasuda T, Fukumura K, Fukuda T, Uchida Y, Iida H, Meguro M, et al. Muscle size and arterial stiffness after blood flow-restricted low-intensity resistance training in older adults. Scand J Med Sci Sports 2014; 24: 799-806. https://doi.org/10.1111/sms.12087</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>18</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Alves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Nunes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.P.</ce:given-name>
+                                 <ce:surname>Stefani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dal Lago</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resistance training improves hemodynamic function, collagen deposition and inflammatory profiles: experimental model of heart failure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>PloS One</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1371/journal.pone.0110317</ce:doi>
+                        </sb:host>
+                        <sb:comment>e110317</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0110">Alves JP, Nunes RB, Stefani GP, Dal Lago P. Resistance training improves hemodynamic function, collagen deposition and inflammatory profiles: experimental model of heart failure. PloS One 2014; 9: e110317. https://doi.org/10.1371/journal.pone.0110317</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>19</ce:label>
+                     <sb:reference id="sref19">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.C.</ce:given-name>
+                                 <ce:surname>Baptista</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Amorim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Valente-dos-Santos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Machado-Rodrigues</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Veríssimo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Martins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Functional status improves in hypertensive older adults: the long-term effects of antihypertensive therapy combined with multicomponent exercise intervention</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aging Clin Exp Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1483</sb:first-page>
+                              <sb:last-page>1495</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1007/s40520-018-0925-x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0115">Baptista LC, Amorim AP, Valente-dos-Santos J, Machado-Rodrigues AM, Verissimo MT, Martins RA. Functional status improves in hypertensive older adults: the long-term effects of antihypertensive therapy combined with multicomponent exercise intervention. Aging Clin Exp Res 2018; 30: 1483-1495. https://doi.org/10.1007/s40520-018-0925-x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>20</ce:label>
+                     <sb:reference id="sref20">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Noone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Leahy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>Morrissey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Newell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Newell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.P.</ce:given-name>
+                                 <ce:surname>Dwyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparative efficacy of exercise and anti-hypertensive pharmacological interventions in reducing blood pressure in people with hypertension: a network meta-analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Eur J Prev Cardiol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>247</sb:first-page>
+                              <sb:last-page>255</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1177/2047487319879786</ce:doi>
+                        </sb:host>
+                        <sb:comment>2047487319879786</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0120">Noone C, Leahy J, Morrissey EC, Newell J, Newell M, Dwyer CP. Comparative efficacy of exercise and anti-hypertensive pharmacological interventions in reducing blood pressure in people with hypertension: A network meta-analysis. Eur J Prev Cardiol 2019; 2047487319879786. https://doi.org/10.1177/2047487319879786</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>21</ce:label>
+                     <sb:reference id="sref21">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Williamson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Supiano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.B.</ce:given-name>
+                                 <ce:surname>Applegate</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Intensive vs standard blood pressure control and cardiovascular disease outcomes in adults aged ≥75 years</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JAMA</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>315</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2673</sb:first-page>
+                              <sb:last-page>2682</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1001/jama.2016.7050</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0125">Williamson JD, Supiano MA, Applegate WB, Berlowitz DR, Campbell RC, Chertow GM, et al. Intensive vs standard blood pressure control and cardiovascular disease outcomes in adults aged ≥75 years. Jama 2016; 315: 2673 - 2682. doi:10.1001/jama.2016.7050. https://doi.org/10.1001/jama.2016.7050</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>22</ce:label>
+                     <sb:reference id="sref22">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.M.</ce:given-name>
+                                 <ce:surname>Wise</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Patrick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Resistance exercise in cardiac rehabilitation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Clin Rehabil</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1059</sb:first-page>
+                              <sb:last-page>1065</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1177/0269215511423408</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0130">Wise FM, Patrick JM. Resistance exercise in cardiac rehabilitation. Clin Rehabil 2011; 25: 1059-1065. https://doi.org/10.1177/0269215511423408</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>23</ce:label>
+                     <sb:reference id="sref23">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kwon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yoshida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Suziki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>y</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of a combined physical training and nutrition intervention on physical performance and health-related quality of life in prefrail older women living in the community: a randomized controlled trial</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Am Med Dir Assoc</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>8</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.jamda.2014.12.005</ce:doi>
+                        </sb:host>
+                        <sb:comment>263-e1</sb:comment>
+                     </sb:reference>
+                     <ce:source-text id="srct0135">Kwon J, Yoshida Y, Yoshida H, Kim H, Suziki T, Lee y. Effects of a combined physical training and nutrition intervention on physical performance and health-related quality of life in prefrail older women living in the community: a randomized controlled trial. J Am Med Dir Assoc 16.3 (2015): 263-e1. https://doi.org/10.1016/j.jamda.2014.12.005</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>24</ce:label>
+                     <sb:reference id="sref24">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kojima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Masud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kendrick</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Does the timed up and go test predict future falls among British community-dwelling older people? Prospective cohort study nested within a randomised controlled trial</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>BMC Geriatr</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>38</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>7</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1186/s12877-015-0039-7</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0140">Kojima G, Masud T, Kendrick D, Morris R, Gawler S, Treml J, et al. Does the timed up and go test predict future falls among British community-dwelling older people? Prospective cohort study nested within a randomised controlled trial. BMC Geriatr 2015; 15: 38. https://doi.org/10.1186/s12877-015-0039-7</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>25</ce:label>
+                     <sb:reference id="sref25">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Savva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.A.</ce:given-name>
+                                 <ce:surname>Donoghue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Horgan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>O’Regan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Cronin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Kenny</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Using timed up-and-go to identify frail members of the older population</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Gerontol A Biol Sci Med Sci</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>441</sb:first-page>
+                              <sb:last-page>446</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1093/gerona/gls190</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0145">Savva GM, Donoghue OA, Horgan F, O’Regan C, Cronin H, Kenny RA. Using timed up-and-go to identify frail members of the older population. J Gerontol A Biol Sci Med Sci 2012; 68: 441-446. https://doi.org/10.1093/gerona/gls190</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>26</ce:label>
+                     <sb:reference id="sref26">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Herman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Giladi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Hausdorff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Properties of the timed up and go test: more than meets the eye</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Gerontology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                              <sb:last-page>210</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1159/000314963</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0150">Herman T, Giladi N, Hausdorff JM. Properties of the Timed Up and go Test: More than Meets the Eye. Gerontology 2011; 57: 203-210. https://doi.org/10.1159/000314963</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>27</ce:label>
+                     <sb:reference id="sref27">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>De Matos</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of eight weeks of functional training in the functional autonomy of elderly women: a pilot study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Sports Med Phys Fit</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>272</sb:first-page>
+                              <sb:last-page>277</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.23736/S0022-4707.16.06514-2</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0155">De Matos DG. et al. Effects of eight weeks of functional training in the functional autonomy of elderly women: a pilot study. J Sports Med Phys Fitness 57:3 2017; 272-277. https://doi.org/10.23736/S0022-4707.16.06514-2</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib28">
+                     <ce:label>28</ce:label>
+                     <sb:reference id="sref28">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Allendorf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.P.</ce:given-name>
+                                 <ce:surname>Schopf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.C.</ce:given-name>
+                                 <ce:surname>Gonçalves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.E.</ce:given-name>
+                                 <ce:surname>Closs</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.V.</ce:given-name>
+                                 <ce:surname>Gottlieb</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Elderly resistance training practitioners have better mobility than physically active elderly non-practitioners</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>R Bras Ci e Mov</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>134</sb:first-page>
+                              <sb:last-page>144</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srct0160">Allendorf DB, Schopf PP, Goncalves BC, Closs VE, Gottlieb MGV. Elderly resistance training practitioners have better mobility than physically active elderly non-practitioners. R Bras Ci e Mov 2016; 24:1 134-44.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

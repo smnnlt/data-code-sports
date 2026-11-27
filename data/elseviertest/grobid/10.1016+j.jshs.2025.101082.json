@@ -1,0 +1,4440 @@
+{
+  "paper_id": "10.1016+j.jshs.2025.101082",
+  "info": [
+    {
+      "title": "The effects of a supervised exercise training program during pregnancy on placental cytokines, and the potential role of fetal sex and maternal weight status",
+      "keywords": ["Lifestyle", "Gestation", "Placental adaptations", "Sexual dimorphism", "Protein expression"],
+      "doi": "10.1016/j.jshs.2025.101082",
+      "file_hash": "208d0a4e4ba1c902",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.jshs.2025.101082.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Pedro",
+      "family": "Acosta-Manzano",
+      "affiliation": "Department of Human Movement Science, Sport and Health\n\t\t\t\t\t\t\t\tUniversity of Graz\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t8010\n\t\t\t\t\t\t\t\t\tGraz\n\t\t\t\t\t\t\t\t\tAustria",
+      "email": "pedro.acosta-manzano@uni-graz.at",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "Marta",
+      "family": "Flor-Alemany",
+      "affiliation": "Department of Nutrition and Food Science\n\t\t\t\t\t\t\t\tCampus of Melilla\n\t\t\t\t\t\t\t\tUniversity of Granada\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t52001\n\t\t\t\t\t\t\t\t\tMelilla\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "Luis",
+      "family": "Mart Inez-Gonz Alez",
+      "affiliation": "",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "Jes",
+      "family": "Us Alvarez-Cubero",
+      "affiliation": "GENYO: Centre for Genomics and Oncological Research\n\t\t\t\t\t\t\t\tUniversity of Granada/Andalusian Regional Government\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tPfizer",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "Laura",
+      "family": "Baena-Garc Ia",
+      "affiliation": "",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 6,
+      "given": "Teresa",
+      "family": "Nestares",
+      "affiliation": "Department of Biochemistry\n\t\t\t\t\t\t\t\tMolecular Biology III and Immunology\n\t\t\t\t\t\t\t\tFaculty of Medicine\n\t\t\t\t\t\t\t\tUniversity of Granada\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t18071\n\t\t\t\t\t\t\t\t\tGranada\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 7,
+      "given": "Mireille",
+      "family": "Van Poppel",
+      "affiliation": "Department of Human Movement Science, Sport and Health\n\t\t\t\t\t\t\t\tUniversity of Graz\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t8010\n\t\t\t\t\t\t\t\t\tGraz\n\t\t\t\t\t\t\t\t\tAustria",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 8,
+      "given": "Virginia",
+      "family": "Aparicio",
+      "affiliation": "Sport and Health University Research Institute (iMUDS)\n\t\t\t\t\t\t\t\tUniversity of Granada\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t18007\n\t\t\t\t\t\t\t\t\tGranada\n\t\t\t\t\t\t\t\t\tSpain",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Background: The mechanisms underlying the beneficial effects of exercise on the human placenta are poorly understood.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The objective of the current study was to ascertain the influence of a supervised concurrent exercise intervention from gestational Week 17 until birth on key cytokines involved in placental development and function.",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Secondary aims were to explore: (a) the moderating effects of fetal sex and maternal weight status; and (b) whether gestational weight gain, lifestyle behaviors (diet, sleep patterns, and physical activity), and physical fitness (strength and cardiorespiratory fitness) mediated the effects of exercise on placental cytokines.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: Seventy-six pregnant women (33 § 4 years, mean § SD), divided into exercise (n = 40) and control (n = 36) groups, participated in this study.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The exercise group followed a 60-min, 3 days/week (aerobic + resistance) training program of moderate-to-vigorous intensity.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Placental cytokines-including granulocyte-macrophage colony-stimulating factor (GM-CSF), granulocyte colony-stimulating factor (G-CSF), plateletderived growth factor AA (PDGF-AA), epidermal growth factor (EGF), monocyte chemoattractant protein-1 (MCP-1), fractalkine, interleukin (IL)-8, IL-6, IL-1b, interleukin 1-receptor antagonist (IL-1ra), IL-10, tumor necrosis factor alpha (TNF-a), and interferon gamma (IFN-g) were analyzed using Luminex multi-analyte profiling (xMAP) technology.",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: The exercise group presented higher placental levels of G-CSF and lower concentrations of EGF and IL-1ra than the control group (p < 0.05).",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Results: The exercise group presented higher placental levels of G-CSF and lower concentrations of EGF and IL-1ra than the control group (p &lt; 0.05)."
+    },
+    {
+      "text": "Significant effects of exercise on placental G-CSF and TNF-a (p < 0.05) and a trend toward lower IL-6 (p = 0.08) were observed only in female placentas.",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Significant effects of exercise on placental G-CSF and TNF-a (p &lt; 0.05) and a trend toward lower IL-6 (p = 0.08) were observed only in female placentas."
+    },
+    {
+      "text": "Additionally, a reduction in weight gain partially mediated the effects of exercise on G-CSF (p < 0.05).",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Additionally, a reduction in weight gain partially mediated the effects of exercise on G-CSF (p &lt; 0.05)."
+    },
+    {
+      "text": "The placenta is a versatile organ that plays a crucial role in sustaining pregnancy and supporting fetal growth. 1 Its remarkable plasticity facilitates adaptations to maintain homeostasis at the fetoplacental interface and to protect the fetus from adverse intrauterine perturbations. 1 However, an excessive metabolic load (e.g., immunometabolic derangements related to obesity or a sedentary lifestyle) can compromise placental homeostatic efficiency, leading to adverse fetal outcomes. 1 Exercise during pregnancy is a powerful intervention that can promote beneficial placental adaptations and protect against adverse birth-related outcomes.",
+      "text_id": 10,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The placenta is a versatile organ that plays a crucial role in sustaining pregnancy and supporting fetal growth. <ref type=\"bibr\" target=\"#b0\">1<\/ref> Its remarkable plasticity facilitates adaptations to maintain homeostasis at the fetoplacental interface and to protect the fetus from adverse intrauterine perturbations. <ref type=\"bibr\" target=\"#b0\">1<\/ref> However, an excessive metabolic load (e.g., immunometabolic derangements related to obesity or a sedentary lifestyle) can compromise placental homeostatic efficiency, leading to adverse fetal outcomes. <ref type=\"bibr\" target=\"#b0\">1<\/ref> Exercise during pregnancy is a powerful intervention that can promote beneficial placental adaptations and protect against adverse birth-related outcomes."
+    },
+    {
+      "text": "For instance, exercise has been shown to enhance placental efficiency, 2, 3 uteroplacental perfusion, 2, 4 immunometabolic responses, 5 and nutrient transport, 6 all of which are involved in fetal growth. 4 Unfortunately, the biological mechanisms underlying these beneficial effects of exercise on the human placenta are poorly understood.",
+      "text_id": 11,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "For instance, exercise has been shown to enhance placental efficiency, <ref type=\"bibr\" target=\"#b1\">2,<\/ref> <ref type=\"bibr\" target=\"#b2\">3<\/ref> uteroplacental perfusion, <ref type=\"bibr\" target=\"#b1\">2,<\/ref> <ref type=\"bibr\" target=\"#b3\">4<\/ref> immunometabolic responses, <ref type=\"bibr\" target=\"#b4\">5<\/ref> and nutrient transport, <ref type=\"bibr\" target=\"#b5\">6<\/ref> all of which are involved in fetal growth. <ref type=\"bibr\" target=\"#b3\">4<\/ref> Unfortunately, the biological mechanisms underlying these beneficial effects of exercise on the human placenta are poorly understood."
+    },
+    {
+      "text": "The few studies available in pregnant women are limited to investigating the effects of maternal exercise on placental angiogenic and oxidative stress markers 7 and the relationship of physical activity with the placental expression of genes related to nutrient transport and angiogenesis. 8, 9 However, nothing or very little is known 6 about the influence of exercise on placental cytokines that play a pivotal role in placental development and function, such as colony stimulating factors, growth factors, chemokines, and interleukins.",
+      "text_id": 12,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "The few studies available in pregnant women are limited to investigating the effects of maternal exercise on placental angiogenic and oxidative stress markers <ref type=\"bibr\" target=\"#b6\">7<\/ref> and the relationship of physical activity with the placental expression of genes related to nutrient transport and angiogenesis. <ref type=\"bibr\" target=\"#b7\">8,<\/ref> <ref type=\"bibr\" target=\"#b8\">9<\/ref> However, nothing or very little is known <ref type=\"bibr\" target=\"#b5\">6<\/ref> about the influence of exercise on placental cytokines that play a pivotal role in placental development and function, such as colony stimulating factors, growth factors, chemokines, and interleukins."
+    },
+    {
+      "text": "For instance, as shown in human and rodent studies, the granulocyte colonystimulating factor (G-CSF) 10 and granulocyte-macrophage colony-stimulating factor (GM-CSF) 11 play an essential role in trophoblast invasion and differentiation during implantation and immune tolerance, and thus in successful placental development.",
+      "text_id": 13,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "For instance, as shown in human and rodent studies, the granulocyte colonystimulating factor (G-CSF) <ref type=\"bibr\" target=\"#b9\">10<\/ref> and granulocyte-macrophage colony-stimulating factor (GM-CSF) <ref type=\"bibr\" target=\"#b10\">11<\/ref> play an essential role in trophoblast invasion and differentiation during implantation and immune tolerance, and thus in successful placental development."
+    },
+    {
+      "text": "Human platelet-derived growth factor-AA (PDGF-AA) and epidermal growth factor (EGF) also play central roles in embryogenesis, modulating the proliferation, differentiation, and apoptosis of trophoblasts, 12, 13 as well as the amino acid transport system. 14 Moreover, in the human placenta, monocyte chemoattractant protein 1 (MCP-1), 15 fractalkine 16 and interleukin (IL)-8 (CXCL8 (refers to C-X-C motif chemokine ligand 8)) 17 regulate the recruitment of immune cells, invasion and proliferation of trophoblasts and decidual stromal cells, as well as angiogenesis.",
+      "text_id": 14,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Human platelet-derived growth factor-AA (PDGF-AA) and epidermal growth factor (EGF) also play central roles in embryogenesis, modulating the proliferation, differentiation, and apoptosis of trophoblasts, <ref type=\"bibr\" target=\"#b11\">12,<\/ref> <ref type=\"bibr\" target=\"#b12\">13<\/ref> as well as the amino acid transport system. <ref type=\"bibr\" target=\"#b13\">14<\/ref> Moreover, in the human placenta, monocyte chemoattractant protein 1 (MCP-1), <ref type=\"bibr\" target=\"#b14\">15<\/ref> fractalkine <ref type=\"bibr\" target=\"#b15\">16<\/ref> and interleukin (IL)-8 (CXCL8 (refers to C-X-C motif chemokine ligand 8)) <ref type=\"bibr\" target=\"#b16\">17<\/ref> regulate the recruitment of immune cells, invasion and proliferation of trophoblasts and decidual stromal cells, as well as angiogenesis."
+    },
+    {
+      "text": "As for other interleukins, IL-6 and IL-1b contribute to blastocyst attachment and trophoblast invasion, immunometabolic interactions at the maternal-fetal interface, and to myometrial contractions during labor, as shown in human and rodent studies. 6, 17, 18 Moreover, the IL-1 receptor antagonist (IL-1ra) and IL-10 modulate the immune environment and often attenuate placental inflammation in both humans and rodents. 19, 20 Furthermore, human placental tumor necrosis factor alpha (TNF-a) 21 and interferon gamma (IFN-g) 22 participate in trophoblast invasiveness, turnover, and renewal as well as immune responses, endometrial vascular remodeling, and uterine activity for labor induction.",
+      "text_id": 15,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "As for other interleukins, IL-6 and IL-1b contribute to blastocyst attachment and trophoblast invasion, immunometabolic interactions at the maternal-fetal interface, and to myometrial contractions during labor, as shown in human and rodent studies. <ref type=\"bibr\" target=\"#b5\">6,<\/ref> <ref type=\"bibr\" target=\"#b16\">17,<\/ref> <ref type=\"bibr\" target=\"#b17\">18<\/ref> Moreover, the IL-1 receptor antagonist (IL-1ra) and IL-10 modulate the immune environment and often attenuate placental inflammation in both humans and rodents. <ref type=\"bibr\" target=\"#b18\">19,<\/ref> <ref type=\"bibr\" target=\"#b19\">20<\/ref> Furthermore, human placental tumor necrosis factor alpha (TNF-a) <ref type=\"bibr\" target=\"#b20\">21<\/ref> and interferon gamma (IFN-g) <ref type=\"bibr\" target=\"#b21\">22<\/ref> participate in trophoblast invasiveness, turnover, and renewal as well as immune responses, endometrial vascular remodeling, and uterine activity for labor induction."
+    },
+    {
+      "text": "Hence, investigating the impact of maternal exercise on these placental cytokines is crucial for gaining a better understanding of exercise-induced placental molecular adaptations and how exercise may optimize pregnancy outcomes.",
+      "text_id": 16,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Importantly, sexual dimorphism 23 and maternal weight status 1, 24 should be considered in these investigations due to their potential influence on placental phenotype.",
+      "text_id": 17,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Importantly, sexual dimorphism <ref type=\"bibr\" target=\"#b22\">23<\/ref> and maternal weight status <ref type=\"bibr\" target=\"#b0\">1,<\/ref> <ref type=\"bibr\" target=\"#b23\">24<\/ref> should be considered in these investigations due to their potential influence on placental phenotype."
+    },
+    {
+      "text": "Moreover, exercisemodifiable factors such as gestational weight-gain, 24 lifestyle, 8, 9 and physical fitness, 7, 25 which could influence molecular adaptations, should be considered to ascertain whether the effects of exercise on placental cytokines are independent or partially driven by these factors.",
+      "text_id": 18,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Moreover, exercisemodifiable factors such as gestational weight-gain, <ref type=\"bibr\" target=\"#b23\">24<\/ref> lifestyle, <ref type=\"bibr\" target=\"#b7\">8,<\/ref> <ref type=\"bibr\" target=\"#b8\">9<\/ref> and physical fitness, <ref type=\"bibr\" target=\"#b6\">7,<\/ref> <ref type=\"bibr\" target=\"#b24\">25<\/ref> which could influence molecular adaptations, should be considered to ascertain whether the effects of exercise on placental cytokines are independent or partially driven by these factors."
+    },
+    {
+      "text": "Thus, the primary objective of this study is to determine the impact of a supervised concurrent exercise intervention, starting from gestational Week 17 until birth, on placental cytokines strongly involved in placental development and function.",
+      "text_id": 19,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Secondary aims are to analyze the moderator role of fetal sex and maternal weight status, and to determine whether gestational weight gain, lifestyle behaviors (i.e., diet and sleep patterns, and physical activity), and physical fitness components (i.e., muscle strength and cardiorespiratory fitness) mediate the effects of this exercise program on these cytokines.",
+      "text_id": 20,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Methods",
+      "text_id": 21,
+      "paragraph_id": 6,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Methods<\/head>"
+    },
+    {
+      "text": "The GESTAtion and FITness (GESTAFIT) project commenced as a randomized controlled trial conducted at San Cecilio and Virgen de las Nieves University Hospitals as well as the Sport and Health University Research Institute in Granada, Spain.",
+      "text_id": 22,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Detailed descriptions of the study procedures and inclusion-exclusion criteria (Supplementary Table 1) can be found elsewhere. 26 In summary, pregnant women aged 20À40 who were free from any severe maternofetal disorder and who were capable of walking, reading, and writing unassisted in Spanish were eligible for recruitment.",
+      "text_id": 23,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Detailed descriptions of the study procedures and inclusion-exclusion criteria (Supplementary Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>) can be found elsewhere. <ref type=\"bibr\" target=\"#b25\">26<\/ref> In summary, pregnant women aged 20À40 who were free from any severe maternofetal disorder and who were capable of walking, reading, and writing unassisted in Spanish were eligible for recruitment."
+    },
+    {
+      "text": "Of the 384 pregnant women informed about the project in their gynecological appointment at gestational Weeks 12, 159 were recruited over the course of three recruitment waves.",
+      "text_id": 24,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants provided written informed consent after receiving individual explanations of the study methodology.",
+      "text_id": 25,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The GESTAFIT project was granted approval by the Clinical Research Ethics Committee of Granada, Government of Andalusia, Spain (code: GESFIT-0448-N-15).",
+      "text_id": 26,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Clinical trial registration: NCT02582567.",
+      "text_id": 27,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The sample size was calculated specifically for gestational weight gain (n = 52), 26 but not for the placental outcomes analyzed in this study, as analyses on these outcomes were exploratory in nature.",
+      "text_id": 28,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "The sample size was calculated specifically for gestational weight gain (n = 52), <ref type=\"bibr\" target=\"#b25\">26<\/ref> but not for the placental outcomes analyzed in this study, as analyses on these outcomes were exploratory in nature."
+    },
+    {
+      "text": "Pregnant women recruited during the 1st and 2nd waves of recruitment were randomized into the exercise or control group using computer-generated simple randomization.",
+      "text_id": 29,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, some challenges were encountered with adherence to the control regimen (standard care).",
+      "text_id": 30,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Several control participants resisted their assigned group after randomization, despite being offered a free postpartum exercise training program as compensation.",
+      "text_id": 31,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As a result, approximately half of the participants were assigned to either the exercise or control group based on their preferences, especially during the 2nd wave of recruitment.",
+      "text_id": 32,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This deviation from the randomization process meant that the random component was not fully maintained from the outset of the study.",
+      "text_id": 33,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A 3rd wave of recruitment was conducted to increase the size of the control group.",
+      "text_id": 34,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The only personnel not blinded to the allocation of participants were the experts responsible for conducting the training sessions.",
+      "text_id": 35,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "During the study, participants were assessed by experienced researchers at 3 time points: gestational Weeks 16À17, 33À34, and at birth, with each assessment being conducted in a single day.",
+      "text_id": 36,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sociodemographic and clinical characteristics, weight and height, sleep and dietary habits, and physical fitness were assessed at Weeks 16À17.",
+      "text_id": 37,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Before leaving, women were given accelerometers to wear for 9 days.",
+      "text_id": 38,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "At Weeks 33À34, the same assessments were conducted.",
+      "text_id": 39,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Immediately after birth, obstetrics and gynecological histories were collected.",
+      "text_id": 40,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Women's body composition was assessed at 6 weeks postpartum.",
+      "text_id": 41,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The general assessment procedures are outlined in Supplementary Fig. 1.",
+      "text_id": 42,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "The general assessment procedures are outlined in Supplementary Fig. <ref type=\"figure\">1<\/ref>."
+    },
+    {
+      "text": "The exercise intervention was based on a supervised concurrent training program from Week 17 until birth, with sessions held 3 days per week, each lasting 60 min.",
+      "text_id": 43,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The program, which combined aerobic and resistance exercises of moderate-to-vigorous intensity (primarily moderate with peaks of vigorous intensity), has been previously detailed. 26, 27 It was designed by an expert multidisciplinary team, following the reference guidelines. 28, 29 To control and adapt exercise progression, key variables such as the rating of perceived exertion (RPE), the number of repetitions, the weight of dumbbells, and heart rate were considered.",
+      "text_id": 44,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "The program, which combined aerobic and resistance exercises of moderate-to-vigorous intensity (primarily moderate with peaks of vigorous intensity), has been previously detailed. <ref type=\"bibr\" target=\"#b25\">26,<\/ref> <ref type=\"bibr\" target=\"#b26\">27<\/ref> It was designed by an expert multidisciplinary team, following the reference guidelines. <ref type=\"bibr\" target=\"#b27\">28,<\/ref> <ref type=\"bibr\" target=\"#b28\">29<\/ref> To control and adapt exercise progression, key variables such as the rating of perceived exertion (RPE), the number of repetitions, the weight of dumbbells, and heart rate were considered."
+    },
+    {
+      "text": "Heart rate during training sessions was monitored only during the first month and a half in one-third of the participants using Polar monitors (Polar Electro Oy, Kempele, Finland).",
+      "text_id": 45,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Exercise progression was managed by increasing both intensity (weight) and volume, taking into account the participant's gestational week 29 and training week. 26 Regarding aerobic sessions, adjustments in intensity were made based on the predetermined RPE and target heart rate range (for participants with heart rate monitors).",
+      "text_id": 46,
+      "paragraph_id": 12,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Exercise progression was managed by increasing both intensity (weight) and volume, taking into account the participant's gestational week <ref type=\"bibr\" target=\"#b28\">29<\/ref> and training week. <ref type=\"bibr\" target=\"#b25\">26<\/ref> Regarding aerobic sessions, adjustments in intensity were made based on the predetermined RPE and target heart rate range (for participants with heart rate monitors)."
+    },
+    {
+      "text": "During the intervention, 7 talks were provided to the participants in the exercise group with basic advice for a healthier pregnancy (Supplementary Material 1).",
+      "text_id": 47,
+      "paragraph_id": 13,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The participants from the control group were instructed to continue with their usual activities and were also invited to these talks, both for ethical reasons and to ensure their adherence to the study.",
+      "text_id": 48,
+      "paragraph_id": 13,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Exposures and confounding factors",
+      "text_id": 49,
+      "paragraph_id": 14,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "<head n=\"2.6.\" >Exposures and confounding factors<\/head>"
+    },
+    {
+      "text": "Sociodemographic and clinical data, obstetric-reproductive information, maternal-offspring adverse events, and smoking and alcohol habits were obtained from medical files and questionnaires.",
+      "text_id": 50,
+      "paragraph_id": 15,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Information regarding the type and duration of birth, epidural anesthesia, birthweight, and fetal sex was registered from perinatal obstetric records.",
+      "text_id": 51,
+      "paragraph_id": 15,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pre-pregnancy weight was self-reported.",
+      "text_id": 52,
+      "paragraph_id": 16,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Height and weight were measured (with no shoes and wearing light clothes) using a calibrated stadiometer (Seca 22; SECA GmbH & Co.",
+      "text_id": 53,
+      "paragraph_id": 16,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Height and weight were measured (with no shoes and wearing light clothes) using a calibrated stadiometer (Seca 22; SECA GmbH &amp; Co."
+    },
+    {
+      "text": "KG, Hamburg, Germany) and an electronic scale (InBody R20; Biospace, Seoul, Republic of Korea).",
+      "text_id": 54,
+      "paragraph_id": 16,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Body mass index (BMI) was calculated as weight (kg) divided by height squared (m 2 ).",
+      "text_id": 55,
+      "paragraph_id": 16,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gestational weight gain was calculated as the weight difference from pre-pregnancy to Weeks 33À34.",
+      "text_id": 56,
+      "paragraph_id": 16,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Postpartum fat percentage and lean mass were measured using dual-energy X-ray absorptiometry (DXA; Hologic Series Discovery QDR, Bedford, MA, USA). 3",
+      "text_id": 57,
+      "paragraph_id": 16,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "Postpartum fat percentage and lean mass were measured using dual-energy X-ray absorptiometry (DXA; Hologic Series Discovery QDR, Bedford, MA, USA). <ref type=\"bibr\" target=\"#b2\">3<\/ref>"
+    },
+    {
+      "text": "The amount and frequency of consumption of various foods were assessed using a food frequency questionnaire.",
+      "text_id": 58,
+      "paragraph_id": 17,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The estimated grams consumed for each food item were calculated by multiplying the typical portion size for Spaniards (as defined by guidelines, without weighing the food) by the frequency of consumption.",
+      "text_id": 59,
+      "paragraph_id": 17,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These data were used to estimate nutritional values and total energy intake (kcal/day) using the Evalfinut 1.0 software (FINUT, Granada, Spain).",
+      "text_id": 60,
+      "paragraph_id": 17,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The Mediterranean Diet Score index 30 was developed to evaluate participants' adherence to Mediterranean dietary patterns.",
+      "text_id": 61,
+      "paragraph_id": 17,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "The Mediterranean Diet Score index <ref type=\"bibr\" target=\"#b29\">30<\/ref> was developed to evaluate participants' adherence to Mediterranean dietary patterns."
+    },
+    {
+      "text": "Triaxial accelerometers (ActiGraph GT3X+; Ametris, Pensacola, FL, USA) worn on the waist for 9 consecutive days (24 h/day; frequency 30 Hz, epoch length 60 s) were used to objectively measure sedentary time and moderate-to-vigorous physical activity (MVPA) levels.",
+      "text_id": 62,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Only data with a minimum record of 7 days with >10 h/day of wear time were analyzed.",
+      "text_id": 63,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Only data with a minimum record of 7 days with &gt;10 h/day of wear time were analyzed."
+    },
+    {
+      "text": "Additional details are available elsewhere. 31",
+      "text_id": 64,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Additional details are available elsewhere. <ref type=\"bibr\" target=\"#b30\">31<\/ref>"
+    },
+    {
+      "text": "Sleep duration was evaluated using triaxial accelerometers (ActiSleep, ActiGraphGT3X+) placed on the non-dominant wrist, 32 along with the ColeÀKripke algorithm.",
+      "text_id": 65,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Sleep duration was evaluated using triaxial accelerometers (ActiSleep, ActiGraphGT3X+) placed on the non-dominant wrist, <ref type=\"bibr\" target=\"#b31\">32<\/ref> along with the ColeÀKripke algorithm."
+    },
+    {
+      "text": "The Pittsburgh Sleep Quality Index Questionnaire (University of Pittsburgh, Pittsburgh, PA, USA) was used to assess sleep quality.",
+      "text_id": 66,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Detailed information regarding the assessment of physical fitness has been published before. 25 Upper body muscle strength was measured using the handgrip strength test. 26 This test involved squeezing the grip of a digital dynamometer (TKK5101 Grip-D; Takei, Tokyo, Japan) as strongly as possible, with the device adjusted to each woman's hand size.",
+      "text_id": 67,
+      "paragraph_id": 20,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Detailed information regarding the assessment of physical fitness has been published before. <ref type=\"bibr\" target=\"#b24\">25<\/ref> Upper body muscle strength was measured using the handgrip strength test. <ref type=\"bibr\" target=\"#b25\">26<\/ref> This test involved squeezing the grip of a digital dynamometer (TKK5101 Grip-D; Takei, Tokyo, Japan) as strongly as possible, with the device adjusted to each woman's hand size."
+    },
+    {
+      "text": "The highest score from 2 trials for each hand was selected, and the mean score relative to body weight was used in the analyses.",
+      "text_id": 68,
+      "paragraph_id": 20,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cardiorespiratory fitness was evaluated using the submaximal modified Bruce protocol. 25 Participants were encouraged to reach 85% of the age-predicted maximum heart rate (85% MHR), which was used as a proxy for cardiorespiratory fitness, as demonstrated previously. 25, 33 Heart rate was monitored using a Polar V800 device (Polar Electro Oy, Kempele, Finland).",
+      "text_id": 69,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Cardiorespiratory fitness was evaluated using the submaximal modified Bruce protocol. <ref type=\"bibr\" target=\"#b24\">25<\/ref> Participants were encouraged to reach 85% of the age-predicted maximum heart rate (85% MHR), which was used as a proxy for cardiorespiratory fitness, as demonstrated previously. <ref type=\"bibr\" target=\"#b24\">25,<\/ref> <ref type=\"bibr\" target=\"#b32\">33<\/ref> Heart rate was monitored using a Polar V800 device (Polar Electro Oy, Kempele, Finland)."
+    },
+    {
+      "text": "A safety harness was worn by all participants to prevent falls.",
+      "text_id": 70,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Midwives from hospitals and physiologists responsible for processing placental samples were blinded to the treatment allocation of the participants.",
+      "text_id": 71,
+      "paragraph_id": 22,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Placental term samples were collected immediately after vaginal birth or caesarean section by midwives.",
+      "text_id": 72,
+      "paragraph_id": 23,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Within a maximum of 2 h, a trained researcher on call attended the hospital to process the placenta, which was kept in the fridge meanwhile.",
+      "text_id": 73,
+      "paragraph_id": 23,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Only those placentas that were characterized by completeness and did not present abnormalities related to the shape, maternal or fetal placental surface (e.g., placenta infarcts), or fetal membranes were processed.",
+      "text_id": 74,
+      "paragraph_id": 23,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The amniotic membrane and umbilical cord were extracted, and placentas were washed with saline solution (sodium chloride 0.9%, B. Braun, Melsungen, Germany).",
+      "text_id": 75,
+      "paragraph_id": 23,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Placental weight was recorded using a precision gram scale (Ohaus Compass; Ohaus, Parsipanny, NJ, USA).",
+      "text_id": 76,
+      "paragraph_id": 23,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Placental efficiency was calculated as the ratio of birthweight to placental weight.",
+      "text_id": 77,
+      "paragraph_id": 23,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Subsequently, two 2 £ 2 cm placental biopsies, consisting of the basal plate (including decidua basalis) and chorionic villi, were obtained in two of the 4 quadrants from the central part in relation to the cord insertion.",
+      "text_id": 78,
+      "paragraph_id": 23,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All samples were collected in cryotubes, transported to the lab, and stored at À80 C until analyses.",
+      "text_id": 79,
+      "paragraph_id": 23,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Placenta samples were defrosted, and small pieces totaling approximately 100 mg from one biopsy/placenta were homogenized with the T-10 basic ULTRA-TURRAX Ò (IKA, Staufen, Germany).",
+      "text_id": 80,
+      "paragraph_id": 24,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The lysis was conducted on ice in 1 mL radioimmunoprecipitation assay buffer (RIPA, R0278; Sigma-Aldrich, Burlington, MA, USA) together with the protease inhibitors phenylmethylsulfonyl fluoride (PMSF, 1:200, P7626, Sigma-Aldrich) and protease inhibitor cocktail (PIC, 1:100, P8340, Sigma).",
+      "text_id": 81,
+      "paragraph_id": 24,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The lysates were then kept at 4 ˚C in a cold room in a rotator.",
+      "text_id": 82,
+      "paragraph_id": 24,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Subsequently, samples were centrifuged (13000g, 15 min, 4 ˚C), and the supernatant was collected and frozen at À80 ˚C, except for 10 uL of supernatant, which was diluted with 10 uL of miliQ water and used to determine total protein concentrations with the Bradford assay.",
+      "text_id": 83,
+      "paragraph_id": 24,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The Bradford assay was conducted following manufacturer's instructions, using the Bio-Rad Protein Assay Dye Reagent Concentrate (5000006; Bio-Rad Laboratories, Hercules, CA, USA).",
+      "text_id": 84,
+      "paragraph_id": 24,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The standard curve was determined with duplicates, and each sample was tested in triplicate for total protein quantification.",
+      "text_id": 85,
+      "paragraph_id": 24,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fluorescence was determined using the Nanoquant Infinite M200 Pro multi-plate reader (Tecan, Zurich, Switzerland), with absorbance at 595 nm.",
+      "text_id": 86,
+      "paragraph_id": 24,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The Beer-Lambert law was applied to calculate total protein levels in each sample, considering dilution factors.",
+      "text_id": 87,
+      "paragraph_id": 24,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All samples were diluted to achieve a mean protein concentration of 2 mg/mL.",
+      "text_id": 88,
+      "paragraph_id": 24,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Placenta supernatants were defrosted, and RIPA buffer (Sigma-Aldrich) was added to each supernatant until equaling a volume of 100 mL.",
+      "text_id": 89,
+      "paragraph_id": 25,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A few of these samples were then used in a pilot immunoassay to explore whether cytokines were within the standard range, or if dilutions were required.",
+      "text_id": 90,
+      "paragraph_id": 25,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Consequently, 400 mL of RIPA buffer were further added to each sample (1:5).",
+      "text_id": 91,
+      "paragraph_id": 25,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cytokines concentrations (G-CSF, GM-CSF, PDGF-AA, EGF, MCP1, fractalkine, IL-8, IL-6, IL-1b, IL-1ra, IL-10, TNF-a, and IFN-g) were determined with a customized 19-plex Human Cytokine Magnetic Bead Panel immunoassay (SPR1630; MilliporeSigma, Darmstadt, Germany), using Luminex xMAP technology.",
+      "text_id": 92,
+      "paragraph_id": 26,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Manufacturer's instructios were followed.",
+      "text_id": 93,
+      "paragraph_id": 26,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The 96-well plate was read on the Luminex Tm 200 analyzer (Luminex Corporation, Austin, Texas, USA) and data acquisition was performed with the xPONENT 3.1 software (Luminex Corporation, Austin, TX, USA).",
+      "text_id": 94,
+      "paragraph_id": 26,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Median fluorescence intensity (MFI) values for each standard and sample were quantified.",
+      "text_id": 95,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Standard curves (one blank and 7 standards) were generated by plotting known cytokines concentrations vs. observed MFI using 5-parameter logistic curve-fit models.",
+      "text_id": 96,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Mathematical equations derived from these curve-fitting models were used to predict cytokines concentrations based on samples' net MFI values.",
+      "text_id": 97,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Dilution factors were considered for the calculation of cytokines concentrations.",
+      "text_id": 98,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Several non-detectable values (below the limit of blank) and out-of-range values (below the standard one) were identified.",
+      "text_id": 99,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Non-detectable values and out-of-range values were estimated following recommendations from previous authors 34, 35 to avoid biased statistics and misleading regression models; excluding them is considered inadequate practice.",
+      "text_id": 100,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "Non-detectable values and out-of-range values were estimated following recommendations from previous authors <ref type=\"bibr\" target=\"#b33\">34,<\/ref> <ref type=\"bibr\" target=\"#b34\">35<\/ref> to avoid biased statistics and misleading regression models; excluding them is considered inadequate practice."
+    },
+    {
+      "text": "Simple imputation (regression-based extrapolation) was used for those cytokines where <15% of cases were below the standard one.",
+      "text_id": 101,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "Simple imputation (regression-based extrapolation) was used for those cytokines where &lt;15% of cases were below the standard one."
+    },
+    {
+      "text": "When 15%À50% of the cases were below the standard one, multiple imputation was used (data were missing at random) to replace values within this range.",
+      "text_id": 102,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No method was used to estimate cytokines concentrations when censoring was >50%.",
+      "text_id": 103,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "No method was used to estimate cytokines concentrations when censoring was &gt;50%."
+    },
+    {
+      "text": "The percentage of left-censored data has been summarized in Supplementary Table 2.",
+      "text_id": 104,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "The percentage of left-censored data has been summarized in Supplementary Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>."
+    },
+    {
+      "text": "Only pregnant women who attended >75% of the exercise sessions and had placental data available were considered for perprotocol analyses, which prioritized treatment efficacy and minimized confounding.",
+      "text_id": 105,
+      "paragraph_id": 28,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Only pregnant women who attended &gt;75% of the exercise sessions and had placental data available were considered for perprotocol analyses, which prioritized treatment efficacy and minimized confounding."
+    },
+    {
+      "text": "Intention-to-treat analyses were dismissed due to the loss of the random component.",
+      "text_id": 106,
+      "paragraph_id": 28,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Descriptive statistics were used to show women's clinical characteristics, lifestyle factors, and levels of placental proteins (Table 1 and Supplementary Table 2).",
+      "text_id": 107,
+      "paragraph_id": 28,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Descriptive statistics were used to show women's clinical characteristics, lifestyle factors, and levels of placental proteins (Table <ref type=\"table\" target=\"#tab_0\">1<\/ref> and Supplementary Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>)."
+    },
+    {
+      "text": "The independent samples Student's t test, Welch's t test, MannÀWhitney U test, and x 2 test were used to detect differences between intervention groups.",
+      "text_id": 108,
+      "paragraph_id": 28,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relevant confounders, identified based on previous evidence and shown to influence the relationship between the independent and dependent variables (a change in B % 15%), were included in the regression models: Mediterranean diet score at Week 34, gestational age at birth, and percentage of MVPA at baseline ((MVPA/accelerometer wearing time) £ 100).",
+      "text_id": 109,
+      "paragraph_id": 28,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Linear regressions were employed to examine differences in placental cytokines between the control and exercise group (Table 2).",
+      "text_id": 110,
+      "paragraph_id": 29,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Linear regressions were employed to examine differences in placental cytokines between the control and exercise group (Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>)."
+    },
+    {
+      "text": "A few extreme cases, which were confirmed to be influential outliers, were handled as described in Supplementary Material 2.",
+      "text_id": 111,
+      "paragraph_id": 29,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Optimum Box-Cox transformations were employed in IL-1ra and IL-6 to solve non-normally distributed errors.",
+      "text_id": 112,
+      "paragraph_id": 29,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Subsequently, simple moderation and simple slope analyses were used to explore whether the associations differed based on fetal sex and pre-pregnancy weight status (healthy weight vs. overweight/obese).",
+      "text_id": 113,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lastly, simple mediation analyses were conducted to examine the role of lifestyle and physical fitness as mediators of the effects of exercise on placental cytokines (Table 3).",
+      "text_id": 114,
+      "paragraph_id": 31,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Lastly, simple mediation analyses were conducted to examine the role of lifestyle and physical fitness as mediators of the effects of exercise on placental cytokines (Table <ref type=\"table\" target=\"#tab_2\">3<\/ref>)."
+    },
+    {
+      "text": "Mediation analyses were conducted only for cytokines influenced by exercise and were exclusively tested with lifestyle behaviors and physical fitness components previously shown to affect maternal health. 3, 25 Fetal sex dependency was tested through conditional process analyses.",
+      "text_id": 115,
+      "paragraph_id": 31,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Mediation analyses were conducted only for cytokines influenced by exercise and were exclusively tested with lifestyle behaviors and physical fitness components previously shown to affect maternal health. <ref type=\"bibr\" target=\"#b2\">3,<\/ref> <ref type=\"bibr\" target=\"#b24\">25<\/ref> Fetal sex dependency was tested through conditional process analyses."
+    },
+    {
+      "text": "All assumptions related to the generalization of the results were met (e.g., normal distribution of errors).",
+      "text_id": 116,
+      "paragraph_id": 32,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The analyses were conducted using the SPSS software (Version 22.0; IBM Corp., New York, NY, USA), and moderation and mediation analyses were performed with the PROCESS macro (v3.5, University of Calgary, Calgary, Canada).",
+      "text_id": 117,
+      "paragraph_id": 32,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Significance was set at p < 0.05.",
+      "text_id": 118,
+      "paragraph_id": 32,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "Significance was set at p &lt; 0.05."
+    },
+    {
+      "text": "Post hoc power analyses were conducted using the G*Power software (Version 3.1.9.4; Heinrich Heine University D€ usseldorf, D€ usseldorf, Germany).",
+      "text_id": 119,
+      "paragraph_id": 32,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The BenjaminiÀHochberg step-up procedure was used in the main analyses to correct for false discovery rate.",
+      "text_id": 120,
+      "paragraph_id": 32,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A total of 76 Caucasian southern Spanish pregnant women (age 33 § 4 years, mean § SD; pre-pregnancy BMI = 23.7 § 3.9 kg/m 2 ) without diagnosed cardiometabolic diseases and with placental data available were included in the analyses.",
+      "text_id": 121,
+      "paragraph_id": 33,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Women were divided into control (n = 36) and exercise (n = 40) groups.",
+      "text_id": 122,
+      "paragraph_id": 33,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additional information on dropouts is provided in Supplementary Fig. 2.",
+      "text_id": 123,
+      "paragraph_id": 33,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Additional information on dropouts is provided in Supplementary Fig. <ref type=\"figure\">2<\/ref>."
+    },
+    {
+      "text": "Women's clinical characteristics, lifestyle factors, and placental cytokines levels are shown in Table 1 and Supplementary Table 2.",
+      "text_id": 124,
+      "paragraph_id": 33,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Women's clinical characteristics, lifestyle factors, and placental cytokines levels are shown in Table <ref type=\"table\" target=\"#tab_0\">1<\/ref> and Supplementary Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>."
+    },
+    {
+      "text": "Women in the exercise group had an average attendance of 86% to exercise sessions and were characterized by higher energy intake than women in the control group at baseline (p < 0.05).",
+      "text_id": 125,
+      "paragraph_id": 33,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Women in the exercise group had an average attendance of 86% to exercise sessions and were characterized by higher energy intake than women in the control group at baseline (p &lt; 0.05)."
+    },
+    {
+      "text": "Overall, no clinically significant infections were reported in the medical records.",
+      "text_id": 126,
+      "paragraph_id": 33,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The correlations between placental proteins are shown in Supplementary Table 3.",
+      "text_id": 127,
+      "paragraph_id": 33,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "The correlations between placental proteins are shown in Supplementary Table <ref type=\"table\" target=\"#tab_2\">3<\/ref>."
+    },
+    {
+      "text": "The effects of exercise on placental cytokines are shown in Table 2.",
+      "text_id": 128,
+      "paragraph_id": 34,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": "The effects of exercise on placental cytokines are shown in Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>."
+    },
+    {
+      "text": "After adjusting analyses for gestational age at birth and baseline percentage of MVPA, the exercise group showed higher levels of G-CSF (B = 43.79, 95% confidence interval (95%CI): 14.05À73.53, R² adj = 0.09), and lower concentrations of EGF (B = À7.35, 95%CI: À13.73 to À0.96, R² adj = 0.14), IL-6 (nonsignificant trend, B = À0.43, 95%CI: À0.90 to 0.01, R² adj = 0.04), and IL-1ra (B = À0.49, 95%CI: À0.87 to À0.11, R² adj = 0.10) than the control group.",
+      "text_id": 129,
+      "paragraph_id": 34,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No other significant effects or trends were observed with exercise (p > 0.05).",
+      "text_id": 130,
+      "paragraph_id": 34,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": "No other significant effects or trends were observed with exercise (p &gt; 0.05)."
+    },
+    {
+      "text": "Sensitivity analyses showed that the results remained similar after additionally adjusting the models for the following variables one at a time: maternal age, pre-pregnancy BMI, parity status, type of birth, use of antibiotics for group B streptococcal infections, use of oxytocin, epidural anesthesia or another anesthetic at birth, duration of active and expulsive phase, season of the year, anxiety, tobacco use, sun exposure, sleep duration and quality at baseline, energy intake and relative percentage of sedentary time at baseline, and changes from Week 16 to Week 34 in energy intake, upper-body flexibility, and lower-body muscle strength.",
+      "text_id": 131,
+      "paragraph_id": 35,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "When controlling for false discovery rate, the associations shown between exercise and G-CSF, EGF, and IL-1ra levels remained statistically significant.",
+      "text_id": 132,
+      "paragraph_id": 35,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Post hoc power analyses showed an »80% statistical power to detect associations with small-to-medium effect sizes (minimum detectable f² = 0.1) in Table 3.",
+      "text_id": 133,
+      "paragraph_id": 35,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": "Post hoc power analyses showed an »80% statistical power to detect associations with small-to-medium effect sizes (minimum detectable f² = 0.1) in Table <ref type=\"table\" target=\"#tab_2\">3<\/ref>."
+    },
+    {
+      "text": "The associations with GM-CSF, fractalkine, IL-6, and TNF-a showed lower statistical power (»50%).",
+      "text_id": 134,
+      "paragraph_id": 35,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "When considering only noncensored data, the results remained similar except for the association between exercise and EGF, which showed the same trend but was not significant.",
+      "text_id": 135,
+      "paragraph_id": 35,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "When analyses were conducted separately by fetal sex (male n = 40 vs. female n = 36; Supplementary Table 4), the effects of exercise on placental G-CSF (B = 75.43, standard error (SE) = 21.00, p < 0.001) and TNF-a (B = À12.32, SE = 5.94, p = 0.04) were significant only in female placentas.",
+      "text_id": 136,
+      "paragraph_id": 36,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": "When analyses were conducted separately by fetal sex (male n = 40 vs. female n = 36; Supplementary Table <ref type=\"table\">4<\/ref>), the effects of exercise on placental G-CSF (B = 75.43, standard error (SE) = 21.00, p &lt; 0.001) and TNF-a (B = À12.32, SE = 5.94, p = 0.04) were significant only in female placentas."
+    },
+    {
+      "text": "Similarly, the exercise group showed a trend toward lower levels of IL-6 compared to the control group only in female placentas (B = À0.60, SE = 0.34, p = 0.08).",
+      "text_id": 137,
+      "paragraph_id": 36,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "When analyses were conducted separately by pre-pregnancy BMI (i.e., healthy weight n = 51 vs. overweight/obese n = 25; Supplementary Table 5), the effects of exercise on placental proteins remained generally similar.",
+      "text_id": 138,
+      "paragraph_id": 36,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": "When analyses were conducted separately by pre-pregnancy BMI (i.e., healthy weight n = 51 vs. overweight/obese n = 25; Supplementary Table <ref type=\"table\">5<\/ref>), the effects of exercise on placental proteins remained generally similar."
+    },
+    {
+      "text": "A significant effect of exercise on IL-6 levels was only observed in pregnant women with overweight/obesity (Model 2: B = À1.05, SE = 0.45, p = 0.02).",
+      "text_id": 139,
+      "paragraph_id": 36,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The role of lifestyle and physical fitness changes (Weeks 16À34) as mediators of the exercise-induced effects on placental cytokines is addressed in Table 3.",
+      "text_id": 140,
+      "paragraph_id": 37,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": "The role of lifestyle and physical fitness changes (Weeks 16À34) as mediators of the exercise-induced effects on placental cytokines is addressed in Table <ref type=\"table\" target=\"#tab_2\">3<\/ref>."
+    },
+    {
+      "text": "Mediation analyses showed that exercise exerted an indirect effect on placental G-CSF levels through changes in gestational weight gain (indirect effect B = 17.83, 95%CI: 2.09À40.37).",
+      "text_id": 141,
+      "paragraph_id": 37,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Notably, lower gestational weight gain was correlated with a lower postpartum fat percentage (r = 0.3, p = 0.03).",
+      "text_id": 142,
+      "paragraph_id": 37,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No other lifestyle or physical fitness component mediated the effects of exercise on G-CSF, EGF, or IL-1ra levels (p > 0.05).",
+      "text_id": 143,
+      "paragraph_id": 37,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": "No other lifestyle or physical fitness component mediated the effects of exercise on G-CSF, EGF, or IL-1ra levels (p &gt; 0.05)."
+    },
+    {
+      "text": "Mediation analyses also provided insights into the role of these variables as confounders.",
+      "text_id": 144,
+      "paragraph_id": 38,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For instance, they showed that the effects of exercise on G-CSF were independent of changes in dietary patterns, sleep duration, muscle strength, and cardiorespiratory fitness (c'-path, p < 0.05).",
+      "text_id": 145,
+      "paragraph_id": 38,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": "For instance, they showed that the effects of exercise on G-CSF were independent of changes in dietary patterns, sleep duration, muscle strength, and cardiorespiratory fitness (c'-path, p &lt; 0.05)."
+    },
+    {
+      "text": "Additionally, the effects of exercise on EGF and IL-1ra remained independent of changes in dietary patterns and muscle strength; the associations of EGF were also independent of gestational weight gain and MVPA (all, p < 0.05).",
+      "text_id": 146,
+      "paragraph_id": 38,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": "Additionally, the effects of exercise on EGF and IL-1ra remained independent of changes in dietary patterns and muscle strength; the associations of EGF were also independent of gestational weight gain and MVPA (all, p &lt; 0.05)."
+    },
+    {
+      "text": "Evidence regarding the impact of exercise on placental phenotype remains almost inexistent despite its relevance for maternal-fetal health.",
+      "text_id": 147,
+      "paragraph_id": 39,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This is the first study to explore the influence of a supervised concurrent exercise intervention on cytokines that have a pivotal role in placental development and function.",
+      "text_id": 148,
+      "paragraph_id": 39,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Our main findings showed that exercise was related to increased concentrations of G-CSF and lower levels of EGF, IL-1ra, and IL-6 (trend) in term placenta samples.",
+      "text_id": 149,
+      "paragraph_id": 40,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, the most striking finding was that some exercise-induced effects on placental proteins, such as higher G-CSF, lower TNF-a levels, and a trend toward reduced IL-6 concentrations, were only observed in female placentas.",
+      "text_id": 150,
+      "paragraph_id": 40,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In other words, fetal sex appeared to influence some of the intrauterine effects of exercise.",
+      "text_id": 151,
+      "paragraph_id": 40,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "G-CSF and its downstream receptor (G-CSFR), both of which are expressed in placental trophoblast and decidual cells, play crucial roles in embryonic implantation, placental development, and immune modulation. 10, 36 For instance, mice models of recurrent spontaneous abortion, which are characterized by lower levels of G-CSF, have higher abortion rates.",
+      "text_id": 152,
+      "paragraph_id": 41,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "G-CSF and its downstream receptor (G-CSFR), both of which are expressed in placental trophoblast and decidual cells, play crucial roles in embryonic implantation, placental development, and immune modulation. <ref type=\"bibr\" target=\"#b9\">10,<\/ref> <ref type=\"bibr\" target=\"#b35\">36<\/ref> For instance, mice models of recurrent spontaneous abortion, which are characterized by lower levels of G-CSF, have higher abortion rates."
+    },
+    {
+      "text": "This is partially explained by an impaired proliferative capacity of trophoblasts due to suppressed G-CSF. 10 Notably, the intraperitoneal administration of recombinant G-CSF to these mice mitigated abortion rates. 10 Similarly, pregnant women with recurrent abortions also showed lower levels of G-CSF in the placental villi, 10 and the treatment with recombinant human G-CSF was proven to decrease abortion rates, postulating a key role for G-CSF in placental development. 36 Based on our findings, it can be speculated that exercise upregulates placental levels of G-CSF, potentially enhancing placental development without the need for medications and their associated adverse effects.",
+      "text_id": 153,
+      "paragraph_id": 41,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "This is partially explained by an impaired proliferative capacity of trophoblasts due to suppressed G-CSF. <ref type=\"bibr\" target=\"#b9\">10<\/ref> Notably, the intraperitoneal administration of recombinant G-CSF to these mice mitigated abortion rates. <ref type=\"bibr\" target=\"#b9\">10<\/ref> Similarly, pregnant women with recurrent abortions also showed lower levels of G-CSF in the placental villi, <ref type=\"bibr\" target=\"#b9\">10<\/ref> and the treatment with recombinant human G-CSF was proven to decrease abortion rates, postulating a key role for G-CSF in placental development. <ref type=\"bibr\" target=\"#b35\">36<\/ref> Based on our findings, it can be speculated that exercise upregulates placental levels of G-CSF, potentially enhancing placental development without the need for medications and their associated adverse effects."
+    },
+    {
+      "text": "Unfortunately, there are no previous exercise studies available with which to compare our results.",
+      "text_id": 154,
+      "paragraph_id": 41,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Of note, the results regarding G-CSF were only observed in female placentas, which is consistent with previous evidence suggesting that the female placenta exhibits a better adaptive response than the male placenta. 37 For instance, the female placenta appears to undergo intrauterine adaptations in protein and gene expression that help attenuate chronic inflammation and mitigate associated histopathological lesions in response to the same maternal stimuli or adverse conditions. 37 Importantly, we also found that the exercise-induced increase in placental G-CSF levels was paralleled by a lower gestational weight gain among women who exercised.",
+      "text_id": 155,
+      "paragraph_id": 41,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Of note, the results regarding G-CSF were only observed in female placentas, which is consistent with previous evidence suggesting that the female placenta exhibits a better adaptive response than the male placenta. <ref type=\"bibr\" target=\"#b36\">37<\/ref> For instance, the female placenta appears to undergo intrauterine adaptations in protein and gene expression that help attenuate chronic inflammation and mitigate associated histopathological lesions in response to the same maternal stimuli or adverse conditions. <ref type=\"bibr\" target=\"#b36\">37<\/ref> Importantly, we also found that the exercise-induced increase in placental G-CSF levels was paralleled by a lower gestational weight gain among women who exercised."
+    },
+    {
+      "text": "Notably, this reduced weight gain was reflected in a lower postpartum fat percentage with no significant changes in lean mass.",
+      "text_id": 156,
+      "paragraph_id": 41,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This aligns with our previous findings showing that exercise limits gestational weight gain and may contribute to improved placental function and development 3, 38 ; this is also supported by previous studies 4, 39, 40 reporting observations such as increased villous density and enhanced oxygenation.",
+      "text_id": 157,
+      "paragraph_id": 41,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "This aligns with our previous findings showing that exercise limits gestational weight gain and may contribute to improved placental function and development <ref type=\"bibr\" target=\"#b2\">3,<\/ref> <ref type=\"bibr\" target=\"#b37\">38<\/ref> ; this is also supported by previous studies <ref type=\"bibr\" target=\"#b3\">4,<\/ref> <ref type=\"bibr\" target=\"#b38\">39,<\/ref> <ref type=\"bibr\" target=\"#b39\">40<\/ref> reporting observations such as increased villous density and enhanced oxygenation."
+    },
+    {
+      "text": "EGF is an endogenous placental growth factor that, together with its receptor (EGFR), plays a critical role in placental-fetal growth. 41 For instance, physiological concentrations of placental EGF improve in vitro rates of blastocyst formation and trophoblasts proliferation, 41 reduce trophoblasts apoptosis induced by reactive oxygen species, 13 and enhance amino acid transport, 14 as evidenced by studies in humans and rodents. 13, 14, 41 However, aberrant levels of EGF (i.e., deficient or excessive EGFR signaling) are related to abnormal placental development and pregnancy outcomes (e.g., intrauterine growth restriction and lower neonate birthweight). 13, 41 In our study, we observed that exercise reduced placental levels of EGF independently of fetal sex and maternal weight status, suggesting a potential mechanism by which exercise may influence placental development. 6 These findings should be interpreted cautiously since the trend was non-significant when left-censored data were excluded (likely due to lower power).",
+      "text_id": 158,
+      "paragraph_id": 42,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "EGF is an endogenous placental growth factor that, together with its receptor (EGFR), plays a critical role in placental-fetal growth. <ref type=\"bibr\" target=\"#b40\">41<\/ref> For instance, physiological concentrations of placental EGF improve in vitro rates of blastocyst formation and trophoblasts proliferation, <ref type=\"bibr\" target=\"#b40\">41<\/ref> reduce trophoblasts apoptosis induced by reactive oxygen species, <ref type=\"bibr\" target=\"#b12\">13<\/ref> and enhance amino acid transport, <ref type=\"bibr\" target=\"#b13\">14<\/ref> as evidenced by studies in humans and rodents. <ref type=\"bibr\" target=\"#b12\">13,<\/ref> <ref type=\"bibr\" target=\"#b13\">14,<\/ref> <ref type=\"bibr\" target=\"#b40\">41<\/ref> However, aberrant levels of EGF (i.e., deficient or excessive EGFR signaling) are related to abnormal placental development and pregnancy outcomes (e.g., intrauterine growth restriction and lower neonate birthweight). <ref type=\"bibr\" target=\"#b12\">13,<\/ref> <ref type=\"bibr\" target=\"#b40\">41<\/ref> In our study, we observed that exercise reduced placental levels of EGF independently of fetal sex and maternal weight status, suggesting a potential mechanism by which exercise may influence placental development. <ref type=\"bibr\" target=\"#b5\">6<\/ref> These findings should be interpreted cautiously since the trend was non-significant when left-censored data were excluded (likely due to lower power)."
+    },
+    {
+      "text": "Further research is necessary to clarify the role of EGF in exercise-modulated placental adaptations.",
+      "text_id": 159,
+      "paragraph_id": 42,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "IL-1ra is a major anti-inflammatory cytokine that inhibits the effects of IL-1b and IL-1a by binding to their receptor (IL-1R). 42 During pregnancy, IL-1ra is often associated with attenuated placental inflammation in both humans and rodents, 19 although aberrantly high levels have been observed in women with pregnancy complications, such as preeclampsia. 43 In response to exercise, circulating IL-1ra levels are usually increased, at least in non-pregnant populations. 42 Hence, it is intriguing that in our study, exercise reduced placental IL-1ra levels.",
+      "text_id": 160,
+      "paragraph_id": 43,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "IL-1ra is a major anti-inflammatory cytokine that inhibits the effects of IL-1b and IL-1a by binding to their receptor (IL-1R). <ref type=\"bibr\" target=\"#b41\">42<\/ref> During pregnancy, IL-1ra is often associated with attenuated placental inflammation in both humans and rodents, <ref type=\"bibr\" target=\"#b18\">19<\/ref> although aberrantly high levels have been observed in women with pregnancy complications, such as preeclampsia. <ref type=\"bibr\" target=\"#b42\">43<\/ref> In response to exercise, circulating IL-1ra levels are usually increased, at least in non-pregnant populations. <ref type=\"bibr\" target=\"#b41\">42<\/ref> Hence, it is intriguing that in our study, exercise reduced placental IL-1ra levels."
+    },
+    {
+      "text": "Of note, other researchers have discussed that in specific conditions such as preeclampsia, the human placenta secretes higher levels of IL-1b to maternal circulation, and this response is accompanied by an increase in IL-1ra levels as a protective mechanism to limit inflammation. 43 In other words, placental IL-1ra levels could reflect IL-1b levels.",
+      "text_id": 161,
+      "paragraph_id": 43,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Of note, other researchers have discussed that in specific conditions such as preeclampsia, the human placenta secretes higher levels of IL-1b to maternal circulation, and this response is accompanied by an increase in IL-1ra levels as a protective mechanism to limit inflammation. <ref type=\"bibr\" target=\"#b42\">43<\/ref> In other words, placental IL-1ra levels could reflect IL-1b levels."
+    },
+    {
+      "text": "Thus, a possible interpretation in our study may be that exercise induced a placental IL-1b downregulation along with a decrease in IL-1ra levels.",
+      "text_id": 162,
+      "paragraph_id": 43,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In support of this speculation, we previously observed in this cohort that maternal exercise reduced maternal systemic IL-1b. 5 Unfortunately, placental IL-1b could not be analyzed here due to the high percentage of censored data.",
+      "text_id": 163,
+      "paragraph_id": 43,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "In support of this speculation, we previously observed in this cohort that maternal exercise reduced maternal systemic IL-1b. <ref type=\"bibr\" target=\"#b4\">5<\/ref> Unfortunately, placental IL-1b could not be analyzed here due to the high percentage of censored data."
+    },
+    {
+      "text": "Moreover, we observed that exercise was related to lower TNF-a in female but not male placentas (maybe due to a lower adaptative capacity in male placentas 37, 44 ).",
+      "text_id": 164,
+      "paragraph_id": 44,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Moreover, we observed that exercise was related to lower TNF-a in female but not male placentas (maybe due to a lower adaptative capacity in male placentas <ref type=\"bibr\" target=\"#b36\">37,<\/ref> <ref type=\"bibr\" target=\"#b43\">44<\/ref> )."
+    },
+    {
+      "text": "Although TNF-a has pleiotropic effects on the human placenta (depending on the concentrations and receptor signaling), 21 it has been usually considered a potent pro-inflammatory agent, especially in those conditions where its expression is exacerbated. 18 Thus, if confirmed by future studies, exercise may be a useful tool to attenuate the exacerbated inflammatory response associated with TNF-a, at least in female placentas.",
+      "text_id": 165,
+      "paragraph_id": 44,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Although TNF-a has pleiotropic effects on the human placenta (depending on the concentrations and receptor signaling), <ref type=\"bibr\" target=\"#b20\">21<\/ref> it has been usually considered a potent pro-inflammatory agent, especially in those conditions where its expression is exacerbated. <ref type=\"bibr\" target=\"#b17\">18<\/ref> Thus, if confirmed by future studies, exercise may be a useful tool to attenuate the exacerbated inflammatory response associated with TNF-a, at least in female placentas."
+    },
+    {
+      "text": "This speculation is supported by our previous studies 3, 5 showing that exercise is associated with lower levels of TNF-a in maternal and venous cord serum, and by other authors. 45 Similarly, we found that exercise was related to lower placental IL-6 in pregnant women carrying female fetuses (non-significant trend) or women with obesity.",
+      "text_id": 166,
+      "paragraph_id": 44,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "This speculation is supported by our previous studies <ref type=\"bibr\" target=\"#b2\">3,<\/ref> <ref type=\"bibr\" target=\"#b4\">5<\/ref> showing that exercise is associated with lower levels of TNF-a in maternal and venous cord serum, and by other authors. <ref type=\"bibr\" target=\"#b44\">45<\/ref> Similarly, we found that exercise was related to lower placental IL-6 in pregnant women carrying female fetuses (non-significant trend) or women with obesity."
+    },
+    {
+      "text": "Human IL-6 is involved in multiple physiological processes such as embryo implantation, trophoblast invasion, and immunometabolic modulation. 46 However, at supraphysiological levels, particularly in conditions such as maternal obesity 47 or gestational diabetes, 17 IL-6 may play a pathological role related to maternal-fetal complications. 17, 47 In this regard, exercise may be beneficial for decreasing circulating levels of IL-6.",
+      "text_id": 167,
+      "paragraph_id": 44,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Human IL-6 is involved in multiple physiological processes such as embryo implantation, trophoblast invasion, and immunometabolic modulation. <ref type=\"bibr\" target=\"#b45\">46<\/ref> However, at supraphysiological levels, particularly in conditions such as maternal obesity <ref type=\"bibr\" target=\"#b46\">47<\/ref> or gestational diabetes, <ref type=\"bibr\" target=\"#b16\">17<\/ref> IL-6 may play a pathological role related to maternal-fetal complications. <ref type=\"bibr\" target=\"#b16\">17,<\/ref> <ref type=\"bibr\" target=\"#b46\">47<\/ref> In this regard, exercise may be beneficial for decreasing circulating levels of IL-6."
+    },
+    {
+      "text": "This has been demonstrated in non-pregnant women 42 ; however, evidence is scarce in pregnant women.",
+      "text_id": 168,
+      "paragraph_id": 44,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "This has been demonstrated in non-pregnant women <ref type=\"bibr\" target=\"#b41\">42<\/ref> ; however, evidence is scarce in pregnant women."
+    },
+    {
+      "text": "Our previous study in pregnant women showed that maternal exercise did not induce reductions in circulating maternal IL-6 levels, though it did do so in cord arterial serum. 5 These findings tempt us to speculate that exercise might downregulate placental and fetal synthesis of IL-6, which may be involved in placental adaptions and function, as suggested by previous evidence and unpublished data from the DALI study (Vitamin D And Lifestyle Intervention for Gestational Diabetes Mellitus Prevention). 9 Given the clinical relevance, especially for pregnant women with obesity and female fetuses, future studies should try to confirm these findings.",
+      "text_id": 169,
+      "paragraph_id": 44,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Our previous study in pregnant women showed that maternal exercise did not induce reductions in circulating maternal IL-6 levels, though it did do so in cord arterial serum. <ref type=\"bibr\" target=\"#b4\">5<\/ref> These findings tempt us to speculate that exercise might downregulate placental and fetal synthesis of IL-6, which may be involved in placental adaptions and function, as suggested by previous evidence and unpublished data from the DALI study (Vitamin D And Lifestyle Intervention for Gestational Diabetes Mellitus Prevention). <ref type=\"bibr\" target=\"#b8\">9<\/ref> Given the clinical relevance, especially for pregnant women with obesity and female fetuses, future studies should try to confirm these findings."
+    },
+    {
+      "text": "The other cytokines studied were not related to exercise or could not be analyzed due to the high number of censored cases (often observed in similar studies that require high sensitivity).",
+      "text_id": 170,
+      "paragraph_id": 45,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Importantly, conclusions about the effects of exercise on the functions of placental cytokines earlier in pregnancy cannot be drawn at this stage, as the exercise regimen started at Week 17 and placental samples were collected only at birth.",
+      "text_id": 171,
+      "paragraph_id": 46,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Moreover, the interpretation of the results is limited to the pooled analysis of the basal plate and chronic villi (i.e., to the maternal-fetal interface).",
+      "text_id": 172,
+      "paragraph_id": 46,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, conclusions about the influence of exercise on individual maternal or fetal tissues should be avoided until future studies specifically target these tissues.",
+      "text_id": 173,
+      "paragraph_id": 46,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Selection bias might be present as the random component could not be sustained due to difficulties in retaining participants within the control group.",
+      "text_id": 174,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For instance, self-selection of participants into the exercise group may have biased the results toward individuals who were more health-conscious or had healthier maternal profiles.",
+      "text_id": 175,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, baseline characteristics were comparable between the intervention groups except for energy intake, which was considered to be a potential confounder and did not influence the results.",
+      "text_id": 176,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Although we cannot fully exclude the influence of labor on placental cytokines, both intervention groups underwent similar types of birth, and we considered this variable in our analyses.",
+      "text_id": 177,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Moreover, only women with complete placental data were included in the analyses, which might have affected the representativeness of the cohort.",
+      "text_id": 178,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nonetheless, the groups for analysis were distributed approximately evenly (controls = 47%, exercisers = 53%; female fetuses = 48%, male = 52%; healthyweight = 67%, overweight/obese = 33%).",
+      "text_id": 179,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lastly, only single placental biopsies were analyzed, and cytokines could not be measured in duplicates due to funding limitations.",
+      "text_id": 180,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, the associations of exercise with placental IL-6, TNF-a, and GM-CSF did not have enough statistical power to detect small effects sizes.",
+      "text_id": 181,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Of note, the study also has relevant strengths.",
+      "text_id": 182,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Our exercise intervention is a uniquely tailored program grounded in the most recent evidence and developed by an expert multidisciplinary team adhering to the latest pregnancy guidelines. 28 All sessions were closely supervised, with regular monitoring of intensity, attendance, and other key parameters.",
+      "text_id": 183,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Our exercise intervention is a uniquely tailored program grounded in the most recent evidence and developed by an expert multidisciplinary team adhering to the latest pregnancy guidelines. <ref type=\"bibr\" target=\"#b27\">28<\/ref> All sessions were closely supervised, with regular monitoring of intensity, attendance, and other key parameters."
+    },
+    {
+      "text": "Notably, this is the first comprehensive study to explore the role of supervised exercise on these placental cytokines and the mediating roles of weight gain, lifestyle behaviors, and physical fitness.",
+      "text_id": 184,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, we considered sexual dimorphism and maternal BMI in the analyses, and we thoroughly accounted for relevant confounders such as dietary patterns and objectively measured sedentary time, MVPA, and sleep duration, among others.",
+      "text_id": 185,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Maternal exercise during pregnancy is related to increased placental levels of G-CSF and lower levels of IL-1ra and EGF.",
+      "text_id": 186,
+      "paragraph_id": 48,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Remarkably, some effects of exercise are sex-dependent and are primarily observed in female placentas, including increased G-CSF and lower TNF-a and IL-6 concentrations.",
+      "text_id": 187,
+      "paragraph_id": 48,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Moreover, the increased levels of placental G-CSF observed with exercise are related to a more adequate gestational weight gain.",
+      "text_id": 188,
+      "paragraph_id": 48,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Altogether, it seems plausible that exercise-induced changes in placental cytokines may explain some of the previously documented beneficial adaptations in the placenta.",
+      "text_id": 189,
+      "paragraph_id": 48,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Future studies are warranted to better understand the molecular mechanisms linking exercise to placental development, identify novel therapeutic targets, and develop more effective interventions for pregnant women.",
+      "text_id": 190,
+      "paragraph_id": 48,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors thank all the participants, trainers, midwives, nurses, gynecologists and health and research professionals who collaborated in the recruitment and procedures.",
+      "text_id": 191,
+      "paragraph_id": 49,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study was funded by the Regional Ministry of Health of the Junta de Andaluc ıa (PI-0395-2016).",
+      "text_id": 192,
+      "paragraph_id": 49,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": "This study was funded by the <rs type=\"funder\">Regional Ministry of Health of the Junta de Andaluc ıa<\/rs> (<rs type=\"grantNumber\">PI-0395-2016<\/rs>)."
+    },
+    {
+      "text": "PAM has received funding from the European Union's Horizon 2020 research and innovation program under the Marie Sklodowska-Curie grant agreement (No. 101027215).",
+      "text_id": 193,
+      "paragraph_id": 49,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": "PAM has received funding from the <rs type=\"funder\">European Union<\/rs>'s <rs type=\"programName\">Horizon 2020 research and innovation program<\/rs> under the <rs type=\"grantName\">Marie Sklodowska-Curie<\/rs> grant agreement (No. <rs type=\"grantNumber\">101027215<\/rs>)."
+    },
+    {
+      "text": "The placental analyses included in this study were supported by the PLACEN-TRAINING project, funded through the FEDER-UGR23 funding call (https://doi.org/10.13039/501100008530 Grant No. C-EXP-336-UGR23).",
+      "text_id": 194,
+      "paragraph_id": 49,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": "The placental analyses included in this study were supported by the <rs type=\"projectName\">PLACEN<\/rs>-<rs type=\"projectName\">TRAINING<\/rs> project, funded through the <rs type=\"funder\">FEDER-UGR23<\/rs> funding call (<ref type=\"url\" target=\"https://doi.org/10.13039/501100008530\">European Regional Development Fund À  University of Granada program;<\/ref> Grant No. <rs type=\"grantNumber\">C-EXP-336-UGR23<\/rs>)."
+    },
+    {
+      "text": "The datasets used and/or analyzed during the current study are available from the corresponding author on reasonable request.",
+      "text_id": 195,
+      "paragraph_id": 50,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that they have no competing interests.",
+      "text_id": 196,
+      "paragraph_id": 51,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Authors' contributions PAM contributed to conceptualization, methodology, data curation, formal analysis, visualization, investigation, resources, supervision, and writing (original draft, review and editing); MFA contributed to conceptualization, methodology, and writing (review and editing); LJMG, MJAC, LBG and MNMVP contributed to methodology and writing (review and editing); TN contributed to methodology and resources, and writing (review and editing); VAA contributed to conceptualization, ethodology, supervision, investigation, resources, and writing (review and editing).",
+      "text_id": 197,
+      "paragraph_id": 52,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All authors have read and approved the final version of the manuscript, and agree with the order of presentation of the authors.",
+      "text_id": 198,
+      "paragraph_id": 52,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Supplementary materials associated with this article can be found in the online version at https://doi.org/10.1016/j.jshs.2025.101082.",
+      "text_id": 199,
+      "paragraph_id": 53,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": "Supplementary materials associated with this article can be found in the online version at <ref type=\"url\" target=\"https://doi.org/10.1016/j.jshs.2025.101082\">doi:10.1016/j.jshs.2025.101082<\/ref>."
+    },
+    {
+      "text": "Pregnant women's clinical characteristics, lifestyle behaviors, and physical fitness (n = 76).",
+      "text_id": 200,
+      "paragraph_id": 54,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Unless otherwise indicated, continuous variables are presented as mean § SD, when normally distributed and median (interquartile range) when nonnormally distributed. p values were calculated using independent sample Student's t tests (normal distribution, homoscedasticity), Welch's test (normal distribution, heteroscedasticity), and Mann-Whitney U test (non-normal distribution) for continuous variables, and x 2 tests for categorical variables.",
+      "text_id": 201,
+      "paragraph_id": 54,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Numbers in bold indicate significance (p < 0.05).",
+      "text_id": 202,
+      "paragraph_id": 54,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": "Numbers in bold indicate significance (p &lt; 0.05)."
+    },
+    {
+      "text": "* The percentage of male and female placentas in the self-selected exercise and control groups was similar (p = 0.75).",
+      "text_id": 203,
+      "paragraph_id": 54,
+      "section_id": 31,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Per-protocol analyses of the effect of the concurrent exercise program on placental cytokines (n = 76).",
+      "text_id": 204,
+      "paragraph_id": 55,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Numbers in bold indicate significance (p < 0.05).",
+      "text_id": 205,
+      "paragraph_id": 55,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": "Numbers in bold indicate significance (p &lt; 0.05)."
+    },
+    {
+      "text": "B coefficients represent the difference in cytokine concentrations between the exercise and control group.",
+      "text_id": 206,
+      "paragraph_id": 55,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Model 1 calculations were adjusted for the Mediterranean diet score at Week 34, and Model 2 calculations were adjusted for gestational age at birth and percentage of MVPA at baseline.",
+      "text_id": 207,
+      "paragraph_id": 55,
+      "section_id": 32,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Simple mediation analyses assessing the potential role of lifestyle behaviors and physical fitness during pregnancy as mediators of the relationship between physical exercise and placental proteins (n = 76).",
+      "text_id": 208,
+      "paragraph_id": 56,
+      "section_id": 33,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All models were adjusted for gestational week at birth.",
+      "text_id": 209,
+      "paragraph_id": 56,
+      "section_id": 33,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "95%CI are shown as 95% bias corrected and accelerated CI; they are based on 5000 bootstrap samples.",
+      "text_id": 210,
+      "paragraph_id": 56,
+      "section_id": 33,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "None of the indirect effects (path a £ b) were moderated by fetal sex.",
+      "text_id": 211,
+      "paragraph_id": 56,
+      "section_id": 33,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Numbers in bold indicate significance (p < 0.05).",
+      "text_id": 212,
+      "paragraph_id": 56,
+      "section_id": 33,
+      "page_number": null,
+      "formatted": "Numbers in bold indicate significance (p &lt; 0.05)."
+    },
+    {
+      "text": "J Sport Health Sci 2026;15:101082 P. Acosta-Manzano et al.",
+      "text_id": 213,
+      "paragraph_id": 57,
+      "section_id": 34,
+      "page_number": null,
+      "formatted": "<note place=\"foot\" xml:id=\"foot_0\">   <p>J Sport Health Sci 2026;15:101082 P. Acosta-Manzano et al.<\/p> <\/note>"
+    },
+    {
+      "text": "Desoye G. The human placenta in diabetes and obesity: Friend or Foe? The 2017 Norbert Freinkel Award lecture. Diabetes Care 2018;41:1362-9.",
+      "text_id": 214,
+      "paragraph_id": 58,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ram ırez-V elez R, Bustamante J, Czerniczyniec A, Aguilar de Plata AC, Lores-Arnaiz S. Effect of exercise training on eNOS expression, NO production and oxygen metabolism in human placenta. PLoS One 2013;8: e80225. doi:10.1371/journal.pone.0080225.",
+      "text_id": 215,
+      "paragraph_id": 59,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Acosta-Manzano P, Acosta FM, Coll-Risco I, et al. The influence of exer- cise, lifestyle behaviour components and physical fitness on maternal weight gain, postpartum weight retention, and excessive gestational weight gain. Int J Sport Nutr Exerc Metab 2022;32:425-38.",
+      "text_id": 216,
+      "paragraph_id": 60,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Clapp 3rd JF. The effects of maternal exercise on fetal oxygenation and feto-placental growth. Eur J Obstet Gynecol Reprod Biol 2003;110 (Suppl.1):S80-5.",
+      "text_id": 217,
+      "paragraph_id": 61,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Acosta-Manzano P, Coll-Risco I, van Poppel MNM, et al. Influence of a concurrent exercise training intervention during pregnancy on maternal and arterial and venous cord serum cytokines: The GESTAFIT Project. J Clin Med 2019;8:1862. doi:10.3390/jcm8111862.",
+      "text_id": 218,
+      "paragraph_id": 62,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Dube C, Aguer C, Adamo K, Bainbridge S. A role for maternally derived myokines to optimize placental function and fetal growth across gestation. Appl Physiol Nutr Metab 2017;42:459-69.",
+      "text_id": 219,
+      "paragraph_id": 63,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hardy DB, Mu X, Marchiori KS, Mottola MF. Exercise in pregnancy increases placental angiogenin without changes in oxidative or endo- plasmic reticulum stress. Med Sci Sports Exerc 2021;53:1846-54.",
+      "text_id": 220,
+      "paragraph_id": 64,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Brett KE, Ferraro ZM, Holcik M, Adamo KB. Prenatal physical activity and diet composition affect the expression of nutrient transporters and mTOR signaling molecules in the human placenta. Placenta 2015;36:204-12.",
+      "text_id": 221,
+      "paragraph_id": 65,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Acosta-Manzano P, Leopold-Posch B, Simmons D, et al. The unexplored role of sedentary time and physical activity in glucose and lipid metabo- lism related placental mRNAs in obese pregnant women: The DALI life- style randomized controlled trial. BJOG 2022;129:708-21.",
+      "text_id": 222,
+      "paragraph_id": 66,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gao P, Zha Y, Wei L, et al. G-CSF: A vehicle for communication between trophoblasts and macrophages which may cause problems in recurrent spontaneous abortion. Placenta 2022;121:164-72.",
+      "text_id": 223,
+      "paragraph_id": 67,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sj€ oblom C, Roberts CT, Wikland M, Robertson SA. Granulocyte-macro- phage colony-stimulating factor alleviates adverse consequences of embryo culture on fetal growth trajectory and placental morphogenesis. Endocrinology 2005;146:2142-53.",
+      "text_id": 224,
+      "paragraph_id": 68,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sheu SY, Wang CY, Cheng HL, Tsai PY. Platelet-derived growth factor- AA promotes placental choriocarcinoma JAR cell proliferation via primary cilia. Taiwan J Obstet Gynecol 2022;61:299-305.",
+      "text_id": 225,
+      "paragraph_id": 69,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Moll SJ, Jones CJP, Crocker IP, Baker PN, Heazell AEP. Epidermal growth factor rescues trophoblast apoptosis induced by reactive oxygen species. Apoptosis 2007;12:1611-22.",
+      "text_id": 226,
+      "paragraph_id": 70,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Renshall LJ, Beards F, Evangelinos A, et al. Targeted delivery of epidermal growth factor to the human placenta to treat fetal growth restriction. Pharma- ceutics 2021;13:1778. doi:10.3390/pharmaceutics13111778.",
+      "text_id": 227,
+      "paragraph_id": 71,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lin Z, Shi JL, Chen M, Zheng ZM, Li MQ, Shao J. CCL2: An important cytokine in normal and pathological pregnancies: A review. Front Immunol 2022;13:1053457. doi:10.3389/fimmu.2022.1053457.",
+      "text_id": 228,
+      "paragraph_id": 72,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hannan NJ, Jones RL, White CA, Salamonsen LA. The chemokines, CX3CL1, CCL14, and CCL4, promote human trophoblast migration at the feto-maternal interface1. Biol Reprod 2006;74:896-904.",
+      "text_id": 229,
+      "paragraph_id": 73,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Viloti c A, Nacka-Aleksi c M, Pirkovi c A, Boji c-Trbojevi c Z, Dekanski D, Krivoku ca MJ. IL-6 and IL-8: An overview of their roles in healthy and pathological pregnancies. Int J Mol Sci 2022;23:14574. doi:10.3390/ijms232314574.",
+      "text_id": 230,
+      "paragraph_id": 74,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Yockey LJ, Iwasaki A. Interferons and proinflammatory cytokines in pregnancy and fetal development. Immunity 2018;49:397-412.",
+      "text_id": 231,
+      "paragraph_id": 75,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Owen JC, Garrick SP, Peterson BM, et al. The role of interleukin-1 in perinatal inflammation and its impact on transitional circulation. Front Pediatr 2023;11:1130013. doi:10.3389/fped.2023.1130013.",
+      "text_id": 232,
+      "paragraph_id": 76,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thaxton JE, Sharma S. Interleukin-10: A multi-faceted agent of preg- nancy. Am J Reprod Immunol 2010;63:482-91.",
+      "text_id": 233,
+      "paragraph_id": 77,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Haider S, Kn€ ofler M. Human tumour necrosis factor: Physiological and patho- logical roles in placenta and endometrium. Placenta 2009;30:111-23.",
+      "text_id": 234,
+      "paragraph_id": 78,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Murphy SP, Tayade C, Ashkar AA, Hatta K, Zhang J, Croy BA. Interferon gamma in successful pregnancies. Biol Reprod 2009;80:848-59.",
+      "text_id": 235,
+      "paragraph_id": 79,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sun T, Gonzalez TL, Deng N, et al. Sexually dimorphic crosstalk at the maternal-fetal interface. J Clin Endocrinol Metab 2020;105:e4831-47.",
+      "text_id": 236,
+      "paragraph_id": 80,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Brett KE, Ferraro ZM, Holcik M, Adamo KB. Placenta nutrient transport- related gene expression: The impact of maternal obesity and excessive gesta- tional weight gain. J Matern Fetal Neonatal Med 2016;29:1399-405.",
+      "text_id": 237,
+      "paragraph_id": 81,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Acosta-Manzano P, Acosta FM, Flor-Alemany M, et al. The protective role of physical fitness on cardiometabolic risk during pregnancy: The GESTAtion and FITness project. Int J Sport Nutr Exerc Metab 2022; 32:163-76.",
+      "text_id": 238,
+      "paragraph_id": 82,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Aparicio VA, Oc on O, Padilla-Vinuesa C, et al. Effects of supervised aerobic and strength training in overweight and grade I obese pregnant women on maternal and foetal health markers: The GESTAFIT random- ized controlled trial. BMC Pregnancy Childbirth 2016;16:290. doi:10.1186/s12884-016-1081-y.",
+      "text_id": 239,
+      "paragraph_id": 83,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Acosta-Manzano P, Flor-Alemany M, van Poppel MNM, et al. Concurrent exercise training during pregnancy is related to more favourable maternal lipid levels when IL-8 increases. J Sports Sci 2025;43:308-22.",
+      "text_id": 240,
+      "paragraph_id": 84,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A.G. Committee. Physical activity and exercise during pregnancy and the postpartum period: ACOG Committee Opinion Summary, Number 804. Obstet Gynecol 2020;135:991-3.",
+      "text_id": 241,
+      "paragraph_id": 85,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zavorsky GS, Longo LD. Exercise guidelines in pregnancy new perspec- tives. Sports Med 2011;41:345-60.",
+      "text_id": 242,
+      "paragraph_id": 86,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Panagiotakos DB, Pitsavos C, Stefanadis C. Dietary patterns: A Mediter- ranean diet score and its relation to clinical and biological markers of cardiovascular disease risk. Nutr Metab Carbiovasc Dis 2006;16:559-68.",
+      "text_id": 243,
+      "paragraph_id": 87,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Acosta-Manzano P, Acosta FM, Femia P, et al. Association of sedentary time and physical activity levels with immunometabolic markers in early pregnancy: The GESTAFIT project. Scand J Med Sci Sports 2020; 30:148-58.",
+      "text_id": 244,
+      "paragraph_id": 88,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Migueles JH, Cadenas-Sanchez C, Ekelund U, et al. Accelerometer data collection and processing criteria to assess physical activity and other outcomes: A systematic review and practical considerations. Sports Med 2017;47:1821-45.",
+      "text_id": 245,
+      "paragraph_id": 89,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Grant JA, Joseph AN, Campagna PD. The prediction of VO 2max : A comparison of 7 indirect tests of aerobic power. J Strength Cond Res 1999;13:346-52.",
+      "text_id": 246,
+      "paragraph_id": 90,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lubin JH, Colt JS, Camann D, et al. Epidemiologic evaluation of measurement data in the presence of detection limits. Environ Health Perspect 2004;112:1691-6.",
+      "text_id": 247,
+      "paragraph_id": 91,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Croghan CW, Egeghy PP Methods of dealing with values below the limit of detection using SAS. Available at: https://www8.sas.com/scholars/05/ PREVIOUS/2001_200.4/2004_MOR/Proceed/_2003/Statistics/SD08- Croghan.pdf. [accessed 23.08.2024].",
+      "text_id": 248,
+      "paragraph_id": 92,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "W€ urfel W. Treatment with granulocyte colony-stimulating factor in patients with repetitive implantation failures and/or recurrent spontaneous abortions. J Reprod Immunol 2015;108:123-35.",
+      "text_id": 249,
+      "paragraph_id": 93,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Clifton VL. Review: Sex and the human placenta: Mediating differential strategies of fetal growth and survival. Placenta 2010;31(Suppl.1):S33-9.",
+      "text_id": 250,
+      "paragraph_id": 94,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Baena-Garc ıa L, de la Flor-Alemany M, Coll-Risco I, Reoyo OR, Aranda P, Aparicio VA. A concurrent prenatal exercise program increases neonatal and placental weight and shortens labor: The GESTAFIT project. Scand J Med Sci Sports 2023;33:465-74.",
+      "text_id": 251,
+      "paragraph_id": 95,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vinter A, Jensen DM, Ovesen P, Beck-Nielsen H, Jorgensen JS. The LiP (Life- style in Pregnancy) study: A randomized controlled trial of lifestyle intervention in 360 obese pregnant women. Diabetes Care 2011;34:2502-7.",
+      "text_id": 252,
+      "paragraph_id": 96,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zafaranieh S, Siwetz M, Leopold-Posch B, et al. Placental structural adap- tation to maternal physical activity and sedentary behavior: Findings of the DALI lifestyle study. Hum Reprod 2024;39:1449-59.",
+      "text_id": 253,
+      "paragraph_id": 97,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Clemente L, Bird IM. The epidermal growth factor receptor in healthy pregnancy and preeclampsia. J Mol Endocrinol 2022;70:e220105. doi:10.1530/JME-22-0105.",
+      "text_id": 254,
+      "paragraph_id": 98,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pedersen BK, Febbraio MA. Muscle as an endocrine organ: Focus on muscle-derived interleukin-6. Physiol Rev 2008;88:1379-406.",
+      "text_id": 255,
+      "paragraph_id": 99,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Amash A, Holcberg G, Sapir O, Huleihel M. Placental secretion of inter- leukin-1 and interleukin-1 receptor antagonist in preeclampsia: Effect of magnesium sulfate. J Interferon Cytokine Res 2012;32:432-41.",
+      "text_id": 256,
+      "paragraph_id": 100,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cvitic S, Longtine MS, Hackl H, et al. The human placental sexome differs between trophoblast epithelium and villous vessel endothelium. PLoS One 2013;8:e79233. doi:10.1371/journal.pone.0079233.",
+      "text_id": 257,
+      "paragraph_id": 101,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Clapp 3rd JF, Kiess W. Effects of pregnancy and exercise on concentra- tions of the metabolic markers tumor necrosis factor a and leptin. Am J Obstet Gynecol 2000;182:300-6.",
+      "text_id": 258,
+      "paragraph_id": 102,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lager S, Jansson N, Olsson AL, Wennergren M, Jansson T, Powell TL. Effect of IL-6 and TNF-alpha on fatty acid uptake in cultured human primary trophoblast cells. Placenta 2011;32:121-7.",
+      "text_id": 259,
+      "paragraph_id": 103,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Catalano PM, Presley L, Minium J, Hauguel-de Mouzon S. Fetuses of obese mothers develop insulin resistance in utero. Diabetes Care 2009;32:1076-80.",
+      "text_id": 260,
+      "paragraph_id": 104,
+      "section_id": 35,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Study design and population",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Sample size",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.3. Randomization",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.4. General procedure",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.5. Exercise intervention",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "2.6. Exposures and confounding factors",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "2.6.1. Sociodemographic-clinical data, obstetric history, and perinatal outcomes",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "2.6.2. Body mass, height, gestational weight gain, and body composition",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "2.6.3. Dietary habits",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "2.6.4. Sedentary time and physical activity",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "2.6.5. Sleep duration and quality",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "2.6.6. Physical fitness",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "2.7. Laboratory methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "2.7.1. Placenta collection",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "2.7.2. Samples processing",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "2.8. Placental cytokines analyses",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "2.9. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "3.1. Effects of exercise on placental cytokines",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "3.2. Moderation by fetal sex and maternal weight status",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "3.3. Mediating role of gestational weight gain, lifestyle, and physical fitness",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 24,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 25,
+      "header": "5. Conclusion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 26,
+      "header": "Acknowledgments",
+      "parent_section_id": null,
+      "section_type": "acknowledgement",
+      "classification_score": null
+    },
+    {
+      "section_id": 27,
+      "header": "Availability of data and materials",
+      "parent_section_id": null,
+      "section_type": "availability",
+      "classification_score": null
+    },
+    {
+      "section_id": 28,
+      "header": "Declaration of competing interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 29,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 30,
+      "header": "Supplementary materials",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 31,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 32,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 33,
+      "header": "Table 3",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 34,
+      "header": "",
+      "parent_section_id": null,
+      "section_type": "foot",
+      "classification_score": null
+    },
+    {
+      "section_id": 35,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [
+    {
+      "href": "https://doi.org/10.13039/501100008530",
+      "link_text": "European Regional Development Fund À  University of Granada program;",
+      "text_id": 194
+    },
+    {
+      "href": "https://doi.org/10.1016/j.jshs.2025.101082",
+      "link_text": "doi:10.1016/j.jshs.2025.101082",
+      "text_id": 199
+    }
+  ],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The human placenta in diabetes and obesity: Friend or Foe? The 2017 Norbert Freinkel Award lecture",
+      "authors": "Desoye, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "41",
+      "issue": "",
+      "first_page": "1362",
+      "last_page": "1369",
+      "container": "Diabetes Care",
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 214
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0080225",
+      "title": "Lores-Arnaiz S. Effect of exercise training on eNOS expression, NO production and oxygen metabolism in human placenta",
+      "authors": "Irez-V Elez, Ram; Bustamante, R; Czerniczyniec, J; , A; De Plata, Aguilar; , A C",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "8",
+      "issue": "",
+      "first_page": "80225",
+      "last_page": null,
+      "container": "PLoS One",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 215
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The influence of exercise, lifestyle behaviour components and physical fitness on maternal weight gain, postpartum weight retention, and excessive gestational weight gain",
+      "authors": "Acosta-Manzano, P; Acosta, F M; Coll-Risco, I",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "32",
+      "issue": "",
+      "first_page": "425",
+      "last_page": "438",
+      "container": "Int J Sport Nutr Exerc Metab",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 216
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Clapp 3rd JF. The effects of maternal exercise on fetal oxygenation and feto-placental growth",
+      "authors": "",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "110",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Eur J Obstet Gynecol Reprod Biol",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 217
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/jcm8111862",
+      "title": "Influence of a concurrent exercise training intervention during pregnancy on maternal and arterial and venous cord serum cytokines: The GESTAFIT Project",
+      "authors": "Acosta-Manzano, P; Coll-Risco, I; Van Poppel, Mnm",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "8",
+      "issue": "",
+      "first_page": "1862",
+      "last_page": null,
+      "container": "J Clin Med",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 218
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "A role for maternally derived myokines to optimize placental function and fetal growth across gestation",
+      "authors": "Dube, C; Aguer, C; Adamo, K; Bainbridge, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "42",
+      "issue": "",
+      "first_page": "459",
+      "last_page": "469",
+      "container": "Appl Physiol Nutr Metab",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 219
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Exercise in pregnancy increases placental angiogenin without changes in oxidative or endoplasmic reticulum stress",
+      "authors": "Hardy, D B; Mu, X; Marchiori, K S; Mottola, M F",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "53",
+      "issue": "",
+      "first_page": "1846",
+      "last_page": "1854",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 220
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Prenatal physical activity and diet composition affect the expression of nutrient transporters and mTOR signaling molecules in the human placenta",
+      "authors": "Brett, K E; Ferraro, Z M; Holcik, M; Adamo, K B",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "36",
+      "issue": "",
+      "first_page": "204",
+      "last_page": "212",
+      "container": "Placenta",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 221
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The unexplored role of sedentary time and physical activity in glucose and lipid metabolism related placental mRNAs in obese pregnant women: The DALI lifestyle randomized controlled trial",
+      "authors": "Acosta-Manzano, P; Posch, Leopold -; Simmons, B; , D",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "129",
+      "issue": "",
+      "first_page": "708",
+      "last_page": "721",
+      "container": "BJOG",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 222
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "G-CSF: A vehicle for communication between trophoblasts and macrophages which may cause problems in recurrent spontaneous abortion",
+      "authors": "Gao, P; Zha, Y; Wei, L",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "121",
+      "issue": "",
+      "first_page": "164",
+      "last_page": "172",
+      "container": "Placenta",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 223
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Granulocyte-macrophage colony-stimulating factor alleviates adverse consequences of embryo culture on fetal growth trajectory and placental morphogenesis",
+      "authors": "Sj€ Oblom, C; Roberts, C T; Wikland, M; Robertson, S A",
+      "editors": "",
+      "publisher": "",
+      "year": 2005,
+      "volume": "146",
+      "issue": "",
+      "first_page": "2142",
+      "last_page": "2153",
+      "container": "Endocrinology",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 224
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Platelet-derived growth factor-AA promotes placental choriocarcinoma JAR cell proliferation via primary cilia",
+      "authors": "Sheu, S Y; Wang, C Y; Cheng, H L; Tsai, P Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "61",
+      "issue": "",
+      "first_page": "299",
+      "last_page": "305",
+      "container": "Taiwan J Obstet Gynecol",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 225
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Epidermal growth factor rescues trophoblast apoptosis induced by reactive oxygen species",
+      "authors": "Moll, S J; Jones, Cjp; Crocker, I P; Baker, P N; Heazell, Aep",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "12",
+      "issue": "",
+      "first_page": "1611",
+      "last_page": "1622",
+      "container": "Apoptosis",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 226
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/pharmaceutics13111778",
+      "title": "Targeted delivery of epidermal growth factor to the human placenta to treat fetal growth restriction",
+      "authors": "Renshall, L J; Beards, F; Evangelinos, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "13",
+      "issue": "",
+      "first_page": "1778",
+      "last_page": null,
+      "container": "Pharmaceutics",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 227
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3389/fimmu.2022.1053457",
+      "title": "CCL2: An important cytokine in normal and pathological pregnancies: A review",
+      "authors": "Lin, Z; Shi, J L; Chen, M; Zheng, Z M; Li, M Q; Shao, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "13",
+      "issue": "",
+      "first_page": "1053457",
+      "last_page": null,
+      "container": "Front Immunol",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 228
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The chemokines, CX3CL1, CCL14, and CCL4, promote human trophoblast migration at the feto-maternal interface1",
+      "authors": "Hannan, N J; Jones, R L; White, C A; Salamonsen, L A",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "74",
+      "issue": "",
+      "first_page": "896",
+      "last_page": "904",
+      "container": "Biol Reprod",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 229
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/ijms232314574",
+      "title": "IL-6 and IL-8: An overview of their roles in healthy and pathological pregnancies",
+      "authors": "Viloti C, A; Nacka-Aleksi C, M; Pirkovi C A, ; Boji C-Trbojevi C, Z; Dekanski, D; Krivoku Ca Mj, ",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "23",
+      "issue": "",
+      "first_page": "14574",
+      "last_page": null,
+      "container": "Int J Mol Sci",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 230
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Interferons and proinflammatory cytokines in pregnancy and fetal development",
+      "authors": "Yockey, L J; Iwasaki, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "49",
+      "issue": "",
+      "first_page": "397",
+      "last_page": "412",
+      "container": "Immunity",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 231
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3389/fped.2023.1130013",
+      "title": "The role of interleukin-1 in perinatal inflammation and its impact on transitional circulation",
+      "authors": "Owen, J C; Garrick, S P; Peterson, B M",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "11",
+      "issue": "",
+      "first_page": "1130013",
+      "last_page": null,
+      "container": "Front Pediatr",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 232
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Interleukin-10: A multi-faceted agent of pregnancy",
+      "authors": "Thaxton, J E; Sharma, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "63",
+      "issue": "",
+      "first_page": "482",
+      "last_page": "491",
+      "container": "Am J Reprod Immunol",
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 233
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Human tumour necrosis factor: Physiological and pathological roles in placenta and endometrium",
+      "authors": "Haider, S; Kn€ Ofler M, ",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "30",
+      "issue": "",
+      "first_page": "111",
+      "last_page": "123",
+      "container": "Placenta",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 234
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Interferon gamma in successful pregnancies",
+      "authors": "Murphy, S P; Tayade, C; Ashkar, A A; Hatta, K; Zhang, J; Croy, B A",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "80",
+      "issue": "",
+      "first_page": "848",
+      "last_page": "859",
+      "container": "Biol Reprod",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 235
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Sexually dimorphic crosstalk at the maternal-fetal interface",
+      "authors": "Sun, T; Gonzalez, T L; Deng, N",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "105",
+      "issue": "",
+      "first_page": "4831",
+      "last_page": "4847",
+      "container": "J Clin Endocrinol Metab",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 236
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Placenta nutrient transportrelated gene expression: The impact of maternal obesity and excessive gestational weight gain",
+      "authors": "Brett, K E; Ferraro, Z M; Holcik, M; Adamo, K B",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "29",
+      "issue": "",
+      "first_page": "1399",
+      "last_page": "1405",
+      "container": "J Matern Fetal Neonatal Med",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 237
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The protective role of physical fitness on cardiometabolic risk during pregnancy: The GESTAtion and FITness project",
+      "authors": "Acosta-Manzano, P; Acosta, F M; Alemany, Flor -; , M",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "32",
+      "issue": "",
+      "first_page": "163",
+      "last_page": "176",
+      "container": "Int J Sport Nutr Exerc Metab",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 238
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/s12884-016-1081-y",
+      "title": "Effects of supervised aerobic and strength training in overweight and grade I obese pregnant women on maternal and foetal health markers: The GESTAFIT randomized controlled trial",
+      "authors": "Aparicio, V A; Oc On, O; Padilla-Vinuesa, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "16",
+      "issue": "",
+      "first_page": "290",
+      "last_page": null,
+      "container": "BMC Pregnancy Childbirth",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 239
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Concurrent exercise training during pregnancy is related to more favourable maternal lipid levels when IL-8 increases",
+      "authors": "Acosta-Manzano, P; , Flor-Alemany; Van Poppel, M; , Mnm",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "43",
+      "issue": "",
+      "first_page": "308",
+      "last_page": "322",
+      "container": "J Sports Sci",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 240
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Physical activity and exercise during pregnancy and the postpartum period: ACOG Committee Opinion Summary",
+      "authors": "Committee, A G",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "804",
+      "issue": "",
+      "first_page": "991",
+      "last_page": "993",
+      "container": "Obstet Gynecol",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 241
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Exercise guidelines in pregnancy new perspectives",
+      "authors": "Zavorsky, G S; Longo, L D",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "41",
+      "issue": "",
+      "first_page": "345",
+      "last_page": "360",
+      "container": "Sports Med",
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 242
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Dietary patterns: A Mediterranean diet score and its relation to clinical and biological markers of cardiovascular disease risk",
+      "authors": "Panagiotakos, D B; Pitsavos, C; Stefanadis, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "16",
+      "issue": "",
+      "first_page": "559",
+      "last_page": "568",
+      "container": "Nutr Metab Carbiovasc Dis",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 243
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Association of sedentary time and physical activity levels with immunometabolic markers in early pregnancy: The GESTAFIT project",
+      "authors": "Acosta-Manzano, P; Acosta, F M; Femia, P",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "30",
+      "issue": "",
+      "first_page": "148",
+      "last_page": "158",
+      "container": "Scand J Med Sci Sports",
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 244
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Accelerometer data collection and processing criteria to assess physical activity and other outcomes: A systematic review and practical considerations",
+      "authors": "Migueles, J H; Cadenas-Sanchez, C; Ekelund, U",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "47",
+      "issue": "",
+      "first_page": "1821",
+      "last_page": "1845",
+      "container": "Sports Med",
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 245
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The prediction of VO 2max : A comparison of 7 indirect tests of aerobic power",
+      "authors": "Grant, J A; Joseph, A N; Campagna, P D",
+      "editors": "",
+      "publisher": "",
+      "year": 1999,
+      "volume": "13",
+      "issue": "",
+      "first_page": "346",
+      "last_page": "352",
+      "container": "J Strength Cond Res",
+      "bib_id": 32,
+      "year_suffix": "",
+      "text_id": 246
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Epidemiologic evaluation of measurement data in the presence of detection limits",
+      "authors": "Lubin, J H; Colt, J S; Camann, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "112",
+      "issue": "",
+      "first_page": "1691",
+      "last_page": "1696",
+      "container": "Environ Health Perspect",
+      "bib_id": 33,
+      "year_suffix": "",
+      "text_id": 247
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Egeghy PP Methods of dealing with values below the limit of detection using SAS",
+      "authors": "Croghan, C W",
+      "editors": "",
+      "publisher": "",
+      "year": null,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 34,
+      "year_suffix": null,
+      "text_id": 248
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Treatment with granulocyte colony-stimulating factor in patients with repetitive implantation failures and/or recurrent spontaneous abortions",
+      "authors": "W€, W",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "108",
+      "issue": "",
+      "first_page": "123",
+      "last_page": "135",
+      "container": "J Reprod Immunol",
+      "bib_id": 35,
+      "year_suffix": "",
+      "text_id": 249
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Review: Sex and the human placenta: Mediating differential strategies of fetal growth and survival",
+      "authors": "Clifton, V L",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "31",
+      "issue": "",
+      "first_page": "33",
+      "last_page": "39",
+      "container": "Placenta",
+      "bib_id": 36,
+      "year_suffix": "",
+      "text_id": 250
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "A concurrent prenatal exercise program increases neonatal and placental weight and shortens labor: The GESTAFIT project",
+      "authors": "Baena-Garc Ia, L; De La Flor-Alemany, M; Coll-Risco, I; Reoyo, O R; Aranda, P; Aparicio, V A",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "33",
+      "issue": "",
+      "first_page": "465",
+      "last_page": "474",
+      "container": "Scand J Med Sci Sports",
+      "bib_id": 37,
+      "year_suffix": "",
+      "text_id": 251
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The LiP (Lifestyle in Pregnancy) study: A randomized controlled trial of lifestyle intervention in 360 obese pregnant women",
+      "authors": "Vinter, A; Jensen, D M; Ovesen, P; Beck-Nielsen, H; Jorgensen, J S",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "34",
+      "issue": "",
+      "first_page": "2502",
+      "last_page": "2507",
+      "container": "Diabetes Care",
+      "bib_id": 38,
+      "year_suffix": "",
+      "text_id": 252
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Placental structural adaptation to maternal physical activity and sedentary behavior: Findings of the DALI lifestyle study",
+      "authors": "Zafaranieh, S; Siwetz, M; Posch, Leopold -; , B",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "39",
+      "issue": "",
+      "first_page": "1449",
+      "last_page": "1459",
+      "container": "Hum Reprod",
+      "bib_id": 39,
+      "year_suffix": "",
+      "text_id": 253
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1530/JME-22-0105",
+      "title": "The epidermal growth factor receptor in healthy pregnancy and preeclampsia",
+      "authors": "Clemente, L; Bird, I M",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "70",
+      "issue": "",
+      "first_page": "220105",
+      "last_page": null,
+      "container": "J Mol Endocrinol",
+      "bib_id": 40,
+      "year_suffix": "",
+      "text_id": 254
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Muscle as an endocrine organ: Focus on muscle-derived interleukin-6",
+      "authors": "Pedersen, B K; Febbraio, M A",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "88",
+      "issue": "",
+      "first_page": "1379",
+      "last_page": "1406",
+      "container": "Physiol Rev",
+      "bib_id": 41,
+      "year_suffix": "",
+      "text_id": 255
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Placental secretion of interleukin-1 and interleukin-1 receptor antagonist in preeclampsia: Effect of magnesium sulfate",
+      "authors": "Amash, A; Holcberg, G; Sapir, O; Huleihel, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "32",
+      "issue": "",
+      "first_page": "432",
+      "last_page": "441",
+      "container": "J Interferon Cytokine Res",
+      "bib_id": 42,
+      "year_suffix": "",
+      "text_id": 256
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0079233",
+      "title": "The human placental sexome differs between trophoblast epithelium and villous vessel endothelium",
+      "authors": "Cvitic, S; Longtine, M S; Hackl, H",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "8",
+      "issue": "",
+      "first_page": "79233",
+      "last_page": null,
+      "container": "PLoS One",
+      "bib_id": 43,
+      "year_suffix": "",
+      "text_id": 257
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Effects of pregnancy and exercise on concentrations of the metabolic markers tumor necrosis factor a and leptin",
+      "authors": "Clapp 3rd, J F; Kiess, W",
+      "editors": "",
+      "publisher": "",
+      "year": 2000,
+      "volume": "182",
+      "issue": "",
+      "first_page": "300",
+      "last_page": "306",
+      "container": "Am J Obstet Gynecol",
+      "bib_id": 44,
+      "year_suffix": "",
+      "text_id": 258
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Effect of IL-6 and TNF-alpha on fatty acid uptake in cultured human primary trophoblast cells",
+      "authors": "Lager, S; Jansson, N; Olsson, A L; Wennergren, M; Jansson, T; Powell, T L",
+      "editors": "",
+      "publisher": "",
+      "year": 2011,
+      "volume": "32",
+      "issue": "",
+      "first_page": "121",
+      "last_page": "127",
+      "container": "Placenta",
+      "bib_id": 45,
+      "year_suffix": "",
+      "text_id": 259
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Hauguel-de Mouzon S. Fetuses of obese mothers develop insulin resistance in utero",
+      "authors": "Catalano, P M; Presley, L; Minium, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "32",
+      "issue": "",
+      "first_page": "1076",
+      "last_page": "1080",
+      "container": "Diabetes Care",
+      "bib_id": 46,
+      "year_suffix": "",
+      "text_id": 260
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 10
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 10
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 10
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2,",
+      "text_id": 11
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3",
+      "text_id": 11
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2,",
+      "text_id": 11
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4",
+      "text_id": 11
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 11
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6",
+      "text_id": 11
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4",
+      "text_id": 11
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 12
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8,",
+      "text_id": 12
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 12
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6",
+      "text_id": 12
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 13
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 13
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12,",
+      "text_id": 14
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13",
+      "text_id": 14
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 14
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15",
+      "text_id": 14
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 14
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 14
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6,",
+      "text_id": 15
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17,",
+      "text_id": 15
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 15
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "19,",
+      "text_id": 15
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "20",
+      "text_id": 15
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 15
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22",
+      "text_id": 15
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 17
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1,",
+      "text_id": 17
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "24",
+      "text_id": 17
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "24",
+      "text_id": 18
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8,",
+      "text_id": 18
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 18
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7,",
+      "text_id": 18
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 18
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 23
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 23
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 28
+    },
+    {
+      "xref_id": null,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 42
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26,",
+      "text_id": 44
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 44
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28,",
+      "text_id": 44
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 44
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 46
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 46
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3",
+      "text_id": 57
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 61
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31",
+      "text_id": 64
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 65
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 67
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 67
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 69
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25,",
+      "text_id": 69
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "33",
+      "text_id": 69
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34,",
+      "text_id": 100
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "35",
+      "text_id": 100
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 104
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 107
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 107
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 110
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 114
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3,",
+      "text_id": 115
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 115
+    },
+    {
+      "xref_id": null,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 123
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 124
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 124
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 127
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 128
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 133
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "4",
+      "text_id": 136
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "5",
+      "text_id": 138
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 140
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10,",
+      "text_id": 152
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "36",
+      "text_id": 152
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 153
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 153
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 153
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "36",
+      "text_id": 153
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "37",
+      "text_id": 155
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "37",
+      "text_id": 155
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3,",
+      "text_id": 157
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "38",
+      "text_id": 157
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4,",
+      "text_id": 157
+    },
+    {
+      "xref_id": 38,
+      "xref_type": "bibr",
+      "contents": "39,",
+      "text_id": 157
+    },
+    {
+      "xref_id": 39,
+      "xref_type": "bibr",
+      "contents": "40",
+      "text_id": 157
+    },
+    {
+      "xref_id": 40,
+      "xref_type": "bibr",
+      "contents": "41",
+      "text_id": 158
+    },
+    {
+      "xref_id": 40,
+      "xref_type": "bibr",
+      "contents": "41",
+      "text_id": 158
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13",
+      "text_id": 158
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 158
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13,",
+      "text_id": 158
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14,",
+      "text_id": 158
+    },
+    {
+      "xref_id": 40,
+      "xref_type": "bibr",
+      "contents": "41",
+      "text_id": 158
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13,",
+      "text_id": 158
+    },
+    {
+      "xref_id": 40,
+      "xref_type": "bibr",
+      "contents": "41",
+      "text_id": 158
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6",
+      "text_id": 158
+    },
+    {
+      "xref_id": 41,
+      "xref_type": "bibr",
+      "contents": "42",
+      "text_id": 160
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "19",
+      "text_id": 160
+    },
+    {
+      "xref_id": 42,
+      "xref_type": "bibr",
+      "contents": "43",
+      "text_id": 160
+    },
+    {
+      "xref_id": 41,
+      "xref_type": "bibr",
+      "contents": "42",
+      "text_id": 160
+    },
+    {
+      "xref_id": 42,
+      "xref_type": "bibr",
+      "contents": "43",
+      "text_id": 161
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 163
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "37,",
+      "text_id": 164
+    },
+    {
+      "xref_id": 43,
+      "xref_type": "bibr",
+      "contents": "44",
+      "text_id": 164
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 165
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 165
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3,",
+      "text_id": 166
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 166
+    },
+    {
+      "xref_id": 44,
+      "xref_type": "bibr",
+      "contents": "45",
+      "text_id": 166
+    },
+    {
+      "xref_id": 45,
+      "xref_type": "bibr",
+      "contents": "46",
+      "text_id": 167
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 167
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 167
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17,",
+      "text_id": 167
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 167
+    },
+    {
+      "xref_id": 41,
+      "xref_type": "bibr",
+      "contents": "42",
+      "text_id": 168
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 169
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 169
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 183
+    }
+  ],
+  "figure": [],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 31,
+      "html": "<table>\n  <row>\n    <cell>Total (n = 76)<\/cell>\n    <cell>Control (n = 36)<\/cell>\n    <cell>Exercise (n = 40)<\/cell>\n    <cell>p<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Total (n = 76)", "Control (n = 36)", "Exercise (n = 40)", "p"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 32,
+      "html": "<table>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell cols=\"2\">Model 1<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell cols=\"2\">Model 2<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>B<\/cell>\n    <cell>SE<\/cell>\n    <cell>b<\/cell>\n    <cell>p<\/cell>\n    <cell>Adjusted R²<\/cell>\n    <cell>B<\/cell>\n    <cell>SE<\/cell>\n    <cell>b<\/cell>\n    <cell>p<\/cell>\n    <cell>Adjusted R²<\/cell>\n  <\/row>\n  <row>\n    <cell>Granulocyte-colony stimulating factor (pg/mL)<\/cell>\n    <cell>38.84<\/cell>\n    <cell cols=\"2\">14.79 0.30<\/cell>\n    <cell cols=\"2\">0.01 0.07<\/cell>\n    <cell>43.79<\/cell>\n    <cell cols=\"2\">14.90 0.34<\/cell>\n    <cell cols=\"2\">0.005 0.09<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"3\">Granulocyte-macrophage colony-stimulating factor (pg/mL) À0.37 1.97<\/cell>\n    <cell cols=\"3\">À0.02 0.85 0<\/cell>\n    <cell>0.59<\/cell>\n    <cell>1.98<\/cell>\n    <cell>0.04<\/cell>\n    <cell cols=\"2\">0.77 0<\/cell>\n  <\/row>\n  <row>\n    <cell>Platelet-derived growth factor-AA (pg/mL) a<\/cell>\n    <cell>1.95<\/cell>\n    <cell>4.72<\/cell>\n    <cell>0.05<\/cell>\n    <cell cols=\"2\">0.68 0.07<\/cell>\n    <cell>1.23<\/cell>\n    <cell>4.68<\/cell>\n    <cell>0.03<\/cell>\n    <cell cols=\"2\">0.79 0<\/cell>\n  <\/row>\n  <row>\n    <cell>Epidermal growth factor (pg/mL)<\/cell>\n    <cell cols=\"2\">À9.14 3.42<\/cell>\n    <cell cols=\"3\">À0.31 0.009 0.08<\/cell>\n    <cell cols=\"2\">À7.35 3.20<\/cell>\n    <cell cols=\"3\">À0.26 0.03 0.14<\/cell>\n  <\/row>\n  <row>\n    <cell>Monocyte chemoattractant protein 1 (pg/mL) a<\/cell>\n    <cell cols=\"5\">À11.03 37.29 À0.04 0.77 0<\/cell>\n    <cell cols=\"5\">À21.10 36.28 À0.07 0.56 0<\/cell>\n  <\/row>\n  <row>\n    <cell>Fractalkine (pg/mL)<\/cell>\n    <cell cols=\"3\">118.36 113.38 0.12<\/cell>\n    <cell cols=\"2\">0.30 0.06<\/cell>\n    <cell cols=\"3\">104.38 118.19 0.11<\/cell>\n    <cell cols=\"2\">0.38 0<\/cell>\n  <\/row>\n  <row>\n    <cell>Interleukin-6 (pg/mL) a,b<\/cell>\n    <cell cols=\"2\">À0.36 0.24<\/cell>\n    <cell cols=\"3\">À0.18 0.14 0.01<\/cell>\n    <cell cols=\"2\">À0.43 0.24<\/cell>\n    <cell cols=\"3\">À0.22 0.07 0.04<\/cell>\n  <\/row>\n  <row>\n    <cell>Interleukin-1 receptor antagonist (pg/mL) a,b<\/cell>\n    <cell cols=\"2\">À0.49 0.19<\/cell>\n    <cell cols=\"3\">À0.30 0.01 0.06<\/cell>\n    <cell cols=\"2\">À0.49 0.19<\/cell>\n    <cell cols=\"3\">À0.30 0.01 0.10<\/cell>\n  <\/row>\n  <row>\n    <cell>Tumor necrosis factor alpha (pg/mL) a<\/cell>\n    <cell cols=\"2\">À4.29 4.17<\/cell>\n    <cell cols=\"3\">À0.12 0.31 0<\/cell>\n    <cell>1.09<\/cell>\n    <cell>1.75<\/cell>\n    <cell>0.08<\/cell>\n    <cell cols=\"2\">0.54 0.01<\/cell>\n  <\/row>\n  <row>\n    <cell>Notes:<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["", "B", "SE", "Model 1 / b", "Model 1 / p", "Adjusted R²", "B", "SE", "Model 2 / b", "Model 2 / p", "Adjusted R²"],
+        ["Granulocyte-colony stimulating factor (pg/mL)", "38.84", "14.79 0.30", "14.79 0.30", "0.01 0.07", "0.01 0.07", "43.79", "14.90 0.34", "14.90 0.34", "0.005 0.09", "0.005 0.09"],
+        ["Granulocyte-macrophage colony-stimulating factor (pg/mL) À0.37 1.97", "Granulocyte-macrophage colony-stimulating factor (pg/mL) À0.37 1.97", "Granulocyte-macrophage colony-stimulating factor (pg/mL) À0.37 1.97", "À0.02 0.85 0", "À0.02 0.85 0", "À0.02 0.85 0", "0.59", "1.98", "0.04", "0.77 0", "0.77 0"],
+        ["Platelet-derived growth factor-AA (pg/mL) a", "1.95", "4.72", "0.05", "0.68 0.07", "0.68 0.07", "1.23", "4.68", "0.03", "0.79 0", "0.79 0"],
+        ["Epidermal growth factor (pg/mL)", "À9.14 3.42", "À9.14 3.42", "À0.31 0.009 0.08", "À0.31 0.009 0.08", "À0.31 0.009 0.08", "À7.35 3.20", "À7.35 3.20", "À0.26 0.03 0.14", "À0.26 0.03 0.14", "À0.26 0.03 0.14"],
+        ["Monocyte chemoattractant protein 1 (pg/mL) a", "À11.03 37.29 À0.04 0.77 0", "À11.03 37.29 À0.04 0.77 0", "À11.03 37.29 À0.04 0.77 0", "À11.03 37.29 À0.04 0.77 0", "À11.03 37.29 À0.04 0.77 0", "À21.10 36.28 À0.07 0.56 0", "À21.10 36.28 À0.07 0.56 0", "À21.10 36.28 À0.07 0.56 0", "À21.10 36.28 À0.07 0.56 0", "À21.10 36.28 À0.07 0.56 0"],
+        ["Fractalkine (pg/mL)", "118.36 113.38 0.12", "118.36 113.38 0.12", "118.36 113.38 0.12", "0.30 0.06", "0.30 0.06", "104.38 118.19 0.11", "104.38 118.19 0.11", "104.38 118.19 0.11", "0.38 0", "0.38 0"],
+        ["Interleukin-6 (pg/mL) a,b", "À0.36 0.24", "À0.36 0.24", "À0.18 0.14 0.01", "À0.18 0.14 0.01", "À0.18 0.14 0.01", "À0.43 0.24", "À0.43 0.24", "À0.22 0.07 0.04", "À0.22 0.07 0.04", "À0.22 0.07 0.04"],
+        ["Interleukin-1 receptor antagonist (pg/mL) a,b", "À0.49 0.19", "À0.49 0.19", "À0.30 0.01 0.06", "À0.30 0.01 0.06", "À0.30 0.01 0.06", "À0.49 0.19", "À0.49 0.19", "À0.30 0.01 0.10", "À0.30 0.01 0.10", "À0.30 0.01 0.10"],
+        ["Tumor necrosis factor alpha (pg/mL) a", "À4.29 4.17", "À4.29 4.17", "À0.12 0.31 0", "À0.12 0.31 0", "À0.12 0.31 0", "1.09", "1.75", "0.08", "0.54 0.01", "0.54 0.01"],
+        ["Notes:", "", "", "", "", "", "", "", "", "", ""]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 3,
+      "section_id": 33,
+      "html": "<table>\n  <row>\n    <cell/>\n    <cell/>\n    <cell cols=\"2\">Effect of the predictor<\/cell>\n    <cell cols=\"2\">Effect of mediator on<\/cell>\n    <cell cols=\"2\">Direct effect of the predictor<\/cell>\n    <cell/>\n    <cell>Indirect<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>on the mediator<\/cell>\n    <cell/>\n    <cell>the outcome<\/cell>\n    <cell cols=\"2\">on the outcome (c'-path)<\/cell>\n    <cell/>\n    <cell>effect<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>(a-path)<\/cell>\n    <cell/>\n    <cell>(b-path)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>(path a £ b)<\/cell>\n  <\/row>\n  <row>\n    <cell>Mediators<\/cell>\n    <cell>Outcomes<\/cell>\n    <cell>B<\/cell>\n    <cell>95%CI<\/cell>\n    <cell>B<\/cell>\n    <cell>95%CI<\/cell>\n    <cell>B<\/cell>\n    <cell>95%CI<\/cell>\n    <cell>B<\/cell>\n    <cell>95%CI<\/cell>\n  <\/row>\n  <row>\n    <cell>Changes from Week 16 to 34<\/cell>\n    <cell>Placenta-Birth<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>(unless otherwise indicated)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Gestational weight gain<\/cell>\n    <cell cols=\"6\">G-CSF (pg/ml) À4.07 À6.10 toÀ2.03 À4.39 À7.95 to À0.82 25.80<\/cell>\n    <cell>À7.05 to 58.64<\/cell>\n    <cell cols=\"2\">17.83 2.09 to 40.37<\/cell>\n  <\/row>\n  <row>\n    <cell>(pre-pregnancy to Week 34)<\/cell>\n    <cell>EGF (pg/ml)<\/cell>\n    <cell cols=\"4\">À4.07 À6.10 to À2.04 À0.34 À1.17 to 0.50<\/cell>\n    <cell>À10.06<\/cell>\n    <cell>À17.77 to À2.35<\/cell>\n    <cell>1.37<\/cell>\n    <cell>À1.78 to 5.24<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"5\">IL-1ra (pg/ml) a,b À4.07 À6.10 to À2.04 À0.02 À0.03 to 0.66<\/cell>\n    <cell>À0.38<\/cell>\n    <cell>À0.81 to 0.06<\/cell>\n    <cell cols=\"2\">À0.08 À0.27 to 0.12<\/cell>\n  <\/row>\n  <row>\n    <cell>Mediterranean diet score<\/cell>\n    <cell cols=\"3\">G-CSF (pg/ml) À0.44 À1.91 to 1.02<\/cell>\n    <cell>2.43<\/cell>\n    <cell>À2.42 to 7.27<\/cell>\n    <cell>41.12<\/cell>\n    <cell>11.52 to 70.71<\/cell>\n    <cell cols=\"2\">À1.07 À6.81 to 4.15<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>EGF (pg/ml)<\/cell>\n    <cell cols=\"2\">À0.44 À1.91 to 1.02<\/cell>\n    <cell>0.25<\/cell>\n    <cell>À0.88 to 1.37<\/cell>\n    <cell>À8.78<\/cell>\n    <cell>À15.64 to À1.92<\/cell>\n    <cell cols=\"2\">À0.11 À1.44 to 0.90<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"3\">IL-1ra (pg/ml) a,b À0.44 À1.91 to 1.02<\/cell>\n    <cell cols=\"2\">À0.03 À0.09 to 0.04<\/cell>\n    <cell>À0.48<\/cell>\n    <cell>À0.86 to À0.11<\/cell>\n    <cell>0.12<\/cell>\n    <cell>À0.05 to 0.10<\/cell>\n  <\/row>\n  <row>\n    <cell>Sleep duration<\/cell>\n    <cell cols=\"4\">G-CSF (pg/ml) À1.83 À21.68 to 18.01 0.09<\/cell>\n    <cell>À0.33 to 0.52<\/cell>\n    <cell>45.21<\/cell>\n    <cell>11.79 to 78.62<\/cell>\n    <cell cols=\"2\">À0.18 À5.64 to 3.06<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>EGF (pg/ml)<\/cell>\n    <cell cols=\"3\">À1.83 À21.68 to 18.01 0.03<\/cell>\n    <cell>À0.07 to 0.12<\/cell>\n    <cell>À4.78<\/cell>\n    <cell>À11.98 to 2.43<\/cell>\n    <cell cols=\"2\">À0.05 À1.23 to 1.23<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"5\">IL-1ra (pg/ml) a,b À1.83 À21.68 to 18.01 À0.00 À0.01 to 0.00<\/cell>\n    <cell>À0.45<\/cell>\n    <cell>À0.86 to À0.04<\/cell>\n    <cell cols=\"2\">À0.00 À0.06 to 0.12<\/cell>\n  <\/row>\n  <row>\n    <cell>Relative muscle strength<\/cell>\n    <cell cols=\"2\">G-CSF (pg/ml) 0.02<\/cell>\n    <cell>0.00 to 0.04<\/cell>\n    <cell cols=\"3\">À23.12 À392.7 to 346.5 44.98<\/cell>\n    <cell>13.94 to 76.01<\/cell>\n    <cell cols=\"2\">À0.50 À9.77 to 11.22<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>EGF (pg/ml)<\/cell>\n    <cell>0.02<\/cell>\n    <cell>0.00 to 0.04<\/cell>\n    <cell cols=\"3\">À36.88 À118.6 to 44.78 À7.21<\/cell>\n    <cell>À14.07 to À0.35<\/cell>\n    <cell cols=\"2\">À0.80 À2.92 to 0.99<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"2\">IL-1ra (pg/ml) a,b 0.02<\/cell>\n    <cell>0.00 to 0.04<\/cell>\n    <cell>0.50<\/cell>\n    <cell>À4.13 to 4.97<\/cell>\n    <cell>À0.50<\/cell>\n    <cell>À0.88 to À0.12<\/cell>\n    <cell>0.01<\/cell>\n    <cell>À0.11 to 0.10<\/cell>\n  <\/row>\n  <row>\n    <cell>Cardiorespiratory<\/cell>\n    <cell cols=\"4\">G-CSF (pg/ml) À21.64 À69.09 to 25.81 0.02<\/cell>\n    <cell>À0.21 to 0.25<\/cell>\n    <cell>52.89<\/cell>\n    <cell>16.16 to 89.62<\/cell>\n    <cell cols=\"2\">À0.41 À7.82 to 12.64<\/cell>\n  <\/row>\n  <row>\n    <cell>fitness (n = 50)<\/cell>\n    <cell>EGF (pg/ml)<\/cell>\n    <cell cols=\"5\">À21.64 À69.09 to 25.81 À0.07 À0.12 to À0.02 À5.78<\/cell>\n    <cell>À14.18 to 2.62<\/cell>\n    <cell>1.44<\/cell>\n    <cell>À1.88 to 4.96<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell cols=\"5\">IL-1ra (pg/ml) a,b À21.64 À69.09 to 25.81 À0.00 À0.00 to 0.00<\/cell>\n    <cell>À0.36<\/cell>\n    <cell>À0.83 to 0.11<\/cell>\n    <cell>0.04<\/cell>\n    <cell>À0.13 to 0.15<\/cell>\n  <\/row>\n  <row>\n    <cell>Moderate-to-vigorous<\/cell>\n    <cell cols=\"5\">G-CSF (pg/ml) À3.46 À15.27 to 8.35 À0.07 À1.14 to 1.01<\/cell>\n    <cell>17.36<\/cell>\n    <cell>À18.20 to 52.94<\/cell>\n    <cell>0.23<\/cell>\n    <cell>À10.16 to 11.60<\/cell>\n  <\/row>\n  <row>\n    <cell>physical activity<\/cell>\n    <cell>EGF (pg/ml)<\/cell>\n    <cell cols=\"3\">À3.46 À15.27 to 8.35 0.01<\/cell>\n    <cell>À0.25 to 0.28<\/cell>\n    <cell>À15.17<\/cell>\n    <cell>À23.97 to À6.37<\/cell>\n    <cell cols=\"2\">À0.03 À2.94 to 1.30<\/cell>\n  <\/row>\n  <row>\n    <cell>(n = 35)<\/cell>\n    <cell cols=\"5\">IL-1ra (pg/ml) a,b À3.46 À15.27 to 8.35 À0.00 À0.01 to 0.01<\/cell>\n    <cell>À0.19<\/cell>\n    <cell>À0.43 to 0.24<\/cell>\n    <cell>0.01<\/cell>\n    <cell>À0.07 to 0.09<\/cell>\n  <\/row>\n  <row>\n    <cell>Notes:<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Mediators / Changes from Week 16 to 34 / (unless otherwise indicated) / Gestational weight gain / (pre-pregnancy to Week 34) / Mediterranean diet score / Sleep duration / Relative muscle strength / Cardiorespiratory / fitness (n = 50) / Moderate-to-vigorous / physical activity / (n = 35) / Notes:", "Outcomes / Placenta-Birth / G-CSF (pg/ml) À4.07 À6.10 toÀ2.03 À4.39 À7.95 to À0.82 25.80 / EGF (pg/ml) / IL-1ra (pg/ml) a,b À4.07 À6.10 to À2.04 À0.02 À0.03 to 0.66 / G-CSF (pg/ml) À0.44 À1.91 to 1.02 / EGF (pg/ml) / IL-1ra (pg/ml) a,b À0.44 À1.91 to 1.02 / G-CSF (pg/ml) À1.83 À21.68 to 18.01 0.09 / EGF (pg/ml) / IL-1ra (pg/ml) a,b À1.83 À21.68 to 18.01 À0.00 À0.01 to 0.00 / G-CSF (pg/ml) 0.02 / EGF (pg/ml) / IL-1ra (pg/ml) a,b 0.02 / G-CSF (pg/ml) À21.64 À69.09 to 25.81 0.02 / EGF (pg/ml) / IL-1ra (pg/ml) a,b À21.64 À69.09 to 25.81 À0.00 À0.00 to 0.00 / G-CSF (pg/ml) À3.46 À15.27 to 8.35 À0.07 À1.14 to 1.01 / EGF (pg/ml) / IL-1ra (pg/ml) a,b À3.46 À15.27 to 8.35 À0.00 À0.01 to 0.01", "Effect of the predictor / B / G-CSF (pg/ml) À4.07 À6.10 toÀ2.03 À4.39 À7.95 to À0.82 25.80 / À4.07 À6.10 to À2.04 À0.34 À1.17 to 0.50 / IL-1ra (pg/ml) a,b À4.07 À6.10 to À2.04 À0.02 À0.03 to 0.66 / G-CSF (pg/ml) À0.44 À1.91 to 1.02 / À0.44 À1.91 to 1.02 / IL-1ra (pg/ml) a,b À0.44 À1.91 to 1.02 / G-CSF (pg/ml) À1.83 À21.68 to 18.01 0.09 / À1.83 À21.68 to 18.01 0.03 / IL-1ra (pg/ml) a,b À1.83 À21.68 to 18.01 À0.00 À0.01 to 0.00 / G-CSF (pg/ml) 0.02 / 0.02 / IL-1ra (pg/ml) a,b 0.02 / G-CSF (pg/ml) À21.64 À69.09 to 25.81 0.02 / À21.64 À69.09 to 25.81 À0.07 À0.12 to À0.02 À5.78 / IL-1ra (pg/ml) a,b À21.64 À69.09 to 25.81 À0.00 À0.00 to 0.00 / G-CSF (pg/ml) À3.46 À15.27 to 8.35 À0.07 À1.14 to 1.01 / À3.46 À15.27 to 8.35 0.01 / IL-1ra (pg/ml) a,b À3.46 À15.27 to 8.35 À0.00 À0.01 to 0.01", "Effect of the predictor / on the mediator / (a-path) / 95%CI / G-CSF (pg/ml) À4.07 À6.10 toÀ2.03 À4.39 À7.95 to À0.82 25.80 / À4.07 À6.10 to À2.04 À0.34 À1.17 to 0.50 / IL-1ra (pg/ml) a,b À4.07 À6.10 to À2.04 À0.02 À0.03 to 0.66 / G-CSF (pg/ml) À0.44 À1.91 to 1.02 / À0.44 À1.91 to 1.02 / IL-1ra (pg/ml) a,b À0.44 À1.91 to 1.02 / G-CSF (pg/ml) À1.83 À21.68 to 18.01 0.09 / À1.83 À21.68 to 18.01 0.03 / IL-1ra (pg/ml) a,b À1.83 À21.68 to 18.01 À0.00 À0.01 to 0.00 / 0.00 to 0.04 / 0.00 to 0.04 / 0.00 to 0.04 / G-CSF (pg/ml) À21.64 À69.09 to 25.81 0.02 / À21.64 À69.09 to 25.81 À0.07 À0.12 to À0.02 À5.78 / IL-1ra (pg/ml) a,b À21.64 À69.09 to 25.81 À0.00 À0.00 to 0.00 / G-CSF (pg/ml) À3.46 À15.27 to 8.35 À0.07 À1.14 to 1.01 / À3.46 À15.27 to 8.35 0.01 / IL-1ra (pg/ml) a,b À3.46 À15.27 to 8.35 À0.00 À0.01 to 0.01", "Effect of mediator on / B / G-CSF (pg/ml) À4.07 À6.10 toÀ2.03 À4.39 À7.95 to À0.82 25.80 / À4.07 À6.10 to À2.04 À0.34 À1.17 to 0.50 / IL-1ra (pg/ml) a,b À4.07 À6.10 to À2.04 À0.02 À0.03 to 0.66 / 2.43 / 0.25 / À0.03 À0.09 to 0.04 / G-CSF (pg/ml) À1.83 À21.68 to 18.01 0.09 / À1.83 À21.68 to 18.01 0.03 / IL-1ra (pg/ml) a,b À1.83 À21.68 to 18.01 À0.00 À0.01 to 0.00 / À23.12 À392.7 to 346.5 44.98 / À36.88 À118.6 to 44.78 À7.21 / 0.50 / G-CSF (pg/ml) À21.64 À69.09 to 25.81 0.02 / À21.64 À69.09 to 25.81 À0.07 À0.12 to À0.02 À5.78 / IL-1ra (pg/ml) a,b À21.64 À69.09 to 25.81 À0.00 À0.00 to 0.00 / G-CSF (pg/ml) À3.46 À15.27 to 8.35 À0.07 À1.14 to 1.01 / À3.46 À15.27 to 8.35 0.01 / IL-1ra (pg/ml) a,b À3.46 À15.27 to 8.35 À0.00 À0.01 to 0.01", "Effect of mediator on / the outcome / (b-path) / 95%CI / G-CSF (pg/ml) À4.07 À6.10 toÀ2.03 À4.39 À7.95 to À0.82 25.80 / À4.07 À6.10 to À2.04 À0.34 À1.17 to 0.50 / IL-1ra (pg/ml) a,b À4.07 À6.10 to À2.04 À0.02 À0.03 to 0.66 / À2.42 to 7.27 / À0.88 to 1.37 / À0.03 À0.09 to 0.04 / À0.33 to 0.52 / À0.07 to 0.12 / IL-1ra (pg/ml) a,b À1.83 À21.68 to 18.01 À0.00 À0.01 to 0.00 / À23.12 À392.7 to 346.5 44.98 / À36.88 À118.6 to 44.78 À7.21 / À4.13 to 4.97 / À0.21 to 0.25 / À21.64 À69.09 to 25.81 À0.07 À0.12 to À0.02 À5.78 / IL-1ra (pg/ml) a,b À21.64 À69.09 to 25.81 À0.00 À0.00 to 0.00 / G-CSF (pg/ml) À3.46 À15.27 to 8.35 À0.07 À1.14 to 1.01 / À0.25 to 0.28 / IL-1ra (pg/ml) a,b À3.46 À15.27 to 8.35 À0.00 À0.01 to 0.01", "Direct effect of the predictor / on the outcome (c'-path) / B / G-CSF (pg/ml) À4.07 À6.10 toÀ2.03 À4.39 À7.95 to À0.82 25.80 / À10.06 / À0.38 / 41.12 / À8.78 / À0.48 / 45.21 / À4.78 / À0.45 / À23.12 À392.7 to 346.5 44.98 / À36.88 À118.6 to 44.78 À7.21 / À0.50 / 52.89 / À21.64 À69.09 to 25.81 À0.07 À0.12 to À0.02 À5.78 / À0.36 / 17.36 / À15.17 / À0.19", "Direct effect of the predictor / on the outcome (c'-path) / 95%CI / À7.05 to 58.64 / À17.77 to À2.35 / À0.81 to 0.06 / 11.52 to 70.71 / À15.64 to À1.92 / À0.86 to À0.11 / 11.79 to 78.62 / À11.98 to 2.43 / À0.86 to À0.04 / 13.94 to 76.01 / À14.07 to À0.35 / À0.88 to À0.12 / 16.16 to 89.62 / À14.18 to 2.62 / À0.83 to 0.11 / À18.20 to 52.94 / À23.97 to À6.37 / À0.43 to 0.24", "B / 17.83 2.09 to 40.37 / 1.37 / À0.08 À0.27 to 0.12 / À1.07 À6.81 to 4.15 / À0.11 À1.44 to 0.90 / 0.12 / À0.18 À5.64 to 3.06 / À0.05 À1.23 to 1.23 / À0.00 À0.06 to 0.12 / À0.50 À9.77 to 11.22 / À0.80 À2.92 to 0.99 / 0.01 / À0.41 À7.82 to 12.64 / 1.44 / 0.04 / 0.23 / À0.03 À2.94 to 1.30 / 0.01", "Indirect / effect / (path a £ b) / 95%CI / 17.83 2.09 to 40.37 / À1.78 to 5.24 / À0.08 À0.27 to 0.12 / À1.07 À6.81 to 4.15 / À0.11 À1.44 to 0.90 / À0.05 to 0.10 / À0.18 À5.64 to 3.06 / À0.05 À1.23 to 1.23 / À0.00 À0.06 to 0.12 / À0.50 À9.77 to 11.22 / À0.80 À2.92 to 0.99 / À0.11 to 0.10 / À0.41 À7.82 to 12.64 / À1.88 to 4.96 / À0.13 to 0.15 / À10.16 to 11.60 / À0.03 À2.94 to 1.30 / À0.07 to 0.09"]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "40"
+    },
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "36"
+    },
+    {
+      "text_id": 7,
+      "grp_id": 2,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 3,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 3,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.08"
+    },
+    {
+      "text_id": 9,
+      "grp_id": 4,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 28,
+      "grp_id": 5,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "52"
+    },
+    {
+      "text_id": 63,
+      "grp_id": 6,
+      "lhs": "with",
+      "df": null,
+      "comp": ">",
+      "rhs": "10"
+    },
+    {
+      "text_id": 101,
+      "grp_id": 7,
+      "lhs": "where",
+      "df": null,
+      "comp": "<",
+      "rhs": "15"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 8,
+      "lhs": "was",
+      "df": null,
+      "comp": ">",
+      "rhs": "50"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 9,
+      "lhs": "attended",
+      "df": null,
+      "comp": ">",
+      "rhs": "75"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 121,
+      "grp_id": 11,
+      "lhs": "BMI",
+      "df": null,
+      "comp": "=",
+      "rhs": "23.7"
+    },
+    {
+      "text_id": 122,
+      "grp_id": 12,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "36"
+    },
+    {
+      "text_id": 122,
+      "grp_id": 12,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "40"
+    },
+    {
+      "text_id": 125,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 129,
+      "grp_id": 14,
+      "lhs": "B",
+      "df": null,
+      "comp": "=",
+      "rhs": "43.79"
+    },
+    {
+      "text_id": 129,
+      "grp_id": 14,
+      "lhs": "adj",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.09"
+    },
+    {
+      "text_id": 129,
+      "grp_id": 14,
+      "lhs": "adj",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.14"
+    },
+    {
+      "text_id": 129,
+      "grp_id": 14,
+      "lhs": "adj",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.04"
+    },
+    {
+      "text_id": 129,
+      "grp_id": 14,
+      "lhs": "adj",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.10"
+    },
+    {
+      "text_id": 130,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 133,
+      "grp_id": 16,
+      "lhs": "f²",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.1"
+    },
+    {
+      "text_id": 136,
+      "grp_id": 17,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "40"
+    },
+    {
+      "text_id": 136,
+      "grp_id": 17,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "36"
+    },
+    {
+      "text_id": 136,
+      "grp_id": 17,
+      "lhs": "B",
+      "df": null,
+      "comp": "=",
+      "rhs": "75.43"
+    },
+    {
+      "text_id": 136,
+      "grp_id": 17,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 136,
+      "grp_id": 17,
+      "lhs": "SE",
+      "df": null,
+      "comp": "=",
+      "rhs": "5.94"
+    },
+    {
+      "text_id": 136,
+      "grp_id": 17,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.04"
+    },
+    {
+      "text_id": 137,
+      "grp_id": 18,
+      "lhs": "SE",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.34"
+    },
+    {
+      "text_id": 137,
+      "grp_id": 18,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.08"
+    },
+    {
+      "text_id": 138,
+      "grp_id": 19,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "51"
+    },
+    {
+      "text_id": 138,
+      "grp_id": 19,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "25"
+    },
+    {
+      "text_id": 139,
+      "grp_id": 20,
+      "lhs": "SE",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.45"
+    },
+    {
+      "text_id": 139,
+      "grp_id": 20,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.02"
+    },
+    {
+      "text_id": 141,
+      "grp_id": 21,
+      "lhs": "B",
+      "df": null,
+      "comp": "=",
+      "rhs": "17.83"
+    },
+    {
+      "text_id": 142,
+      "grp_id": 22,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.3"
+    },
+    {
+      "text_id": 142,
+      "grp_id": 22,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.03"
+    },
+    {
+      "text_id": 143,
+      "grp_id": 23,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 145,
+      "grp_id": 24,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 146,
+      "grp_id": 25,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 179,
+      "grp_id": 26,
+      "lhs": "controls",
+      "df": null,
+      "comp": "=",
+      "rhs": "47"
+    },
+    {
+      "text_id": 179,
+      "grp_id": 26,
+      "lhs": "exercisers",
+      "df": null,
+      "comp": "=",
+      "rhs": "53"
+    },
+    {
+      "text_id": 179,
+      "grp_id": 26,
+      "lhs": "fetuses",
+      "df": null,
+      "comp": "=",
+      "rhs": "48"
+    },
+    {
+      "text_id": 179,
+      "grp_id": 26,
+      "lhs": "male",
+      "df": null,
+      "comp": "=",
+      "rhs": "52"
+    },
+    {
+      "text_id": 179,
+      "grp_id": 26,
+      "lhs": "healthyweight",
+      "df": null,
+      "comp": "=",
+      "rhs": "67"
+    },
+    {
+      "text_id": 179,
+      "grp_id": 26,
+      "lhs": "obese",
+      "df": null,
+      "comp": "=",
+      "rhs": "33"
+    },
+    {
+      "text_id": 200,
+      "grp_id": 27,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "76"
+    },
+    {
+      "text_id": 202,
+      "grp_id": 28,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 203,
+      "grp_id": 29,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.75"
+    },
+    {
+      "text_id": 204,
+      "grp_id": 30,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "76"
+    },
+    {
+      "text_id": 205,
+      "grp_id": 31,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 208,
+      "grp_id": 32,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "76"
+    },
+    {
+      "text_id": 212,
+      "grp_id": 33,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    }
+  ]
+}

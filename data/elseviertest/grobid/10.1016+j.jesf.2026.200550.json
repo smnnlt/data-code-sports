@@ -1,0 +1,3740 @@
+{
+  "paper_id": "10.1016+j.jesf.2026.200550",
+  "info": [
+    {
+      "title": "Explainable machine learning analyses uncover nonlinear associations between 24-hour movement behavior composition and cardiometabolic risk among Korean adults",
+      "keywords": null,
+      "doi": "10.1016/j.jesf.2026.200550",
+      "file_hash": "4426e61fff1b9621",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.jesf.2026.200550.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Jaehoon",
+      "family": "Seol",
+      "affiliation": "College of Sport Science\n\t\t\t\t\t\t\t\tSungkyunkwan University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t16419\n\t\t\t\t\t\t\t\t\tSuwon\n\t\t\t\t\t\t\t\t\tGyeonggi\n\t\t\t\t\t\t\t\t\tRepublic of Korea",
+      "email": "seol.jaehoon@skku.edu",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "Jinkyung",
+      "family": "Cho",
+      "affiliation": "College of Sport Science\n\t\t\t\t\t\t\t\tSungkyunkwan University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t16419\n\t\t\t\t\t\t\t\t\tSuwon\n\t\t\t\t\t\t\t\t\tGyeonggi\n\t\t\t\t\t\t\t\t\tRepublic of Korea",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0000-0003-3441-4191",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "Joseph",
+      "family": "Watso",
+      "affiliation": "Department of Health, Nutrition, and Food Sciences\n\t\t\t\t\t\t\t\tCardiovascular and Applied Physiology Laboratory\n\t\t\t\t\t\t\t\tAnne Spencer Daves College of Education, Health, and Human Sciences\n\t\t\t\t\t\t\t\tFlorida State University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTallahassee\n\t\t\t\t\t\t\t\t\tFL\n\t\t\t\t\t\t\t\t\tUnited States",
+      "email": "",
+      "corresponding": false,
+      "orcid": "0000-0002-4500-3622",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Background/objective: To examine associations between 24-h movement behavior composition and cardiometabolic risk and explore nonlinear associations and favorable compositions using explainable machine learning.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: This cross-sectional study included 41,288 adults from the Korea National Health and Nutrition Examination Survey (2016-2024).",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sleep, sedentary behavior, moderate-to-vigorous physical activity (MVPA), and other activities formed a 24-h composition.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cardiometabolic risk was assessed using a cardiometabolic risk score (CmRS).",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Survey-weighted compositional data analysis examined associations and time reallocation; extreme gradient boosting with SHapley Additive exPlanations explored nonlinear associations.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Grid-search identified favorable model-derived compositions.",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: The 24-h composition was associated with CmRS (p < 0.001).",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Results: The 24-h composition was associated with CmRS (p &lt; 0.001)."
+    },
+    {
+      "text": "Greater relative sleep (β = -0.073, 95% CI -0.095 to -0.051) and MVPA (β = -0.017, 95% CI -0.020 to -0.013) were associated with lower CmRS, whereas greater relative sedentary behavior was associated with higher CmRS (β = 0.086, 95% CI 0.070 to 0.102).",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Reallocating 30 min/day toward MVPA showed the largest reduction in CmRS (-0.0221, 95% CI -0.0264 to -0.0178).",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The machine-learning model achieved an R² of 0.321, with MVPA leading among movement behaviors.",
+      "text_id": 10,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Unrestricted grid-search identified model-derived favorable compositions characterized by approximately 450 min/day of sleep, 480 min/day of sedentary behavior, and 80 min/day of MVPA.",
+      "text_id": 11,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Constrained analyses favored greater MVPA within the specified search range, although these model-derived values should not be interpreted as population-wide optimal targets.",
+      "text_id": 12,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Conclusion: Twenty-four-hour movement composition was associated with cardiometabolic risk, with greater relative sleep and MVPA and lower sedentary behavior associated with favorable profiles.",
+      "text_id": 13,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Explainable machine learning identified nonlinear associations and favorable model-derived compositions requiring longitudinal evaluation.",
+      "text_id": 14,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cardiovascular disease remains the leading cause of death worldwide, 1 with obesity, hypertension, dyslipidemia, and impaired glucose metabolism contributing to cardiometabolic risk. 2 Sleep, sedentary behavior, and physical activity are important modifiable behaviors associated with cardiometabolic health through distinct but interconnected pathways. [3] [4] [5] [6] [7].",
+      "text_id": 15,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Cardiovascular disease remains the leading cause of death worldwide, <ref type=\"bibr\" target=\"#b0\">1<\/ref> with obesity, hypertension, dyslipidemia, and impaired glucose metabolism contributing to cardiometabolic risk. <ref type=\"bibr\" target=\"#b1\">2<\/ref> Sleep, sedentary behavior, and physical activity are important modifiable behaviors associated with cardiometabolic health through distinct but interconnected pathways. <ref type=\"bibr\" target=\"#b2\">[3]<\/ref> <ref type=\"bibr\" target=\"#b3\">[4]<\/ref> <ref type=\"bibr\" target=\"#b4\">[5]<\/ref> <ref type=\"bibr\" target=\"#b5\">[6]<\/ref> <ref type=\"bibr\" target=\"#b6\">[7]<\/ref>."
+    },
+    {
+      "text": "These behaviors collectively occupy the finite 24-h day, such that time spent in one behavior necessarily displaces another. 8, 9 Although isotemporal substitution models address time reallocation, 10 compositional data analysis (CoDA) explicitly accounts for the relative and codependent nature of 24-h movement behaviors. 8, 11 Previous CoDA studies have demonstrated associations of movement compositions with cardiometabolic health, obesity, and mortality. [11] [12] [13] [14] However, conventional regression-based approaches may not fully characterize nonlinear patterns and favorable ranges. [15] [16] [17] Machine-learning algorithms such as extreme gradient boosting (XGBoost) can flexibly model complex nonlinear relationships but may be difficult to interpret. 18 Explainable approaches such as SHapley Additive exPlanations (SHAP) address this limitation by quantifying predictor contributions and characterizing the direction and shape of model-derived associations. [18] [19] [20] [21].",
+      "text_id": 16,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "These behaviors collectively occupy the finite 24-h day, such that time spent in one behavior necessarily displaces another. <ref type=\"bibr\" target=\"#b7\">8,<\/ref> <ref type=\"bibr\" target=\"#b8\">9<\/ref> Although isotemporal substitution models address time reallocation, <ref type=\"bibr\" target=\"#b9\">10<\/ref> compositional data analysis (CoDA) explicitly accounts for the relative and codependent nature of 24-h movement behaviors. <ref type=\"bibr\" target=\"#b7\">8,<\/ref> <ref type=\"bibr\" target=\"#b10\">11<\/ref> Previous CoDA studies have demonstrated associations of movement compositions with cardiometabolic health, obesity, and mortality. <ref type=\"bibr\" target=\"#b10\">[11]<\/ref> <ref type=\"bibr\" target=\"#b11\">[12]<\/ref> <ref type=\"bibr\" target=\"#b12\">[13]<\/ref> <ref type=\"bibr\" target=\"#b13\">[14]<\/ref> However, conventional regression-based approaches may not fully characterize nonlinear patterns and favorable ranges. <ref type=\"bibr\" target=\"#b14\">[15]<\/ref> <ref type=\"bibr\" target=\"#b15\">[16]<\/ref> <ref type=\"bibr\" target=\"#b16\">[17]<\/ref> Machine-learning algorithms such as extreme gradient boosting (XGBoost) can flexibly model complex nonlinear relationships but may be difficult to interpret. <ref type=\"bibr\" target=\"#b17\">18<\/ref> Explainable approaches such as SHapley Additive exPlanations (SHAP) address this limitation by quantifying predictor contributions and characterizing the direction and shape of model-derived associations. <ref type=\"bibr\" target=\"#b17\">[18]<\/ref> <ref type=\"bibr\" target=\"#b18\">[19]<\/ref> <ref type=\"bibr\" target=\"#b19\">[20]<\/ref> <ref type=\"bibr\" target=\"#b20\">[21]<\/ref>."
+    },
+    {
+      "text": "To our knowledge, few studies have integrated survey-weighted CoDA and explainable machine learning to characterize nonlinear associations and complete 24-h movement compositions.",
+      "text_id": 17,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, we examined (1) associations between 24-h movement behavior composition and cardiometabolic health using survey-weighted CoDA and (2) nonlinear associations, model-derived favorable ranges, and favorable compositions using explainable machine learning and grid-search analyses.",
+      "text_id": 18,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Methods",
+      "text_id": 19,
+      "paragraph_id": 5,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Methods<\/head>"
+    },
+    {
+      "text": "This cross-sectional study used data from the Korea National Health and Nutrition Examination Survey (KNHANES) collected between 2016 and 2024.",
+      "text_id": 20,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "KNHANES is a nationally representative survey using a complex, multistage, stratified cluster sampling design. 22 Of 67,019 participants, those aged <19 years, with missing cardiometabolic biomarkers, with incomplete or invalid movement-behavior data, or with missing covariate data were excluded, resulting in 41,288 adults (Fig. 1).",
+      "text_id": 21,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "KNHANES is a nationally representative survey using a complex, multistage, stratified cluster sampling design. <ref type=\"bibr\" target=\"#b21\">22<\/ref> Of 67,019 participants, those aged &lt;19 years, with missing cardiometabolic biomarkers, with incomplete or invalid movement-behavior data, or with missing covariate data were excluded, resulting in 41,288 adults (Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref>)."
+    },
+    {
+      "text": "All procedures were performed in accordance with the ethical standards of the relevant institutional and/or national research committee and with the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards.",
+      "text_id": 22,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The KNHANES protocol was approved by the Institutional Review Board of the Korea Disease Control and Prevention Agency (2018-01-03-P-A, 2018-01-03-C-A, 2018-01-03-2C-A, 2018-01-03-5C-A, 2018-01-03-4C-A, 2022-11-16-R-A, and 2022-11-16-R-03), whereas the 2016 and 2017 surveys were exempt from IRB review according to the Bioethics and Safety Act.",
+      "text_id": 23,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants provided written informed consent.",
+      "text_id": 24,
+      "paragraph_id": 6,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Daily movement behaviors were derived from self-reported sleep duration, sedentary behavior, and physical activity data.",
+      "text_id": 25,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants reported their usual weekday and weekend sleep durations, from which average daily sleep duration was calculated as a weighted average (5 weekdays and 2 weekend days).",
+      "text_id": 26,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Physical activity was assessed using the Global Physical Activity Questionnaire (GPAQ). 23 In accordance with the GPAQ analysis framework, physical activity was assessed across three domains: work, transportation, and recreation.",
+      "text_id": 27,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Physical activity was assessed using the Global Physical Activity Questionnaire (GPAQ). <ref type=\"bibr\" target=\"#b22\">23<\/ref> In accordance with the GPAQ analysis framework, physical activity was assessed across three domains: work, transportation, and recreation."
+    },
+    {
+      "text": "Moderate-and vigorous-intensity activities were identified separately for the work and recreation domains, while walking and cycling for transportation were classified as moderate-intensity activity, consistent with the GPAQ convention assigning these activities an intensity of 4.0 METs.",
+      "text_id": 28,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Daily minutes of moderate-to-vigorous physical activity (MVPA) were calculated by summing time spent in moderate-and vigorous-intensity activities across these domains and averaging weekly activity over seven days. 23 Sedentary behavior was assessed directly using the sedentary-behavior item of the GPAQ as self-reported total sitting time per day and was not derived as residual time.",
+      "text_id": 29,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Daily minutes of moderate-to-vigorous physical activity (MVPA) were calculated by summing time spent in moderate-and vigorous-intensity activities across these domains and averaging weekly activity over seven days. <ref type=\"bibr\" target=\"#b22\">23<\/ref> Sedentary behavior was assessed directly using the sedentary-behavior item of the GPAQ as self-reported total sitting time per day and was not derived as residual time."
+    },
+    {
+      "text": "A four-part 24-h composition consisting of sleep, sedentary behavior, MVPA, and other activities was constructed such that the sum of all components equaled 1440 min per day.",
+      "text_id": 30,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After excluding participants with missing movement-behavior data (n = 4296), we additionally excluded those whose combined reported sleep duration, sedentary time, and MVPA exceeded 1440 min/day (n = 144) or left zero residual time for other activities (n = 31; Fig. 1).",
+      "text_id": 31,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "After excluding participants with missing movement-behavior data (n = 4296), we additionally excluded those whose combined reported sleep duration, sedentary time, and MVPA exceeded 1440 min/day (n = 144) or left zero residual time for other activities (n = 31; Fig. <ref type=\"figure\" target=\"#fig_0\">1<\/ref>)."
+    },
+    {
+      "text": "Other activities were calculated as the residual time remaining after subtracting sleep, sedentary behavior, and MVPA from 1440 min/day (Supplementary Table S1).",
+      "text_id": 32,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Other activities were calculated as the residual time remaining after subtracting sleep, sedentary behavior, and MVPA from 1440 min/day (Supplementary Table <ref type=\"table\" target=\"#tab_0\">S1<\/ref>)."
+    },
+    {
+      "text": "Within the 24-h movement behavior framework, this residual \"other activities\" component was intended to represent light-intensity physical activity (LPA) and standing.",
+      "text_id": 33,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, because neither behavior was directly measured, we retained the term \"other activities\" rather than labeling this derived residual component as measured LPA or standing.",
+      "text_id": 34,
+      "paragraph_id": 7,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cardiometabolic risk was assessed using a continuous cardiometabolic risk score (CmRS), calculated as the mean of standardized waist circumference, systolic and diastolic blood pressure, fasting glucose, triglycerides, and inverted high-density lipoprotein cholesterol (HDL-C). 24 Waist circumference and HDL-C were standardized by sex and the remaining components using the pooled sample. 24, 25 Higher scores indicated less favorable cardiometabolic profiles. 25",
+      "text_id": 35,
+      "paragraph_id": 8,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "Cardiometabolic risk was assessed using a continuous cardiometabolic risk score (CmRS), calculated as the mean of standardized waist circumference, systolic and diastolic blood pressure, fasting glucose, triglycerides, and inverted high-density lipoprotein cholesterol (HDL-C). <ref type=\"bibr\" target=\"#b23\">24<\/ref> Waist circumference and HDL-C were standardized by sex and the remaining components using the pooled sample. <ref type=\"bibr\" target=\"#b23\">24,<\/ref> <ref type=\"bibr\" target=\"#b24\">25<\/ref> Higher scores indicated less favorable cardiometabolic profiles. <ref type=\"bibr\" target=\"#b24\">25<\/ref>"
+    },
+    {
+      "text": "Covariates included age, sex, survey year, household income, education, occupation, smoking status, alcohol consumption frequency, and total energy intake.",
+      "text_id": 36,
+      "paragraph_id": 9,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Age and energy intake were continuous; other covariates were categorized according to KNHANES definitions.",
+      "text_id": 37,
+      "paragraph_id": 9,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All were included as potential confounders.",
+      "text_id": 38,
+      "paragraph_id": 9,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CoDA was used to account for the compositional nature of daily movement behaviors.",
+      "text_id": 39,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sleep, sedentary behavior, other activities, and MVPA were treated as a four-part composition summing to 1440 min/ day.",
+      "text_id": 40,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zero values in MVPA and other activities were replaced using the count-zero multiplicative method 26 before isometric log-ratio (ilr) transformation. 11, 27 Survey-weighted linear regression incorporated KNHANES weights, strata, and primary sampling units and adjusted for all covariates.",
+      "text_id": 41,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Zero values in MVPA and other activities were replaced using the count-zero multiplicative method <ref type=\"bibr\" target=\"#b25\">26<\/ref> before isometric log-ratio (ilr) transformation. <ref type=\"bibr\" target=\"#b10\">11,<\/ref> <ref type=\"bibr\" target=\"#b26\">27<\/ref> Survey-weighted linear regression incorporated KNHANES weights, strata, and primary sampling units and adjusted for all covariates."
+    },
+    {
+      "text": "Overall compositional effects were evaluated using joint tests of ilr coordinates, 8, 11 and pivot coordinates estimated the relative contribution of each behavior.",
+      "text_id": 42,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Overall compositional effects were evaluated using joint tests of ilr coordinates, <ref type=\"bibr\" target=\"#b7\">8,<\/ref> <ref type=\"bibr\" target=\"#b10\">11<\/ref> and pivot coordinates estimated the relative contribution of each behavior."
+    },
+    {
+      "text": "Compositional isotemporal substitution estimated time-reallocation effects. 28 Time reallocations were evaluated relative to the reference composition.",
+      "text_id": 43,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Compositional isotemporal substitution estimated time-reallocation effects. <ref type=\"bibr\" target=\"#b27\">28<\/ref> Time reallocations were evaluated relative to the reference composition."
+    },
+    {
+      "text": "An increase of 5-30 min/day in the target behavior was offset by proportional reductions in the remaining three behaviors, preserving the total of 1440 min/day.",
+      "text_id": 44,
+      "paragraph_id": 10,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nonlinear associations were investigated using XGBoost. 20 Predictors included the four movement behaviors and all covariates; categorical predictors were one-hot encoded and continuous predictors entered without transformation.",
+      "text_id": 45,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Nonlinear associations were investigated using XGBoost. <ref type=\"bibr\" target=\"#b19\">20<\/ref> Predictors included the four movement behaviors and all covariates; categorical predictors were one-hot encoded and continuous predictors entered without transformation."
+    },
+    {
+      "text": "Data were randomly divided into training (80%) and test (20%) sets.",
+      "text_id": 46,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hyperparameters were optimized using Optuna with 100 trials and five-fold cross-validation, minimizing RMSE, which was selected because CmRS was continuous and RMSE penalizes larger prediction errors; search ranges, final selected values, and fixed settings are provided in Supplementary Table S2. 29 Performance was evaluated using root mean square error (RMSE), mean absolute error (MAE), and R² .",
+      "text_id": 47,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Hyperparameters were optimized using Optuna with 100 trials and five-fold cross-validation, minimizing RMSE, which was selected because CmRS was continuous and RMSE penalizes larger prediction errors; search ranges, final selected values, and fixed settings are provided in Supplementary Table <ref type=\"table\" target=\"#tab_1\">S2<\/ref>. <ref type=\"bibr\" target=\"#b28\">29<\/ref> Performance was evaluated using root mean square error (RMSE), mean absolute error (MAE), and R² ."
+    },
+    {
+      "text": "Linear regression and random forest were evaluated as benchmarks using the same predictors, training/test partition, and test-set performance metrics.",
+      "text_id": 48,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "XGBoost was used for prediction and explanation without survey weighting; thus, estimates reflect model-based associations within the observed sample rather than national estimates.",
+      "text_id": 49,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "SHAP values quantified predictor importance and characterized nonlinear associations. 21 SHAP values were calculated for 5000 randomly selected participants from the test set, and contributions from one-hot-encoded levels were summed within each categorical predictor.",
+      "text_id": 50,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "SHAP values quantified predictor importance and characterized nonlinear associations. <ref type=\"bibr\" target=\"#b20\">21<\/ref> SHAP values were calculated for 5000 randomly selected participants from the test set, and contributions from one-hot-encoded levels were summed within each categorical predictor."
+    },
+    {
+      "text": "Locally weighted scatterplot smoothing (LOWESS) curves with 300 bootstrap resamples were used to summarize SHAP dependence patterns and 95% confidence intervals (CIs) around the smoothed estimates.",
+      "text_id": 51,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These intervals characterize uncertainty in the model-derived SHAP patterns and should not be interpreted as CIs for the underlying epidemiological associations. [30] [31] [32] Bootstrap resampling was applied to the SHAP observations while keeping the fitted XGBoost model fixed.",
+      "text_id": 52,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "These intervals characterize uncertainty in the model-derived SHAP patterns and should not be interpreted as CIs for the underlying epidemiological associations. <ref type=\"bibr\" target=\"#b29\">[30]<\/ref> <ref type=\"bibr\" target=\"#b30\">[31]<\/ref> <ref type=\"bibr\" target=\"#b31\">[32]<\/ref> Bootstrap resampling was applied to the SHAP observations while keeping the fitted XGBoost model fixed."
+    },
+    {
+      "text": "For visualization in Fig. 4, observations above the 99th percentile of each movement behavior were excluded from the displayed SHAP dependence curves to reduce the influence of sparsely populated upper tails.",
+      "text_id": 53,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "For visualization in Fig. <ref type=\"figure\" target=\"#fig_3\">4<\/ref>, observations above the 99th percentile of each movement behavior were excluded from the displayed SHAP dependence curves to reduce the influence of sparsely populated upper tails."
+    },
+    {
+      "text": "Feature-importance stability was assessed across five cross-validation folds.",
+      "text_id": 54,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sex-and age-stratified (19-39, 40-59, and ≥60 years) SHAP patterns from the overall XGBoost model were additionally examined as sensitivity analyses (Supplementary Fig. S3).",
+      "text_id": 55,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Sex-and age-stratified (19-39, 40-59, and ≥60 years) SHAP patterns from the overall XGBoost model were additionally examined as sensitivity analyses (Supplementary Fig. <ref type=\"figure\" target=\"#fig_2\">S3<\/ref>)."
+    },
+    {
+      "text": "Finally, feasible 24-h compositions were evaluated using the final XGBoost model with continuous and categorical covariates fixed at median and modal values, respectively.",
+      "text_id": 56,
+      "paragraph_id": 12,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Accordingly, the resulting favorable compositions represent model-based predictions conditional on these specified covariate values and should not be interpreted as population-wide optimal movement behavior compositions.",
+      "text_id": 57,
+      "paragraph_id": 12,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Compositions with predicted CmRS values at or below the fifth-percentile cutoff were defined as model-derived favorable compositions, with ties retained. 33, 34 As a sensitivity analysis, a constrained grid search allowed each behavior to vary by ±30 min/day from a representative composition based on the observed compositional center (sleep: 460, sedentary behavior: 505, other activities: 465, and MVPA: 10 min/day), in 5-min increments, while maintaining a total of 1440 min/day and nonnegative component values.",
+      "text_id": 58,
+      "paragraph_id": 12,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Compositions with predicted CmRS values at or below the fifth-percentile cutoff were defined as model-derived favorable compositions, with ties retained. <ref type=\"bibr\" target=\"#b32\">33,<\/ref> <ref type=\"bibr\" target=\"#b33\">34<\/ref> As a sensitivity analysis, a constrained grid search allowed each behavior to vary by ±30 min/day from a representative composition based on the observed compositional center (sleep: 460, sedentary behavior: 505, other activities: 465, and MVPA: 10 min/day), in 5-min increments, while maintaining a total of 1440 min/day and nonnegative component values."
+    },
+    {
+      "text": "For calculation of the compositional center, zero values were replaced by half the minimum observed positive value.",
+      "text_id": 59,
+      "paragraph_id": 12,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For regression-based analyses, statistical significance was defined as a two-sided α < 0.05, and 95% CIs were reported where applicable.",
+      "text_id": 60,
+      "paragraph_id": 13,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "For regression-based analyses, statistical significance was defined as a two-sided α &lt; 0.05, and 95% CIs were reported where applicable."
+    },
+    {
+      "text": "Compositional analyses were conducted using R (version 4.5.3; R Foundation for Statistical Computing, Vienna, Austria) within RStudio, whereas machine-learning analyses were performed using Python (version 3.11.15) in Visual Studio Code, including XGBoost, SHAP, and grid-search procedures.",
+      "text_id": 61,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The final sample included 41,288 adults (Table 1).",
+      "text_id": 62,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "The final sample included 41,288 adults (Table <ref type=\"table\" target=\"#tab_0\">1<\/ref>)."
+    },
+    {
+      "text": "The overall 24-h movement composition was associated with CmRS (p < 0.001); greater relative sleep and MVPA were associated with lower CmRS, whereas sedentary behavior was associated with higher CmRS (Table 2).",
+      "text_id": 63,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "The overall 24-h movement composition was associated with CmRS (p &lt; 0.001); greater relative sleep and MVPA were associated with lower CmRS, whereas sedentary behavior was associated with higher CmRS (Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>)."
+    },
+    {
+      "text": "Reallocating time toward sleep or MVPA was associated with lower CmRS and toward sedentary behavior with higher CmRS (Fig. 2; Supplementary Table S3).",
+      "text_id": 64,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Reallocating time toward sleep or MVPA was associated with lower CmRS and toward sedentary behavior with higher CmRS (Fig. <ref type=\"figure\" target=\"#fig_1\">2<\/ref>; Supplementary Table <ref type=\"table\">S3<\/ref>)."
+    },
+    {
+      "text": "For 30-min reallocations, changes were -0.0060 (95% CI -0.0077 to -0.0043) for sleep, +0.0069 (0.0058 to 0.0080) for sedentary behavior, and -0.0221 (-0.0264 to -0.0178) for MVPA; other activities were not significant.",
+      "text_id": 65,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The optimized XGBoost model achieved an RMSE of 0.530, an MAE of 0.428, and an R² of 0.321 in the independent test dataset.",
+      "text_id": 66,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In benchmark analyses using the same predictor set and training/test partition, XGBoost showed better predictive performance than random forest (RMSE = 0.558, MAE = 0.439, R² = 0.249) and linear regression (RMSE = 0.573, MAE = 0.453, R² = 0.209) (Supplementary Table S4).",
+      "text_id": 67,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "In benchmark analyses using the same predictor set and training/test partition, XGBoost showed better predictive performance than random forest (RMSE = 0.558, MAE = 0.439, R² = 0.249) and linear regression (RMSE = 0.573, MAE = 0.453, R² = 0.209) (Supplementary Table <ref type=\"table\">S4<\/ref>)."
+    },
+    {
+      "text": "SHAP analyses identified age as the strongest contributor to model predictions, followed by sex, education level, survey year, and MVPA (Fig. 3).",
+      "text_id": 68,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "SHAP analyses identified age as the strongest contributor to model predictions, followed by sex, education level, survey year, and MVPA (Fig. <ref type=\"figure\" target=\"#fig_2\">3<\/ref>)."
+    },
+    {
+      "text": "However, among the four modifiable movement behaviors, MVPA exhibited the highest importance (mean absolute SHAP value = 0.029), followed by other activities (0.018), sleep duration (0.017), and sedentary behavior (0.016) (Supplementary Fig. S1).",
+      "text_id": 69,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "However, among the four modifiable movement behaviors, MVPA exhibited the highest importance (mean absolute SHAP value = 0.029), followed by other activities (0.018), sleep duration (0.017), and sedentary behavior (0.016) (Supplementary Fig. <ref type=\"figure\" target=\"#fig_0\">S1<\/ref>)."
+    },
+    {
+      "text": "Similar rankings were observed when the SHAP analysis was restricted to the four movement behaviors alone (Supplementary Fig. S1).",
+      "text_id": 70,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Similar rankings were observed when the SHAP analysis was restricted to the four movement behaviors alone (Supplementary Fig. <ref type=\"figure\" target=\"#fig_0\">S1<\/ref>)."
+    },
+    {
+      "text": "Feature importance showed high reproducibility across folds, with mean overlap, Spearman rank correlation, and Kendall's τ values of 0.85, 0.93, and 0.87, respectively (Supplementary Fig. S2).",
+      "text_id": 71,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Feature importance showed high reproducibility across folds, with mean overlap, Spearman rank correlation, and Kendall's τ values of 0.85, 0.93, and 0.87, respectively (Supplementary Fig. <ref type=\"figure\" target=\"#fig_1\">S2<\/ref>)."
+    },
+    {
+      "text": "In sensitivity analyses stratified by sex and age group, the overall SHAP-derived patterns for the movement behaviors were broadly consistent across subgroups (Supplementary Fig. S3A-H).",
+      "text_id": 72,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "In sensitivity analyses stratified by sex and age group, the overall SHAP-derived patterns for the movement behaviors were broadly consistent across subgroups (Supplementary Fig. <ref type=\"figure\" target=\"#fig_2\">S3A-H<\/ref>)."
+    },
+    {
+      "text": "Sleep showed a U-shaped pattern and sedentary behavior a monotonic positive pattern across both sexes and all age groups.",
+      "text_id": 73,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "MVPA showed a steep inverse association at lower activity levels across subgroups, although differences in the magnitude of the association emerged at higher MVPA levels, particularly across age groups.",
+      "text_id": 74,
+      "paragraph_id": 16,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nonlinear associations were observed for sleep, sedentary behavior, and MVPA (Fig. 4).",
+      "text_id": 75,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Nonlinear associations were observed for sleep, sedentary behavior, and MVPA (Fig. <ref type=\"figure\" target=\"#fig_3\">4<\/ref>)."
+    },
+    {
+      "text": "Sleep demonstrated a U-shaped association with predicted CmRS.",
+      "text_id": 76,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The lowest predicted risk was observed at approximately 425 min/day, with a model-derived favorable range extending from approximately 369 to 514 min/day (Fig. 4A).",
+      "text_id": 77,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "The lowest predicted risk was observed at approximately 425 min/day, with a model-derived favorable range extending from approximately 369 to 514 min/day (Fig. <ref type=\"figure\" target=\"#fig_3\">4A<\/ref>)."
+    },
+    {
+      "text": "Sedentary behavior showed a monotonic positive association with predicted CmRS, with a steeper increase at lower-to-moderate levels and a more gradual increase at higher levels (Fig. 4B).",
+      "text_id": 78,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Sedentary behavior showed a monotonic positive association with predicted CmRS, with a steeper increase at lower-to-moderate levels and a more gradual increase at higher levels (Fig. <ref type=\"figure\" target=\"#fig_3\">4B<\/ref>)."
+    },
+    {
+      "text": "In contrast, MVPA showed a steep inverse association with predicted CmRS at lower activity levels, with the steepest decline occurring up to approximately 15 min/day, followed by a more gradual decline at higher levels (Fig. 4C).",
+      "text_id": 79,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "In contrast, MVPA showed a steep inverse association with predicted CmRS at lower activity levels, with the steepest decline occurring up to approximately 15 min/day, followed by a more gradual decline at higher levels (Fig. <ref type=\"figure\" target=\"#fig_3\">4C<\/ref>)."
+    },
+    {
+      "text": "Associations for other activities were comparatively weak and showed a gradual inverse relation with predicted CmRS (Fig. 4D).",
+      "text_id": 80,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Associations for other activities were comparatively weak and showed a gradual inverse relation with predicted CmRS (Fig. <ref type=\"figure\" target=\"#fig_3\">4D<\/ref>)."
+    },
+    {
+      "text": "A total of 2194 participants reported MVPA ≥100 min/day, representing 6.03% of the surveyweighted population (Supplementary Table S5).",
+      "text_id": 81,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "A total of 2194 participants reported MVPA ≥100 min/day, representing 6.03% of the surveyweighted population (Supplementary Table <ref type=\"table\">S5<\/ref>)."
+    },
+    {
+      "text": "At the extremes of the full analytical sample, only 11 participants reported MVPA ≥500 min/ day (0.04% of the survey-weighted population), and 12 participants reported sedentary behavior ≤30 min/day (0.03%).",
+      "text_id": 82,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "No participants reported zero sedentary time (Supplementary Table S5).",
+      "text_id": 83,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "No participants reported zero sedentary time (Supplementary Table <ref type=\"table\">S5<\/ref>)."
+    },
+    {
+      "text": "A total of 12,730 feasible compositions were generated, of which 637 met the fifth-percentile cutoff for predicted CmRS and were classified as favorable.",
+      "text_id": 84,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One of the compositions with the lowest predicted CmRS consisted of 440 min/day of sleep, 510 min/day of sedentary behavior, 410 min/day of other activities, and 80 min/day of MVPA (predicted CmRS = -0.352) (Supplementary Table S6).",
+      "text_id": 85,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "One of the compositions with the lowest predicted CmRS consisted of 440 min/day of sleep, 510 min/day of sedentary behavior, 410 min/day of other activities, and 80 min/day of MVPA (predicted CmRS = -0.352) (Supplementary Table <ref type=\"table\">S6<\/ref>)."
+    },
+    {
+      "text": "Across all favorable compositions, median values were 450 min/day of sleep (IQR 440-470), 480 min/day of sedentary behavior (IQR 430-540), 425 min/day of other activities (IQR 385-475), and 80 min/day of MVPA (IQR 75-85), as illustrated in Supplementary Fig. S4.",
+      "text_id": 86,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Across all favorable compositions, median values were 450 min/day of sleep (IQR 440-470), 480 min/day of sedentary behavior (IQR 430-540), 425 min/day of other activities (IQR 385-475), and 80 min/day of MVPA (IQR 75-85), as illustrated in Supplementary Fig. <ref type=\"figure\" target=\"#fig_3\">S4<\/ref>."
+    },
+    {
+      "text": "To contextualize this modelderived MVPA level, the survey-weighted median MVPA in the analytical sample was 17.1 min/day, and the 90th percentile was 74.3 min/ day.",
+      "text_id": 87,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A total of 3306 participants reported ≥80 min/day of MVPA, representing 9.05% of the survey-weighted population.",
+      "text_id": 88,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, the favorable MVPA level identified by the unrestricted search was within the observed distribution but was relatively uncommon (Supplementary Table S5).",
+      "text_id": 89,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Thus, the favorable MVPA level identified by the unrestricted search was within the observed distribution but was relatively uncommon (Supplementary Table <ref type=\"table\">S5<\/ref>)."
+    },
+    {
+      "text": "In the constrained sensitivity analysis, which limited changes in each movement behavior to ±30 min/day from the representative composition, the model continued to favor greater MVPA within the permitted range.",
+      "text_id": 90,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "MVPA reached the upper boundary of the constrained range (40 min/day), while favorable values for sleep, sedentary behavior, and other activities remained within their permitted ranges (Supplementary Table S7).",
+      "text_id": 91,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "MVPA reached the upper boundary of the constrained range (40 min/day), while favorable values for sleep, sedentary behavior, and other activities remained within their permitted ranges (Supplementary Table <ref type=\"table\">S7<\/ref>)."
+    },
+    {
+      "text": "Thus, 40 min/day should not be interpreted as an estimated optimum but as the upper bound of the constrained search.",
+      "text_id": 92,
+      "paragraph_id": 17,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In this nationally representative sample of Korean adults, 24-h movement behavior composition was associated with cardiometabolic risk, with greater relative sleep and MVPA associated with lower CmRS and sedentary behavior with higher CmRS.",
+      "text_id": 93,
+      "paragraph_id": 18,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Machine-learning analyses identified nonlinear associations and model-derived favorable ranges, while grid-search analyses identified favorable 24-h compositions.",
+      "text_id": 94,
+      "paragraph_id": 18,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The observed associations are broadly consistent with previous compositional studies showing that a greater relative proportion of the 24-h day spent in sleep and MVPA is associated with more favorable cardiometabolic health, whereas sedentary behavior shows the opposite pattern. [11] [12] [13] [14] Because time-use behaviors are codependent within a finite 24-h day, compositional approaches provide a more realistic representation than conventional regression models. [11] [12] [13] [14] Among the modifiable movement behaviors, MVPA contributed most to model predictions, followed by other activities, sleep duration, and sedentary behavior.",
+      "text_id": 95,
+      "paragraph_id": 19,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "The observed associations are broadly consistent with previous compositional studies showing that a greater relative proportion of the 24-h day spent in sleep and MVPA is associated with more favorable cardiometabolic health, whereas sedentary behavior shows the opposite pattern. <ref type=\"bibr\" target=\"#b10\">[11]<\/ref> <ref type=\"bibr\" target=\"#b11\">[12]<\/ref> <ref type=\"bibr\" target=\"#b12\">[13]<\/ref> <ref type=\"bibr\" target=\"#b13\">[14]<\/ref> Because time-use behaviors are codependent within a finite 24-h day, compositional approaches provide a more realistic representation than conventional regression models. <ref type=\"bibr\" target=\"#b10\">[11]<\/ref> <ref type=\"bibr\" target=\"#b11\">[12]<\/ref> <ref type=\"bibr\" target=\"#b12\">[13]<\/ref> <ref type=\"bibr\" target=\"#b13\">[14]<\/ref> Among the modifiable movement behaviors, MVPA contributed most to model predictions, followed by other activities, sleep duration, and sedentary behavior."
+    },
+    {
+      "text": "Beyond the linear associations identified by CoDA, SHAP analyses revealed a nonlinear relation between sleep duration and predicted cardiometabolic risk.",
+      "text_id": 96,
+      "paragraph_id": 20,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Predicted CmRS was lowest at approximately 425 min/day (~7.1 h), and favorable values were observed across a broader range extending from 369 to 514 min/day.",
+      "text_id": 97,
+      "paragraph_id": 20,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This range is broadly consistent with adult sleep recommendations and prior epidemiological evidence showing U-shaped associations between sleep duration and cardiometabolic outcomes. 5, 15, 35, 36 A recent UK Biobank analysis similarly identified an optimal sleep duration of 6.4-7.8 h/day, suggesting convergence around 7 h/day despite differences in populations and outcomes. 37 Because Korean adults tend to report shorter sleep durations than several Western populations, 38 the generalizability of this model-derived range warrants further investigation.",
+      "text_id": 98,
+      "paragraph_id": 20,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "This range is broadly consistent with adult sleep recommendations and prior epidemiological evidence showing U-shaped associations between sleep duration and cardiometabolic outcomes. <ref type=\"bibr\" target=\"#b4\">5,<\/ref> <ref type=\"bibr\" target=\"#b14\">15,<\/ref> <ref type=\"bibr\" target=\"#b34\">35,<\/ref> <ref type=\"bibr\" target=\"#b35\">36<\/ref> A recent UK Biobank analysis similarly identified an optimal sleep duration of 6.4-7.8 h/day, suggesting convergence around 7 h/day despite differences in populations and outcomes. <ref type=\"bibr\" target=\"#b36\">37<\/ref> Because Korean adults tend to report shorter sleep durations than several Western populations, <ref type=\"bibr\" target=\"#b37\">38<\/ref> the generalizability of this model-derived range warrants further investigation."
+    },
+    {
+      "text": "Predicted cardiometabolic risk increased progressively with greater sedentary time, although the magnitude of increase became more gradual at higher sedentary durations.",
+      "text_id": 99,
+      "paragraph_id": 21,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This observation is consistent with previous evidence indicating that prolonged sedentary time is independently associated with obesity, dyslipidemia, insulin resistance, and cardiovascular disease risk, even after accounting for physical activity levels. 3, 6 MVPA exhibited the strongest contribution among the four movement behaviors.",
+      "text_id": 100,
+      "paragraph_id": 21,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "This observation is consistent with previous evidence indicating that prolonged sedentary time is independently associated with obesity, dyslipidemia, insulin resistance, and cardiovascular disease risk, even after accounting for physical activity levels. <ref type=\"bibr\" target=\"#b2\">3,<\/ref> <ref type=\"bibr\" target=\"#b5\">6<\/ref> MVPA exhibited the strongest contribution among the four movement behaviors."
+    },
+    {
+      "text": "This finding is consistent with the established cardiometabolic benefits of MVPA. 7 ˒ 17 The inverse association with predicted CmRS was steepest among individuals reporting very low Note: Results are presented from s urvey-weighted compositional data analysis adjusted for age, sex, survey year, household income, education, occupation, smoking status, alcohol consumption frequency, and total energy intake. β coefficients represent pivot coordinate estimates for the relative contribution of each movement behavior while accounting for the remaining behaviors within the 24-h composition.",
+      "text_id": 101,
+      "paragraph_id": 21,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "This finding is consistent with the established cardiometabolic benefits of MVPA. 7 ˒ <ref type=\"bibr\" target=\"#b16\">17<\/ref> The inverse association with predicted CmRS was steepest among individuals reporting very low Note: Results are presented from s urvey-weighted compositional data analysis adjusted for age, sex, survey year, household income, education, occupation, smoking status, alcohol consumption frequency, and total energy intake. β coefficients represent pivot coordinate estimates for the relative contribution of each movement behavior while accounting for the remaining behaviors within the 24-h composition."
+    },
+    {
+      "text": "The overall p value represents the joint significance test of the compositional model.",
+      "text_id": 102,
+      "paragraph_id": 21,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CmRS, cardiometabolic risk score; SB, sedentary behavior; MVPA, moderate-tovigorous physical activity; HDL-C, high-density lipoprotein cholesterol.",
+      "text_id": 103,
+      "paragraph_id": 21,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "MVPA levels (approximately 0-15 min/day), followed by a more gradual decline at higher activity levels.",
+      "text_id": 104,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This pattern suggests that individuals with very low MVPA may be an important target population for future physical activity interventions.",
+      "text_id": 105,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, the approximately 15-min/day transition should be interpreted as a descriptive feature of the model-derived SHAP pattern rather than a clinically established threshold or minimum effective dose.",
+      "text_id": 106,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Given the cross-sectional design, these findings do not establish the causal benefits of increasing MVPA.",
+      "text_id": 107,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Associations for other activities were weak.",
+      "text_id": 108,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Within the 24-h movement behavior framework, this residual component was intended to represent LPA and standing.",
+      "text_id": 109,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, because neither behavior was directly measured in KNHANES, the residual may also reflect reporting errors in sleep, sedentary behavior, or MVPA.",
+      "text_id": 110,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Accordingly, this component should not be interpreted as directly measured LPA or standing, and its association with predicted CmRS should be interpreted cautiously. 4, 25 The grid-search analyses further characterized model-derived favorable 24-h movement behavior compositions.",
+      "text_id": 111,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Accordingly, this component should not be interpreted as directly measured LPA or standing, and its association with predicted CmRS should be interpreted cautiously. <ref type=\"bibr\" target=\"#b3\">4,<\/ref> <ref type=\"bibr\" target=\"#b24\">25<\/ref> The grid-search analyses further characterized model-derived favorable 24-h movement behavior compositions."
+    },
+    {
+      "text": "Rather than recommending isolated behavioral targets, the grid-search approach estimated complete daily movement behavior compositions associated with lower predicted cardiometabolic risk.",
+      "text_id": 112,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Favorable compositions were generally characterized by approximately 7.5 h of sleep, 8 h of sedentary behavior, and relatively high levels of MVPA (median 80 min/day).",
+      "text_id": 113,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Interpretation of the MVPA component requires some caution.",
+      "text_id": 114,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In KNHANES, MVPA assessed using the GPAQ reflects the combined contribution of occupational, transportation-related, and leisure-time activities.",
+      "text_id": 115,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Consequently, the estimated 80 min/day should be viewed as total daily MVPA rather than structured exercise alone. 39 Moreover, this level exceeded the survey-weighted 90th percentile of MVPA in the study population, highlighting that it represents a relatively high activity level rather than a typical daily activity pattern.",
+      "text_id": 116,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Consequently, the estimated 80 min/day should be viewed as total daily MVPA rather than structured exercise alone. <ref type=\"bibr\" target=\"#b38\">39<\/ref> Moreover, this level exceeded the survey-weighted 90th percentile of MVPA in the study population, highlighting that it represents a relatively high activity level rather than a typical daily activity pattern."
+    },
+    {
+      "text": "Emerging evidence suggests that activity domain may influence health outcomes, with occupational physical activity not necessarily providing the same cardiometabolic benefits as leisure-time physical activity, a phenomenon often referred to as the \"physical activity paradox\". 40 Importantly, the relatively high MVPA level identified in the unrestricted grid search should not be interpreted as an optimal behavioral target or public-health recommendation.",
+      "text_id": 117,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Emerging evidence suggests that activity domain may influence health outcomes, with occupational physical activity not necessarily providing the same cardiometabolic benefits as leisure-time physical activity, a phenomenon often referred to as the \"physical activity paradox\". <ref type=\"bibr\" target=\"#b39\">40<\/ref> Importantly, the relatively high MVPA level identified in the unrestricted grid search should not be interpreted as an optimal behavioral target or public-health recommendation."
+    },
+    {
+      "text": "To examine whether this pattern persisted under more practically constrained behavioral changes, we additionally restricted each movement-behavior component to vary by no more than 30 min/day from a representative composition.",
+      "text_id": 118,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Under these constraints, MVPA consistently reached the upper end of the permitted range, whereas the other movement behaviors remained within their respective bounds.",
+      "text_id": 119,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, both the unrestricted and constrained analyses favored greater MVPA within their respective search spaces, while the exact model-derived value depended on the range of behavioral changes permitted.",
+      "text_id": 120,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These findings should therefore be interpreted as model-derived patterns of complete 24-h movement compositions rather than specific behavioral recommendations.",
+      "text_id": 121,
+      "paragraph_id": 22,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Several strengths of this study should be highlighted.",
+      "text_id": 122,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The large nationally representative sample provides population-level evidence from more than 40,000 Korean adults, complementing device-based studies that often involve smaller samples. 9, 12 A key methodological strength was the integration of three complementary approaches.",
+      "text_id": 123,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "The large nationally representative sample provides population-level evidence from more than 40,000 Korean adults, complementing device-based studies that often involve smaller samples. <ref type=\"bibr\" target=\"#b8\">9,<\/ref> <ref type=\"bibr\" target=\"#b11\">12<\/ref> A key methodological strength was the integration of three complementary approaches."
+    },
+    {
+      "text": "CoDA quantified relative associations and time-reallocation effects within the fixed 24-h day, 8, 28 XGBoost and SHAP characterized nonlinear patterns and  model-derived favorable ranges, and the grid-search procedure identified complete model-derived favorable 24-h compositions. 17, 19, 21 The consistency of SHAP-derived feature importance rankings across cross-validation folds supports the robustness of the model-based findings, with mean overlap, Spearman's ρ, and Kendall's τ values of 0.85, 0.93, and 0.87, respectively.",
+      "text_id": 124,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "CoDA quantified relative associations and time-reallocation effects within the fixed 24-h day, <ref type=\"bibr\" target=\"#b7\">8,<\/ref> <ref type=\"bibr\" target=\"#b27\">28<\/ref> XGBoost and SHAP characterized nonlinear patterns and  model-derived favorable ranges, and the grid-search procedure identified complete model-derived favorable 24-h compositions. <ref type=\"bibr\" target=\"#b16\">17,<\/ref> <ref type=\"bibr\" target=\"#b18\">19,<\/ref> <ref type=\"bibr\" target=\"#b20\">21<\/ref> The consistency of SHAP-derived feature importance rankings across cross-validation folds supports the robustness of the model-based findings, with mean overlap, Spearman's ρ, and Kendall's τ values of 0.85, 0.93, and 0.87, respectively."
+    },
+    {
+      "text": "The overall nonlinear patterns were also broadly consistent across age and sex strata, indicating that the principal model-derived associations were generally maintained across demographic subgroups, although some heterogeneity in the magnitude of the MVPA association was observed across age groups.",
+      "text_id": 125,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Consistent conclusions obtained from both CoDA and SHAP analyses provide complementary evidence supporting the observed associations.",
+      "text_id": 126,
+      "paragraph_id": 23,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Several limitations should be acknowledged.",
+      "text_id": 127,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "First, the crosssectional design precludes causal inference; longitudinal and intervention studies are needed to confirm these associations.",
+      "text_id": 128,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Second, sleep duration, sedentary behavior, and physical activity were assessed using self-reported questionnaires and are therefore subject to recall bias and measurement error. 23, 41 In addition, because physical activity data in KNHANES were derived from the GPAQ, direct assessment of LPA was not available. 23 Consequently, the residual \"other activities\" component was intended to represent LPA and standing, although neither behavior was directly measured.",
+      "text_id": 129,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Second, sleep duration, sedentary behavior, and physical activity were assessed using self-reported questionnaires and are therefore subject to recall bias and measurement error. <ref type=\"bibr\" target=\"#b22\">23,<\/ref> <ref type=\"bibr\" target=\"#b40\">41<\/ref> In addition, because physical activity data in KNHANES were derived from the GPAQ, direct assessment of LPA was not available. <ref type=\"bibr\" target=\"#b22\">23<\/ref> Consequently, the residual \"other activities\" component was intended to represent LPA and standing, although neither behavior was directly measured."
+    },
+    {
+      "text": "Because this component was derived from self-reported durations, it may also reflect measurement error in the reported movement behaviors.",
+      "text_id": 130,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, sleep was represented by duration only, and other dimensions such as sleep quality, timing, and regularity were not considered. 5, 42 Future studies incorporating device-based assessments may provide more precise estimates of 24-h movement behaviors. 9, 16 Third, the model-derived ranges and favorable compositions were obtained from the XGBoost model and should not be interpreted as universally applicable recommendations.",
+      "text_id": 131,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Furthermore, sleep was represented by duration only, and other dimensions such as sleep quality, timing, and regularity were not considered. <ref type=\"bibr\" target=\"#b4\">5,<\/ref> <ref type=\"bibr\" target=\"#b41\">42<\/ref> Future studies incorporating device-based assessments may provide more precise estimates of 24-h movement behaviors. <ref type=\"bibr\" target=\"#b8\">9,<\/ref> <ref type=\"bibr\" target=\"#b15\">16<\/ref> Third, the model-derived ranges and favorable compositions were obtained from the XGBoost model and should not be interpreted as universally applicable recommendations."
+    },
+    {
+      "text": "External validation is needed before clinical or public-health application.",
+      "text_id": 132,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, the bootstrap confidence intervals for the SHAP dependence curves were obtained with the fitted XGBoost model held fixed and therefore did not account for uncertainty arising from model fitting or hyperparameter selection.",
+      "text_id": 133,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "SHAP patterns at the extremes of the observed movement-behavior distributions should also be interpreted cautiously because relatively few participants contributed data at these levels.",
+      "text_id": 134,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Moreover, because survey weights were not incorporated into the machine-learning models, these estimates reflect patterns within the observed sample rather than national population estimates.",
+      "text_id": 135,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Finally, unmeasured biological, behavioral, and environmental factors may contribute to residual confounding and limit model performance.",
+      "text_id": 136,
+      "paragraph_id": 24,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In conclusion, 24-h movement behavior composition was significantly associated with cardiometabolic risk in Korean adults.",
+      "text_id": 137,
+      "paragraph_id": 25,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Greater relative sleep and MVPA and lower sedentary behavior were associated with more favorable cardiometabolic health profiles.",
+      "text_id": 138,
+      "paragraph_id": 25,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Explainable machine-learning analyses further suggested nonlinear associations and identified model-derived favorable ranges and daily movement behavior compositions that warrant evaluation in longitudinal and intervention studies.",
+      "text_id": 139,
+      "paragraph_id": 25,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The datasets analyzed during the current study are available from the Korea National Health and Nutrition Examination Survey (KNHANES) upon application to and approval by the Korea Disease Control and Prevention Agency.",
+      "text_id": 140,
+      "paragraph_id": 26,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The analytic code used in this study is available from the corresponding author on reasonable request.",
+      "text_id": 141,
+      "paragraph_id": 26,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors acknowledge the support of the FSU-SKKU Collaborative Research Program facilitated by the Anne Spencer Daves College of Education, Health, and Human Sciences at Florida State University (FSU) and the College of Sport Science at Sungkyunkwan University (SKKU).",
+      "text_id": 142,
+      "paragraph_id": 27,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "The authors acknowledge the support of the <rs type=\"programName\">FSU-SKKU Collaborative Research Program<\/rs> facilitated by the <rs type=\"funder\">Anne Spencer Daves College of Education, Health<\/rs>, and <rs type=\"person\">Human Sciences<\/rs> at <rs type=\"affiliation\">Florida State University (FSU<\/rs>) and the <rs type=\"funder\">College of Sport Science at Sungkyunkwan University<\/rs> (SKKU)."
+    },
+    {
+      "text": "J.S. and J.C.W. were supported by the FSU-SKKU Collaborative Research Program.",
+      "text_id": 143,
+      "paragraph_id": 28,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "J.S. and J.C.W. were supported by the <rs type=\"funder\">FSU-SKKU<\/rs> <rs type=\"programName\">Collaborative Research Program<\/rs>."
+    },
+    {
+      "text": "J.C.W. was also supported by the National Institutes of Health [K01HL160772].",
+      "text_id": 144,
+      "paragraph_id": 28,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "J.C.W. was also supported by the <rs type=\"funder\">National Institutes of Health<\/rs> [<rs type=\"grantNumber\">K01HL160772<\/rs>]."
+    },
+    {
+      "text": "The funders had no role in the design of the study; collection, analysis, or interpretation of data; writing of the manuscript; or decision to submit the manuscript for publication.",
+      "text_id": 145,
+      "paragraph_id": 28,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Jaehoon Seol and Jinkyung Cho declare no competing interests.",
+      "text_id": 146,
+      "paragraph_id": 29,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Joseph C. Watso provides consulting services through Watso Health LLC.",
+      "text_id": 147,
+      "paragraph_id": 29,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "CRediT authorship contribution statement J.S.: Conceptualization, Methodology, Formal analysis, Data curation, Visualization, Writing-original draft.",
+      "text_id": 148,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "J.C.: Interpretation of data, Validation, Writing-review & editing.",
+      "text_id": 149,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "J.C.: Interpretation of data, Validation, Writing-review &amp; editing."
+    },
+    {
+      "text": "J.C.W.: Conceptualization, Supervision, Interpretation of data, Writing-review & editing.",
+      "text_id": 150,
+      "paragraph_id": 30,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "J.C.W.: Conceptualization, Supervision, Interpretation of data, Writing-review &amp; editing."
+    },
+    {
+      "text": "All authors read and approved the final manuscript.",
+      "text_id": 151,
+      "paragraph_id": 31,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This cross-sectional study used data from the Korea National Health and Nutrition Examination Survey (KNHANES) collected between 2016 and 2024.",
+      "text_id": 152,
+      "paragraph_id": 32,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All procedures were performed in accordance with the ethical standards of the relevant institutional and/or national research committee and with the 1964 Declaration of Helsinki and its later amendments or comparable ethical standards.",
+      "text_id": 153,
+      "paragraph_id": 32,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The KNHANES protocol was approved by the Institutional Review Board of the Korea Disease Control and Prevention Agency (2018-01-03-P-A, 2018-01-03-C-A, 2018-01-03-2C-A, 2018-01-03-5C-A, 2018-01-03-4C-A, 2022-11-16-R-A, and 2022-11-16-R-03), whereas the 2016 and 2017 surveys were exempt from IRB review according to the Bioethics and Safety Act.",
+      "text_id": 154,
+      "paragraph_id": 32,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants provided written informed consent.",
+      "text_id": 155,
+      "paragraph_id": 32,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Supplementary data to this article can be found online at https://doi.org/10.1016/j.jesf.2026.200550.",
+      "text_id": 156,
+      "paragraph_id": 33,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "Supplementary data to this article can be found online at <ref type=\"url\" target=\"https://doi.org/10.1016/j.jesf.2026.200550\">https://doi.  org/10.1016/j.jesf.2026.200550<\/ref>."
+    },
+    {
+      "text": "Fig 1.",
+      "text_id": 157,
+      "paragraph_id": 34,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participant selection flow diagram.",
+      "text_id": 158,
+      "paragraph_id": 34,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 2.",
+      "text_id": 159,
+      "paragraph_id": 35,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Time reallocation and predicted cardiometabolic risk.",
+      "text_id": 160,
+      "paragraph_id": 35,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Changes in predicted cardiometabolic risk score (CmRS) were estimated using compositional isotemporal substitution models.",
+      "text_id": 161,
+      "paragraph_id": 35,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lines represent the predicted change in CmRS associated with reallocating 5-30 min/day to sleep, sedentary behavior, other activities, or moderate-to-vigorous physical activity (MVPA), relative to the reference composition.",
+      "text_id": 162,
+      "paragraph_id": 35,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Shaded areas indicate 95% confidence intervals.",
+      "text_id": 163,
+      "paragraph_id": 35,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 3.",
+      "text_id": 164,
+      "paragraph_id": 36,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "SHAP feature importance and summary plots for the XGBoost model predicting cardiometabolic risk score (CmRS).",
+      "text_id": 165,
+      "paragraph_id": 36,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "(A) Mean absolute SHAP values indicating the overall contribution of each predictor to model output.",
+      "text_id": 166,
+      "paragraph_id": 36,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Larger values indicate greater influence on predicted cardiometabolic risk.",
+      "text_id": 167,
+      "paragraph_id": 36,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "(B) SHAP summary plot showing the distribution of SHAP values for each predictor.",
+      "text_id": 168,
+      "paragraph_id": 36,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Each point represents one participant included in the SHAP analysis sample.",
+      "text_id": 169,
+      "paragraph_id": 36,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Color indicates the relative feature value (blue = low, red = high).",
+      "text_id": 170,
+      "paragraph_id": 36,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Positive SHAP values indicate higher predicted cardiometabolic risk, whereas negative values indicate lower predicted risk.",
+      "text_id": 171,
+      "paragraph_id": 36,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 4.",
+      "text_id": 172,
+      "paragraph_id": 37,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nonlinear associations between individual movement behaviors and predicted cardiometabolic risk.",
+      "text_id": 173,
+      "paragraph_id": 37,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "SHAP values for sleep duration, sedentary behavior, other activities, and moderate-to-vigorous physical activity (MVPA) are plotted against observed values.",
+      "text_id": 174,
+      "paragraph_id": 37,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Red lines represent LOWESS-smoothed trends estimated from SHAP values.",
+      "text_id": 175,
+      "paragraph_id": 37,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Shaded areas indicate bootstrap 95% confidence intervals (300 resamples).",
+      "text_id": 176,
+      "paragraph_id": 37,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Positive SHAP values indicate higher predicted cardiometabolic risk, whereas negative SHAP values indicate lower predicted risk.",
+      "text_id": 177,
+      "paragraph_id": 37,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Vertical dashed lines indicate model-derived favorable-range boundaries for sleep or an approximate transition point in the SHAP pattern for MVPA; these should not be interpreted as clinical thresholds.",
+      "text_id": 178,
+      "paragraph_id": 37,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For visualization, observations above the 99th percentile of each movement behavior were omitted from the displayed curves.",
+      "text_id": 179,
+      "paragraph_id": 37,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bootstrap confidence intervals represent uncertainty in the smoothed SHAP patterns conditional on the fitted model, rather than confidence intervals for epidemiological associations.",
+      "text_id": 180,
+      "paragraph_id": 37,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Characteristics of the study participants (n = 41,288).",
+      "text_id": 181,
+      "paragraph_id": 38,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Associations of relative 24-h movement behaviors with cardiometabolic risk.",
+      "text_id": 182,
+      "paragraph_id": 39,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "GBD 2023 Causes of Death Collaborators. Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023. Lancet. 2025;406 (10513):1811-1872. https://doi.org/10.1016/S0140-6736(25)01917-8.",
+      "text_id": 183,
+      "paragraph_id": 40,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Noubiap JJ, Nansseu JR, Nyaga UF, et al. Worldwide trends in metabolic syndrome from 2000 to 2023: a systematic review and modelling analysis. Nat Commun. 2026; 17:573. https://doi.org/10.1038/s41467-025-67268-5.",
+      "text_id": 184,
+      "paragraph_id": 41,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Franssen WMA, Nieste I, Verboven K, et al. Sedentary behaviour and cardiometabolic health: integrating the potential underlying molecular health aspects. Metabolism. 2025;170, 156320. https://doi.org/10.1016/j.metabol.2025.156320.",
+      "text_id": 185,
+      "paragraph_id": 42,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Zhang Y, Zhang J, Yue J, et al. Reallocating 24-hour movement behaviors and cardiometabolic health in adults: a systematic review and meta-analysis. Arch Public Health. 2026;84(1):92. https://doi.org/10.1186/s13690-026-01885-4.",
+      "text_id": 186,
+      "paragraph_id": 43,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "St-Onge MP, Grandner MA, Brown D, et al. Sleep duration and quality: impact on lifestyle behaviors and cardiometabolic health: a scientific statement From the American heart association. Circulation. 2016;134(18):e367-e386. https://doi.org/10.1161/CIR.0000000000000444.",
+      "text_id": 187,
+      "paragraph_id": 44,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Biswas A, Oh PI, Faulkner GE, et al. Sedentary time and its association with risk for disease incidence, mortality, and hospitalization in adults: a systematic review and meta-analysis. Ann Intern Med. 2015;162(2):123-132. https://doi.org/10.7326/M14-1651.",
+      "text_id": 188,
+      "paragraph_id": 45,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Booth FW, Roberts CK, Laye MJ. Lack of exercise is a major cause of chronic diseases. Compr Physiol. 2012;2(2):1143-1211. https://doi.org/10.1002/cphy.c110025.",
+      "text_id": 189,
+      "paragraph_id": 46,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Dumuid D, Stanford TE, Martin-Fernández JA, et al. Compositional data analysis for physical activity, sedentary time and sleep research. Stat Methods Med Res. 2018;27 (12):3726-3738. https://doi.org/10.1177/0962280217710835.",
+      "text_id": 190,
+      "paragraph_id": 47,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Chaput JP, Carson V, Gray CE, et al. Importance of all movement behaviors in a 24 hour period for overall health. Int J Environ Res Publ Health. 2014;11(12): 12575-12581. https://doi.org/10.3390/ijerph111212575.",
+      "text_id": 191,
+      "paragraph_id": 48,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Mekary RA, Willett WC, Hu FB, et al. Isotemporal substitution paradigm for physical activity epidemiology and weight change. Am J Epidemiol. 2009;170(4):519-527. https://doi.org/10.1093/aje/kwp163.",
+      "text_id": 192,
+      "paragraph_id": 49,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Chastin SF, Palarea-Albaladejo J, Dontje ML, et al. Combined effects of time spent in physical activity, sedentary behaviors and sleep on obesity and cardio-metabolic health markers: a novel compositional data analysis approach. PLoS One. 2015;10 (10), e0139984. https://doi.org/10.1371/journal.pone.0139984.",
+      "text_id": 193,
+      "paragraph_id": 50,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Brakenridge CJ, Koster A, de Galan BE, et al. Associations of 24 h time-use compositions of sitting, standing, physical activity and sleeping with optimal cardiometabolic risk and glycaemic control: the Maastricht Study. Diabetologia. 2024;67(7):1356-1367. https://doi.org/10.1007/s00125-024-06145-0.",
+      "text_id": 194,
+      "paragraph_id": 51,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "McGregor DE, Palarea-Albaladejo J, Dall PM, et al. Compositional analysis of the association between mortality and 24-hour movement behaviour from NHANES. Eur J Prev Cardiol. 2021;28(7):791-798. https://doi.org/10.1177/2047487319867783.",
+      "text_id": 195,
+      "paragraph_id": 52,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cai Y, Lin Z, Liang M, et al. Cardiovascular disease, 24-h movement behaviors and all-cause mortality: a compositional mediation analysis based on a prospective cohort. J Exerc Sci Fit. 2026;24(2), 200457. https://doi.org/10.1016/j.jesf.2026.200457.",
+      "text_id": 196,
+      "paragraph_id": 53,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cappuccio FP, D'Elia L, Strazzullo P, et al. Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies. Sleep. 2010;33(5): 585-592. https://doi.org/10.1093/sleep/33.5.585.",
+      "text_id": 197,
+      "paragraph_id": 54,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ekelund U, Tarp J, Steene-Johannessen J, et al. Dose-response associations between accelerometry measured physical activity and sedentary time and all cause mortality: systematic review and harmonised meta-analysis. Br Med J. 2019;366, l4570. https://doi.org/10.1136/bmj.l4570.",
+      "text_id": 198,
+      "paragraph_id": 55,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Arem H, Moore SC, Patel A, et al. Leisure time physical activity and mortality: a detailed pooled analysis of the dose-response relationship. JAMA Intern Med. 2015; 175(6):959-967. https://doi.org/10.1001/jamainternmed.2015.0533.",
+      "text_id": 199,
+      "paragraph_id": 56,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Beam AL, Kohane IS. Big data and machine learning in health care. JAMA. 2018;319 (13):1317-1318. https://doi.org/10.1001/jama.2017.18391.",
+      "text_id": 200,
+      "paragraph_id": 57,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Rajkomar A, Dean J, Kohane I. Machine learning in medicine. N Engl J Med. 2019; 380(14):1347-1358. https://doi.org/10.1056/NEJMra1814259.",
+      "text_id": 201,
+      "paragraph_id": 58,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Chen T, Guestrin C. XGBoost: a scalable tree boosting system. In: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Association for Computing Machinery; 2016:785-794. https://doi.org/10.1145/2939672.2939785.",
+      "text_id": 202,
+      "paragraph_id": 59,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lundberg SM, Lee SI. A unified approach to interpreting model predictions. In: Guyon I, Luxburg UV, Bengio S, et al., eds. Advances in Neural Information Processing Systems 30 (NIPS 2017). Curran Associates Inc; 2017:4765-4774.",
+      "text_id": 203,
+      "paragraph_id": 60,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kweon S, Kim Y, Jang MJ, et al. Data resource profile: the Korea National Health and Nutrition Examination Survey (KNHANES). Int J Epidemiol. 2014;43(1):69-77. https://doi.org/10.1093/ije/dyt228.",
+      "text_id": 204,
+      "paragraph_id": 61,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Armstrong T, Bull F. Development of the World Health Organization Global Physical Activity Questionnaire (GPAQ). J Public Health. 2006;14(2):66-70. https://doi.org/10.1007/s10389-006-0024-x.",
+      "text_id": 205,
+      "paragraph_id": 62,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wijndaele K, Duvigneaud N, Matton L, et al. Sedentary behaviour, physical activity and a continuous metabolic syndrome risk score in adults. Eur J Clin Nutr. 2009;63 (3):421-429. https://doi.org/10.1038/sj.ejcn.1602944.",
+      "text_id": 206,
+      "paragraph_id": 63,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kitano N, Kai Y, Jindo T, et al. Association of domain-specific physical activity and sedentary behavior with cardiometabolic health among office workers. Scand J Med Sci Sports. 2022;32(8):1224-1235. https://doi.org/10.1111/sms.14165.",
+      "text_id": 207,
+      "paragraph_id": 64,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Martín-Fernández JA, Barceló-Vidal C, Pawlowsky-Glahn V. Dealing with zeros and missing values in compositional data sets using nonparametric imputation. Math Geol. 2003;35(3):253-278. https://doi.org/10.1023/A:1023866030544.",
+      "text_id": 208,
+      "paragraph_id": 65,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Egozcue JJ, Pawlowsky-Glahn V, Mateu-Figueras G, et al. Isometric logratio transformations for compositional data analysis. Math Geol. 2003;35(3):279-300. https://doi.org/10.1023/A:1023818214614.",
+      "text_id": 209,
+      "paragraph_id": 66,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Dumuid D, Pedišić Ž, Stanford TE, et al. The compositional isotemporal substitution model: a method for estimating changes in a health outcome for reallocation of time between sleep, physical activity and sedentary behaviour. Stat Methods Med Res. 2019;28(3):846-857. https://doi.org/10.1177/0962280217737805.",
+      "text_id": 210,
+      "paragraph_id": 67,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Akiba T, Sano S, Yanase T, et al. Optuna: a next-generation hyperparameter optimization framework. In: Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Association for Computing Machinery; 2019:2623-2631. https://doi.org/10.1145/3292500.3330701.",
+      "text_id": 211,
+      "paragraph_id": 68,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cleveland WS. Robust locally weighted regression and smoothing scatterplots. J Am Stat Assoc. 1979;74(368):829-836. https://doi.org/10.1080/01621459.1979.10481038.",
+      "text_id": 212,
+      "paragraph_id": 69,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Huang Q, Zheng L, Cai R, et al. Machine learning-based time-to-event survival analysis in pediatric patients with severe sepsis. Front Pediatr. 2025;13, 1688416. https://doi.org/10.3389/fped.2025.1688416. Published 2025 Oct 23.",
+      "text_id": 213,
+      "paragraph_id": 70,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ding W, Fang C, Shi F, et al. NHANES-Derived machine learning model for early identification of frailty risk in CKM: optimizing resource allocation through predictive analytics. Cardiovasc Ther. 2026;2026(1), e7296443. https://doi.org/10.1155/cdr/7296443.",
+      "text_id": 214,
+      "paragraph_id": 71,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Dumuid D, Simm P, Wake M, et al. The \"Goldilocks Day\" for children's Skeletal Health: Compositional Data Analysis of 24-Hour Activity Behaviors. J Bone Miner Res. 2020;35(12):2393-2403. https://doi.org/10.1002/jbmr.4143.",
+      "text_id": 215,
+      "paragraph_id": 72,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wang X, Zhang X, Yu JJ, et al. The Goldilocks day for preschoolers' health outcomes: a compositional data analysis of 24-H movement behaviors on weekdays and weekends. J Exerc Sci Fit. 2026;24(1), 100425. https://doi.org/10.1016/j.jesf.2025.11.004.",
+      "text_id": 216,
+      "paragraph_id": 73,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Watson NF, Badr MS, Belenky G, et al. Recommended amount of sleep for a healthy adult: a joint consensus statement of the American academy of sleep medicine and sleep research society. Sleep. 2015;38(6):843-844. https://doi.org/10.5665/sleep.4716.",
+      "text_id": 217,
+      "paragraph_id": 74,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hirshkowitz M, Whiton K, Albert SM, et al. National Sleep Foundation's sleep time duration recommendations: methodology and results summary. Sleep Health. 2015;1 (1):40-43. https://doi.org/10.1016/j.sleh.2014.12.010.",
+      "text_id": 218,
+      "paragraph_id": 75,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Multi Consortium, O'Toole CK, Song Z, et al. Sleep chart of biological ageing clocks in middle and late life. Nature. 2026;13. https://doi.org/10.1038/s41586-026-10524-5. Published online May.",
+      "text_id": 219,
+      "paragraph_id": 76,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Shin D, Hur J, Cho KH, et al. Trends of self-reported sleep duration in Korean adults: results from the Korea National Health and Nutrition Examination Survey 2007- 2015. Sleep Med. 2018;52:103-106. https://doi.org/10.1016/j.sleep.2018.08.008.",
+      "text_id": 220,
+      "paragraph_id": 77,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Strain T, Wijndaele K, Garcia L, et al. Levels of domain-specific physical activity at work, in the household, for travel and for leisure among 327,789 adults from 104 countries. Br J Sports Med. 2020;54(24):1488-1497. https://doi.org/10.1136/bjsports-2020-102601.",
+      "text_id": 221,
+      "paragraph_id": 78,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Holtermann A, Krause N, van der Beek AJ, et al. The physical activity paradox: six reasons why occupational physical activity (OPA) does not confer the cardiovascular health benefits that leisure time physical activity does. Br J Sports Med. 2018;52(3): 149-150. https://doi.org/10.1136/bjsports-2017-097965.",
+      "text_id": 222,
+      "paragraph_id": 79,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cleland CL, Hunter RF, Kee F, et al. Validity of the global physical activity questionnaire (GPAQ) in assessing levels and change in moderate-vigorous physical activity and sedentary behaviour. BMC Public Health. 2014;14:1255. https://doi.org/10.1186/1471-2458-14-1255.",
+      "text_id": 223,
+      "paragraph_id": 80,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Chaput JP, Dutil C, Featherstone R, et al. Sleep timing, sleep consistency, and health in adults: a systematic review. Appl Physiol Nutr Metab. 2020;45(10):S232-S247. https://doi.org/10.1139/apnm-2020-0032.",
+      "text_id": 224,
+      "paragraph_id": 81,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Study design and participants",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Movement behaviors",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.3. Cardiometabolic health",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.4. Covariates",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.5. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "5. Conclusions",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "Data access statement",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "Acknowledgements",
+      "parent_section_id": null,
+      "section_type": "acknowledgement",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "Funding statement",
+      "parent_section_id": null,
+      "section_type": "funding",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "Declaration of conflicts of interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "Ethics approval statement",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "Appendix A. Supplementary data",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "Fig 1.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "Fig 2.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "Fig 3.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Fig 4.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 24,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [
+    {
+      "href": "https://doi.org/10.1016/j.jesf.2026.200550",
+      "link_text": null,
+      "text_id": 156
+    }
+  ],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "10.1016/S0140-6736(25)01917-8",
+      "title": "Global burden of 292 causes of death in 204 countries and territories and 660 subnational locations, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023",
+      "authors": "",
+      "editors": "",
+      "publisher": "GBD 2023 Causes of Death Collaborators",
+      "year": 2025,
+      "volume": "406",
+      "issue": "",
+      "first_page": "1811",
+      "last_page": "1872",
+      "container": "Lancet",
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 183
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1038/s41467-025-67268-5",
+      "title": "Worldwide trends in metabolic syndrome from 2000 to 2023: a systematic review and modelling analysis",
+      "authors": "Noubiap, J J; Nansseu, J R; Nyaga, U F",
+      "editors": "",
+      "publisher": "",
+      "year": 2026,
+      "volume": "17",
+      "issue": "",
+      "first_page": "573",
+      "last_page": null,
+      "container": "Nat Commun",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 184
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.metabol.2025.156320",
+      "title": "Sedentary behaviour and cardiometabolic health: integrating the potential underlying molecular health aspects",
+      "authors": "Franssen, Wma; Nieste, I; Verboven, K",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "170",
+      "issue": "",
+      "first_page": "156320",
+      "last_page": null,
+      "container": "Metabolism",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 185
+    },
+    {
+      "bib_type": "book",
+      "doi": "10.1186/s13690-026-01885-4",
+      "title": "Reallocating 24-hour movement behaviors and cardiometabolic health in adults: a systematic review and meta-analysis",
+      "authors": "Zhang, Y; Zhang, J; Yue, J",
+      "editors": "",
+      "publisher": "Arch Public Health",
+      "year": 2026,
+      "volume": "84",
+      "issue": "",
+      "first_page": "92",
+      "last_page": null,
+      "container": null,
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 186
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1161/CIR.0000000000000444",
+      "title": "Sleep duration and quality: impact on lifestyle behaviors and cardiometabolic health: a scientific statement From the American heart association",
+      "authors": "St-Onge, M P; Grandner, M A; Brown, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "134",
+      "issue": "18",
+      "first_page": "367",
+      "last_page": "e386",
+      "container": "Circulation",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 187
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.7326/M14-1651",
+      "title": "Sedentary time and its association with risk for disease incidence, mortality, and hospitalization in adults: a systematic review and meta-analysis",
+      "authors": "Biswas, A; Oh, P I; Faulkner, G E",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "162",
+      "issue": "2",
+      "first_page": "123",
+      "last_page": "132",
+      "container": "Ann Intern Med",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 188
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1002/cphy.c110025",
+      "title": "Lack of exercise is a major cause of chronic diseases",
+      "authors": "Booth, F W; Roberts, C K; Laye, M J",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "2",
+      "issue": "2",
+      "first_page": "1143",
+      "last_page": "1211",
+      "container": "Compr Physiol",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 189
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/0962280217710835",
+      "title": "Compositional data analysis for physical activity, sedentary time and sleep research",
+      "authors": "Dumuid, D; Stanford, T E; Fernández, Martin -; , J A",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "27",
+      "issue": "12",
+      "first_page": "3726",
+      "last_page": "3738",
+      "container": "Stat Methods Med Res",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 190
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/ijerph111212575",
+      "title": "Importance of all movement behaviors in a 24 hour period for overall health",
+      "authors": "Chaput, J P; Carson, V; Gray, C E",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "11",
+      "issue": "12",
+      "first_page": "12575",
+      "last_page": "12581",
+      "container": "Int J Environ Res Publ Health",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 191
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1093/aje/kwp163",
+      "title": "Isotemporal substitution paradigm for physical activity epidemiology and weight change",
+      "authors": "Mekary, R A; Willett, W C; Hu, F B",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "170",
+      "issue": "4",
+      "first_page": "519",
+      "last_page": "527",
+      "container": "Am J Epidemiol",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 192
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1371/journal.pone.0139984",
+      "title": "Combined effects of time spent in physical activity, sedentary behaviors and sleep on obesity and cardio-metabolic health markers: a novel compositional data analysis approach",
+      "authors": "Chastin, S F; Palarea-Albaladejo, J; Dontje, M L",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "10",
+      "issue": "10",
+      "first_page": "139984",
+      "last_page": null,
+      "container": "PLoS One",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 193
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s00125-024-06145-0",
+      "title": "Associations of 24 h time-use compositions of sitting, standing, physical activity and sleeping with optimal cardiometabolic risk and glycaemic control: the Maastricht Study",
+      "authors": "Brakenridge, C J; Koster, A; De Galan, B E",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "67",
+      "issue": "7",
+      "first_page": "1356",
+      "last_page": "1367",
+      "container": "Diabetologia",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 194
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/2047487319867783",
+      "title": "Compositional analysis of the association between mortality and 24-hour movement behaviour from NHANES",
+      "authors": "Mcgregor, D E; Palarea-Albaladejo, J; Dall, P M",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "28",
+      "issue": "7",
+      "first_page": "791",
+      "last_page": "798",
+      "container": "Eur J Prev Cardiol",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 195
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jesf.2026.200457",
+      "title": "Cardiovascular disease, 24-h movement behaviors and all-cause mortality: a compositional mediation analysis based on a prospective cohort",
+      "authors": "Cai, Y; Lin, Z; Liang, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2026,
+      "volume": "24",
+      "issue": "2",
+      "first_page": null,
+      "last_page": null,
+      "container": "J Exerc Sci Fit",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 196
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1093/sleep/33.5.585",
+      "title": "Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies",
+      "authors": "Cappuccio, F P; Elia, D'; Strazzullo, L; , P",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "33",
+      "issue": "5",
+      "first_page": "585",
+      "last_page": "592",
+      "container": "Sleep",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 197
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bmj.l4570",
+      "title": "Dose-response associations between accelerometry measured physical activity and sedentary time and all cause mortality: systematic review and harmonised meta-analysis",
+      "authors": "Ekelund, U; Tarp, J; Steene-Johannessen, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "366",
+      "issue": "",
+      "first_page": "4570",
+      "last_page": null,
+      "container": "Br Med J",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 198
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1001/jamainternmed.2015.0533",
+      "title": "Leisure time physical activity and mortality: a detailed pooled analysis of the dose-response relationship",
+      "authors": "Arem, H; Moore, S C; Patel, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "175",
+      "issue": "6",
+      "first_page": "959",
+      "last_page": "967",
+      "container": "JAMA Intern Med",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 199
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1001/jama.2017.18391",
+      "title": "Big data and machine learning in health care",
+      "authors": "Beam, A L; Kohane, I S",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "319",
+      "issue": "13",
+      "first_page": "1317",
+      "last_page": "1318",
+      "container": "JAMA",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 200
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1056/NEJMra1814259",
+      "title": "Machine learning in medicine",
+      "authors": "Rajkomar, A; Dean, J; Kohane, I",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "380",
+      "issue": "14",
+      "first_page": "1347",
+      "last_page": "1358",
+      "container": "N Engl J Med",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 201
+    },
+    {
+      "bib_type": "incollection",
+      "doi": "10.1145/2939672.2939785",
+      "title": "XGBoost: a scalable tree boosting system",
+      "authors": "Chen, T; Guestrin, C",
+      "editors": "",
+      "publisher": "Association for Computing Machinery",
+      "year": null,
+      "volume": "2016",
+      "issue": "",
+      "first_page": "785",
+      "last_page": "794",
+      "container": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+      "bib_id": 19,
+      "year_suffix": null,
+      "text_id": 202
+    },
+    {
+      "bib_type": "incollection",
+      "doi": "",
+      "title": "A unified approach to interpreting model predictions",
+      "authors": "Lundberg, S M; Lee, S I",
+      "editors": "Bengio, S",
+      "publisher": "Curran Associates Inc",
+      "year": 2017,
+      "volume": "30",
+      "issue": "",
+      "first_page": "4765",
+      "last_page": "4774",
+      "container": "Advances in Neural Information Processing Systems",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 203
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1093/ije/dyt228",
+      "title": "Data resource profile: the Korea National Health and Nutrition Examination Survey (KNHANES)",
+      "authors": "Kweon, S; Kim, Y; Jang, M J",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "43",
+      "issue": "1",
+      "first_page": "69",
+      "last_page": "77",
+      "container": "Int J Epidemiol",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 204
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1007/s10389-006-0024-x",
+      "title": "Development of the World Health Organization Global Physical Activity Questionnaire (GPAQ)",
+      "authors": "Armstrong, T; Bull, F",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "14",
+      "issue": "2",
+      "first_page": "66",
+      "last_page": "70",
+      "container": "J Public Health",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 205
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1038/sj.ejcn.1602944",
+      "title": "Sedentary behaviour, physical activity and a continuous metabolic syndrome risk score in adults",
+      "authors": "Wijndaele, K; Duvigneaud, N; Matton, L",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "63",
+      "issue": "3",
+      "first_page": "421",
+      "last_page": "429",
+      "container": "Eur J Clin Nutr",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 206
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1111/sms.14165",
+      "title": "Association of domain-specific physical activity and sedentary behavior with cardiometabolic health among office workers",
+      "authors": "Kitano, N; Kai, Y; Jindo, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "32",
+      "issue": "8",
+      "first_page": "1224",
+      "last_page": "1235",
+      "container": "Scand J Med Sci Sports",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 207
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1023/A:1023866030544",
+      "title": "Dealing with zeros and missing values in compositional data sets using nonparametric imputation",
+      "authors": "Martín-Fernández, J A; Vidal, Barceló-; Pawlowsky-Glahn, C; , V",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "35",
+      "issue": "3",
+      "first_page": "253",
+      "last_page": "278",
+      "container": "Math Geol",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 208
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1023/A:1023818214614",
+      "title": "Isometric logratio transformations for compositional data analysis",
+      "authors": "Egozcue, J J; Pawlowsky-Glahn, V; Mateu-Figueras, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "35",
+      "issue": "3",
+      "first_page": "279",
+      "last_page": "300",
+      "container": "Math Geol",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 209
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1177/0962280217737805",
+      "title": "The compositional isotemporal substitution model: a method for estimating changes in a health outcome for reallocation of time between sleep, physical activity and sedentary behaviour",
+      "authors": "Dumuid, D; Pedišić, Ž; Stanford, T E",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "28",
+      "issue": "3",
+      "first_page": "846",
+      "last_page": "857",
+      "container": "Stat Methods Med Res",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 210
+    },
+    {
+      "bib_type": "incollection",
+      "doi": "10.1145/3292500.3330701",
+      "title": "Optuna: a next-generation hyperparameter optimization framework",
+      "authors": "Akiba, T; Sano, S; Yanase, T",
+      "editors": "",
+      "publisher": "Association for Computing Machinery",
+      "year": null,
+      "volume": "2019",
+      "issue": "",
+      "first_page": "2623",
+      "last_page": "2631",
+      "container": "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+      "bib_id": 28,
+      "year_suffix": null,
+      "text_id": 211
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1080/01621459.1979.10481038",
+      "title": "Robust locally weighted regression and smoothing scatterplots",
+      "authors": "Cleveland, W S",
+      "editors": "",
+      "publisher": "",
+      "year": 1979,
+      "volume": "74",
+      "issue": "368",
+      "first_page": "829",
+      "last_page": "836",
+      "container": "J Am Stat Assoc",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 212
+    },
+    {
+      "bib_type": "book",
+      "doi": "10.3389/fped.2025.1688416",
+      "title": "Machine learning-based time-to-event survival analysis in pediatric patients with severe sepsis. Front Pediatr",
+      "authors": "Huang, Q; Zheng, L; Cai, R",
+      "editors": "",
+      "publisher": "",
+      "year": 2025,
+      "volume": "13",
+      "issue": "",
+      "first_page": "1688416",
+      "last_page": null,
+      "container": null,
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 213
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1155/cdr/7296443",
+      "title": "NHANES-Derived machine learning model for early identification of frailty risk in CKM: optimizing resource allocation through predictive analytics",
+      "authors": "Ding, W; Fang, C; Shi, F",
+      "editors": "",
+      "publisher": "",
+      "year": 2026,
+      "volume": "2026",
+      "issue": "1",
+      "first_page": "7296443",
+      "last_page": null,
+      "container": "Cardiovasc Ther",
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 214
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1002/jbmr.4143",
+      "title": "The \"Goldilocks Day\" for children's Skeletal Health: Compositional Data Analysis of 24-Hour Activity Behaviors",
+      "authors": "Dumuid, D; Simm, P; Wake, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "35",
+      "issue": "12",
+      "first_page": "2393",
+      "last_page": "2403",
+      "container": "J Bone Miner Res",
+      "bib_id": 32,
+      "year_suffix": "",
+      "text_id": 215
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.jesf.2025.11.004",
+      "title": "The Goldilocks day for preschoolers' health outcomes: a compositional data analysis of 24-H movement behaviors on weekdays and weekends",
+      "authors": "Wang, X; Zhang, X; Yu, J J",
+      "editors": "",
+      "publisher": "",
+      "year": 2026,
+      "volume": "24",
+      "issue": "1",
+      "first_page": "100425",
+      "last_page": null,
+      "container": "J Exerc Sci Fit",
+      "bib_id": 33,
+      "year_suffix": "",
+      "text_id": 216
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.5665/sleep.4716",
+      "title": "Recommended amount of sleep for a healthy adult: a joint consensus statement of the American academy of sleep medicine and sleep research society",
+      "authors": "Watson, N F; Badr, M S; Belenky, G",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "38",
+      "issue": "6",
+      "first_page": "843",
+      "last_page": "844",
+      "container": "Sleep",
+      "bib_id": 34,
+      "year_suffix": "",
+      "text_id": 217
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.sleh.2014.12.010",
+      "title": "National Sleep Foundation's sleep time duration recommendations: methodology and results summary",
+      "authors": "Hirshkowitz, M; Whiton, K; Albert, S M",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "1",
+      "issue": "1",
+      "first_page": "40",
+      "last_page": "43",
+      "container": "Sleep Health",
+      "bib_id": 35,
+      "year_suffix": "",
+      "text_id": 218
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1038/s41586-026-10524-5",
+      "title": "Sleep chart of biological ageing clocks in middle and late life",
+      "authors": "Consortium, Multi; Toole, O'; Song, C K; , Z",
+      "editors": "",
+      "publisher": "",
+      "year": 2026,
+      "volume": "13",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Nature",
+      "bib_id": 36,
+      "year_suffix": "",
+      "text_id": 219
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.sleep.2018.08.008",
+      "title": "Trends of self-reported sleep duration in Korean adults: results from the Korea National Health and Nutrition Examination Survey 2007-2015",
+      "authors": "Shin, D; Hur, J; Cho, K H",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "52",
+      "issue": "",
+      "first_page": "103",
+      "last_page": "106",
+      "container": "Sleep Med",
+      "bib_id": 37,
+      "year_suffix": "",
+      "text_id": 220
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2020-102601",
+      "title": "Levels of domain-specific physical activity at work, in the household, for travel and for leisure among 327,789 adults from 104 countries",
+      "authors": "Strain, T; Wijndaele, K; Garcia, L",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "54",
+      "issue": "24",
+      "first_page": "1488",
+      "last_page": "1497",
+      "container": "Br J Sports Med",
+      "bib_id": 38,
+      "year_suffix": "",
+      "text_id": 221
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1136/bjsports-2017-097965",
+      "title": "The physical activity paradox: six reasons why occupational physical activity (OPA) does not confer the cardiovascular health benefits that leisure time physical activity does",
+      "authors": "Holtermann, A; Krause, N; Van Der Beek, A J",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "52",
+      "issue": "3",
+      "first_page": "149",
+      "last_page": "150",
+      "container": "Br J Sports Med",
+      "bib_id": 39,
+      "year_suffix": "",
+      "text_id": 222
+    },
+    {
+      "bib_type": "book",
+      "doi": "10.1186/1471-2458-14-1255",
+      "title": "Validity of the global physical activity questionnaire (GPAQ) in assessing levels and change in moderate-vigorous physical activity and sedentary behaviour",
+      "authors": "Cleland, C L; Hunter, R F; Kee, F",
+      "editors": "",
+      "publisher": "BMC Public Health",
+      "year": 2014,
+      "volume": "14",
+      "issue": "",
+      "first_page": "1255",
+      "last_page": null,
+      "container": null,
+      "bib_id": 40,
+      "year_suffix": "",
+      "text_id": 223
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1139/apnm-2020-0032",
+      "title": "Sleep timing, sleep consistency, and health in adults: a systematic review",
+      "authors": "Chaput, J P; Dutil, C; Featherstone, R",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "45",
+      "issue": "10",
+      "first_page": "232",
+      "last_page": "S247",
+      "container": "Appl Physiol Nutr Metab",
+      "bib_id": 41,
+      "year_suffix": "",
+      "text_id": 224
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 15
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2",
+      "text_id": 15
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "[3]",
+      "text_id": 15
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "[4]",
+      "text_id": 15
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "[5]",
+      "text_id": 15
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "[6]",
+      "text_id": 15
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "[7]",
+      "text_id": 15
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8,",
+      "text_id": 16
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 16
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 16
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8,",
+      "text_id": 16
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 16
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "[14]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "[15]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "[16]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "[17]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 16
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "[18]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "[19]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "[20]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "[21]",
+      "text_id": 16
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22",
+      "text_id": 21
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 21
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 27
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 29
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 31
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "S1",
+      "text_id": 32
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "24",
+      "text_id": 35
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "24,",
+      "text_id": 35
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 35
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 35
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 41
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11,",
+      "text_id": 41
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 41
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8,",
+      "text_id": 42
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 42
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 43
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "20",
+      "text_id": 45
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "S2",
+      "text_id": 47
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 47
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 50
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "[30]",
+      "text_id": 52
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "[31]",
+      "text_id": 52
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "[32]",
+      "text_id": 52
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "4",
+      "text_id": 53
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "S3",
+      "text_id": 55
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "33,",
+      "text_id": 58
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 58
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 62
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 63
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 64
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S3",
+      "text_id": 64
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S4",
+      "text_id": 67
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "3",
+      "text_id": 68
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "S1",
+      "text_id": 69
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "S1",
+      "text_id": 70
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "S2",
+      "text_id": 71
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "S3A-H",
+      "text_id": 72
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "4",
+      "text_id": 75
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "4A",
+      "text_id": 77
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "4B",
+      "text_id": 78
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "4C",
+      "text_id": 79
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "4D",
+      "text_id": 80
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S5",
+      "text_id": 81
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S5",
+      "text_id": 83
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S6",
+      "text_id": 85
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "S4",
+      "text_id": 86
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S5",
+      "text_id": 89
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "S7",
+      "text_id": 91
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "[14]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "[11]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "[12]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "[13]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "[14]",
+      "text_id": 95
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5,",
+      "text_id": 98
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15,",
+      "text_id": 98
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "35,",
+      "text_id": 98
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "36",
+      "text_id": 98
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "37",
+      "text_id": 98
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "38",
+      "text_id": 98
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3,",
+      "text_id": 100
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6",
+      "text_id": 100
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 101
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4,",
+      "text_id": 111
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 111
+    },
+    {
+      "xref_id": 38,
+      "xref_type": "bibr",
+      "contents": "39",
+      "text_id": 116
+    },
+    {
+      "xref_id": 39,
+      "xref_type": "bibr",
+      "contents": "40",
+      "text_id": 117
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9,",
+      "text_id": 123
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 123
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8,",
+      "text_id": 124
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 124
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17,",
+      "text_id": 124
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "19,",
+      "text_id": 124
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 124
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23,",
+      "text_id": 129
+    },
+    {
+      "xref_id": 40,
+      "xref_type": "bibr",
+      "contents": "41",
+      "text_id": 129
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 129
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5,",
+      "text_id": 131
+    },
+    {
+      "xref_id": 41,
+      "xref_type": "bibr",
+      "contents": "42",
+      "text_id": 131
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9,",
+      "text_id": 131
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 131
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 18,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 19,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 3,
+      "section_id": 20,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 4,
+      "section_id": 21,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 22,
+      "html": "<table>\n  <row>\n    <cell/>\n    <cell>Mean ± SD<\/cell>\n    <cell>Median (IQR)<\/cell>\n  <\/row>\n  <row>\n    <cell>Demographics<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Age, years BMI, kg/m 2<\/cell>\n    <cell>47.8 ± 16.5 24.1 ± 3.7<\/cell>\n    <cell>48.0 (34.0-60.0) 23.7 (21.5-26.2)<\/cell>\n  <\/row>\n  <row>\n    <cell>Sex, n [%]<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Male<\/cell>\n    <cell>17,735 [50.1]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Female<\/cell>\n    <cell>23,553 [49.9]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Education level, n [%]<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Elementary school or less<\/cell>\n    <cell>7314 [11.9]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Middle school<\/cell>\n    <cell>4083 [7.8]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>High school<\/cell>\n    <cell>13,679 [35.7]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>College or higher<\/cell>\n    <cell>16,212 [44.7]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Occupation, n [%]<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Professional/Managerial<\/cell>\n    <cell>6007 [16.9]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Clerical<\/cell>\n    <cell>4427 [12.5]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Service/Sales<\/cell>\n    <cell>5445 [14.0]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Agriculture<\/cell>\n    <cell>1615 [2.5]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Skilled Manual<\/cell>\n    <cell>3977 [11.0]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Elementary occupations<\/cell>\n    <cell>3889 [8.1]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Not employed<\/cell>\n    <cell>15,928 [35.0]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Household income, n [%]<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Low<\/cell>\n    <cell>7446 [14.0]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Lower-middle<\/cell>\n    <cell>10,073 [22.9]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Upper-middle<\/cell>\n    <cell>11,452 [29.8]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>High<\/cell>\n    <cell>12,317 [33.3]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Smoking habit, n [%]<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Current<\/cell>\n    <cell>6492 [18.7]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Former<\/cell>\n    <cell>9375 [23.7]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Never<\/cell>\n    <cell>25,421 [57.6]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Drinking frequency, n [%]<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Lifetime abstainer<\/cell>\n    <cell>4406 [8.0]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Never in past year<\/cell>\n    <cell>7391 [15.8]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>&lt;1/month<\/cell>\n    <cell>7956 [19.3]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>1/month<\/cell>\n    <cell>4267 [10.9]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>2-4/month<\/cell>\n    <cell>8904 [24.0]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>2-3/week<\/cell>\n    <cell>5893 [15.8]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>≥4/week<\/cell>\n    <cell>2471 [6.1]<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Energy intake, kcal/day<\/cell>\n    <cell>1942.9 ± 877.7<\/cell>\n    <cell>1792.1 (1342.0-2359.9)<\/cell>\n  <\/row>\n  <row>\n    <cell>Anthropometric/Cardiometabolic<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Waist circumference, cm<\/cell>\n    <cell>83 ± 11<\/cell>\n    <cell>83 (76-90)<\/cell>\n  <\/row>\n  <row>\n    <cell>SBP, mmHg<\/cell>\n    <cell>118 ± 16<\/cell>\n    <cell>116 (107-127)<\/cell>\n  <\/row>\n  <row>\n    <cell>DBP, mmHg<\/cell>\n    <cell>75 ± 10<\/cell>\n    <cell>74 (68-82)<\/cell>\n  <\/row>\n  <row>\n    <cell>Glucose, mg/dL<\/cell>\n    <cell>100 ± 22<\/cell>\n    <cell>95 (89-103)<\/cell>\n  <\/row>\n  <row>\n    <cell>Triglycerides, mg/dL<\/cell>\n    <cell>132 ± 106<\/cell>\n    <cell>105 (73-157)<\/cell>\n  <\/row>\n  <row>\n    <cell>HDL cholesterol, mg/dL<\/cell>\n    <cell>54 ± 14<\/cell>\n    <cell>52 (44-62)<\/cell>\n  <\/row>\n  <row>\n    <cell>CmRS, index<\/cell>\n    <cell>-0.05 ± 0.65<\/cell>\n    <cell>-0.07 (-0.53-0.39)<\/cell>\n  <\/row>\n  <row>\n    <cell>Movement Behaviors<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Sleep duration, min/day<\/cell>\n    <cell>426 ± 73<\/cell>\n    <cell>420 (377-480)<\/cell>\n  <\/row>\n  <row>\n    <cell>Sedentary behavior, min/day<\/cell>\n    <cell>516 ± 204<\/cell>\n    <cell>515 (360-660)<\/cell>\n  <\/row>\n  <row>\n    <cell>Other activities, min/day<\/cell>\n    <cell>467 ± 209<\/cell>\n    <cell>463 (309-626)<\/cell>\n  <\/row>\n  <row>\n    <cell>MVPA, min/day<\/cell>\n    <cell>31 ± 45<\/cell>\n    <cell>17 (0-43)<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Demographics", "Mean ± SD", "Median (IQR)"],
+        ["Age, years BMI, kg/m 2", "47.8 ± 16.5 24.1 ± 3.7", "48.0 (34.0-60.0) 23.7 (21.5-26.2)"],
+        ["Sex, n [%]", "", ""],
+        ["Male", "17,735 [50.1]", ""],
+        ["Female", "23,553 [49.9]", ""],
+        ["Education level, n [%]", "", ""],
+        ["Elementary school or less", "7314 [11.9]", ""],
+        ["Middle school", "4083 [7.8]", ""],
+        ["High school", "13,679 [35.7]", ""],
+        ["College or higher", "16,212 [44.7]", ""],
+        ["Occupation, n [%]", "", ""],
+        ["Professional/Managerial", "6007 [16.9]", ""],
+        ["Clerical", "4427 [12.5]", ""],
+        ["Service/Sales", "5445 [14.0]", ""],
+        ["Agriculture", "1615 [2.5]", ""],
+        ["Skilled Manual", "3977 [11.0]", ""],
+        ["Elementary occupations", "3889 [8.1]", ""],
+        ["Not employed", "15,928 [35.0]", ""],
+        ["Household income, n [%]", "", ""],
+        ["Low", "7446 [14.0]", ""],
+        ["Lower-middle", "10,073 [22.9]", ""],
+        ["Upper-middle", "11,452 [29.8]", ""],
+        ["High", "12,317 [33.3]", ""],
+        ["Smoking habit, n [%]", "", ""],
+        ["Current", "6492 [18.7]", ""],
+        ["Former", "9375 [23.7]", ""],
+        ["Never", "25,421 [57.6]", ""],
+        ["Drinking frequency, n [%]", "", ""],
+        ["Lifetime abstainer", "4406 [8.0]", ""],
+        ["Never in past year", "7391 [15.8]", ""],
+        ["<1/month", "7956 [19.3]", ""],
+        ["1/month", "4267 [10.9]", ""],
+        ["2-4/month", "8904 [24.0]", ""],
+        ["2-3/week", "5893 [15.8]", ""],
+        ["≥4/week", "2471 [6.1]", ""],
+        ["Energy intake, kcal/day", "1942.9 ± 877.7", "1792.1 (1342.0-2359.9)"],
+        ["Anthropometric/Cardiometabolic", "", ""],
+        ["Waist circumference, cm", "83 ± 11", "83 (76-90)"],
+        ["SBP, mmHg", "118 ± 16", "116 (107-127)"],
+        ["DBP, mmHg", "75 ± 10", "74 (68-82)"],
+        ["Glucose, mg/dL", "100 ± 22", "95 (89-103)"],
+        ["Triglycerides, mg/dL", "132 ± 106", "105 (73-157)"],
+        ["HDL cholesterol, mg/dL", "54 ± 14", "52 (44-62)"],
+        ["CmRS, index", "-0.05 ± 0.65", "-0.07 (-0.53-0.39)"],
+        ["Movement Behaviors", "", ""],
+        ["Sleep duration, min/day", "426 ± 73", "420 (377-480)"],
+        ["Sedentary behavior, min/day", "516 ± 204", "515 (360-660)"],
+        ["Other activities, min/day", "467 ± 209", "463 (309-626)"],
+        ["MVPA, min/day", "31 ± 45", "17 (0-43)"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 23,
+      "html": "<table>\n  <row>\n    <cell/>\n    <cell/>\n    <cell>Pivot<\/cell>\n    <cell>95% CI<\/cell>\n    <cell>p-value<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell>coefficient (β)<\/cell>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>CmRS, index<\/cell>\n    <cell>Sleep<\/cell>\n    <cell>-0.073<\/cell>\n    <cell>-0.095,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>-0.051<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>SB<\/cell>\n    <cell>0.086<\/cell>\n    <cell>0.070,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.102<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Other<\/cell>\n    <cell>0.004<\/cell>\n    <cell>-0.006,<\/cell>\n    <cell>0.446<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activities<\/cell>\n    <cell/>\n    <cell>0.014<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>MVPA<\/cell>\n    <cell>-0.017<\/cell>\n    <cell>-0.020,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>-0.013<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Overall<\/cell>\n    <cell/>\n    <cell/>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>Waist circumference,<\/cell>\n    <cell>Sleep<\/cell>\n    <cell>-1.650<\/cell>\n    <cell>-2.037,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>cm<\/cell>\n    <cell/>\n    <cell/>\n    <cell>-1.262<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>SB<\/cell>\n    <cell>1.613<\/cell>\n    <cell>1.352,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>1.875<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Other<\/cell>\n    <cell>0.180<\/cell>\n    <cell>-0.018,<\/cell>\n    <cell>0.075<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activities<\/cell>\n    <cell/>\n    <cell>0.379<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>MVPA<\/cell>\n    <cell>-0.144<\/cell>\n    <cell>-0.204,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>-0.084<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Overall<\/cell>\n    <cell/>\n    <cell/>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>Systolic blood<\/cell>\n    <cell>Sleep<\/cell>\n    <cell>-1.095<\/cell>\n    <cell>-1.584,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>pressure, mmHg<\/cell>\n    <cell/>\n    <cell/>\n    <cell>-0.607<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>SB<\/cell>\n    <cell>0.851<\/cell>\n    <cell>0.466,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>1.236<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Other<\/cell>\n    <cell>0.136<\/cell>\n    <cell>-0.051,<\/cell>\n    <cell>0.154<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activities<\/cell>\n    <cell/>\n    <cell>0.323<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>MVPA<\/cell>\n    <cell>0.108<\/cell>\n    <cell>0.023,<\/cell>\n    <cell>0.013<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.194<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Overall<\/cell>\n    <cell/>\n    <cell/>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>Diastolic blood<\/cell>\n    <cell>Sleep<\/cell>\n    <cell>-1.214<\/cell>\n    <cell>-1.579,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>pressure, mmHg<\/cell>\n    <cell/>\n    <cell/>\n    <cell>-0.848<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>SB<\/cell>\n    <cell>0.759<\/cell>\n    <cell>0.496,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>1.021<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Other<\/cell>\n    <cell>0.502<\/cell>\n    <cell>0.334,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activities<\/cell>\n    <cell/>\n    <cell>0.669<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>MVPA<\/cell>\n    <cell>-0.047<\/cell>\n    <cell>-0.105,<\/cell>\n    <cell>0.112<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.011<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Overall<\/cell>\n    <cell/>\n    <cell/>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>Fasting blood glucose,<\/cell>\n    <cell>Sleep<\/cell>\n    <cell>-0.870<\/cell>\n    <cell>-1.736,<\/cell>\n    <cell>0.049<\/cell>\n  <\/row>\n  <row>\n    <cell>mg/dL<\/cell>\n    <cell/>\n    <cell/>\n    <cell>-0.004<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>SB<\/cell>\n    <cell>1.179<\/cell>\n    <cell>0.533,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>1.825<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Other<\/cell>\n    <cell>0.029<\/cell>\n    <cell>-0.315,<\/cell>\n    <cell>0.867<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activities<\/cell>\n    <cell/>\n    <cell>0.373<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>MVPA<\/cell>\n    <cell>-0.338<\/cell>\n    <cell>-0.468,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>-0.208<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Overall<\/cell>\n    <cell/>\n    <cell/>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>HDL-C, mg/dL<\/cell>\n    <cell>Sleep<\/cell>\n    <cell>0.046<\/cell>\n    <cell>-0.385,<\/cell>\n    <cell>0.834<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.476<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>SB<\/cell>\n    <cell>-0.746<\/cell>\n    <cell>-1.076,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>-0.416<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Other<\/cell>\n    <cell>0.324<\/cell>\n    <cell>0.138,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activities<\/cell>\n    <cell/>\n    <cell>0.511<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>MVPA<\/cell>\n    <cell>0.376<\/cell>\n    <cell>0.301,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>0.450<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Overall<\/cell>\n    <cell/>\n    <cell/>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell>log Triglycerides, mg/<\/cell>\n    <cell>Sleep<\/cell>\n    <cell>-4.822<\/cell>\n    <cell>-8.885,<\/cell>\n    <cell>0.020<\/cell>\n  <\/row>\n  <row>\n    <cell>dL<\/cell>\n    <cell/>\n    <cell/>\n    <cell>-0.759<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>SB<\/cell>\n    <cell>6.580<\/cell>\n    <cell>3.630,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>9.529<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Other<\/cell>\n    <cell>0.222<\/cell>\n    <cell>-1.718,<\/cell>\n    <cell>0.822<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>activities<\/cell>\n    <cell/>\n    <cell>2.162<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>MVPA<\/cell>\n    <cell>-1.980<\/cell>\n    <cell>-2.636,<\/cell>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>-1.324<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Overall<\/cell>\n    <cell/>\n    <cell/>\n    <cell>&lt;0.001<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["", "", "Pivot / coefficient (β)", "95% CI", "p-value"],
+        ["CmRS, index", "Sleep", "-0.073", "-0.095,", "<0.001"],
+        ["", "", "", "-0.051", ""],
+        ["", "SB", "0.086", "0.070,", "<0.001"],
+        ["", "", "", "0.102", ""],
+        ["", "Other", "0.004", "-0.006,", "0.446"],
+        ["", "activities", "", "0.014", ""],
+        ["", "MVPA", "-0.017", "-0.020,", "<0.001"],
+        ["", "", "", "-0.013", ""],
+        ["", "Overall", "", "", "<0.001"],
+        ["Waist circumference,", "Sleep", "-1.650", "-2.037,", "<0.001"],
+        ["cm", "", "", "-1.262", ""],
+        ["", "SB", "1.613", "1.352,", "<0.001"],
+        ["", "", "", "1.875", ""],
+        ["", "Other", "0.180", "-0.018,", "0.075"],
+        ["", "activities", "", "0.379", ""],
+        ["", "MVPA", "-0.144", "-0.204,", "<0.001"],
+        ["", "", "", "-0.084", ""],
+        ["", "Overall", "", "", "<0.001"],
+        ["Systolic blood", "Sleep", "-1.095", "-1.584,", "<0.001"],
+        ["pressure, mmHg", "", "", "-0.607", ""],
+        ["", "SB", "0.851", "0.466,", "<0.001"],
+        ["", "", "", "1.236", ""],
+        ["", "Other", "0.136", "-0.051,", "0.154"],
+        ["", "activities", "", "0.323", ""],
+        ["", "MVPA", "0.108", "0.023,", "0.013"],
+        ["", "", "", "0.194", ""],
+        ["", "Overall", "", "", "<0.001"],
+        ["Diastolic blood", "Sleep", "-1.214", "-1.579,", "<0.001"],
+        ["pressure, mmHg", "", "", "-0.848", ""],
+        ["", "SB", "0.759", "0.496,", "<0.001"],
+        ["", "", "", "1.021", ""],
+        ["", "Other", "0.502", "0.334,", "<0.001"],
+        ["", "activities", "", "0.669", ""],
+        ["", "MVPA", "-0.047", "-0.105,", "0.112"],
+        ["", "", "", "0.011", ""],
+        ["", "Overall", "", "", "<0.001"],
+        ["Fasting blood glucose,", "Sleep", "-0.870", "-1.736,", "0.049"],
+        ["mg/dL", "", "", "-0.004", ""],
+        ["", "SB", "1.179", "0.533,", "<0.001"],
+        ["", "", "", "1.825", ""],
+        ["", "Other", "0.029", "-0.315,", "0.867"],
+        ["", "activities", "", "0.373", ""],
+        ["", "MVPA", "-0.338", "-0.468,", "<0.001"],
+        ["", "", "", "-0.208", ""],
+        ["", "Overall", "", "", "<0.001"],
+        ["HDL-C, mg/dL", "Sleep", "0.046", "-0.385,", "0.834"],
+        ["", "", "", "0.476", ""],
+        ["", "SB", "-0.746", "-1.076,", "<0.001"],
+        ["", "", "", "-0.416", ""],
+        ["", "Other", "0.324", "0.138,", "<0.001"],
+        ["", "activities", "", "0.511", ""],
+        ["", "MVPA", "0.376", "0.301,", "<0.001"],
+        ["", "", "", "0.450", ""],
+        ["", "Overall", "", "", "<0.001"],
+        ["log Triglycerides, mg/", "Sleep", "-4.822", "-8.885,", "0.020"],
+        ["dL", "", "", "-0.759", ""],
+        ["", "SB", "6.580", "3.630,", "<0.001"],
+        ["", "", "", "9.529", ""],
+        ["", "Other", "0.222", "-1.718,", "0.822"],
+        ["", "activities", "", "2.162", ""],
+        ["", "MVPA", "-1.980", "-2.636,", "<0.001"],
+        ["", "", "", "-1.324", ""],
+        ["", "Overall", "", "", "<0.001"]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 7,
+      "grp_id": 1,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "-0.073"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "-0.017"
+    },
+    {
+      "text_id": 8,
+      "grp_id": 2,
+      "lhs": "β",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.086"
+    },
+    {
+      "text_id": 21,
+      "grp_id": 3,
+      "lhs": "aged",
+      "df": null,
+      "comp": "<",
+      "rhs": "19"
+    },
+    {
+      "text_id": 31,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "4296"
+    },
+    {
+      "text_id": 31,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "144"
+    },
+    {
+      "text_id": 31,
+      "grp_id": 4,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "31"
+    },
+    {
+      "text_id": 55,
+      "grp_id": 5,
+      "lhs": "and",
+      "df": null,
+      "comp": "≥",
+      "rhs": "60"
+    },
+    {
+      "text_id": 60,
+      "grp_id": 6,
+      "lhs": "α",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 63,
+      "grp_id": 7,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 67,
+      "grp_id": 8,
+      "lhs": "RMSE",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.558"
+    },
+    {
+      "text_id": 67,
+      "grp_id": 8,
+      "lhs": "MAE",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.439"
+    },
+    {
+      "text_id": 67,
+      "grp_id": 8,
+      "lhs": "R²",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.249"
+    },
+    {
+      "text_id": 67,
+      "grp_id": 8,
+      "lhs": "RMSE",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.573"
+    },
+    {
+      "text_id": 67,
+      "grp_id": 8,
+      "lhs": "MAE",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.453"
+    },
+    {
+      "text_id": 67,
+      "grp_id": 8,
+      "lhs": "R²",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.209"
+    },
+    {
+      "text_id": 69,
+      "grp_id": 9,
+      "lhs": "value",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.029"
+    },
+    {
+      "text_id": 81,
+      "grp_id": 10,
+      "lhs": "MVPA",
+      "df": null,
+      "comp": "≥",
+      "rhs": "100"
+    },
+    {
+      "text_id": 82,
+      "grp_id": 11,
+      "lhs": "MVPA",
+      "df": null,
+      "comp": "≥",
+      "rhs": "500"
+    },
+    {
+      "text_id": 82,
+      "grp_id": 11,
+      "lhs": "behavior",
+      "df": null,
+      "comp": "≤",
+      "rhs": "30"
+    },
+    {
+      "text_id": 85,
+      "grp_id": 12,
+      "lhs": "CmRS",
+      "df": null,
+      "comp": "=",
+      "rhs": "-0.352"
+    },
+    {
+      "text_id": 88,
+      "grp_id": 13,
+      "lhs": "reported",
+      "df": null,
+      "comp": "≥",
+      "rhs": "80"
+    },
+    {
+      "text_id": 181,
+      "grp_id": 14,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "41,288"
+    }
+  ]
+}

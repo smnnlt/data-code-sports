@@ -1,0 +1,4105 @@
+{
+  "paper_id": "10.1016+j.jshs.2018.08.006",
+  "info": [
+    {
+      "title": "Former athletes' lifestyle and self-definition changes after retirement from sports",
+      "keywords": ["ebec a Trois-Rivi eres, Trois-Rivi eres, Qu ebec 999040, Canada Athletic identity", "Nutrition", "Physical activity", "Sport retirement"],
+      "doi": "10.1016/j.jshs.2018.08.006",
+      "file_hash": "23907dae52aae260",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.jshs.2018.08.006.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Pierre-Luc",
+      "family": "Yao",
+      "affiliation": "Department of Human Kinetics\n\t\t\t\t\t\t\t\tUniversit e du Qu ebec a Trois-Rivi eres\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTrois-Rivi eres\n\t\t\t\t\t\t\t\t\t999040\n\t\t\t\t\t\t\t\t\tQu ebec\n\t\t\t\t\t\t\t\t\tCanada",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "Louis",
+      "family": "Laurencelle",
+      "affiliation": "Department of Human Kinetics\n\t\t\t\t\t\t\t\tUniversit e du Qu ebec a Trois-Rivi eres\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTrois-Rivi eres\n\t\t\t\t\t\t\t\t\t999040\n\t\t\t\t\t\t\t\t\tQu ebec\n\t\t\t\t\t\t\t\t\tCanada",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "François",
+      "family": "Trudeau",
+      "affiliation": "Department of Human Kinetics\n\t\t\t\t\t\t\t\tUniversit e du Qu ebec a Trois-Rivi eres\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tTrois-Rivi eres\n\t\t\t\t\t\t\t\t\t999040\n\t\t\t\t\t\t\t\t\tQu ebec\n\t\t\t\t\t\t\t\t\tCanada",
+      "email": "francois.trudeau@uqtr.ca",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Background: Every high-level athlete will eventually see his or her sport career come to an end.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Most former athletes will experience changes in their self-definition and everyday behaviors as they accept a nonathletic way of life.",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The present study aimed to identify discrepancies between actual and former athletes regarding athletic identity, physical activity (PA), and nutrition habits.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: Actual athletes (AA; n = 122), former athletes (FA; n = 230), and nonathletes (NA; n = 74) were asked to complete an online questionnaire on athletic identity, duration and intensity levels of occupational and leisure time PA, and nutritional habits.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: FA healthy nutrition score was the lowest of the 3 groups and significantly different from that of AA.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Athletic identity and intense and moderate PA during leisure time consistently decreased (p < 0.01) across the 3 groups (AA > FA > NA).",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": "Athletic identity and intense and moderate PA during leisure time consistently decreased (p &lt; 0.01) across the 3 groups (AA &gt; FA &gt; NA)."
+    },
+    {
+      "text": "No significant difference between FA and NA was found regarding either nutritional habits or type of PA.",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Conclusion: Sport retirement may affect FA quality of nutritional habits that tends to decline below the NA level, as well as the amount of time spent practicing physical activities during leisure time.",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Athletic status does not ensure PA practice during sport postcareer.",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Eventually, every athlete will see his or her career in sport come to an end and will have to enter a transition period.",
+      "text_id": 10,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This transition can be defined as the process through which the athlete retires from his or her competitive and regulated sport environment.",
+      "text_id": 11,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Athletes form a particular population 1, 2 and athletic retirement is in itself different from other types of professional retirement.",
+      "text_id": 12,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Athletes form a particular population <ref type=\"bibr\" target=\"#b0\">1,<\/ref> <ref type=\"bibr\" target=\"#b1\">2<\/ref> and athletic retirement is in itself different from other types of professional retirement."
+    },
+    {
+      "text": "Athletes play a unique role in society and have a unique identity, and these characteristics change dramatically when the end of a career comes earlier than expected or is forced on the athlete.",
+      "text_id": 13,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One of the essential concepts of the sport retirement transition model is athletic identity, which is defined as the degree to which an individual identifies with the athlete's role. 3 For more than 2 decades, researchers have included athletic identity as a conceptual compass to assess the impacts of sport retirement on the athletic community. 4 This self-defined identification with the athletic role is associated with multiple individual behaviors.",
+      "text_id": 14,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "One of the essential concepts of the sport retirement transition model is athletic identity, which is defined as the degree to which an individual identifies with the athlete's role. <ref type=\"bibr\" target=\"#b2\">3<\/ref> For more than 2 decades, researchers have included athletic identity as a conceptual compass to assess the impacts of sport retirement on the athletic community. <ref type=\"bibr\" target=\"#b3\">4<\/ref> This self-defined identification with the athletic role is associated with multiple individual behaviors."
+    },
+    {
+      "text": "Physical activity (PA) is a behavior that is consistent with the athletic role, 1 and both of these concepts have been shown in the literature to have a positive relationship with each other, 1, 2, 4, 5 that is, a strong athletic identity is logically related to a strong engagement in PA. 1 To our knowledge, the literature on PA as it relates to sport retirement is fairly recent. 1,6À8 A first converging result in the literature was a higher level of PA in actual athletes (AA) than in former athletes (FA), and nonathletes (NA), 1,6À8 whereas in FAs it was either observed higher 1 or similar 7 PA level than in nonathletes.",
+      "text_id": 15,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Physical activity (PA) is a behavior that is consistent with the athletic role, <ref type=\"bibr\" target=\"#b0\">1<\/ref> and both of these concepts have been shown in the literature to have a positive relationship with each other, <ref type=\"bibr\" target=\"#b0\">1,<\/ref> <ref type=\"bibr\" target=\"#b1\">2,<\/ref> <ref type=\"bibr\" target=\"#b3\">4,<\/ref> <ref type=\"bibr\" target=\"#b4\">5<\/ref> that is, a strong athletic identity is logically related to a strong engagement in PA. <ref type=\"bibr\" target=\"#b0\">1<\/ref> To our knowledge, the literature on PA as it relates to sport retirement is fairly recent. <ref type=\"bibr\">1,6À8<\/ref> A first converging result in the literature was a higher level of PA in actual athletes (AA) than in former athletes (FA), and nonathletes (NA), <ref type=\"bibr\">1,6À8<\/ref> whereas in FAs it was either observed higher <ref type=\"bibr\" target=\"#b0\">1<\/ref> or similar <ref type=\"bibr\" target=\"#b6\">7<\/ref> PA level than in nonathletes."
+    },
+    {
+      "text": "Retirement from sports has been conceptualized as a role transition through which athletes disengage from some activities and relationships to seek others. 9 When it comes to the sport retirement process, modifications concerning PA can be of a positive or negative nature.",
+      "text_id": 16,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Retirement from sports has been conceptualized as a role transition through which athletes disengage from some activities and relationships to seek others. <ref type=\"bibr\">9<\/ref> When it comes to the sport retirement process, modifications concerning PA can be of a positive or negative nature."
+    },
+    {
+      "text": "Early on, it was empirically demonstrated that specific coping strategies, such as continuing to train and exercise, are positively correlated with adjustment to retirement from sport. 10 Athletes who still practice their sport a few months after retirement with the purpose of maintaining physical health tend to have a healthier transitions. 11 According to Witkowski and Spangenburg, 12 if former athletes hope to remain in a state that is advantageous to prevent chronic diseases, they must refrain from being inactive and continue to exercise, albeit at a potentially lower level.",
+      "text_id": 17,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Early on, it was empirically demonstrated that specific coping strategies, such as continuing to train and exercise, are positively correlated with adjustment to retirement from sport. <ref type=\"bibr\" target=\"#b9\">10<\/ref> Athletes who still practice their sport a few months after retirement with the purpose of maintaining physical health tend to have a healthier transitions. <ref type=\"bibr\" target=\"#b10\">11<\/ref> According to Witkowski and Spangenburg, <ref type=\"bibr\" target=\"#b11\">12<\/ref> if former athletes hope to remain in a state that is advantageous to prevent chronic diseases, they must refrain from being inactive and continue to exercise, albeit at a potentially lower level."
+    },
+    {
+      "text": "FA who keep training are still at an advantage owing to their somewhat higher level of PA; conversely, those who stop all forms of PA develop the same, if not greater, risk for a number of chronic diseases as people who have been mostly inactive all their lives. 13 Kujala et al. 14 also found that self-rated health later in life was better in FA than in their control counterparts.",
+      "text_id": 18,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "FA who keep training are still at an advantage owing to their somewhat higher level of PA; conversely, those who stop all forms of PA develop the same, if not greater, risk for a number of chronic diseases as people who have been mostly inactive all their lives. <ref type=\"bibr\" target=\"#b12\">13<\/ref> Kujala et al. <ref type=\"bibr\" target=\"#b13\">14<\/ref> also found that self-rated health later in life was better in FA than in their control counterparts."
+    },
+    {
+      "text": "In contrast, a recent study by Sorenson et al. 7 found that the amount of weekly exercise carried out by FA and NA was similar after college graduation, and that their level of exercise did not differ later in life.",
+      "text_id": 19,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "In contrast, a recent study by Sorenson et al. <ref type=\"bibr\" target=\"#b6\">7<\/ref> found that the amount of weekly exercise carried out by FA and NA was similar after college graduation, and that their level of exercise did not differ later in life."
+    },
+    {
+      "text": "Although regular PA after retirement has potentially beneficial and protective effects for FA, it is not the only behavioral factor that should be considered when examining career sport transition.",
+      "text_id": 20,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lynch et al., 15 in their study of former football players' chronic risk factors, did not include habits such as dietary habits or alcohol consumption, but did mention that these elements could have influenced the metabolism and body composition of the participants.",
+      "text_id": 21,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Lynch et al., <ref type=\"bibr\" target=\"#b14\">15<\/ref> in their study of former football players' chronic risk factors, did not include habits such as dietary habits or alcohol consumption, but did mention that these elements could have influenced the metabolism and body composition of the participants."
+    },
+    {
+      "text": "Fogelholm et al. 16 found that former Finnish power sport and mixed sport athletes were more likely to have a heathier lifestyle than the NA group.",
+      "text_id": 22,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Fogelholm et al. <ref type=\"bibr\" target=\"#b15\">16<\/ref> found that former Finnish power sport and mixed sport athletes were more likely to have a heathier lifestyle than the NA group."
+    },
+    {
+      "text": "Until now, very few empirical studies on sport retirement have included nutritional habits in their exploration of the sports retirement process.",
+      "text_id": 23,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Even fewer studies have combined nutrition, PA, and athletic identity in seeking to understand how the end of their sport career affects athletes.",
+      "text_id": 24,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The main objective of this study was to better understand the impacts of sport status of 3 groups-AA, FA, and NA, who served as a reference group with no athletic experienceon athletic identity and postcareer health-related lifestyle behaviors.",
+      "text_id": 25,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These behaviors included the practice of PA and nutritional habits in relation to gender-related and sport career-related variables such as level of competition and collective sport versus individual sport.",
+      "text_id": 26,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The second objective was to examine and compare the relationships between lifestyle behaviors and athletic identity across different sport statuses before and during sport career transition using a quantitative approach to help measure the degree of association of sports variables such as competition level and some demographic variables.",
+      "text_id": 27,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To fulfill the main research objective, an online survey was administered to participants.",
+      "text_id": 28,
+      "paragraph_id": 6,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants completed the Global Physical Activity Questionnaire (GPAQ), the Athletic Identity Questionnaire (AIQ), demographic questions and 9 nutritional behavior questions, which were combined into a unique nutritional score for each participant.",
+      "text_id": 29,
+      "paragraph_id": 6,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The sample consisted of 426 participants, which included 224 women (26.89 § 7.49 years) and 202 men (28.89 § 8.88 years).",
+      "text_id": 30,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Principal work statuses were student (49.4%), working full time (35.1%), working part time (5.9%), and self-employed (6.9%).",
+      "text_id": 31,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The remaining 2.7% included stay-at-home mothers, unemployed or inactive individuals.",
+      "text_id": 32,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The highest academic degree obtained by participants was either high school (9.9%), Coll ege en enseignement g en eral et professionel (Quebec preuniversity or precollege) (27.4%), bachelor (43.0%), master (13.7%), or doctorate (6.0%).",
+      "text_id": 33,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participants were identified as belonging to 1 of 3 groups-AA (n = 122), FA (n = 230), or NA (n = 74).",
+      "text_id": 34,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AA were individuals currently involved in a highlevel sport career for at least 5 years at the time of the study.",
+      "text_id": 35,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "FA were individuals who had spent at least 5 years competing in a high-level sport but had definitively ended their sporting careers.",
+      "text_id": 36,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "NA had never been involved in a high-level sport career.",
+      "text_id": 37,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AA and FA were competing or had competed at the provincial (10.7%), national (50.1%), international (29.1%), or professional (10.1%) level at their highest level of competition.",
+      "text_id": 38,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "High-level sports included soccer, basketball, football, hockey, track and field, volleyball, figure skating, diving, tennis, swimming, and alpine skiing.",
+      "text_id": 39,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Measures",
+      "text_id": 40,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "<head n=\"2.2.\" >Measures<\/head>"
+    },
+    {
+      "text": "Athletic identity was measured using the French version of the AIQ, 5,17 a 21-item Likert scale questionnaire that measures the degree of a participant's association with the role of athlete, with responses ranging from 1 (does not describe me at all) to 5 (describes me very well).",
+      "text_id": 41,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It is associated with 3 previously validated French scales: physical appearance, competence in sports, and importance of sports and PA. 17 A high score on these scales is associated with strong identification with the athletic role.",
+      "text_id": 42,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "It is associated with 3 previously validated French scales: physical appearance, competence in sports, and importance of sports and PA. <ref type=\"bibr\" target=\"#b16\">17<\/ref> A high score on these scales is associated with strong identification with the athletic role."
+    },
+    {
+      "text": "Internal consistency for the 3 scales ranged from 0.827 to 0.913, and the present study confirmed good reliability, with Cronbach a values ranging from 0.749 to 0.906.",
+      "text_id": 43,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The choice of this instrument was based on literature showing that the AIQ's 4 scales (including a social support scale) are significantly and positively correlated with the Stage of Exercise Adoption 5 and Brewer's Athletic Identity Measurement Scale. 17",
+      "text_id": 44,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "The choice of this instrument was based on literature showing that the AIQ's 4 scales (including a social support scale) are significantly and positively correlated with the Stage of Exercise Adoption 5 and Brewer's Athletic Identity Measurement Scale. <ref type=\"bibr\" target=\"#b16\">17<\/ref>"
+    },
+    {
+      "text": "The GPAQ measures PA with regard to duration, frequency, intensity, and context (work, transport, and leisure time) 18, 19 and is comparable with the International Physical Activity Questionnaire (IPAQ) in terms of reliability and validity. 18 The main outcome variables from the GPAQ used in this study were high-intensity physical activity (HIPA), moderate-intensity physical activity (MIPA), active transportation, and inactivity, which refers to time spent sitting or lying down, excluding sleep.",
+      "text_id": 45,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "The GPAQ measures PA with regard to duration, frequency, intensity, and context (work, transport, and leisure time) <ref type=\"bibr\" target=\"#b17\">18,<\/ref> <ref type=\"bibr\" target=\"#b18\">19<\/ref> and is comparable with the International Physical Activity Questionnaire (IPAQ) in terms of reliability and validity. <ref type=\"bibr\" target=\"#b17\">18<\/ref> The main outcome variables from the GPAQ used in this study were high-intensity physical activity (HIPA), moderate-intensity physical activity (MIPA), active transportation, and inactivity, which refers to time spent sitting or lying down, excluding sleep."
+    },
+    {
+      "text": "Each of those continuous variables was expressed in minutes per week and used to compare groups among them.",
+      "text_id": 46,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Groups were also compared with the general Canadian population using the 2013 American College of Sports Medicine (ACSM) 20 guidelines for recommended weekly PA.",
+      "text_id": 47,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "Groups were also compared with the general Canadian population using the 2013 American College of Sports Medicine (ACSM) <ref type=\"bibr\" target=\"#b19\">20<\/ref> guidelines for recommended weekly PA."
+    },
+    {
+      "text": "A measure of nutritional habits was obtained using part of a combined questionnaire based on Canadian Community Health Survey Cycle 2.2 and the Quebec Health and Social Survey. 21 Questions on eating habits included ones about consumption frequency of fruits, vegetables, alcohol, soft drinks, homemade food, and takeout food, as well as breakfast variety.",
+      "text_id": 48,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "A measure of nutritional habits was obtained using part of a combined questionnaire based on Canadian Community Health Survey Cycle 2.2 and the Quebec Health and Social Survey. <ref type=\"bibr\" target=\"#b20\">21<\/ref> Questions on eating habits included ones about consumption frequency of fruits, vegetables, alcohol, soft drinks, homemade food, and takeout food, as well as breakfast variety."
+    },
+    {
+      "text": "A high score on this scale was associated with a healthy nutritional lifestyle using different questions on distinct eating behaviors that added together.",
+      "text_id": 49,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Our nutritional index was obtained using a principal component analysis on nutrition indicators.",
+      "text_id": 50,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The first vector explained 27% of the variance, and the Cronbach a for the 9-item nutritional index was 0.625.",
+      "text_id": 51,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Considering the multifaceted structure of nutritional behavior scales, internal consistency tends to be lower than other psychometric aggregates, and our a repeated those of previously published nutritional questionnaires. 22 The 9 items were weighted using their principal component analysis loading.",
+      "text_id": 52,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Considering the multifaceted structure of nutritional behavior scales, internal consistency tends to be lower than other psychometric aggregates, and our a repeated those of previously published nutritional questionnaires. <ref type=\"bibr\" target=\"#b21\">22<\/ref> The 9 items were weighted using their principal component analysis loading."
+    },
+    {
+      "text": "Using the Canadian Food Guide, 23 a recommended value was determined for each item and then weight-summed to obtain a criterion nutritional score.",
+      "text_id": 53,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "Using the Canadian Food Guide, <ref type=\"bibr\" target=\"#b22\">23<\/ref> a recommended value was determined for each item and then weight-summed to obtain a criterion nutritional score."
+    },
+    {
+      "text": "Participants with a score of greater than 46.07 were considered to have dietary habits at or above the recommended level.",
+      "text_id": 54,
+      "paragraph_id": 11,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Descriptive variables included sport status (AA, FA, NA), type of sport (collective vs. individual), and current and past level of competition.",
+      "text_id": 55,
+      "paragraph_id": 12,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Other descriptive questions involved age, gender, professional occupation, marital status, and level of education.",
+      "text_id": 56,
+      "paragraph_id": 12,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AA and FA were recruited via email with the collaboration of departments of physical activities and sport from 5 Qu ebec universities and the Fondation de l'athl ete d'excellence du Qu ebec, a nonprofit entity that financially supports AA and maintains a network of scholarship FA in Qu ebec.",
+      "text_id": 57,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "NA were recruited from university campuses via student email lists of all academic departments.",
+      "text_id": 58,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The email also contained the intranet link to the electronic questionnaire.",
+      "text_id": 59,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Follow-ups were made 2, 4, and 6 weeks after the initial solicitation.",
+      "text_id": 60,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This study was approved by the Institutional Ethics Committee of Universit e du Qu ebec a Trois-Rivi eres.",
+      "text_id": 61,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants provided informed consent electronically before participating in the study.",
+      "text_id": 62,
+      "paragraph_id": 13,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data analysis involved one-way analyses of covariance (ANCOVAs) to compare our 3 groups, controlling for age differences among participants.",
+      "text_id": 63,
+      "paragraph_id": 14,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Since group sizes were unequal, an unweighted (\"harmonic N\") solution was used throughout.",
+      "text_id": 64,
+      "paragraph_id": 14,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Monotonicity analysis 24, 25 (E 2 ) helped to assess the consistent decrease (or increase) across our ordered groups for each measured variable.",
+      "text_id": 65,
+      "paragraph_id": 14,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "Monotonicity analysis <ref type=\"bibr\" target=\"#b23\">24,<\/ref> <ref type=\"bibr\" target=\"#b24\">25<\/ref> (E 2 ) helped to assess the consistent decrease (or increase) across our ordered groups for each measured variable."
+    },
+    {
+      "text": "Groups were also compared relative to their correlation levels using Fisher's Z transformation.",
+      "text_id": 66,
+      "paragraph_id": 14,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pearson correlations followed by simultaneous multiple linear regressions were used to measure relationships between athletic identity scales and lifestyle variables.",
+      "text_id": 67,
+      "paragraph_id": 14,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The asymmetrical distributions of all lifestyle variables were adjusted for normality using a log transformation before all analyses.",
+      "text_id": 68,
+      "paragraph_id": 14,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cronbach a followed by principal component analysis helped to determine the composition and reliability of the nutritional index composite score.",
+      "text_id": 69,
+      "paragraph_id": 14,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tests on proportions were computed to compare groups among them concerning weekly PA and global nutritional index criterions.",
+      "text_id": 70,
+      "paragraph_id": 14,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This method was also used to assess whether groups differ from the general population when using ACSM recommended weekly PA guidelines.",
+      "text_id": 71,
+      "paragraph_id": 14,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Results  >Impacts of sport status on athletic identity and lifestyle",
+      "text_id": 72,
+      "paragraph_id": 15,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "<head n=\"3.\" >Results<\/head> <head n=\"3.1.\" >Impacts of sport status on athletic identity and lifestyle<\/head>"
+    },
+    {
+      "text": "Table 1 shows the average AIQ scores across the 3 measured groups.",
+      "text_id": 73,
+      "paragraph_id": 17,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Table <ref type=\"table\" target=\"#tab_0\">1<\/ref> shows the average AIQ scores across the 3 measured groups."
+    },
+    {
+      "text": "ANCOVA with age as a covariate showed significant differences between groups for perceived appearance (F(2, 423) = 24.32, p < 0.01), competence (F(2, 423) = 4.87, p < 0.01), importance related to sport and exercise (F(2, 423) = 17.15, p < 0.01), and for total AIQ score (F(2, 423) = 17.74, p < 0.01).",
+      "text_id": 74,
+      "paragraph_id": 17,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "ANCOVA with age as a covariate showed significant differences between groups for perceived appearance (F(2, 423) = 24.32, p &lt; 0.01), competence (F(2, 423) = 4.87, p &lt; 0.01), importance related to sport and exercise (F(2, 423) = 17.15, p &lt; 0.01), and for total AIQ score (F(2, 423) = 17.74, p &lt; 0.01)."
+    },
+    {
+      "text": "Tukey's honest significant difference test showed that AA had a significantly (p < 0.01) higher general athletic identity score than FA and NA.",
+      "text_id": 75,
+      "paragraph_id": 17,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Tukey's honest significant difference test showed that AA had a significantly (p &lt; 0.01) higher general athletic identity score than FA and NA."
+    },
+    {
+      "text": "FA scored higher than the NA only on the competence scale (p < 0.01).",
+      "text_id": 76,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "FA scored higher than the NA only on the competence scale (p &lt; 0.01)."
+    },
+    {
+      "text": "Monotonic decrease was significant across the 3 groups for the appearance (E 2 (3, 421) = 0.105, p < 0.01) and competence (E 2 (3, 421) = 0.023, p < 0.05) scales and for total AIQ (E 2 (3, 421) = 0.126, p < 0.01).",
+      "text_id": 77,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Monotonic decrease was significant across the 3 groups for the appearance (E 2 (3, 421) = 0.105, p &lt; 0.01) and competence (E 2 (3, 421) = 0.023, p &lt; 0.05) scales and for total AIQ (E 2 (3, 421) = 0.126, p &lt; 0.01)."
+    },
+    {
+      "text": "No differences in athletic identity were found between genders for AA and FA.",
+      "text_id": 78,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Differences between genders were found in the NA group; the appearance scale (t(72) = 2.260, p < 0.05) and total AIQ (t(72) = 2.001, p < 0.05) favored men.",
+      "text_id": 79,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Differences between genders were found in the NA group; the appearance scale (t(72) = 2.260, p &lt; 0.05) and total AIQ (t(72) = 2.001, p &lt; 0.05) favored men."
+    },
+    {
+      "text": "Some discrepancies concerning individual and collective sports were also found when comparing groups.",
+      "text_id": 80,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Regarding athletic identity, AA in individual sports reported higher importance scores than AA from collective sports (t(120) = 2.972, p < 0.01).",
+      "text_id": 81,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Regarding athletic identity, AA in individual sports reported higher importance scores than AA from collective sports (t(120) = 2.972, p &lt; 0.01)."
+    },
+    {
+      "text": "However, this difference was not found in the FA group (t(228) = À0.714, p > 0.05).",
+      "text_id": 82,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "However, this difference was not found in the FA group (t(228) = À0.714, p &gt; 0.05)."
+    },
+    {
+      "text": "General athletic identity was significantly higher (t(120) = 2.126, p < 0.05) for AA who participated in individual sports compared with their collective sport counterparts.",
+      "text_id": 83,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "General athletic identity was significantly higher (t(120) = 2.126, p &lt; 0.05) for AA who participated in individual sports compared with their collective sport counterparts."
+    },
+    {
+      "text": "Athletic identity differences between the 4 sport competition levels for the FA group are shown in Table 2.",
+      "text_id": 84,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Athletic identity differences between the 4 sport competition levels for the FA group are shown in Table <ref type=\"table\" target=\"#tab_1\">2<\/ref>."
+    },
+    {
+      "text": "Perceived appearance was the only scale that differed among groups (p < 0.05).",
+      "text_id": 85,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Perceived appearance was the only scale that differed among groups (p &lt; 0.05)."
+    },
+    {
+      "text": "The Tukey's honest significant difference criterion identified the difference between the provincial and professional status as significant (p < 0.05).",
+      "text_id": 86,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "The Tukey's honest significant difference criterion identified the difference between the provincial and professional status as significant (p &lt; 0.05)."
+    },
+    {
+      "text": "Former professional athletes had the highest scores for the appearance, competence, and importance scales and for total AIQ.",
+      "text_id": 87,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Significant monotonic decrease was observed across the groups for the appearance (E 2 (3, 421) = 0.087, p < 0.01) and total AIQ (E 2 (3, 421) = 0.047, p < 0.01) scales, with a tendency to increase toward the former professional athlete status.",
+      "text_id": 88,
+      "paragraph_id": 18,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Significant monotonic decrease was observed across the groups for the appearance (E 2 (3, 421) = 0.087, p &lt; 0.01) and total AIQ (E 2 (3, 421) = 0.047, p &lt; 0.01) scales, with a tendency to increase toward the former professional athlete status."
+    },
+    {
+      "text": "The recommended guidelines from the American College of Sports Medicine 20 are 150 min/week of MIPA or 60 min/week of HIPA.",
+      "text_id": 89,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In the Canadian population, 22% of people between 18 and 79 years of age had PA levels above the recommended guidelines. 26 In the current sample, 14.47% of FA did meet the weekly PA recommendation, a score that does not differ significantly from the general population according to the Z test on 2 proportions (z = À0.984, p > 0.05).",
+      "text_id": 90,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "In the Canadian population, 22% of people between 18 and 79 years of age had PA levels above the recommended guidelines. <ref type=\"bibr\" target=\"#b25\">26<\/ref> In the current sample, 14.47% of FA did meet the weekly PA recommendation, a score that does not differ significantly from the general population according to the Z test on 2 proportions (z = À0.984, p &gt; 0.05)."
+    },
+    {
+      "text": "As for the NA, 24.66% did meet the recommendations, which is not statistically different from the general population (z = 0.549, p > 0.05).",
+      "text_id": 91,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "As for the NA, 24.66% did meet the recommendations, which is not statistically different from the general population (z = 0.549, p &gt; 0.05)."
+    },
+    {
+      "text": "AA met the recommendation in a proportion of 87.29%, which was significantly higher than the general population (z = 16.53, p < 0.001), FA (z = 18.13, p < 0.001), and NA (z = 10.92, p < 0.001).",
+      "text_id": 92,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "AA met the recommendation in a proportion of 87.29%, which was significantly higher than the general population (z = 16.53, p &lt; 0.001), FA (z = 18.13, p &lt; 0.001), and NA (z = 10.92, p &lt; 0.001)."
+    },
+    {
+      "text": "Some particularities emerged for the PA variables when controlling for age difference between groups.",
+      "text_id": 93,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "ANCOVA showed a significant difference (p < 0.01) when comparing groups for HIPA practice (Table 3).",
+      "text_id": 94,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "ANCOVA showed a significant difference (p &lt; 0.01) when comparing groups for HIPA practice (Table <ref type=\"table\">3<\/ref>)."
+    },
+    {
+      "text": "Tukey's post hoc tests revealed that AA spent significantly more time in engaging in HIPA than the other 2 groups (F(2, 423) = 30.30, p < 0.01), but no difference was found between FA and NA.",
+      "text_id": 95,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Tukey's post hoc tests revealed that AA spent significantly more time in engaging in HIPA than the other 2 groups (F(2, 423) = 30.30, p &lt; 0.01), but no difference was found between FA and NA."
+    },
+    {
+      "text": "Similar results could be found regarding MIPA practice.",
+      "text_id": 96,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "ANCOVA confirmed a difference between groups (F(2, 423) = 5.47, p < 0.01), showing that AA spend significantly more time practicing MIPA than the FA and NA groups.",
+      "text_id": 97,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "ANCOVA confirmed a difference between groups (F(2, 423) = 5.47, p &lt; 0.01), showing that AA spend significantly more time practicing MIPA than the FA and NA groups."
+    },
+    {
+      "text": "None of the groups did stand out from the others for active transportation (F(2, 423) = 1.82, p > 0.05) or for time of inactivity (F(2, 423) = 1.09, p > 0.05).",
+      "text_id": 98,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "None of the groups did stand out from the others for active transportation (F(2, 423) = 1.82, p &gt; 0.05) or for time of inactivity (F(2, 423) = 1.09, p &gt; 0.05)."
+    },
+    {
+      "text": "HIPA and MIPA practice during leisure time showed a significant monotonic decrease between sport status (AA > FA > NA, E 2 (3, 336) = 0.186, p < 0.01; E 2 (3, 269) = 0.037, p < 0.01).",
+      "text_id": 99,
+      "paragraph_id": 19,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "HIPA and MIPA practice during leisure time showed a significant monotonic decrease between sport status (AA &gt; FA &gt; NA, E 2 (3, 336) = 0.186, p &lt; 0.01; E 2 (3, 269) = 0.037, p &lt; 0.01)."
+    },
+    {
+      "text": "Male FA spent significantly more time practicing HIPA (t(183) = 2.011, p < 0.05) than women FA, but declared more inactive time during the week (t(211) = 2.640, p < 0.01).",
+      "text_id": 100,
+      "paragraph_id": 20,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Male FA spent significantly more time practicing HIPA (t(183) = 2.011, p &lt; 0.05) than women FA, but declared more inactive time during the week (t(211) = 2.640, p &lt; 0.01)."
+    },
+    {
+      "text": "Competition level did not impact the amount of time spent practicing PA; no difference emerged between provincial, national, international, or professional statuses.",
+      "text_id": 101,
+      "paragraph_id": 20,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As shown in Table 3, a significant difference was found between groups for the nutritional index (F(2, 423) = 5.12, p < 0.01).",
+      "text_id": 102,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "As shown in Table <ref type=\"table\">3<\/ref>, a significant difference was found between groups for the nutritional index (F(2, 423) = 5.12, p &lt; 0.01)."
+    },
+    {
+      "text": "According to post hoc comparisons, the AA group obtained the statistically highest nutritional index of the 3 groups.",
+      "text_id": 103,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The nutrition level of FA did not differ statistically from that of NA.",
+      "text_id": 104,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gender comparison showed that female FA (t(230) = 4.132, p < 0.01) and female NA (t(72) = 2.343, p < 0.05) had a significantly higher nutritional index than their male counterparts.",
+      "text_id": 105,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Gender comparison showed that female FA (t(230) = 4.132, p &lt; 0.01) and female NA (t(72) = 2.343, p &lt; 0.05) had a significantly higher nutritional index than their male counterparts."
+    },
+    {
+      "text": "Male and female AA did not differ regarding their nutritional habits(t(120) = 0.518, p > 0.05).",
+      "text_id": 106,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Male and female AA did not differ regarding their nutritional habits(t(120) = 0.518, p &gt; 0.05)."
+    },
+    {
+      "text": "Nutrition scores favored individual sports in the AA group (t(120) = 2.805, p < 0.01), but this advantage was not repeated in the FA group for the same variable (t(228) = 0.996, p > 0.05).",
+      "text_id": 107,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Nutrition scores favored individual sports in the AA group (t(120) = 2.805, p &lt; 0.01), but this advantage was not repeated in the FA group for the same variable (t(228) = 0.996, p &gt; 0.05)."
+    },
+    {
+      "text": "Notwithstanding a tendency to increase with competition level, the nutrition score did not vary significantly in the FA (F(3, 226) = 1.553, p > 0.05) or the AA group (F(3, 118) = 1.635, p > 0.05).",
+      "text_id": 108,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "Notwithstanding a tendency to increase with competition level, the nutrition score did not vary significantly in the FA (F(3, 226) = 1.553, p &gt; 0.05) or the AA group (F(3, 118) = 1.635, p &gt; 0.05)."
+    },
+    {
+      "text": "With regard to dietary recommendations, 79.13% of FA did not meet the globalized nutritional recommendations compared with 74.67% of the NA.",
+      "text_id": 109,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These 2 percentages did not statistically differ from each other (z = 0.811, p > 0.05).",
+      "text_id": 110,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "These 2 percentages did not statistically differ from each other (z = 0.811, p &gt; 0.05)."
+    },
+    {
+      "text": "Table 3 Physical activity and nutritional index comparison between AA, FA, and NA, while controlling for age (mean § SD).",
+      "text_id": 111,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AA FA NA F(2, 423) Active transportation (h/week) 2.15 § 2.50 2.67 § 2.52 1.95 § 1.80 1.82 HIPA (h/week) 7.40 § 8.23 3.09 § 2.64 2.59 § 2.52 30.30** MIPA (h/week) 2.67 § 3.67 1.84 § 1.96 1.61 § 1.43 5.47** Inactivity (h/week) 4.81 § 2.00 5.23 § 2.64 5.25 § 2.49 1.09 Nutritional index 44.48 § 10.45 40.97 § 7.86 41.92 § 7.39 5.12** ** p < 0.01.",
+      "text_id": 112,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "AA FA NA F(2, 423) Active transportation (h/week) 2.15 § 2.50 2.67 § 2.52 1.95 § 1.80 1.82 HIPA (h/week) 7.40 § 8.23 3.09 § 2.64 2.59 § 2.52 30.30** MIPA (h/week) 2.67 § 3.67 1.84 § 1.96 1.61 § 1.43 5.47** Inactivity (h/week) 4.81 § 2.00 5.23 § 2.64 5.25 § 2.49 1.09 Nutritional index 44.48 § 10.45 40.97 § 7.86 41.92 § 7.39 5.12** ** p &lt; 0.01."
+    },
+    {
+      "text": "Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity physical activity; MIPA = moderate-intensity physical activity; NA = nonathletes.",
+      "text_id": 113,
+      "paragraph_id": 21,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Overall, athletic identity was positively correlated with HIPA (p < 0.01), MIPA (p < 0.01), and nutritional index (p < 0.01).",
+      "text_id": 114,
+      "paragraph_id": 22,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Overall, athletic identity was positively correlated with HIPA (p &lt; 0.01), MIPA (p &lt; 0.01), and nutritional index (p &lt; 0.01)."
+    },
+    {
+      "text": "The AIQ score was also found to have a negative relationship with active transportation (p < 0.05) and inactivity (p < 0.05).",
+      "text_id": 115,
+      "paragraph_id": 22,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "The AIQ score was also found to have a negative relationship with active transportation (p &lt; 0.05) and inactivity (p &lt; 0.05)."
+    },
+    {
+      "text": "Table 4 summarizes the relationships between lifestyle variables and AIQ scales.",
+      "text_id": 116,
+      "paragraph_id": 22,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Table <ref type=\"table\" target=\"#tab_2\">4<\/ref> summarizes the relationships between lifestyle variables and AIQ scales."
+    },
+    {
+      "text": "Fisher's arctanh transformation was used to test for potential correlation differences between groups.",
+      "text_id": 117,
+      "paragraph_id": 22,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The total AIQ score's relationship with HIPA was higher in the FA group compared with the AA group (z = ¡2.913, p < 0.01).",
+      "text_id": 118,
+      "paragraph_id": 22,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "The total AIQ score's relationship with HIPA was higher in the FA group compared with the AA group (z = ¡2.913, p &lt; 0.01)."
+    },
+    {
+      "text": "The same difference occurred with MIPA (z = ¡2.746, p < 0.01).",
+      "text_id": 119,
+      "paragraph_id": 22,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "The same difference occurred with MIPA (z = ¡2.746, p &lt; 0.01)."
+    },
+    {
+      "text": "The NA group showed stronger associations of total AIQ with HIPA, MIPA, and active transportation than the AA group.",
+      "text_id": 120,
+      "paragraph_id": 22,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One major difference can be found when examining the connection between total AIQ and active transportation: the correlation difference between these 2 variables was significant (z = ¡2.698, p < 0.05) when comparing the FA (r = 0.333) and NA (r = À0.222) groups.",
+      "text_id": 121,
+      "paragraph_id": 22,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "One major difference can be found when examining the connection between total AIQ and active transportation: the correlation difference between these 2 variables was significant (z = ¡2.698, p &lt; 0.05) when comparing the FA (r = 0.333) and NA (r = À0.222) groups."
+    },
+    {
+      "text": "Multiple linear regressions were used to predict physical behavior variables, the predictors being our 3 AIQ scales: appearance, competence, and importance.",
+      "text_id": 122,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Table 5 shows the explained variance for all the regression models.",
+      "text_id": 123,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Table <ref type=\"table\" target=\"#tab_3\">5<\/ref> shows the explained variance for all the regression models."
+    },
+    {
+      "text": "Active transportation was significantly predicted for all 3 groups, with the FA group having the lowest explained variance.",
+      "text_id": 124,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "HIPA prediction was significant for the FA (F(3, 182) = 14.175, p < 0.01) and NA (F(3, 50) = 11.388, p < 0.01) groups.",
+      "text_id": 125,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "HIPA prediction was significant for the FA (F(3, 182) = 14.175, p &lt; 0.01) and NA (F(3, 50) = 11.388, p &lt; 0.01) groups."
+    },
+    {
+      "text": "Regression models for MIPA were also significant for the FA (F(3, 148) = 3.758, p < 0.05) and NA (F(3, 42) = 4.689, p < 0.05) groups, with the latter having the highest explained variance.",
+      "text_id": 126,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Regression models for MIPA were also significant for the FA (F(3, 148) = 3.758, p &lt; 0.05) and NA (F(3, 42) = 4.689, p &lt; 0.05) groups, with the latter having the highest explained variance."
+    },
+    {
+      "text": "Inactivity time models showed relatively small amounts of explained variance: only the FA model reached significance (F(3, 209) = 4.663, p < 0.01).",
+      "text_id": 127,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Inactivity time models showed relatively small amounts of explained variance: only the FA model reached significance (F(3, 209) = 4.663, p &lt; 0.01)."
+    },
+    {
+      "text": "When predicting nutritional index, the FA (F(3, 226) = 11.924, p < 0.01) and AA (F(3, 118) = 4.071, p < 0.01) models were significant.",
+      "text_id": 128,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "When predicting nutritional index, the FA (F(3, 226) = 11.924, p &lt; 0.01) and AA (F(3, 118) = 4.071, p &lt; 0.01) models were significant."
+    },
+    {
+      "text": "Overall, explained variance was significant for all FA regression models.",
+      "text_id": 129,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Predictability in the AA group was only significant for the active transportation and nutrition variables, and models for the NA group were all significant except for inactivity and nutrition.",
+      "text_id": 130,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Discussion",
+      "text_id": 131,
+      "paragraph_id": 24,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "<head n=\"4.\" >Discussion<\/head>"
+    },
+    {
+      "text": "The first purpose of this study was to better understand the impacts of sport status on athletic identity and postcareer healthy lifestyle behaviors (PA level and nutritional habits).",
+      "text_id": 132,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Primary results associated the highest athletic identity to the AA status, and the FA group had a greater attachment to the athletic role than the NA group.",
+      "text_id": 133,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As pointed out by Lamont-Mills and Christensen, 27 an athlete should have an athletic identity greater than that of an individual who has never practiced sport.",
+      "text_id": 134,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "As pointed out by Lamont-Mills and Christensen, <ref type=\"bibr\" target=\"#b26\">27<\/ref> an athlete should have an athletic identity greater than that of an individual who has never practiced sport."
+    },
+    {
+      "text": "As could be expected from previous work, 19 this type of self-perception seems to decrease steadily when an athlete leaves sport and becomes an ex-athlete.",
+      "text_id": 135,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "As could be expected from previous work, <ref type=\"bibr\" target=\"#b18\">19<\/ref> this type of self-perception seems to decrease steadily when an athlete leaves sport and becomes an ex-athlete."
+    },
+    {
+      "text": "Our results also showed that the age of participants negatively correlated with athletic identity.",
+      "text_id": 136,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Those results were expected, because athletic identity should wane when individuals get older. 1, 28 Gender differentiation regarding athletic identity only appeared in the NA group.",
+      "text_id": 137,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "Those results were expected, because athletic identity should wane when individuals get older. <ref type=\"bibr\" target=\"#b0\">1,<\/ref> <ref type=\"bibr\" target=\"#b27\">28<\/ref> Gender differentiation regarding athletic identity only appeared in the NA group."
+    },
+    {
+      "text": "Males in the NA group related more to the athletic identity or persona than females in the NA group, suggesting that sport identity dissimilarities between genders can be better shown within NA.",
+      "text_id": 138,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This finding corroborates several studies 1, 4, 29 indicating that, in the general population, men are more prone than women to value the athletic role and status.",
+      "text_id": 139,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "This finding corroborates several studies <ref type=\"bibr\" target=\"#b0\">1,<\/ref> <ref type=\"bibr\" target=\"#b3\">4,<\/ref> <ref type=\"bibr\" target=\"#b28\">29<\/ref> indicating that, in the general population, men are more prone than women to value the athletic role and status."
+    },
+    {
+      "text": "In contrast, the lack of athletic identity differences between genders in both the AA and FA groups was a noteworthy result found in the present study, which corroborates the result reported by Chen et al. 29 showing no difference between male and female student athletes with regard to the athletic role.",
+      "text_id": 140,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "In contrast, the lack of athletic identity differences between genders in both the AA and FA groups was a noteworthy result found in the present study, which corroborates the result reported by Chen et al. <ref type=\"bibr\" target=\"#b28\">29<\/ref> showing no difference between male and female student athletes with regard to the athletic role."
+    },
+    {
+      "text": "It would seem that athletic identity cannot help characterize genders in athletic or postathletic status.",
+      "text_id": 141,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Overall, the men's roles to some extent intertwined with athletic identity.",
+      "text_id": 142,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "If there is a difference between male and female NA, sport training and practices may enhance athletic identity in women.",
+      "text_id": 143,
+      "paragraph_id": 25,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The current findings also show that athletic identity can be affected by contextual variables, such as past competition level.",
+      "text_id": 144,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "FA who previously competed at the professional level were more likely to have a higher athletic identity score than FA at the provincial level.",
+      "text_id": 145,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This finding implies that the closer the athlete has gotten to the elite level, the more important one's association with the athletic role becomes.",
+      "text_id": 146,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This imprint of the athletic role could be linked to a more demanding sport context in terms of physical training, practice, competition, and traveling.",
+      "text_id": 147,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "From another standpoint, collective sport athletes and individual sport athletes showed differences regarding AIQ scores.",
+      "text_id": 148,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AA who practice individual sports related more to the athletic role than AA who practice collective sports.",
+      "text_id": 149,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A possible reason for this difference may be that, contrary to AA in collective sports, AA who practice individual sports are solely accountable for the resulting performance and outcome, both of which help to strengthen their self-identity and social identity. 30 Because athletic identity can be influenced by the nature of the sport activities one practices, 29 it seems reasonable for individual and collective sport athletes to be different regarding their self-definition.",
+      "text_id": 150,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "A possible reason for this difference may be that, contrary to AA in collective sports, AA who practice individual sports are solely accountable for the resulting performance and outcome, both of which help to strengthen their self-identity and social identity. <ref type=\"bibr\" target=\"#b29\">30<\/ref> Because athletic identity can be influenced by the nature of the sport activities one practices, <ref type=\"bibr\" target=\"#b28\">29<\/ref> it seems reasonable for individual and collective sport athletes to be different regarding their self-definition."
+    },
+    {
+      "text": "Nevertheless, this difference was not observed in the FA group, which suggests that the effect of the nature of the sport practiced on athletic identity may vanish during career transition.",
+      "text_id": 151,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Four facets of PA behavior were measured in the current study to address the second purpose of the study.",
+      "text_id": 152,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The groups did not differ in weekly active transportation.",
+      "text_id": 153,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This type of PA does not seem to be affected by retirement from sport, and to our knowledge no empirical studies have looked at this type of PA in a sport retirement context.",
+      "text_id": 154,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For leisure-time PA, major differences were found between AA, FA, and NA.",
+      "text_id": 155,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AA were the front runners for HIPA and MIPA practice, and FA and NA came in second and third, respectively.",
+      "text_id": 156,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This consistent decrease in weekly periods of PA across the 3 groups was confirmed by a significant monotonic test for both HIPA and MIPA.",
+      "text_id": 157,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These results are in line with conclusions of Sorenson et al., 7 who saw a significant difference in exercise behavior between alumni student athletes and student nonathletes.",
+      "text_id": 158,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "These results are in line with conclusions of Sorenson et al., <ref type=\"bibr\" target=\"#b6\">7<\/ref> who saw a significant difference in exercise behavior between alumni student athletes and student nonathletes."
+    },
+    {
+      "text": "In the same study, current NCAA student athletes showed a significantly superior PA level compared with the other 2 groups.",
+      "text_id": 159,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In the present study, proportions of both FA and NA who did not meet the recommended weekly level of PA were similar to what was observed in the general Canadian population.",
+      "text_id": 160,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This finding suggests that past athletic status does not dictate that FA will have healthier PA habits than the general population.",
+      "text_id": 161,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Finally, no group was found to be markedly different from the others in the amount of time they spent sitting or lying down during the week.",
+      "text_id": 162,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These results could indicate that retirement from sport may not favor a change in sedentary behaviors and that FA status is not a strong enough incentive to reduce sedentary time to a lower level than in the general population.",
+      "text_id": 163,
+      "paragraph_id": 27,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Regarding nutritional habits, AA had the best scores compared with the other 2 groups; FA and NA had statistically similar scores, although the FA group had the lowest score of the 3 groups.",
+      "text_id": 164,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, 79.13% of FA and 74.67% of NA had nutritional scores below the established nutritional benchmark and neither groups differed significantly on that criterion.",
+      "text_id": 165,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "According to these results, diet behaviors, which were at a healthier level during an athlete's career, seem to deteriorate in the after-career period, with a tendency to plunge below that found among NA.",
+      "text_id": 166,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These results differ from the findings reported by Fogelholm et al., 16 which showed that, for several types of sports, FA had healthier dietary habits than the reference groups.",
+      "text_id": 167,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "These results differ from the findings reported by Fogelholm et al., <ref type=\"bibr\" target=\"#b15\">16<\/ref> which showed that, for several types of sports, FA had healthier dietary habits than the reference groups."
+    },
+    {
+      "text": "Their study used a larger sample, which differed in composition from the present study in that it included only Olympic-level athletes. 16 In the present study, nutritional scores for FA tended to be higher when accounting for past competition levels.",
+      "text_id": 168,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "Their study used a larger sample, which differed in composition from the present study in that it included only Olympic-level athletes. <ref type=\"bibr\" target=\"#b15\">16<\/ref> In the present study, nutritional scores for FA tended to be higher when accounting for past competition levels."
+    },
+    {
+      "text": "Gender was also a significant factor when assessing nutritional behavior.",
+      "text_id": 169,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Women generally had a higher nutritional score than men, but only in the FA and NA groups did these differences attain significance.",
+      "text_id": 170,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It would seem that women in general favor more healthy nutrition behaviors compared with men and that past athletic status does not influence this gender asymmetry.",
+      "text_id": 171,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The results are in line with a recent Canadian survey 21 that showed women tended to eat more fruit and vegetables and drink less alcohol than men in a given month.",
+      "text_id": 172,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "The results are in line with a recent Canadian survey <ref type=\"bibr\" target=\"#b20\">21<\/ref> that showed women tended to eat more fruit and vegetables and drink less alcohol than men in a given month."
+    },
+    {
+      "text": "However, being male or female did not seem to have an effect regarding nutrition when competing in high-level sports.",
+      "text_id": 173,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Regardless of gender, athletes prioritize healthy nutritional habits to perform better in sports.",
+      "text_id": 174,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Athletes in individual sports seemed to have better eating habits compared with athletes in collective sports; however, this difference was not found in the FA group.",
+      "text_id": 175,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The literature concerning this particular dimension in sports career transition is, to date, scarce at best.",
+      "text_id": 176,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "One hypothesis could be that performance in individual sports is based mainly on an individual's training and preparation, which includes diet decisions to optimize the body's readiness to compete, whereas athletes in collective sports rely on mutual collaboration and group adherence to achieve the best results.",
+      "text_id": 177,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Diet decisions might, however, be adjusted because sport performance objectives may change at career's end.",
+      "text_id": 178,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Overall, the sport environment requires athletes to structure their diet, just as training is necessary for better performance.",
+      "text_id": 179,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Once the athletic status changes, these nutritional needs are modified and constraints are removed.",
+      "text_id": 180,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As mentioned by Maciejewska et al., 31 some athletes decrease their PA but do not adjust their dietary habits after retirement.",
+      "text_id": 181,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "As mentioned by Maciejewska et al., <ref type=\"bibr\" target=\"#b30\">31<\/ref> some athletes decrease their PA but do not adjust their dietary habits after retirement."
+    },
+    {
+      "text": "This finding might explain why, in our results, FA in large part did not reach the proposed nutritional criteria and did not fare better than NA in this way.",
+      "text_id": 182,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Additionally, the AA variable seems to supersede other variables such as gender, competition level, or type of sport when it comes to nutritional habits.",
+      "text_id": 183,
+      "paragraph_id": 28,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In our study, the relationship between athletic identity and HIPA and MIPA was strongly positive and significant.",
+      "text_id": 184,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "However, a more thorough analysis showed this relationship to be present only for the FA and NA groups.",
+      "text_id": 185,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Correlation analysis showed some positive and significant relationships between AIQ scales and PA variables for the FA and NA.",
+      "text_id": 186,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Multiple linear prediction models have shown significant predictive variance for both PA levels in the FA and NA groups.",
+      "text_id": 187,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These findings support those of Reifsteck et al., 2 who suggested that athletic identity was not a strong predictor of a more general type of PA participation.",
+      "text_id": 188,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "These findings support those of Reifsteck et al., <ref type=\"bibr\" target=\"#b1\">2<\/ref> who suggested that athletic identity was not a strong predictor of a more general type of PA participation."
+    },
+    {
+      "text": "The present study suggests that prediction models are more efficient in predicting HIPA and MIPA for populations that are not actually competing in highlevel sports (FA and NA).",
+      "text_id": 189,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This is possibly due to restricted variance of both the athletic identity and PA variables in AA and the fact that their PA is somewhat \"externally\" regulated, freeing it from personal determinants.",
+      "text_id": 190,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Athletic identity levels in AA are higher compared with other groups, but this identity is not specifically linked to their sport practice.",
+      "text_id": 191,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Indeed, correlations between AIQ and PA diverge when comparing AA with FA and NA.",
+      "text_id": 192,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thus, the more we perceived ourselves to be athletes, the more likely we are to practice PA and sports, unless we are AA.",
+      "text_id": 193,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It seems that AA possess a self-perception that reflects their status without being a predictive determinant of practicing sport.",
+      "text_id": 194,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "It seems appropriate to assume that motivation to practice a sport during one's career differs from athletic identity, which is strongly intrinsic in AA.",
+      "text_id": 195,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Athletic status (being an athlete) in itself may be a strong enough condition so that it substitutes for athletic identity when it comes to sport practice during leisure time.",
+      "text_id": 196,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After the end of the sport career, HIPA and MIPA practice can be more easily determined by the dimensions of athletic identity: the athletic status, the strongest determinant of managed sport participation, is no longer present.",
+      "text_id": 197,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "FA and NA are, by definition, not AA, but as mentioned by Anderson, 5 everyone possesses some level of athletic identity, however small it may be.",
+      "text_id": 198,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": "FA and NA are, by definition, not AA, but as mentioned by Anderson, <ref type=\"bibr\" target=\"#b4\">5<\/ref> everyone possesses some level of athletic identity, however small it may be."
+    },
+    {
+      "text": "This athletic identity, which remains from the past career for FA and as the sum of past sport experiences for NA, is strongly and positively related to PA and sport practice.",
+      "text_id": 199,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Therefore, athletic identity constitutes a good predictor for both FA and NA because their athletic status no longer regulates their PA behaviors.",
+      "text_id": 200,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Some limitations must be considered regarding the present results.",
+      "text_id": 201,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Self-reported PA levels and nutritional behaviors can be influenced by social desirability and may not reliably represent actual PA practice or nutritional behavior.",
+      "text_id": 202,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A longitudinal study design including several lifestyle measures at different points in time may prove helpful in having participants accurately report their activities.",
+      "text_id": 203,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In general, people tend to overreport PA and underestimate inactivity. 32 Also, lifestyle variables were not normally distributed, as would be expected from socially desirable answers.",
+      "text_id": 204,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "In general, people tend to overreport PA and underestimate inactivity. <ref type=\"bibr\" target=\"#b31\">32<\/ref> Also, lifestyle variables were not normally distributed, as would be expected from socially desirable answers."
+    },
+    {
+      "text": "To remediate this situation, a log transformation was used before all analyses.",
+      "text_id": 205,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In this study, there was a recruiting challenge for FA because FA are usually not attached to any organization or group once their career has ended. 1 The present study relied on recruitments of FA from the first author's relations, universities, and athletics department, as well as nonprofit organizations such as the Fondation de l'athl ete d'excellence du Qu ebec.",
+      "text_id": 206,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": "In this study, there was a recruiting challenge for FA because FA are usually not attached to any organization or group once their career has ended. <ref type=\"bibr\" target=\"#b0\">1<\/ref> The present study relied on recruitments of FA from the first author's relations, universities, and athletics department, as well as nonprofit organizations such as the Fondation de l'athl ete d'excellence du Qu ebec."
+    },
+    {
+      "text": "This factor may also explain the unbalanced sample for our 3 groups.",
+      "text_id": 207,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The conclusions drawn from this study may be limited by the cultural context of Qu ebec.",
+      "text_id": 208,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To better understand the impact of sport career transition on FA lifestyle, a longitudinal study design should be used, and it should include a transition model where a wider range of lifestyle variables are measured, including anthropometric measures, sleeping patterns, and medical histories of illnesses and injuries.",
+      "text_id": 209,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The degree of self-identification with the athletic role is clearly associated with PA practice and nutritional habits in the postsport career.",
+      "text_id": 210,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Athletic identity is a good positive predictor of HIPA and MIPA and nutritional habits among FA and NA.",
+      "text_id": 211,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This association, however, does not apply to AA, even though they fully embrace their role as sport performers.",
+      "text_id": 212,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Their personal PA levels, although higher than those of FA and NA, correlate negatively or not at all with their athletic identity scores.",
+      "text_id": 213,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "During the athletic career, the athletic status substitutes for personal factors in predicting PA practice, and these factors become effective once the AA status vanishes.",
+      "text_id": 214,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sport retirement may affect quality of nutritional habits that tend to decrease below the level of NA, especially for male FA.",
+      "text_id": 215,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "FA do not benefit from their past athletic status in protection against chronic diseases.",
+      "text_id": 216,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "High-level sports put athletes in a unique environment that does not favor long-term PA practice after the career is over.",
+      "text_id": 217,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Some practical implications may include for athletes' support staff (e.g., sport psychologists) or other stakeholders involved with athletes, to use the present results for counseling or other type of interventions to help prepare AA for retirement.",
+      "text_id": 218,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "AA should be made aware of how to include and implement other form of PA than their main sport during their career to identify themselves to something other than only high-level sport.",
+      "text_id": 219,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A postcareer follow-up may also be warranted.",
+      "text_id": 220,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Future research should longitudinally examine lifestyle behaviors in the different stages of sport retirement while taking into account particular sports to help future retirees in dealing with their postathletic career transition process.",
+      "text_id": 221,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors acknowledge the contribution of participants in the study.",
+      "text_id": 222,
+      "paragraph_id": 32,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors declare that they have no competing interests.",
+      "text_id": 223,
+      "paragraph_id": 33,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors each contributed to all aspects of this research, which was part of the doctoral works of Pierre-Luc Yao.",
+      "text_id": 224,
+      "paragraph_id": 34,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All authors have read and approved the final version of the manuscript, and agree with the order of presentation of the authors.",
+      "text_id": 225,
+      "paragraph_id": 34,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Descriptive statistics for AIQ scales for AA, FA, and NA by gender.",
+      "text_id": 226,
+      "paragraph_id": 35,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Former athletes Athlete Identity Questionnaire scores comparisons between competition levels (mean § SD).",
+      "text_id": 227,
+      "paragraph_id": 36,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Correlation between behavioral variables and AIQ scales for all 3 groups combined.",
+      "text_id": 228,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "2 for multiple linear regressions of lifestyle variables on the appearance, competence, and importance scales.",
+      "text_id": 229,
+      "paragraph_id": 38,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": "<ref type=\"bibr\" target=\"#b1\">2<\/ref> for multiple linear regressions of lifestyle variables on the appearance, competence, and importance scales."
+    },
+    {
+      "text": "Reifsteck EJ, Gill DL, Brooks DL. The relationship between athletic iden- tity and physical activity among former college athletes. Athl Insight 2013;5:271-84.",
+      "text_id": 230,
+      "paragraph_id": 39,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Reifsteck EJ, Gill DL, Labban JD. \"Athletes\" and \"exercisers\": under- standing identity, motivation, and physical activity participation in former college athletes. Sport Exerc Perform Psychol 2016;5:25-38.",
+      "text_id": 231,
+      "paragraph_id": 40,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Brewer BW, Van Raalte JL, Linder DE. Athletic identity: Hercules' muscles or Achilles heel? Int J Sport Psychol 1993;24:237-54.",
+      "text_id": 232,
+      "paragraph_id": 41,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Webb WM, Nasco SA, Riley S, Headrick B. Athlete identity and reactions to retirement from sports. J Sport Behav 1998;21:338-62.",
+      "text_id": 233,
+      "paragraph_id": 42,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Anderson CB. Athletic identity and its relation to exercise behavior: scale development and initial validation. J Sport Exerc Psychol 2004;26:39-56.",
+      "text_id": 234,
+      "paragraph_id": 43,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Reifsteck EJ. The relationship between athletic identity and physical activity levels after retirement from collegiate sports. Greensboro, NC: University of North Carolina; 2011. [Master's thesis].",
+      "text_id": 235,
+      "paragraph_id": 44,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sorenson SC, Romano R, Azen SP, Schroeder ET, Salem GJ. Life span exercise among elite intercollegiate student athletes. Sports Health 2015;7:80-6.",
+      "text_id": 236,
+      "paragraph_id": 45,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wong H. The transition process from competitive sport to retirement: future engagement in physical activity and involvement in figure skating. Toronto: York University; 2010. [Master's thesis].",
+      "text_id": 237,
+      "paragraph_id": 46,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "9. Coakley JJ. Leaving competitive sport: retirement or rebirth? Quest 1983;35:1-11.",
+      "text_id": 238,
+      "paragraph_id": 47,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Sinclair DA, Orlick T. Positive transitions from high-performance sport. Sport Psychol 1993;7:138-50.",
+      "text_id": 239,
+      "paragraph_id": 48,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Stephan Y, Bilard J, Ninot G, Delignieres D. Repercussions of transition out of elite sport on subjective well-being: a one-year study. J Appl Sport Psychol 2003;15:354-71.",
+      "text_id": 240,
+      "paragraph_id": 49,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Witkowski S, Spangenburg EE. Reduced physical activity and the retired athlete: a dangerous combination? Br J Sports Med 2008;42:952-3.",
+      "text_id": 241,
+      "paragraph_id": 50,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Booth FW, Roberts CK. Linking performance and chronic disease risk: indices of physical performance are surrogates for health. Br J Sports Med 2008;42:950-2.",
+      "text_id": 242,
+      "paragraph_id": 51,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Kujala UM, Marti P, Kaprio J, Hernelahti M, Tikkanen H, Sarna S. Occur- rence of chronic disease in former top-level athletes: predominance of benefits, risks or selection effects? Sports Med 2003;33:553-61.",
+      "text_id": 243,
+      "paragraph_id": 52,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lynch NA, Ryan AS, Evans J, Katzel LI, Goldberg AP. Older elite foot- ball players have reduced cardiac and osteoporosis risk factors. Med Sci Sports Exerc 2007;39:1124-30.",
+      "text_id": 244,
+      "paragraph_id": 53,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fogelholm M, Kaprio J, Sarna S. Healthy lifestyles of former Finnish world class athletes. Med Sci Sports Exerc 1994;26:224-9.",
+      "text_id": 245,
+      "paragraph_id": 54,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Yao P-L, Trudeau F, Laurencelle L. Anderson's athletic identity concept: French validation of the Athletic Identity Questionnaire. Manuscript accepted for publication, Int J Appl Sport Sci 2018;30:111-25.",
+      "text_id": 246,
+      "paragraph_id": 55,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Armstrong T, Bull F. Development of the World Health Organization Global Physical Activity Questionnaire (GPAQ). J Public Health 2006;14:66-70.",
+      "text_id": 247,
+      "paragraph_id": 56,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "World Health Organization (WHO). WHO STEPS Surveillance Manual: the WHO STEPwise approach to chronic disease risk factor surveillance. Geneva: WHO; 2005. Available at: http://apps.who.int/iris/handle/10665/ 43376. [accessed 10.01.2018].",
+      "text_id": 248,
+      "paragraph_id": 57,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pescatello LS, Arena R, Riebe D, Thompson PD. ACSM's Guidelines for Exercise Testing and Prescription. Baltimore, MD: Lippincott Williams & Wilkins; 2014.",
+      "text_id": 249,
+      "paragraph_id": 58,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Statistics Canada. Canadian Community Health Survey (CCHS) (Statis- tique Canada. Enquête sur la sant e dans les collectivit es canadiennes), 2007-2008, 2009-2010,2011-2012 et 2013-2014. Adapted by the Institut de la statistique du Qu ebec. 2016. Available at: https://stat.gouv.qc.ca/ enquetes/sante/escc.html. [accessed 18.09.2018]. [in French].",
+      "text_id": 250,
+      "paragraph_id": 59,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Turconi G, Celsa M, Rezzani C, Biino G, Sartirana MA, Roggi C. Reliability of a dietary questionnaire on food habits, eating behaviour and nutritional knowledge of adolescents. Eur J Clin Nutr 2003;57:753-63.",
+      "text_id": 251,
+      "paragraph_id": 60,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Health Canada. Eating well with Canada's Food Guide. Available at: https://www.canada.ca/en/health-canada/services/food-nutrition/canada- food-guide/get-your-copy.html. [accessed 27.03.2018].",
+      "text_id": 252,
+      "paragraph_id": 61,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Brunk H, Barlow R, Bartholomew D, Bremner J. Statistical inference under order restrictions: the theory and application of isotonic regression. New York, NY: John Wiley & Sons Ltd.; 1972.",
+      "text_id": 253,
+      "paragraph_id": 62,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Laurencelle L, Dupuis FA. Statistical tables, explained and applied. Sin- gapore: World Scientific; 2002.",
+      "text_id": 254,
+      "paragraph_id": 63,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Statistics Canada. Survey measures of health: physical activity measured by Canadians. (Enquête canadienne sur les mesures de la sant e: activit e physique directement mesur ee chez les Canadiens), 2012À2013. Avail- able at: https://www150.statcan.gc.ca/n1/pub/82-625-x/2015001/article/ 14135-fra.htm. [accessed 27.03.2018]. [in French].",
+      "text_id": 255,
+      "paragraph_id": 64,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lamont-Mills A, Christensen SA. Athletic identity and its relationship to sport participation levels. J Sci Med Sport 2006;9:472-8.",
+      "text_id": 256,
+      "paragraph_id": 65,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Houle JLW, Brewer BW, Kluck AS. Developmental trends in athletic identity: a two-part retrospective study. J Sport Behav 2010;33: 146-59.",
+      "text_id": 257,
+      "paragraph_id": 66,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Chen S, Snyder S, Magner M. The effects of sport participation on stu- dent-athletes' and non-athlete students' social life and identity. J Issues Interchol Athl 2010;3:176-93.",
+      "text_id": 258,
+      "paragraph_id": 67,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hadiyan HM, Sheikh M. How different sports establish different athletic identity levels. Int J Kin Sports Sci 2015;3:28-32.",
+      "text_id": 259,
+      "paragraph_id": 68,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Maciejewska D, Michalczyk M, Czerwi nska-Rogowska M, Banaszc- zak M, Ryterska K, Jakubczyk K, et al. Seeking optimal nutrition for healthy body mass reduction among former athletes. J Hum Kin 2017;60:63-75.",
+      "text_id": 260,
+      "paragraph_id": 69,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Shephard RJ. Limits to the measurement of habitual physical activity by questionnaires. Br J Sports Med 2003;37:197-206.",
+      "text_id": 261,
+      "paragraph_id": 70,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Participants",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Measures",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.2.1. AIQ",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.2.2. GPAQ",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.2.3. Nutritional index",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "2.3. Procedures",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "2.4. Statistical analysis",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "3.1.1. Athletic identity",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "3.1.2. PA",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "3.1.3. Dietary habits",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "3.2. Lifestyle behaviors and athletic identity across different sport statuses",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "4.1. Impacts of sport status on athletic identity and lifestyle",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "4.2. Lifestyle behaviors and athletic identity across different sport statuses",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "4.3. Limitations",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "5. Conclusion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Acknowledgment",
+      "parent_section_id": null,
+      "section_type": "acknowledgement",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": "Competing interests",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "Authors' contribution",
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 24,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 25,
+      "header": "Table 2",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 26,
+      "header": "Table 4",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 27,
+      "header": "Table 5 R",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 28,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The relationship between athletic identity and physical activity among former college athletes",
+      "authors": "Reifsteck, E J; Gill, D L; Brooks, D L",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "5",
+      "issue": "",
+      "first_page": "271",
+      "last_page": "284",
+      "container": "Athl Insight",
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 230
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Athletes\" and \"exercisers\": understanding identity, motivation, and physical activity participation in former college athletes",
+      "authors": "Reifsteck, E J; Gill, D L; Labban, J D",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "5",
+      "issue": "",
+      "first_page": "25",
+      "last_page": "38",
+      "container": "Sport Exerc Perform Psychol",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 231
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Athletic identity: Hercules' muscles or Achilles heel?",
+      "authors": "Brewer, B W; Van Raalte, J L; Linder, D E",
+      "editors": "",
+      "publisher": "",
+      "year": 1993,
+      "volume": "24",
+      "issue": "",
+      "first_page": "237",
+      "last_page": "254",
+      "container": "Int J Sport Psychol",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 232
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Athlete identity and reactions to retirement from sports",
+      "authors": "Webb, W M; Nasco, S A; Riley, S; Headrick, B",
+      "editors": "",
+      "publisher": "",
+      "year": 1998,
+      "volume": "21",
+      "issue": "",
+      "first_page": "338",
+      "last_page": "362",
+      "container": "J Sport Behav",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 233
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Athletic identity and its relation to exercise behavior: scale development and initial validation",
+      "authors": "Anderson, C B",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "26",
+      "issue": "",
+      "first_page": "39",
+      "last_page": "56",
+      "container": "J Sport Exerc Psychol",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 234
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "The relationship between athletic identity and physical activity levels after retirement from collegiate sports",
+      "authors": "Reifsteck, E J",
+      "editors": "",
+      "publisher": "University of North Carolina",
+      "year": 2011,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 235
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Life span exercise among elite intercollegiate student athletes",
+      "authors": "Sorenson, S C; Romano, R; Azen, S P; Schroeder, E T; Salem, G J",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "7",
+      "issue": "",
+      "first_page": "80",
+      "last_page": "86",
+      "container": "Sports Health",
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 236
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "The transition process from competitive sport to retirement: future engagement in physical activity and involvement in figure skating",
+      "authors": "Wong, H",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 237
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Leaving competitive sport: retirement or rebirth?",
+      "authors": "",
+      "editors": "",
+      "publisher": "",
+      "year": 1983,
+      "volume": "35",
+      "issue": "",
+      "first_page": "1",
+      "last_page": "11",
+      "container": "Quest",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 238
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Positive transitions from high-performance sport",
+      "authors": "Sinclair, D A; Orlick, T",
+      "editors": "",
+      "publisher": "",
+      "year": 1993,
+      "volume": "7",
+      "issue": "",
+      "first_page": "138",
+      "last_page": "150",
+      "container": "Sport Psychol",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 239
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Repercussions of transition out of elite sport on subjective well-being: a one-year study",
+      "authors": "Stephan, Y; Bilard, J; Ninot, G; Delignieres, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "15",
+      "issue": "",
+      "first_page": "354",
+      "last_page": "371",
+      "container": "J Appl Sport Psychol",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 240
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Reduced physical activity and the retired athlete: a dangerous combination?",
+      "authors": "Witkowski, S; Spangenburg, E E",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "42",
+      "issue": "",
+      "first_page": "952",
+      "last_page": "953",
+      "container": "Br J Sports Med",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 241
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Linking performance and chronic disease risk: indices of physical performance are surrogates for health",
+      "authors": "Booth, F W; Roberts, C K",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "42",
+      "issue": "",
+      "first_page": "950",
+      "last_page": "952",
+      "container": "Br J Sports Med",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 242
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Occurrence of chronic disease in former top-level athletes: predominance of benefits, risks or selection effects",
+      "authors": "Kujala, U M; Marti, P; Kaprio, J; Hernelahti, M; Tikkanen, H; Sarna, S",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "33",
+      "issue": "",
+      "first_page": "553",
+      "last_page": "561",
+      "container": "Sports Med",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 243
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Older elite football players have reduced cardiac and osteoporosis risk factors",
+      "authors": "Lynch, N A; Ryan, A S; Evans, J; Katzel, L I; Goldberg, A P",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "39",
+      "issue": "",
+      "first_page": "1124",
+      "last_page": "1130",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 244
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Healthy lifestyles of former Finnish world class athletes",
+      "authors": "Fogelholm, M; Kaprio, J; Sarna, S",
+      "editors": "",
+      "publisher": "",
+      "year": 1994,
+      "volume": "26",
+      "issue": "",
+      "first_page": "224",
+      "last_page": "229",
+      "container": "Med Sci Sports Exerc",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 245
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Anderson's athletic identity concept: French validation of the Athletic Identity Questionnaire. Manuscript accepted for publication",
+      "authors": "Yao, P-L; Trudeau, F; Laurencelle, L",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "30",
+      "issue": "",
+      "first_page": "111",
+      "last_page": "125",
+      "container": "Int J Appl Sport Sci",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 246
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Development of the World Health Organization Global Physical Activity Questionnaire (GPAQ)",
+      "authors": "Armstrong, T; Bull, F",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "14",
+      "issue": "",
+      "first_page": "66",
+      "last_page": "70",
+      "container": "J Public Health",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 247
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "WHO STEPS Surveillance Manual: the WHO STEPwise approach to chronic disease risk factor surveillance",
+      "authors": "",
+      "editors": "",
+      "publisher": "World Health Organization (WHO)",
+      "year": 2005,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 248
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "ACSM's Guidelines for Exercise Testing and Prescription",
+      "authors": "Pescatello, L S; Arena, R; Riebe, D; Thompson, P D",
+      "editors": "",
+      "publisher": "Lippincott Williams & Wilkins",
+      "year": 2014,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 249
+    },
+    {
+      "bib_type": "misc",
+      "doi": "",
+      "title": "Enquête sur la sant e dans les collectivit es canadiennes)",
+      "authors": "",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 250
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Reliability of a dietary questionnaire on food habits, eating behaviour and nutritional knowledge of adolescents",
+      "authors": "Turconi, G; Celsa, M; Rezzani, C; Biino, G; Sartirana, M A; Roggi, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "57",
+      "issue": "",
+      "first_page": "753",
+      "last_page": "763",
+      "container": "Eur J Clin Nutr",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 251
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Eating well with Canada's Food Guide",
+      "authors": "Canada, Health",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 252
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Statistical inference under order restrictions: the theory and application of isotonic regression",
+      "authors": "Brunk, H; Barlow, R; Bartholomew, D; Bremner, J",
+      "editors": "",
+      "publisher": "John Wiley & Sons Ltd",
+      "year": 1972,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 253
+    },
+    {
+      "bib_type": "book",
+      "doi": "",
+      "title": "Statistical tables, explained and applied",
+      "authors": "Laurencelle, L; Dupuis, F A",
+      "editors": "",
+      "publisher": "World Scientific",
+      "year": 2002,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": null,
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 254
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Survey measures of health: physical activity measured by Canadians. (Enquête canadienne sur les mesures de la sant e: activit e physique directement mesur ee chez les Canadiens)",
+      "authors": "",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "",
+      "issue": "",
+      "first_page": null,
+      "last_page": null,
+      "container": "Statistics Canada",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 255
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Athletic identity and its relationship to sport participation levels",
+      "authors": "Lamont-Mills, A; Christensen, S A",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "9",
+      "issue": "",
+      "first_page": "472",
+      "last_page": "478",
+      "container": "J Sci Med Sport",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 256
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Developmental trends in athletic identity: a two-part retrospective study",
+      "authors": "Houle, Jlw; Brewer, B W; Kluck, A S",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "33",
+      "issue": "",
+      "first_page": "146",
+      "last_page": "159",
+      "container": "J Sport Behav",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 257
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The effects of sport participation on student-athletes' and non-athlete students' social life and identity",
+      "authors": "Chen, S; Snyder, S; Magner, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "3",
+      "issue": "",
+      "first_page": "176",
+      "last_page": "193",
+      "container": "J Issues Interchol Athl",
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 258
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "How different sports establish different athletic identity levels",
+      "authors": "Hadiyan, H M; Sheikh, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "3",
+      "issue": "",
+      "first_page": "28",
+      "last_page": "32",
+      "container": "Int J Kin Sports Sci",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 259
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Seeking optimal nutrition for healthy body mass reduction among former athletes",
+      "authors": "Maciejewska, D; Michalczyk, M; Czerwi Nska-Rogowska, M; Banaszczak, M; Ryterska, K; Jakubczyk, K",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "60",
+      "issue": "",
+      "first_page": "63",
+      "last_page": "75",
+      "container": "J Hum Kin",
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 260
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Limits to the measurement of habitual physical activity by questionnaires",
+      "authors": "Shephard, R J",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "37",
+      "issue": "",
+      "first_page": "197",
+      "last_page": "206",
+      "container": "Br J Sports Med",
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 261
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1,",
+      "text_id": 12
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2",
+      "text_id": 12
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3",
+      "text_id": 14
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4",
+      "text_id": 14
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 15
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1,",
+      "text_id": 15
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2,",
+      "text_id": 15
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4,",
+      "text_id": 15
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 15
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 15
+    },
+    {
+      "xref_id": null,
+      "xref_type": "bibr",
+      "contents": "1,6À8",
+      "text_id": 15
+    },
+    {
+      "xref_id": null,
+      "xref_type": "bibr",
+      "contents": "1,6À8",
+      "text_id": 15
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 15
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 15
+    },
+    {
+      "xref_id": null,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 16
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 17
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 17
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 17
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13",
+      "text_id": 18
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 18
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 19
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15",
+      "text_id": 21
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 22
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 42
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 44
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18,",
+      "text_id": 45
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "19",
+      "text_id": 45
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 45
+    },
+    {
+      "xref_id": 19,
+      "xref_type": "bibr",
+      "contents": "20",
+      "text_id": 47
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 48
+    },
+    {
+      "xref_id": 21,
+      "xref_type": "bibr",
+      "contents": "22",
+      "text_id": 52
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 53
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "24,",
+      "text_id": 65
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 65
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 73
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "table",
+      "contents": "2",
+      "text_id": 84
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26",
+      "text_id": 90
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 94
+    },
+    {
+      "xref_id": null,
+      "xref_type": "table",
+      "contents": "3",
+      "text_id": 102
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "table",
+      "contents": "4",
+      "text_id": 116
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "table",
+      "contents": "5",
+      "text_id": 123
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 134
+    },
+    {
+      "xref_id": 18,
+      "xref_type": "bibr",
+      "contents": "19",
+      "text_id": 135
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1,",
+      "text_id": 137
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 137
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1,",
+      "text_id": 139
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4,",
+      "text_id": 139
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 139
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 140
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 150
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29",
+      "text_id": 150
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 158
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 167
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 168
+    },
+    {
+      "xref_id": 20,
+      "xref_type": "bibr",
+      "contents": "21",
+      "text_id": 172
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31",
+      "text_id": 181
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2",
+      "text_id": 188
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 198
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 204
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 206
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2",
+      "text_id": 229
+    }
+  ],
+  "figure": [],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 24,
+      "html": "<table>\n  <row>\n    <cell/>\n    <cell cols=\"2\">AA (n = 122)<\/cell>\n    <cell cols=\"2\">FA (n = 230)<\/cell>\n    <cell/>\n    <cell>NA (n = 74)<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>Women<\/cell>\n    <cell>Men<\/cell>\n    <cell>Women<\/cell>\n    <cell>Men<\/cell>\n    <cell>Women<\/cell>\n    <cell>Men<\/cell>\n  <\/row>\n  <row>\n    <cell>Appearance<\/cell>\n    <cell>26.93  § 2.81<\/cell>\n    <cell>26.39  § 2.79<\/cell>\n    <cell>24.35  § 4.34<\/cell>\n    <cell>23.34  § 5.43<\/cell>\n    <cell>21.96  § 4.71<\/cell>\n    <cell>25.00  § 3.84*<\/cell>\n  <\/row>\n  <row>\n    <cell>Competence<\/cell>\n    <cell>21.93  § 2.41<\/cell>\n    <cell>21.80  § 2.72<\/cell>\n    <cell>21.65  § 2.67<\/cell>\n    <cell>22.26  § 2.71<\/cell>\n    <cell>19.2  § 4.05<\/cell>\n    <cell>21.27  § 3.92<\/cell>\n  <\/row>\n  <row>\n    <cell>Importance<\/cell>\n    <cell>24.62  § 3.23<\/cell>\n    <cell>24.49  § 2.82<\/cell>\n    <cell>20.33  § 5.24<\/cell>\n    <cell>20.97  § 5.76<\/cell>\n    <cell>22.11  § 4.23<\/cell>\n    <cell>21.93  § 5.47<\/cell>\n  <\/row>\n  <row>\n    <cell>Total AIQ<\/cell>\n    <cell>73.49  § 5.91<\/cell>\n    <cell>72.69  § 5.67<\/cell>\n    <cell>66.33  § 9.94<\/cell>\n    <cell>66.56  § 12.22<\/cell>\n    <cell>63.27  § 10.92<\/cell>\n    <cell>68.20  § 10.94*<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["", "AA (n = 122) / Women", "AA (n = 122) / Men", "FA (n = 230) / Women", "FA (n = 230) / Men", "Women", "NA (n = 74) / Men"],
+        ["Appearance", "26.93 § 2.81", "26.39 § 2.79", "24.35 § 4.34", "23.34 § 5.43", "21.96 § 4.71", "25.00 § 3.84*"],
+        ["Competence", "21.93 § 2.41", "21.80 § 2.72", "21.65 § 2.67", "22.26 § 2.71", "19.2 § 4.05", "21.27 § 3.92"],
+        ["Importance", "24.62 § 3.23", "24.49 § 2.82", "20.33 § 5.24", "20.97 § 5.76", "22.11 § 4.23", "21.93 § 5.47"],
+        ["Total AIQ", "73.49 § 5.91", "72.69 § 5.67", "66.33 § 9.94", "66.56 § 12.22", "63.27 § 10.92", "68.20 § 10.94*"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 2,
+      "section_id": 25,
+      "html": "<table>\n  <row>\n    <cell/>\n    <cell>Provincial (n = 18)<\/cell>\n    <cell>National (n = 120)<\/cell>\n    <cell>International (n = 65)<\/cell>\n    <cell>Professional (n = 27)<\/cell>\n  <\/row>\n  <row>\n    <cell>Appearance<\/cell>\n    <cell>23.97  § 4.89<\/cell>\n    <cell>24.41  § 4.55<\/cell>\n    <cell>25.56  § 4.39<\/cell>\n    <cell>25.78  § 4.42<\/cell>\n  <\/row>\n  <row>\n    <cell>Competence<\/cell>\n    <cell>21.44  § 2.51<\/cell>\n    <cell>21.93  § 2.60<\/cell>\n    <cell>21.87  § 2.83<\/cell>\n    <cell>22.70  § 2.32<\/cell>\n  <\/row>\n  <row>\n    <cell>Importance<\/cell>\n    <cell>22.31  § 4.83<\/cell>\n    <cell>21.81  § 4.97<\/cell>\n    <cell>22.11  § 5.50<\/cell>\n    <cell>22.59  § 5.94<\/cell>\n  <\/row>\n  <row>\n    <cell>Total AIQ<\/cell>\n    <cell>61.56  § 10.17<\/cell>\n    <cell>66.43  § 11.31<\/cell>\n    <cell>66.24  § 10.70<\/cell>\n    <cell>69.89  § 12.25<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["", "Provincial (n = 18)", "National (n = 120)", "International (n = 65)", "Professional (n = 27)"],
+        ["Appearance", "23.97 § 4.89", "24.41 § 4.55", "25.56 § 4.39", "25.78 § 4.42"],
+        ["Competence", "21.44 § 2.51", "21.93 § 2.60", "21.87 § 2.83", "22.70 § 2.32"],
+        ["Importance", "22.31 § 4.83", "21.81 § 4.97", "22.11 § 5.50", "22.59 § 5.94"],
+        ["Total AIQ", "61.56 § 10.17", "66.43 § 11.31", "66.24 § 10.70", "69.89 § 12.25"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 3,
+      "section_id": 26,
+      "html": "<table>\n  <row>\n    <cell/>\n    <cell cols=\"4\">Appearance Competence Importance Total<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>AIQ<\/cell>\n  <\/row>\n  <row>\n    <cell>Active transportation<\/cell>\n    <cell>¡0.059<\/cell>\n    <cell>¡0.070<\/cell>\n    <cell>¡0.194**<\/cell>\n    <cell>¡0.138*<\/cell>\n  <\/row>\n  <row>\n    <cell>(h/week)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>HIPA (h/week)<\/cell>\n    <cell>0.297**<\/cell>\n    <cell>0.218**<\/cell>\n    <cell>0.430**<\/cell>\n    <cell>0.413**<\/cell>\n  <\/row>\n  <row>\n    <cell>MIPA (h/week)<\/cell>\n    <cell>0.219**<\/cell>\n    <cell>0.147*<\/cell>\n    <cell>0.196**<\/cell>\n    <cell>0.237**<\/cell>\n  <\/row>\n  <row>\n    <cell>Inactivity (h/week)<\/cell>\n    <cell>¡0.170**<\/cell>\n    <cell>¡0.061<\/cell>\n    <cell>¡0.039<\/cell>\n    <cell>¡0.113*<\/cell>\n  <\/row>\n  <row>\n    <cell>Nutritional index<\/cell>\n    <cell>0.283**<\/cell>\n    <cell>0.115*<\/cell>\n    <cell>0.323**<\/cell>\n    <cell>0.315**<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Active transportation / (h/week)", "Appearance Competence Importance Total / ¡0.059", "Appearance Competence Importance Total / ¡0.070", "Appearance Competence Importance Total / ¡0.194**", "Appearance Competence Importance Total / AIQ / ¡0.138*"],
+        ["HIPA (h/week)", "0.297**", "0.218**", "0.430**", "0.413**"],
+        ["MIPA (h/week)", "0.219**", "0.147*", "0.196**", "0.237**"],
+        ["Inactivity (h/week)", "¡0.170**", "¡0.061", "¡0.039", "¡0.113*"],
+        ["Nutritional index", "0.283**", "0.115*", "0.323**", "0.315**"]
+      ],
+      "page_number": null
+    },
+    {
+      "table_id": 4,
+      "section_id": 27,
+      "html": "<table>\n  <row>\n    <cell/>\n    <cell>Active<\/cell>\n    <cell>HIPA<\/cell>\n    <cell>MIPA<\/cell>\n    <cell>Inactivity<\/cell>\n    <cell>Nutritional<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>transportation<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell>index<\/cell>\n  <\/row>\n  <row>\n    <cell>AA<\/cell>\n    <cell>0.148*<\/cell>\n    <cell>0.039<\/cell>\n    <cell>0.065<\/cell>\n    <cell>0.034<\/cell>\n    <cell>0.094**<\/cell>\n  <\/row>\n  <row>\n    <cell>FA<\/cell>\n    <cell>0.080*<\/cell>\n    <cell>0.195**<\/cell>\n    <cell>0.071*<\/cell>\n    <cell>0.062**<\/cell>\n    <cell>0.137**<\/cell>\n  <\/row>\n  <row>\n    <cell>NA<\/cell>\n    <cell>0.276*<\/cell>\n    <cell>0.406**<\/cell>\n    <cell>0.251*<\/cell>\n    <cell>0.071<\/cell>\n    <cell>0.093<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"2\">* p &lt; 0.05, ** p &lt; 0.01.<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n  <row>\n    <cell cols=\"6\">Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity<\/cell>\n  <\/row>\n  <row>\n    <cell cols=\"6\">physical activity; MIPA = moderate-intensity physical activity; NA= nonathletes.<\/cell>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["", "Active / transportation", "HIPA", "MIPA", "Inactivity", "Nutritional / index"],
+        ["AA", "0.148*", "0.039", "0.065", "0.034", "0.094**"],
+        ["FA", "0.080*", "0.195**", "0.071*", "0.062**", "0.137**"],
+        ["NA", "0.276*", "0.406**", "0.251*", "0.071", "0.093"],
+        ["* p < 0.05, ** p < 0.01.", "* p < 0.05, ** p < 0.01.", "", "", "", ""],
+        ["Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity", "Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity", "Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity", "Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity", "Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity", "Abbreviations: AA = actual athletes; FA = former athletes; HIPA = high-intensity"],
+        ["physical activity; MIPA = moderate-intensity physical activity; NA= nonathletes.", "physical activity; MIPA = moderate-intensity physical activity; NA= nonathletes.", "physical activity; MIPA = moderate-intensity physical activity; NA= nonathletes.", "physical activity; MIPA = moderate-intensity physical activity; NA= nonathletes.", "physical activity; MIPA = moderate-intensity physical activity; NA= nonathletes.", "physical activity; MIPA = moderate-intensity physical activity; NA= nonathletes."]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "122"
+    },
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "230"
+    },
+    {
+      "text_id": 4,
+      "grp_id": 1,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "74"
+    },
+    {
+      "text_id": 6,
+      "grp_id": 2,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 34,
+      "grp_id": 3,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "122"
+    },
+    {
+      "text_id": 34,
+      "grp_id": 3,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "230"
+    },
+    {
+      "text_id": 34,
+      "grp_id": 3,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "74"
+    },
+    {
+      "text_id": 74,
+      "grp_id": 4,
+      "lhs": "F",
+      "df": "(2, 423)",
+      "comp": "=",
+      "rhs": "24.32"
+    },
+    {
+      "text_id": 74,
+      "grp_id": 4,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 74,
+      "grp_id": 4,
+      "lhs": "F",
+      "df": "(2, 423)",
+      "comp": "=",
+      "rhs": "4.87"
+    },
+    {
+      "text_id": 74,
+      "grp_id": 4,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 74,
+      "grp_id": 4,
+      "lhs": "F",
+      "df": "(2, 423)",
+      "comp": "=",
+      "rhs": "17.15"
+    },
+    {
+      "text_id": 74,
+      "grp_id": 4,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 74,
+      "grp_id": 4,
+      "lhs": "F",
+      "df": "(2, 423)",
+      "comp": "=",
+      "rhs": "17.74"
+    },
+    {
+      "text_id": 74,
+      "grp_id": 4,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 75,
+      "grp_id": 5,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 76,
+      "grp_id": 6,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 77,
+      "grp_id": 7,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 77,
+      "grp_id": 7,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 77,
+      "grp_id": 7,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 79,
+      "grp_id": 8,
+      "lhs": "t",
+      "df": "(72)",
+      "comp": "=",
+      "rhs": "2.260"
+    },
+    {
+      "text_id": 79,
+      "grp_id": 8,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 79,
+      "grp_id": 8,
+      "lhs": "t",
+      "df": "(72)",
+      "comp": "=",
+      "rhs": "2.001"
+    },
+    {
+      "text_id": 79,
+      "grp_id": 8,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 81,
+      "grp_id": 9,
+      "lhs": "t",
+      "df": "(120)",
+      "comp": "=",
+      "rhs": "2.972"
+    },
+    {
+      "text_id": 81,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 82,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 83,
+      "grp_id": 11,
+      "lhs": "t",
+      "df": "(120)",
+      "comp": "=",
+      "rhs": "2.126"
+    },
+    {
+      "text_id": 83,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 85,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 86,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 88,
+      "grp_id": 14,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 88,
+      "grp_id": 14,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 90,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 91,
+      "grp_id": 16,
+      "lhs": "z",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.549"
+    },
+    {
+      "text_id": 91,
+      "grp_id": 16,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 92,
+      "grp_id": 17,
+      "lhs": "z",
+      "df": null,
+      "comp": "=",
+      "rhs": "16.53"
+    },
+    {
+      "text_id": 92,
+      "grp_id": 17,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 92,
+      "grp_id": 17,
+      "lhs": "z",
+      "df": null,
+      "comp": "=",
+      "rhs": "18.13"
+    },
+    {
+      "text_id": 92,
+      "grp_id": 17,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 92,
+      "grp_id": 17,
+      "lhs": "z",
+      "df": null,
+      "comp": "=",
+      "rhs": "10.92"
+    },
+    {
+      "text_id": 92,
+      "grp_id": 17,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 94,
+      "grp_id": 18,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 95,
+      "grp_id": 19,
+      "lhs": "F",
+      "df": "(2, 423)",
+      "comp": "=",
+      "rhs": "30.30"
+    },
+    {
+      "text_id": 95,
+      "grp_id": 19,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 97,
+      "grp_id": 20,
+      "lhs": "F",
+      "df": "(2, 423)",
+      "comp": "=",
+      "rhs": "5.47"
+    },
+    {
+      "text_id": 97,
+      "grp_id": 20,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 98,
+      "grp_id": 21,
+      "lhs": "F",
+      "df": "(2, 423)",
+      "comp": "=",
+      "rhs": "1.82"
+    },
+    {
+      "text_id": 98,
+      "grp_id": 21,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 98,
+      "grp_id": 21,
+      "lhs": "F",
+      "df": "(2, 423)",
+      "comp": "=",
+      "rhs": "1.09"
+    },
+    {
+      "text_id": 98,
+      "grp_id": 21,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 99,
+      "grp_id": 22,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 99,
+      "grp_id": 22,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 100,
+      "grp_id": 23,
+      "lhs": "t",
+      "df": "(183)",
+      "comp": "=",
+      "rhs": "2.011"
+    },
+    {
+      "text_id": 100,
+      "grp_id": 23,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 100,
+      "grp_id": 23,
+      "lhs": "t",
+      "df": "(211)",
+      "comp": "=",
+      "rhs": "2.640"
+    },
+    {
+      "text_id": 100,
+      "grp_id": 23,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 24,
+      "lhs": "F",
+      "df": "(2, 423)",
+      "comp": "=",
+      "rhs": "5.12"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 24,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 25,
+      "lhs": "t",
+      "df": "(230)",
+      "comp": "=",
+      "rhs": "4.132"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 25,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 25,
+      "lhs": "t",
+      "df": "(72)",
+      "comp": "=",
+      "rhs": "2.343"
+    },
+    {
+      "text_id": 105,
+      "grp_id": 25,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 106,
+      "grp_id": 26,
+      "lhs": "t",
+      "df": "(120)",
+      "comp": "=",
+      "rhs": "0.518"
+    },
+    {
+      "text_id": 106,
+      "grp_id": 26,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 27,
+      "lhs": "t",
+      "df": "(120)",
+      "comp": "=",
+      "rhs": "2.805"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 27,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 27,
+      "lhs": "t",
+      "df": "(228)",
+      "comp": "=",
+      "rhs": "0.996"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 27,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 28,
+      "lhs": "F",
+      "df": "(3, 226)",
+      "comp": "=",
+      "rhs": "1.553"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 28,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 28,
+      "lhs": "F",
+      "df": "(3, 118)",
+      "comp": "=",
+      "rhs": "1.635"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 28,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 110,
+      "grp_id": 29,
+      "lhs": "z",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.811"
+    },
+    {
+      "text_id": 110,
+      "grp_id": 29,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 112,
+      "grp_id": 30,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 31,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 31,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 114,
+      "grp_id": 31,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 115,
+      "grp_id": 32,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 115,
+      "grp_id": 32,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 118,
+      "grp_id": 33,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 119,
+      "grp_id": 34,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 121,
+      "grp_id": 35,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 121,
+      "grp_id": 35,
+      "lhs": "r",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.333"
+    },
+    {
+      "text_id": 125,
+      "grp_id": 36,
+      "lhs": "F",
+      "df": "(3, 182)",
+      "comp": "=",
+      "rhs": "14.175"
+    },
+    {
+      "text_id": 125,
+      "grp_id": 36,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 125,
+      "grp_id": 36,
+      "lhs": "F",
+      "df": "(3, 50)",
+      "comp": "=",
+      "rhs": "11.388"
+    },
+    {
+      "text_id": 125,
+      "grp_id": 36,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 126,
+      "grp_id": 37,
+      "lhs": "F",
+      "df": "(3, 148)",
+      "comp": "=",
+      "rhs": "3.758"
+    },
+    {
+      "text_id": 126,
+      "grp_id": 37,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 126,
+      "grp_id": 37,
+      "lhs": "F",
+      "df": "(3, 42)",
+      "comp": "=",
+      "rhs": "4.689"
+    },
+    {
+      "text_id": 126,
+      "grp_id": 37,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 38,
+      "lhs": "F",
+      "df": "(3, 209)",
+      "comp": "=",
+      "rhs": "4.663"
+    },
+    {
+      "text_id": 127,
+      "grp_id": 38,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 128,
+      "grp_id": 39,
+      "lhs": "F",
+      "df": "(3, 226)",
+      "comp": "=",
+      "rhs": "11.924"
+    },
+    {
+      "text_id": 128,
+      "grp_id": 39,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 128,
+      "grp_id": 39,
+      "lhs": "F",
+      "df": "(3, 118)",
+      "comp": "=",
+      "rhs": "4.071"
+    },
+    {
+      "text_id": 128,
+      "grp_id": 39,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    }
+  ]
+}

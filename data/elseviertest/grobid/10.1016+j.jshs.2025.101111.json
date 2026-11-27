@@ -1,0 +1,4660 @@
+{
+  "paper_id": "10.1016+j.jshs.2025.101111",
+  "info": [
+    {
+      "title": "Exercise attenuates stress-related signaling as sensed by higher phosphorylation of small heat shock proteins in skeletal muscle from older individuals",
+      "keywords": ["Single muscle fibers", "Aging", "HSP", "High-intensity training (HIT)", "Fiber type"],
+      "doi": "10.1016/j.jshs.2025.101111",
+      "file_hash": "4f6ba062b1325e72",
+      "input_format": "grobid 0.9.0",
+      "file_name": "data/elseviertest/grobid/10.1016+j.jshs.2025.101111.xml",
+      "bibr_version": "10.5",
+      "paper_type": "unknown",
+      "paper_type_confidence": 0,
+      "oecd_l1": null,
+      "oecd_l2": null,
+      "oecd_confidence": null
+    }
+  ],
+  "author": [
+    {
+      "author_id": 1,
+      "given": "Noni",
+      "family": "Frankenberg",
+      "affiliation": "Department of Biochemistry and Chemistry\n\t\t\t\t\t\t\t\tSchool of Agriculture, Biomedicine and Environment\n\t\t\t\t\t\t\t\tLa Trobe Institute for Molecular Science\n\t\t\t\t\t\t\t\tLa Trobe University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t3086\n\t\t\t\t\t\t\t\t\tMelbourne\n\t\t\t\t\t\t\t\t\tVIC\n\t\t\t\t\t\t\t\t\tAustralia",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 2,
+      "given": "Victoria",
+      "family": "Wyckelsma",
+      "affiliation": "Department of Biochemistry and Chemistry\n\t\t\t\t\t\t\t\tSchool of Agriculture, Biomedicine and Environment\n\t\t\t\t\t\t\t\tLa Trobe Institute for Molecular Science\n\t\t\t\t\t\t\t\tLa Trobe University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t3086\n\t\t\t\t\t\t\t\t\tMelbourne\n\t\t\t\t\t\t\t\t\tVIC\n\t\t\t\t\t\t\t\t\tAustralia",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 3,
+      "given": "Dion",
+      "family": "Ellul",
+      "affiliation": "Department of Biochemistry and Chemistry\n\t\t\t\t\t\t\t\tSchool of Agriculture, Biomedicine and Environment\n\t\t\t\t\t\t\t\tLa Trobe Institute for Molecular Science\n\t\t\t\t\t\t\t\tLa Trobe University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t3086\n\t\t\t\t\t\t\t\t\tMelbourne\n\t\t\t\t\t\t\t\t\tVIC\n\t\t\t\t\t\t\t\t\tAustralia",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 4,
+      "given": "Aaron",
+      "family": "Petersen",
+      "affiliation": "Institute for Health and Sport (IHES)\n\t\t\t\t\t\t\t\tVictoria University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t8001\n\t\t\t\t\t\t\t\t\tMelbourne\n\t\t\t\t\t\t\t\t\tVIC\n\t\t\t\t\t\t\t\t\tAustralia",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 5,
+      "given": "Itamar",
+      "family": "Levinger",
+      "affiliation": "Institute for Health and Sport (IHES)\n\t\t\t\t\t\t\t\tVictoria University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t8001\n\t\t\t\t\t\t\t\t\tMelbourne\n\t\t\t\t\t\t\t\t\tVIC\n\t\t\t\t\t\t\t\t\tAustralia",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 6,
+      "given": "Michael",
+      "family": "Mckenna",
+      "affiliation": "Institute for Health and Sport (IHES)\n\t\t\t\t\t\t\t\tVictoria University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t8001\n\t\t\t\t\t\t\t\t\tMelbourne\n\t\t\t\t\t\t\t\t\tVIC\n\t\t\t\t\t\t\t\t\tAustralia",
+      "email": "",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    },
+    {
+      "author_id": 7,
+      "given": "Robyn",
+      "family": "Murphy",
+      "affiliation": "Department of Biochemistry and Chemistry\n\t\t\t\t\t\t\t\tSchool of Agriculture, Biomedicine and Environment\n\t\t\t\t\t\t\t\tLa Trobe Institute for Molecular Science\n\t\t\t\t\t\t\t\tLa Trobe University\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t3086\n\t\t\t\t\t\t\t\t\tMelbourne\n\t\t\t\t\t\t\t\t\tVIC\n\t\t\t\t\t\t\t\t\tAustralia",
+      "email": "r.murphy@latrobe.edu.au",
+      "corresponding": false,
+      "orcid": "",
+      "role": []
+    }
+  ],
+  "text": [
+    {
+      "text": "Background: Heat shock proteins (HSPs) are key molecular chaperones that help maintain protein homeostasis by stabilizing or removing damaged proteins during cellular stress.",
+      "text_id": 1,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Aging weakens these stressÀresponse systems, disrupting proteostasis and increasing vulnerability to sarcopenia.",
+      "text_id": 2,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "High-intensity training (HIT) can counteract these declines by activating protective pathways such as the HSP response.",
+      "text_id": 3,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "HSPs are highly responsive to stress, examining their regulation during aging is important, as altered HSP activity is linked to the progressive loss of muscle mass.",
+      "text_id": 4,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Methods: This study investigated the abundance and phosphorylation of HSPs in skeletal muscle from healthy, active young and older adults (n = 7 per group), assessed at baseline and again in the older group following 12 weeks of HIT.",
+      "text_id": 5,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Using calibrated Western blotting on both wholemuscle homogenates and pooled single muscle fibres, we quantified HSP content and phosphorylation to determine how aging and exercise influence stressÀresponsive protein regulation at both the tissue and cellular levels.",
+      "text_id": 6,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Results: In whole muscle homogenates, HSPs (HSP72, HSP27, and aB-crystallin) did not differ between young and older adults, while higher phosphorylation of small HSPs (sHSPs): phospho-HSP27 at Serine15 (pHSP27 Ser15) and phospho-aB-crystallin at Serine59 (paB-crystallin Ser59) (»1.8-fold and »2.9-fold, respectively) were found in muscle from older adults, indicating higher cellular stress associated with aging.",
+      "text_id": 7,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A 12-week HIT intervention in older adults reduced homogenate pHSP27 Ser15 and paB-crystallin Ser59 abundances to similar levels found in young adults.",
+      "text_id": 8,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Total HSPs typically displayed a distinct fiber-type profile in both age groups, with more in type I compared to type II fibers, distinguished by the presence of myosin heavy chain I (MHCI) or MHCII.",
+      "text_id": 9,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Phosphorylation at pHSP27 Ser15 and paB-crystallin Ser59 was not different between type I and type II fibers.",
+      "text_id": 10,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The HIT in older adults decreased total and phosphorylated sHSPs in both type I and type II fibers but increased HSP72 in type I fibers.",
+      "text_id": 11,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Conclusion: HIT has the potential to mitigate age-related cellular stress and modulate protein expression patterns in aging skeletal muscle and, perhaps, has the potential to delay age-related muscle decline, thereby improving muscle health in older adults.",
+      "text_id": 12,
+      "paragraph_id": 1,
+      "section_id": 0,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cellular stresses are conditions that disrupt normal cell function, such as oxidative damage, protein misfolding, or a lack of oxygen and nutrients.",
+      "text_id": 13,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These stresses may arise from external sources such as heat and toxins or internal factors such as DNA damage and endoplasmic reticulum (ER) or sarcoplasmic reticulum (SR) dysfunction. 1 In response, cells activate protective mechanisms to restore protein homeostasis or, if the damage is irreparable, initiate programmed cell death.",
+      "text_id": 14,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "These stresses may arise from external sources such as heat and toxins or internal factors such as DNA damage and endoplasmic reticulum (ER) or sarcoplasmic reticulum (SR) dysfunction. <ref type=\"bibr\" target=\"#b0\">1<\/ref> In response, cells activate protective mechanisms to restore protein homeostasis or, if the damage is irreparable, initiate programmed cell death."
+    },
+    {
+      "text": "Heat shock proteins (HSPs) are ubiquitously expressed molecular chaperones that play a central role in maintaining homeostasis and cellular function during stress by stabilizing proteins or targeting them for degradation. 2 In mammalian skeletal muscle, 3 well-characterized HSPs include HSP72 and the small HSPs (sHSPs), HSP27, and aB-crystallin.",
+      "text_id": 15,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Heat shock proteins (HSPs) are ubiquitously expressed molecular chaperones that play a central role in maintaining homeostasis and cellular function during stress by stabilizing proteins or targeting them for degradation. <ref type=\"bibr\" target=\"#b1\">2<\/ref> In mammalian skeletal muscle, 3 well-characterized HSPs include HSP72 and the small HSPs (sHSPs), HSP27, and aB-crystallin."
+    },
+    {
+      "text": "While HSP72 abundance is commonly used as a marker of a cellular stress response, the activity of sHSPs is primarily regulated by phosphorylation-specifically, at Ser15 and Ser82 on HSP27 and Ser59 and Ser45 on aB-crystallin. 3, 4 Phosphorylation at one of these sites alters the oligomeric structure of the core protein, resulting in a more active form of sHSPs. 5 This structural change enhances the chaperone activity of the sHSPs, their cytoskeletal interactions and anti-apoptotic functions, allowing for rapid and dynamic cellular responses to stress. 5 Phosphorylation of sHSPs serves as a sensitive indicator of various cellular stressors, including ER/SR stress, 6 ionic imbalance, 7 ischemia, 8 heat shock, 9 oxidative stress, 10 and proteotoxic conditions. 11 Among the signaling pathways involved in the phosphorylation of sHSPs, the p38 mitogenactivated protein kinase (p38 MAPK) cascade is particularly well-characterized.",
+      "text_id": 16,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "While HSP72 abundance is commonly used as a marker of a cellular stress response, the activity of sHSPs is primarily regulated by phosphorylation-specifically, at Ser15 and Ser82 on HSP27 and Ser59 and Ser45 on aB-crystallin. <ref type=\"bibr\" target=\"#b2\">3,<\/ref> <ref type=\"bibr\" target=\"#b3\">4<\/ref> Phosphorylation at one of these sites alters the oligomeric structure of the core protein, resulting in a more active form of sHSPs. <ref type=\"bibr\" target=\"#b4\">5<\/ref> This structural change enhances the chaperone activity of the sHSPs, their cytoskeletal interactions and anti-apoptotic functions, allowing for rapid and dynamic cellular responses to stress. <ref type=\"bibr\" target=\"#b4\">5<\/ref> Phosphorylation of sHSPs serves as a sensitive indicator of various cellular stressors, including ER/SR stress, <ref type=\"bibr\" target=\"#b5\">6<\/ref> ionic imbalance, <ref type=\"bibr\" target=\"#b6\">7<\/ref> ischemia, <ref type=\"bibr\" target=\"#b7\">8<\/ref> heat shock, <ref type=\"bibr\" target=\"#b8\">9<\/ref> oxidative stress, <ref type=\"bibr\" target=\"#b9\">10<\/ref> and proteotoxic conditions. <ref type=\"bibr\" target=\"#b10\">11<\/ref> Among the signaling pathways involved in the phosphorylation of sHSPs, the p38 mitogenactivated protein kinase (p38 MAPK) cascade is particularly well-characterized."
+    },
+    {
+      "text": "Stress-dependent activation of p38 MAPK in a variety of cells leads to phosphorylation of HSP27 via MAPK-activated protein kinase 2 (MK2), providing a mechanistic link between stress sensing and sHSP modification. 12 Similarly, p38 MAPK mediates phosphorylation of aB-crystallin at Ser59, while the extracellular-regulated kinase 1/2 (ERK1/2) pathway-activated by growth factors, hyperosmotic stress, and mitogens-phosphorylates aB-crystallin at Ser45. 13 The phosphorylation status of sHSPs therefore reflects the activation of specific stressÀresponse pathways and serves as a valuable molecular indicator of cellular stress.",
+      "text_id": 17,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Stress-dependent activation of p38 MAPK in a variety of cells leads to phosphorylation of HSP27 via MAPK-activated protein kinase 2 (MK2), providing a mechanistic link between stress sensing and sHSP modification. <ref type=\"bibr\" target=\"#b11\">12<\/ref> Similarly, p38 MAPK mediates phosphorylation of aB-crystallin at Ser59, while the extracellular-regulated kinase 1/2 (ERK1/2) pathway-activated by growth factors, hyperosmotic stress, and mitogens-phosphorylates aB-crystallin at Ser45. <ref type=\"bibr\" target=\"#b12\">13<\/ref> The phosphorylation status of sHSPs therefore reflects the activation of specific stressÀresponse pathways and serves as a valuable molecular indicator of cellular stress."
+    },
+    {
+      "text": "Pertinent to the current study, there is growing interest in the interplay between HSP phosphorylation, aging, and adaptations to exercise training.",
+      "text_id": 18,
+      "paragraph_id": 2,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relevant to the study here, in skeletal muscle there are many cellular stresses that result in the induction of HSPs.",
+      "text_id": 19,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These can be induced by acute exercise, particularly that involving eccentric contractions, 14 exposure to heat, 9 aging, 15, 16 and oxidative stress from reactive oxygen species. 17 Together, these data indicate that the HSPs are responsive to cellular stresses in skeletal muscle, and so it is of interest to examine them under times of chronic stress, such as aging.",
+      "text_id": 20,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "These can be induced by acute exercise, particularly that involving eccentric contractions, <ref type=\"bibr\" target=\"#b13\">14<\/ref> exposure to heat, <ref type=\"bibr\" target=\"#b8\">9<\/ref> aging, <ref type=\"bibr\" target=\"#b14\">15,<\/ref> <ref type=\"bibr\" target=\"#b15\">16<\/ref> and oxidative stress from reactive oxygen species. <ref type=\"bibr\" target=\"#b16\">17<\/ref> Together, these data indicate that the HSPs are responsive to cellular stresses in skeletal muscle, and so it is of interest to examine them under times of chronic stress, such as aging."
+    },
+    {
+      "text": "There is an inevitable loss of muscle mass with aging, and the induction of HSPs have been implicated with age-related muscle atrophy. 18 The abundances of HSP72, HSP27, and aB-crystallin have been variably reported as being either higher or no different in skeletal muscle from young compared with older adults. 19À23 It is important to match for physical activity levels when comparing HSP abundances in an agedependent manner because even acute non-damaging exercise alters the abundance of HSP72, HSP27, and aB-crystallin in skeletal muscle in both older (»70 years) and young (»24 years) adults. 24, 25 Further, despite the broad age range included in the cohorts, phosphorylated HSP27 and aB-crystallin were reported to be higher in muscle from older (51À79 years) compared with younger (15À38 years) adults, 23 indicating a higher level of cellular stress in the older cohort.",
+      "text_id": 21,
+      "paragraph_id": 3,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "There is an inevitable loss of muscle mass with aging, and the induction of HSPs have been implicated with age-related muscle atrophy. <ref type=\"bibr\" target=\"#b17\">18<\/ref> The abundances of HSP72, HSP27, and aB-crystallin have been variably reported as being either higher or no different in skeletal muscle from young compared with older adults. <ref type=\"bibr\">19À23<\/ref> It is important to match for physical activity levels when comparing HSP abundances in an agedependent manner because even acute non-damaging exercise alters the abundance of HSP72, HSP27, and aB-crystallin in skeletal muscle in both older (»70 years) and young (»24 years) adults. <ref type=\"bibr\" target=\"#b23\">24,<\/ref> <ref type=\"bibr\" target=\"#b24\">25<\/ref> Further, despite the broad age range included in the cohorts, phosphorylated HSP27 and aB-crystallin were reported to be higher in muscle from older (51À79 years) compared with younger (15À38 years) adults, <ref type=\"bibr\" target=\"#b22\">23<\/ref> indicating a higher level of cellular stress in the older cohort."
+    },
+    {
+      "text": "The heterogeneous nature of skeletal muscle should be considered for quantitative analyses.",
+      "text_id": 22,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data from numerous animal studies indicated HSP72, HSP27, and aB-crystallin proteins were more abundant in type I oxidative compared to type II glycolytic muscle fibers at whole muscle level when comparing muscles rich in either fiber type 26, 27 and shown in individual fibers. 28 In contrast, in humans, HSP72 abundance is similar between fiber types in young adults, 29, 30 but whether this was the case in muscle from older adults is unknown.",
+      "text_id": 23,
+      "paragraph_id": 4,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Data from numerous animal studies indicated HSP72, HSP27, and aB-crystallin proteins were more abundant in type I oxidative compared to type II glycolytic muscle fibers at whole muscle level when comparing muscles rich in either fiber type <ref type=\"bibr\" target=\"#b25\">26,<\/ref> <ref type=\"bibr\" target=\"#b26\">27<\/ref> and shown in individual fibers. <ref type=\"bibr\" target=\"#b27\">28<\/ref> In contrast, in humans, HSP72 abundance is similar between fiber types in young adults, <ref type=\"bibr\" target=\"#b28\">29,<\/ref> <ref type=\"bibr\" target=\"#b29\">30<\/ref> but whether this was the case in muscle from older adults is unknown."
+    },
+    {
+      "text": "Aging is associated with impaired cellular stress responses, leading to disrupted proteostasis and higher susceptibility to sarcopenia. 31 High-intensity training (HIT) has emerged as a potent intervention to counteract these declines, as it imposes positive mechanical and metabolic stress on skeletal muscle, activating protective pathways such as the HSP response.",
+      "text_id": 24,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "Aging is associated with impaired cellular stress responses, leading to disrupted proteostasis and higher susceptibility to sarcopenia. <ref type=\"bibr\" target=\"#b30\">31<\/ref> High-intensity training (HIT) has emerged as a potent intervention to counteract these declines, as it imposes positive mechanical and metabolic stress on skeletal muscle, activating protective pathways such as the HSP response."
+    },
+    {
+      "text": "In the same cohorts used in the current study, we have previously reported elevated levels of mitochondrial dynamics proteinsmitofusin-2 (Mfn2) and mitochondrial dynamics protein 49 (MiD49)-in skeletal muscle from older vs. younger adults, suggesting higher mitochondrial turnover is a compensatory response to cellular stress. 32 After 12 weeks of HIT, Mfn2 and MiD49 levels in older adults decreased to levels comparable with younger individuals, indicating a restored mitochondrial balance.",
+      "text_id": 25,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": "In the same cohorts used in the current study, we have previously reported elevated levels of mitochondrial dynamics proteinsmitofusin-2 (Mfn2) and mitochondrial dynamics protein 49 (MiD49)-in skeletal muscle from older vs. younger adults, suggesting higher mitochondrial turnover is a compensatory response to cellular stress. <ref type=\"bibr\" target=\"#b31\">32<\/ref> After 12 weeks of HIT, Mfn2 and MiD49 levels in older adults decreased to levels comparable with younger individuals, indicating a restored mitochondrial balance."
+    },
+    {
+      "text": "We proposed that training reduced the cellular stress burden, thereby lowering the need for elevated mitochondrial turnover.",
+      "text_id": 26,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In line with this, a similar adaptation may occur in the heat shock response, where aging may result in higher levels of phosphorylation of small HSPs (pHSPs), including HSP27 and aB-crystallin relative to young adults and that chronic HIT could lead to reduced pHSPs, reflecting a more stable, less stressed cellular environment.",
+      "text_id": 27,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A reduction in pHSPs may serve as a biomarker of improved muscle homeostasis and a shift toward a molecular phenotype more similar to a younger cohort.",
+      "text_id": 28,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Here, we explore the response of HSPs to HIT in a cohort of older adults to identify whether the HSPs offer a pathway that could be targeted therapeutically to promote healthy aging.",
+      "text_id": 29,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The aim of this study was to compare the abundances of HSP72, HSP27, and aB-crystallin proteins along with phospho-HSP27 at Serine15 (pHSP27 Ser15), pHSP27 Ser82, and phospho-aB-crystallin at Serine59 (paBcrystallin Ser59) in type I and type II muscle fibers from young and older adults.",
+      "text_id": 30,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In the latter group, the effect of HIT and the fiber type abundance of the HSPs were also examined.",
+      "text_id": 31,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We hypothesized that compared with the young adults, muscles from the older adults would have higher abundances of the pHSPs and that these would be reversed with 12 weeks of HIT.",
+      "text_id": 32,
+      "paragraph_id": 5,
+      "section_id": 1,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Methods",
+      "text_id": 33,
+      "paragraph_id": 6,
+      "section_id": 2,
+      "page_number": null,
+      "formatted": "<head n=\"2.\" >Methods<\/head>"
+    },
+    {
+      "text": "Young (n = 7, 25.0 § 3.7 years) and older (n = 7, 70.0 § 4.1 years, mean § SD) adults were a subset from a cohort previously described, 33 maximizing the use of human samples.",
+      "text_id": 34,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Young (n = 7, 25.0 § 3.7 years) and older (n = 7, 70.0 § 4.1 years, mean § SD) adults were a subset from a cohort previously described, <ref type=\"bibr\" target=\"#b32\">33<\/ref> maximizing the use of human samples."
+    },
+    {
+      "text": "Self-reported regular physical activity in the larger cohort was 8.2 § 2.6 h per week and the average was not different between the young and older cohorts. 32 Table 1 shows subset details of participants in this study.",
+      "text_id": 35,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": "Self-reported regular physical activity in the larger cohort was 8.2 § 2.6 h per week and the average was not different between the young and older cohorts. <ref type=\"bibr\" target=\"#b31\">32<\/ref> Table <ref type=\"table\" target=\"#tab_0\">1<\/ref> shows subset details of participants in this study."
+    },
+    {
+      "text": "All participants signed informed consent, and the original study was approved by the Victoria University Human Research Ethics Committee (HRETH 11/221) and conformed to the Declaration of Helsinki.",
+      "text_id": 36,
+      "paragraph_id": 7,
+      "section_id": 3,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Older adults trained under supervision 3 times per week for 12 weeks on a mechanically braked cycle ergometer (Monark 868; Monark Exercise, Vansbro, Sweden), as previously described. 34 A standardized 3-min warm up was conducted prior to every training session, after which participants had 1 min of passive rest on the cycle ergometer.",
+      "text_id": 37,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "Older adults trained under supervision 3 times per week for 12 weeks on a mechanically braked cycle ergometer (Monark 868; Monark Exercise, Vansbro, Sweden), as previously described. <ref type=\"bibr\" target=\"#b33\">34<\/ref> A standardized 3-min warm up was conducted prior to every training session, after which participants had 1 min of passive rest on the cycle ergometer."
+    },
+    {
+      "text": "The training protocol was based on a previous method 35 and comprised 4 bouts of 4-min exercise intervals performed at »90%À95% of peak heart rate (HR peak ); each interval was interspersed by 4 min of active recovery, where participants cycled at 50%À60% HR peak .",
+      "text_id": 38,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "The training protocol was based on a previous method <ref type=\"bibr\" target=\"#b34\">35<\/ref> and comprised 4 bouts of 4-min exercise intervals performed at »90%À95% of peak heart rate (HR peak ); each interval was interspersed by 4 min of active recovery, where participants cycled at 50%À60% HR peak ."
+    },
+    {
+      "text": "Each training session was followed by a 5-min cool down, and all training sessions were fully supervised.",
+      "text_id": 39,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The training program undertaken had no effect on resting systolic blood pressure or resting diastolic blood pressure or body mass. 34 For this subset of participants, HIT increased peak work rate (watt) (25% § 23%), total work (J) (60% § 46%), peak oxygen uptake (VO 2peak ) (16% § 12%), and HR peak (6% § 8%), (p < 0.05) and tended to increase exercise time until a rating of perceived exertion (RPE)-17 was attained (p = 0.057) during the incremental test.",
+      "text_id": 40,
+      "paragraph_id": 8,
+      "section_id": 4,
+      "page_number": null,
+      "formatted": "The training program undertaken had no effect on resting systolic blood pressure or resting diastolic blood pressure or body mass. <ref type=\"bibr\" target=\"#b33\">34<\/ref> For this subset of participants, HIT increased peak work rate (watt) (25% § 23%), total work (J) (60% § 46%), peak oxygen uptake (VO 2peak ) (16% § 12%), and HR peak (6% § 8%), (p &lt; 0.05) and tended to increase exercise time until a rating of perceived exertion (RPE)-17 was attained (p = 0.057) during the incremental test."
+    },
+    {
+      "text": "The resting muscle biopsy was taken prior to commencement of the training program and at 48À72 h following completion of the final training session for older adults.",
+      "text_id": 41,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All muscle biopsies were completed by the same experienced medical doctor.",
+      "text_id": 42,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All participants refrained from strenuous physical activity, alcohol, and caffeine for at least 24 h prior to the biopsy procedures.",
+      "text_id": 43,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Muscle biopsies were obtained using a biopsy needle with suction 36 from the vastus lateralis after an injection of a local anesthetic into the skin and fascia (1% Xylocaine; AstraZeneca, Sydney, Australia) and a small incision were made.",
+      "text_id": 44,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": "Muscle biopsies were obtained using a biopsy needle with suction <ref type=\"bibr\" target=\"#b35\">36<\/ref> from the vastus lateralis after an injection of a local anesthetic into the skin and fascia (1% Xylocaine; AstraZeneca, Sydney, Australia) and a small incision were made."
+    },
+    {
+      "text": "The muscle was blotted on filter paper to remove excess blood and quickly frozen in liquid nitrogen and stored at À80˚C until analysis.",
+      "text_id": 45,
+      "paragraph_id": 9,
+      "section_id": 5,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Whole muscle homogenates were prepared as described previously. 37 Briefly, a portion of whole muscle (15À30 mg) was weighed and homogenized on ice (weight:volume = 1:20) in an Na-ethylene glycol-bis(b-aminoethyl ether)-N,N,N',N'tetraacetic acid (EGTA), (Merck, Darmsadt, Germany) solution (containing in mM, 165 Na + , 50 EGTA, 90 HEPES, 1 Mg 2+ (10.3 total Mg 2+ ), 8 total ATP, 10 creatine phosphate, pH7.10) with a protease inhibitor cocktail (PIC, Complete; Roche Diagnostics, Sydney, Australia).",
+      "text_id": 46,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": "Whole muscle homogenates were prepared as described previously. <ref type=\"bibr\" target=\"#b36\">37<\/ref> Briefly, a portion of whole muscle (15À30 mg) was weighed and homogenized on ice (weight:volume = 1:20) in an Na-ethylene glycol-bis(b-aminoethyl ether)-N,N,N',N'tetraacetic acid (EGTA), (Merck, Darmsadt, Germany) solution (containing in mM, 165 Na + , 50 EGTA, 90 HEPES, 1 Mg 2+ (10.3 total Mg 2+ ), 8 total ATP, 10 creatine phosphate, pH7.10) with a protease inhibitor cocktail (PIC, Complete; Roche Diagnostics, Sydney, Australia)."
+    },
+    {
+      "text": "The homogenate was then diluted to 33 mg muscle wet weight/mL using a 3£ sodium dodecyl sulfate (SDS) denaturing solution (0.125 M Tris-HCl, 10% glycerol, 4% SDS, 4 M urea, 10% mercaptoethanol, and 0.001% bromophenol blue, pH6.8).",
+      "text_id": 47,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Finally, samples were further diluted to 2.5 mg muscle wet weight/mL using 3£ SDS solution diluted 2:1 with 1£ Tris.",
+      "text_id": 48,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "HCl (pH6.8).",
+      "text_id": 49,
+      "paragraph_id": 10,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The whole muscle homogenate served 2 primary purposes.",
+      "text_id": 50,
+      "paragraph_id": 11,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Firstly, whole muscle homogenates were utilized for Westen blotting analysis.",
+      "text_id": 51,
+      "paragraph_id": 11,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Secondly, a small portion of each homogenate sample was used to create a calibration mix of approximately 2 mL.",
+      "text_id": 52,
+      "paragraph_id": 11,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The calibration mix was utilized in all Westen blotting analyses, including the single fiber analyses, by loading a 4-point calibration curve onto every gel (see below).",
+      "text_id": 53,
+      "paragraph_id": 11,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This provided the relationship between input loading amount and density, which was used to determine the relative amount of each protein in a given sample.",
+      "text_id": 54,
+      "paragraph_id": 11,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Notably, all samples fell within the established upper and lower detection limits of the calibration curve.",
+      "text_id": 55,
+      "paragraph_id": 11,
+      "section_id": 6,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "As previously described, segments of single fibers were collected from freeze-dried muscle 33, 38, 39 and placed in 10 mL of 3£ SDS denaturing solution.",
+      "text_id": 56,
+      "paragraph_id": 12,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "As previously described, segments of single fibers were collected from freeze-dried muscle <ref type=\"bibr\" target=\"#b32\">33,<\/ref> <ref type=\"bibr\" target=\"#b37\">38,<\/ref> <ref type=\"bibr\" target=\"#b38\">39<\/ref> and placed in 10 mL of 3£ SDS denaturing solution."
+    },
+    {
+      "text": "Fibers remained at room temperature for 1 h post collection and were vortexed 2À3 times to aid solubilization; they were thereafter stored at À80˚C until dot blotting.",
+      "text_id": 57,
+      "paragraph_id": 12,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The fiber type of individual single fiber segments was determined using the dot blotting method previously described and now termed MyDoBID (Myosin heavy chain detection by Dot Blotting for IDentification of muscle fiber type). 40, 41 Briefly, a polyvinylidene fluoride (PVDF) membrane was activated in 96% ethanol for 120 s and equilibrated in transfer buffer (Bio-Rad Laboratories Laboratories, Hercules, CA, USA) for 120 s.",
+      "text_id": 58,
+      "paragraph_id": 13,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "The fiber type of individual single fiber segments was determined using the dot blotting method previously described and now termed MyDoBID (Myosin heavy chain detection by Dot Blotting for IDentification of muscle fiber type). <ref type=\"bibr\" target=\"#b39\">40,<\/ref> <ref type=\"bibr\" target=\"#b40\">41<\/ref> Briefly, a polyvinylidene fluoride (PVDF) membrane was activated in 96% ethanol for 120 s and equilibrated in transfer buffer (Bio-Rad Laboratories Laboratories, Hercules, CA, USA) for 120 s."
+    },
+    {
+      "text": "Following this, 1-mL (10%) of each fiber was spotted on activated PVDF membrane.",
+      "text_id": 59,
+      "paragraph_id": 13,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After a series of steps involving drying, re-activating, washing, and blocking, membranes were incubated in antibodies (for full details, see Latchman et al., 40 ): firstly, anti-myosin heavy chain IIa (MHCIIa) (mouse, monoclonal IgG, A4.74; Developmental Studies Hybridoma Bank (DSHB), Iowa city, IA, USA), followed by stripping and then anti-MHCI (mouse monoclonal IgM, A4.840; DSHB).",
+      "text_id": 60,
+      "paragraph_id": 13,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": "After a series of steps involving drying, re-activating, washing, and blocking, membranes were incubated in antibodies (for full details, see Latchman et al., <ref type=\"bibr\" target=\"#b39\">40<\/ref> ): firstly, anti-myosin heavy chain IIa (MHCIIa) (mouse, monoclonal IgG, A4.74; Developmental Studies Hybridoma Bank (DSHB), Iowa city, IA, USA), followed by stripping and then anti-MHCI (mouse monoclonal IgM, A4.840; DSHB)."
+    },
+    {
+      "text": "Both antibodies were diluted 1:200 in 1% bovine serum albumin (BSA) in phosphate-buffered saline with 0.025% Tween (PBST) with 0.02% sodium azide (NaN 3 ).",
+      "text_id": 61,
+      "paragraph_id": 13,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Chemiluminescent substrate (ECL, Clarity; Bio-Rad Laboratories, Sydney, Australia) enabled imaging of dots using a Chemidoc MP and Image Lab software (Bio-Rad Laboratories).",
+      "text_id": 62,
+      "paragraph_id": 13,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fibers were identified as type II (MHCIIa), type I (MHCI), or hybrid (MHCII and MHCI), and fibers identified as type I or type II were used for further analyses.",
+      "text_id": 63,
+      "paragraph_id": 13,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The remaining 9-mL of each fiber were then pooled with other fibers of the same fiber-type from a given participant for a given time point.",
+      "text_id": 64,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Each pool consisted of 4À11 fibers, and pooled fibers were stored at À80˚C until Westen blotting.",
+      "text_id": 65,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In total »2700 fibers were collected for this study.",
+      "text_id": 66,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Between 85 and 103 type I fibers and 85À99 type II fibers were isolated and analyzed from each young adult (n = 7); and between 91 and 98 type I fibers and 76À101 type II fibers (n = 7) were isolated and analyzed from each older adult for HSP72, HSP27, pHSP27 Ser15, aB-crystallin, and paB-crystallin Ser59.",
+      "text_id": 67,
+      "paragraph_id": 14,
+      "section_id": 7,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Calibrated Westen blots were performed to determine the abundance of HSP proteins in whole muscle homogenates and pools of single fibers using techniques previously described. 32,38À40 Each 26-well gel contained the denatured samples, molecular weight markers (Page Ruler TM , cat 26616; Thermo Fisher Scientific, Waltham, MA, USA), and a 3À4point calibration curve comprising a mix of all whole muscle samples. 42 Total protein was separated on 10% or 4%À15% Criterion TGX stain-free gels (Bio-Rad Laboratories) and run for 45 min at 200 V. Using a wet transfer protocol, protein was transferred to nitrocellulose membranes at 100 V for 30 min.",
+      "text_id": 68,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": "Calibrated Westen blots were performed to determine the abundance of HSP proteins in whole muscle homogenates and pools of single fibers using techniques previously described. <ref type=\"bibr\" target=\"#b31\">32<\/ref>,38À40 Each 26-well gel contained the denatured samples, molecular weight markers (Page Ruler TM , cat 26616; Thermo Fisher Scientific, Waltham, MA, USA), and a 3À4point calibration curve comprising a mix of all whole muscle samples. <ref type=\"bibr\" target=\"#b41\">42<\/ref> Total protein was separated on 10% or 4%À15% Criterion TGX stain-free gels (Bio-Rad Laboratories) and run for 45 min at 200 V. Using a wet transfer protocol, protein was transferred to nitrocellulose membranes at 100 V for 30 min."
+    },
+    {
+      "text": "Membranes were incubated in Miser TM solution (Thermo-Fisher Scientific) and blocked in 5% skim milk powder in trisbuffered saline-tween (TBST).",
+      "text_id": 69,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Membranes were cut horizontally to minimize the number of probes for a section, and each section was incubated with antibodies diluted in 1% BSA in PBST.",
+      "text_id": 70,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Details of antibodies used are as follows: HSP72 (1 in 500 mouse monoclonal, SMC100A; StressMarq Biosciences, Victoria, Canada); HSP27 (1 in 1000 mouse monoclonal, G3.1 ab2790; Abcam, Cambridge, UK); pHSP27 Ser15 (1 in 2000 monoclonal rabbit, ab76313; Abcam), pHSP27 Ser82 (1 in 2000 polyclonal mouse, ADI-SPA-524; Enzo Biochem, Farmingdale, NY, USA), aB-crystallin (1 in 1000 mouse monoclonal, SPA-222; StressGen Biotechnologies), paB-crystallin Ser59 (1 in 1000 rabbit polyclonal, SPA-227; StressGen Biotechnologies).",
+      "text_id": 71,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Membranes were incubated overnight at 4 ˚C and for 2 h at room temperature, all with rocking.",
+      "text_id": 72,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "After washing and incubating with an appropriate horse radish peroxidase (HRP) secondary antibody (HRP goat anti-mouse 51782504 and HRP goat anti-rabbit 17065156; Bio-Rad Laboratories) and following TBST washes, the membranes were coated with chemiluminescent substrate (West Femto; Thermo Fisher Scientific).",
+      "text_id": 73,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Images were acquired using Image Lab software (Bio-Rad Laboratories).",
+      "text_id": 74,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The positions of molecular mass markers were captured under white light prior to chemiluminescent imaging without moving the membrane.",
+      "text_id": 75,
+      "paragraph_id": 15,
+      "section_id": 8,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "For data analysis, the linear relationship of the calibration curve was used to convert the density of a given protein to an amount of muscle and then normalized to the total protein in the respective lane, which was also expressed relative to the calibration curve.",
+      "text_id": 76,
+      "paragraph_id": 16,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The same calibration curve was run on all gels, and data are expressed relative to the average of a given sample type present on the same gel (i.e., old pre in whole muscle analyses, old type I fibers in pooled fiber analyses).",
+      "text_id": 77,
+      "paragraph_id": 16,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Each sample was run on at least 2 different gels on separate occasions, and values are presented as the mean of all runs.",
+      "text_id": 78,
+      "paragraph_id": 16,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The old pre samples were used for normalizing the data, as they were common across all analyses undertaken.",
+      "text_id": 79,
+      "paragraph_id": 16,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Linear regression equations (y = mx + c) for the calibration curves were determined in Excel.",
+      "text_id": 80,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data was analyzed using GraphPad Prism (Version 10.3.2; GraphPad, San Diego, CA, USA) and IBM SPSS Statistics (Version 29; IBM Corp., Armonk, NY, USA).",
+      "text_id": 81,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "An overall Power G analysis using SPSS for one-way analysis of variance revealed that a minimum sample size of 7 subjects per group was needed to achieve a power of 0.80 when testing effects of three different interventions on a specific outcome (p = 0.05, high effect size (f = 0.7), and equal sample size across groups); for a paired t-test, a minimum sample size of four was needed to achieve actual power size of 0.81 and an effect size of 2.167 (generated using data from Frankenberg et al., 30 Larkins et al., 28 prior to experimental analysis).",
+      "text_id": 82,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "An overall Power G analysis using SPSS for one-way analysis of variance revealed that a minimum sample size of 7 subjects per group was needed to achieve a power of 0.80 when testing effects of three different interventions on a specific outcome (p = 0.05, high effect size (f = 0.7), and equal sample size across groups); for a paired t-test, a minimum sample size of four was needed to achieve actual power size of 0.81 and an effect size of 2.167 (generated using data from Frankenberg et al., <ref type=\"bibr\" target=\"#b29\">30<\/ref> Larkins et al., <ref type=\"bibr\" target=\"#b27\">28<\/ref> prior to experimental analysis)."
+    },
+    {
+      "text": "No significant outliers were identified at Q = 1% using the ROUT test.",
+      "text_id": 83,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The normality of distribution of data was assessed using the ShapiroÀWilk normality test.",
+      "text_id": 84,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To assess the homogeneity of variance assumption for the oneway analysis of variance, Levene's test was conducted.",
+      "text_id": 85,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Any data that was not normally distributed or did not meet Levene's assumptions were analyzed for significance using Brown-Forsye and Welch's analysis of variance with Games-Horwell's post hoc analysis to allow for unequal variance and small sample group comparison.",
+      "text_id": 86,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Homogenate data comparing young and old pre and old post group HSP70, pHSP27 Ser15, and paB-crystallin Ser59 were analyzed using this method.",
+      "text_id": 87,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "HSP27 and aB-crystallin were analyzed using ordinary oneway analysis as homogeneity of variances assumptions tested by Levene's test were met.",
+      "text_id": 88,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Effect sizes are described using partial eta-squared (h 2 p ) along with their 95% confidence intervals (95%CIs, lower limit, upper limit) for these significant measures.",
+      "text_id": 89,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A mixed effects model univariant test along with the appropriate multiple comparisons test was performed to test for young and older individual fiber type differences.",
+      "text_id": 90,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "To assess the homogeneity of variance assumption for the mixed effects univariant, Levene's test was conducted.",
+      "text_id": 91,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "If data passed these assumptions, a Tukey post hoc was used to measure significance (young compared to older individuals' fiber type difference for HSP27, pHSP27 Ser15, and pHSP27Ser82).",
+      "text_id": 92,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "If assumptions were not met, a Games-Horwell's post hoc analysis was conducted, which allows for unequal variance (young compared to older individuals' fiber type difference for HSP72, aB-crystallin, and paB-crystallin Ser59).",
+      "text_id": 93,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A Student's paired t-test (two-sided) was performed to compare protein abundances of HSP70, HSP27, aB-crystallin, and paB-crystallin Ser59 pre and post HIT for older individuals in type I and type II fibers.",
+      "text_id": 94,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The magnitudes of difference for normally distributed data were determined by calculating the unbiased standardized mean difference, which is known as Cohen's d (Cd), along with their 95%CIs (lower limit, upper limit).",
+      "text_id": 95,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Data that were not normally distributed (pHSP27 Ser15 type I and type II fibers in pre and post HIT comparisons) were analyzed using a Wilcoxen signed paired rank test.",
+      "text_id": 96,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The magnitudes of difference for data showing non-normal distribution were determined by the Wilcoxen paired rank test results, by determining the Z value and effect size Cohen's d s, (or biased-corrected d s.biased , where d s is the SD of the control group) for independent samples (2 £ 2 factor), which was calculated using the supplementary spreadsheet that accompanies the article by Pautz and colleagues. 43 Individual data are expressed as mean § SD and are color-coded the same for a given participant across all plots.",
+      "text_id": 97,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": "The magnitudes of difference for data showing non-normal distribution were determined by the Wilcoxen paired rank test results, by determining the Z value and effect size Cohen's d s, (or biased-corrected d s.biased , where d s is the SD of the control group) for independent samples (2 £ 2 factor), which was calculated using the supplementary spreadsheet that accompanies the article by Pautz and colleagues. <ref type=\"bibr\" target=\"#b42\">43<\/ref> Individual data are expressed as mean § SD and are color-coded the same for a given participant across all plots."
+    },
+    {
+      "text": "Significance was accepted at p 0.05.",
+      "text_id": 98,
+      "paragraph_id": 17,
+      "section_id": 9,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": " >Results",
+      "text_id": 99,
+      "paragraph_id": 18,
+      "section_id": 10,
+      "page_number": null,
+      "formatted": "<head n=\"3.\" >Results<\/head>"
+    },
+    {
+      "text": "Westen blots of whole muscle and calibration curves are shown in Fig. 1.",
+      "text_id": 100,
+      "paragraph_id": 19,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "Westen blots of whole muscle and calibration curves are shown in Fig. <ref type=\"figure\" target=\"#fig_1\">1<\/ref>."
+    },
+    {
+      "text": "The basal abundances of HSP72, HSP27, and ab-crystallin were not significantly different in muscle between younger and older adults (p > 0.05, Fig. 1C, 1D, and 1F).",
+      "text_id": 101,
+      "paragraph_id": 19,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "The basal abundances of HSP72, HSP27, and ab-crystallin were not significantly different in muscle between younger and older adults (p &gt; 0.05, Fig. <ref type=\"figure\" target=\"#fig_1\">1C<\/ref>, <ref type=\"figure\" target=\"#fig_1\">1D<\/ref>, and <ref type=\"figure\" target=\"#fig_1\">1F<\/ref>)."
+    },
+    {
+      "text": "However, both basal pHSP27 Ser15 (»1.8-fold, Levene's test F(2,16) = 6.782, p = 0.007; Brown-Forsye and Welch's (F(2,8.391) = 7.082, p = 0.015; Games-Horwell post hoc p = 0.05; 95%CI: À0.92 to 0.04; h 2 p = 0.43) and paB-crystallin Ser59 were relatively higher in 4 older individuals and showed significantly different (Levene's test F(2,16) = 35.2, p < 0.001; Brown-Forsye and Welch's (F(2,8.391)= 3.9, p = 0.05; Games-Horwell's post hoc p = 0.06) in older compared to younger adults (Fig. 1E and 1G).",
+      "text_id": 102,
+      "paragraph_id": 19,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "However, both basal pHSP27 Ser15 (»1.8-fold, Levene's test F(2,16) = 6.782, p = 0.007; Brown-Forsye and Welch's (F(2,8.391) = 7.082, p = 0.015; Games-Horwell post hoc p = 0.05; 95%CI: À0.92 to 0.04; h 2 p = 0.43) and paB-crystallin Ser59 were relatively higher in 4 older individuals and showed significantly different (Levene's test F(2,16) = 35.2, p &lt; 0.001; Brown-Forsye and Welch's (F(2,8.391)= 3.9, p = 0.05; Games-Horwell's post hoc p = 0.06) in older compared to younger adults (Fig. <ref type=\"figure\" target=\"#fig_1\">1E<\/ref> and <ref type=\"figure\" target=\"#fig_1\">1G<\/ref>)."
+    },
+    {
+      "text": "Compared with basal levels in older adults, HIT had no effect on HSP72, HSP27, or aB-crystallin abundances (Fig. 1C, 1D, and 1F) appreciate multiple comparisons test but reduced pHSP27 Ser15 (»1.8-fold, p = 0.01; 95%CI: À0.16 to 0.95; h 2 p = 0.43) and paB-crystallin Ser59 (»2.9-fold, p = 0.05, 95%CI: À0.14 to 0.16; h 2 p = 0.46,)) levels (Fig. 1E and 1G).",
+      "text_id": 103,
+      "paragraph_id": 19,
+      "section_id": 11,
+      "page_number": null,
+      "formatted": "Compared with basal levels in older adults, HIT had no effect on HSP72, HSP27, or aB-crystallin abundances (Fig. <ref type=\"figure\" target=\"#fig_1\">1C<\/ref>, <ref type=\"figure\" target=\"#fig_1\">1D<\/ref>, and <ref type=\"figure\" target=\"#fig_1\">1F<\/ref>) appreciate multiple comparisons test but reduced pHSP27 Ser15 (»1.8-fold, p = 0.01; 95%CI: À0.16 to 0.95; h 2 p = 0.43) and paB-crystallin Ser59 (»2.9-fold, p = 0.05, 95%CI: À0.14 to 0.16; h 2 p = 0.46,)) levels (Fig. <ref type=\"figure\" target=\"#fig_1\">1E<\/ref> and <ref type=\"figure\" target=\"#fig_1\">1G<\/ref>)."
+    },
+    {
+      "text": "Westen blots of pooled single muscle fibers and calibration curves are shown in  2F and 2H).",
+      "text_id": 104,
+      "paragraph_id": 20,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Westen blots of pooled single muscle fibers and calibration curves are shown in  <ref type=\"figure\" target=\"#fig_2\">2F<\/ref> and <ref type=\"figure\" target=\"#fig_2\">2H<\/ref>)."
+    },
+    {
+      "text": "There were no differences in the basal abundances between type I and type II fibers for HSP72 and HSP27 in old individuals, pHSP27 Ser15 or paB-crystallin Ser59 in young individuals, and pHSP27 Ser82 for both young and older individuals (Fig. 2 and Supplementary Fig. 1).",
+      "text_id": 105,
+      "paragraph_id": 20,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "There were no differences in the basal abundances between type I and type II fibers for HSP72 and HSP27 in old individuals, pHSP27 Ser15 or paB-crystallin Ser59 in young individuals, and pHSP27 Ser82 for both young and older individuals (Fig. <ref type=\"figure\" target=\"#fig_0\">2<\/ref> and Supplementary Fig. <ref type=\"figure\" target=\"#fig_1\">1<\/ref>)."
+    },
+    {
+      "text": "Comparing type I or type II fibers between young and old individuals, there were no differences in the abundances of HPSP72, HSP27, or aB-crystallin (Fig. 2B, 2D, and 2G).",
+      "text_id": 106,
+      "paragraph_id": 20,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "Comparing type I or type II fibers between young and old individuals, there were no differences in the abundances of HPSP72, HSP27, or aB-crystallin (Fig. <ref type=\"figure\" target=\"#fig_2\">2B<\/ref>, <ref type=\"figure\" target=\"#fig_2\">2D<\/ref>, and <ref type=\"figure\" target=\"#fig_2\">2G<\/ref>)."
+    },
+    {
+      "text": "There was a higher abundance of pHSP27 Ser15 (Games-Horwell post hoc p = 0.04; 95%CI: À0.84 to À0.12; Fig. 2E) and paB-crystallin Ser59 (Games-Horwell post hoc p = 0.02; 95%CI: À0.97 to 1.25; Fig. 2H) in type I fibers from older compared with younger adults; however, there was no difference in type II fibers.",
+      "text_id": 107,
+      "paragraph_id": 20,
+      "section_id": 12,
+      "page_number": null,
+      "formatted": "There was a higher abundance of pHSP27 Ser15 (Games-Horwell post hoc p = 0.04; 95%CI: À0.84 to À0.12; Fig. <ref type=\"figure\" target=\"#fig_2\">2E<\/ref>) and paB-crystallin Ser59 (Games-Horwell post hoc p = 0.02; 95%CI: À0.97 to 1.25; Fig. <ref type=\"figure\" target=\"#fig_2\">2H<\/ref>) in type I fibers from older compared with younger adults; however, there was no difference in type II fibers."
+    },
+    {
+      "text": "Twelve weeks of HIT in older adults resulted in: increased HSP72 protein in type I fibers (»1.2-fold, t(6) = À2.49, p = 0.04; 95%CI: À1.80 to 0.00; effect size Cd = 0.30) but not type II fibers (Fig. 3A and 3B); decreased HSP27 protein in both type I (»1.6-fold, t(6) = 5.62, p = 0.01; 95%CI: 0.72À3.48; effect size Cd = 0.20) and type II fibers (»1.4-fold, t(6) = À2.67, p = 0.04; 95%CI: 0.62À3.03; effect size Cd = 0.20) (Fig. 3C and 3D); decreased pHSP27 Ser15 in type I (»2-fold, Z = À2.37, p = 0.01; 95%CI: 0.11À2.02; effect size Cd s = 1.68) and type II fibers (»2-fold, Z = À2.37, p = 0.05; 95%CI: 0.50À1.89; effect size Cd s = 1.32) (Fig. 3E and 3F).",
+      "text_id": 108,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Twelve weeks of HIT in older adults resulted in: increased HSP72 protein in type I fibers (»1.2-fold, t(6) = À2.49, p = 0.04; 95%CI: À1.80 to 0.00; effect size Cd = 0.30) but not type II fibers (Fig. <ref type=\"figure\" target=\"#fig_3\">3A<\/ref> and <ref type=\"figure\" target=\"#fig_3\">3B<\/ref>); decreased HSP27 protein in both type I (»1.6-fold, t(6) = 5.62, p = 0.01; 95%CI: 0.72À3.48; effect size Cd = 0.20) and type II fibers (»1.4-fold, t(6) = À2.67, p = 0.04; 95%CI: 0.62À3.03; effect size Cd = 0.20) (Fig. <ref type=\"figure\" target=\"#fig_3\">3C<\/ref> and <ref type=\"figure\" target=\"#fig_3\">3D<\/ref>); decreased pHSP27 Ser15 in type I (»2-fold, Z = À2.37, p = 0.01; 95%CI: 0.11À2.02; effect size Cd s = 1.68) and type II fibers (»2-fold, Z = À2.37, p = 0.05; 95%CI: 0.50À1.89; effect size Cd s = 1.32) (Fig. <ref type=\"figure\" target=\"#fig_3\">3E<\/ref> and <ref type=\"figure\" target=\"#fig_3\">3F<\/ref>)."
+    },
+    {
+      "text": "Protein abundances of aB-crystallin were lower post HIT in type I fibers (»1.4-fold, t(6) = 3.68, p = 0.01; 95%CI: 0.23À2.43; effect size Cd = 0.20) and type II fibers (»1.8-fold, t(6) = 3.05, p = 0.02; 95%CI: 0.15À1.82; effect size Cd = 0.50) (Fig. 3G and 3H).",
+      "text_id": 109,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Protein abundances of aB-crystallin were lower post HIT in type I fibers (»1.4-fold, t(6) = 3.68, p = 0.01; 95%CI: 0.23À2.43; effect size Cd = 0.20) and type II fibers (»1.8-fold, t(6) = 3.05, p = 0.02; 95%CI: 0.15À1.82; effect size Cd = 0.50) (Fig. <ref type=\"figure\" target=\"#fig_3\">3G<\/ref> and <ref type=\"figure\" target=\"#fig_3\">3H<\/ref>)."
+    },
+    {
+      "text": "Also, paB-crystallin Ser59 was decreased in both type I fibers (»3-fold, t(6) = 3.47, p = 0.01; 95%CI: 0.25À2.32; effect size Cd = 0.40) and type II fibers (»2-fold, t(6) = 3.65, p = 0.01; 95%CI: 0.29À2.42; effect size Cd = 0.30) (Fig. 3I and 3J).",
+      "text_id": 110,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "Also, paB-crystallin Ser59 was decreased in both type I fibers (»3-fold, t(6) = 3.47, p = 0.01; 95%CI: 0.25À2.32; effect size Cd = 0.40) and type II fibers (»2-fold, t(6) = 3.65, p = 0.01; 95%CI: 0.29À2.42; effect size Cd = 0.30) (Fig. <ref type=\"figure\" target=\"#fig_3\">3I<\/ref> and <ref type=\"figure\" target=\"#fig_3\">3J<\/ref>)."
+    },
+    {
+      "text": "There were no differences in fiber type abundances of pHSP27 Ser82 with HIT in older adults (Supplementary Fig. 1).",
+      "text_id": 111,
+      "paragraph_id": 21,
+      "section_id": 13,
+      "page_number": null,
+      "formatted": "There were no differences in fiber type abundances of pHSP27 Ser82 with HIT in older adults (Supplementary Fig. <ref type=\"figure\" target=\"#fig_1\">1<\/ref>)."
+    },
+    {
+      "text": "We reported that skeletal muscle in older adults exhibited a greater level of HSP stress response compared with younger adults, indicated by the higher relative abundances of paBcrystallin Ser59 and pHSP27 Ser15.",
+      "text_id": 112,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Furthermore, 12 weeks of HIT decreased muscle paB-crystallin Ser59 and pHSP27 Ser15 abundances in older adults to levels not different from those of young adults.",
+      "text_id": 113,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This indicates the potential capacity of HIT to protect muscle from age-associated cellular stress, which could slow the inevitable age-related decline in muscle mass and function diagnosed as sarcopenia. 44",
+      "text_id": 114,
+      "paragraph_id": 22,
+      "section_id": 14,
+      "page_number": null,
+      "formatted": "This indicates the potential capacity of HIT to protect muscle from age-associated cellular stress, which could slow the inevitable age-related decline in muscle mass and function diagnosed as sarcopenia. <ref type=\"bibr\" target=\"#b43\">44<\/ref>"
+    },
+    {
+      "text": "We have previously discussed the ability to improve relative quantification of Westen blotting by the inclusion of calibration curves, which allow even small differences in protein abundances to be detected. 40, 42 Using calibrated Westen blotting, we found that the level of HSPs were not different in the muscles from our 68À72-year-old adult cohort compared with our 18À30-year-old cohort of younger adults.",
+      "text_id": 115,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "We have previously discussed the ability to improve relative quantification of Westen blotting by the inclusion of calibration curves, which allow even small differences in protein abundances to be detected. <ref type=\"bibr\" target=\"#b39\">40,<\/ref> <ref type=\"bibr\" target=\"#b41\">42<\/ref> Using calibrated Westen blotting, we found that the level of HSPs were not different in the muscles from our 68À72-year-old adult cohort compared with our 18À30-year-old cohort of younger adults."
+    },
+    {
+      "text": "In previous studies, aging comparisons have reported higher HSP72 (aged 76 § 6 years), 16 HSP27, and aB-crystallin content with age (51À79 years old), 23 similar to rodent models. 45 We suggest that we did not find this in our assessment due to methodological differences or because our older adults were moderately active, although specific physiological measurements are not reported for further comparisons.",
+      "text_id": 116,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "In previous studies, aging comparisons have reported higher HSP72 (aged 76 § 6 years), <ref type=\"bibr\" target=\"#b15\">16<\/ref> HSP27, and aB-crystallin content with age (51À79 years old), <ref type=\"bibr\" target=\"#b22\">23<\/ref> similar to rodent models. <ref type=\"bibr\" target=\"#b44\">45<\/ref> We suggest that we did not find this in our assessment due to methodological differences or because our older adults were moderately active, although specific physiological measurements are not reported for further comparisons."
+    },
+    {
+      "text": "Older adults involved in this study self-reported »6À8 h of moderate activity per week, as previously reported. 34 It has been suggested that higher aB-crystallin levels were related to reduced functional capacity, which is considered a hallmark of frailty in the elderly. 46 Nevertheless, in the current study, higher abundances of pHSP27 Ser15 and paB-crystallin Ser59 were found in muscle fibers from older adults compared to younger individuals, indicating higher cellular stress stimuli, most likely pertaining to various molecular changes related to age.",
+      "text_id": 117,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "Older adults involved in this study self-reported »6À8 h of moderate activity per week, as previously reported. <ref type=\"bibr\" target=\"#b33\">34<\/ref> It has been suggested that higher aB-crystallin levels were related to reduced functional capacity, which is considered a hallmark of frailty in the elderly. <ref type=\"bibr\" target=\"#b45\">46<\/ref> Nevertheless, in the current study, higher abundances of pHSP27 Ser15 and paB-crystallin Ser59 were found in muscle fibers from older adults compared to younger individuals, indicating higher cellular stress stimuli, most likely pertaining to various molecular changes related to age."
+    },
+    {
+      "text": "These higher levels of phosphorylation of sHSPs have been observed in several different aging models (for reviews 47 ).",
+      "text_id": 118,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "These higher levels of phosphorylation of sHSPs have been observed in several different aging models (for reviews <ref type=\"bibr\" target=\"#b46\">47<\/ref> )."
+    },
+    {
+      "text": "The phosphorylation-induced changes in sHSPs are linked to their ability to respond to cellular stress and maintain protein homeostasis, which allows them to modulate cellular stress responses 48, 49 and protein changes, as previously reported. 34 Phosphorylation of sHSPs is typically reversible, allowing this post-translational modification to drive dynamic cellular changes, specifically in altering the oligomeric distribution and chaperone ability of sHSPs in response to stress. 48 In addition to preserving protein structures and guiding refolding, the sHSPs have been implicated with apoptosis, which results from hyperphosphorylation of sHSPs and from which the cell cannot recover. 48 An absolute level of phosphorylation that leads to this fatal end point is not clear.",
+      "text_id": 119,
+      "paragraph_id": 23,
+      "section_id": 15,
+      "page_number": null,
+      "formatted": "The phosphorylation-induced changes in sHSPs are linked to their ability to respond to cellular stress and maintain protein homeostasis, which allows them to modulate cellular stress responses <ref type=\"bibr\" target=\"#b47\">48,<\/ref> <ref type=\"bibr\" target=\"#b48\">49<\/ref> and protein changes, as previously reported. <ref type=\"bibr\" target=\"#b33\">34<\/ref> Phosphorylation of sHSPs is typically reversible, allowing this post-translational modification to drive dynamic cellular changes, specifically in altering the oligomeric distribution and chaperone ability of sHSPs in response to stress. <ref type=\"bibr\" target=\"#b47\">48<\/ref> In addition to preserving protein structures and guiding refolding, the sHSPs have been implicated with apoptosis, which results from hyperphosphorylation of sHSPs and from which the cell cannot recover. <ref type=\"bibr\" target=\"#b47\">48<\/ref> An absolute level of phosphorylation that leads to this fatal end point is not clear."
+    },
+    {
+      "text": "Skeletal muscle heterogeneity is an important consideration, as muscle fiber type composition can vary with both age and exercise. 50, 51 In the current study, single muscle fibers were isolated from biopsies and pooled based on the presence of MHCI or MHCII.",
+      "text_id": 120,
+      "paragraph_id": 24,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Skeletal muscle heterogeneity is an important consideration, as muscle fiber type composition can vary with both age and exercise. <ref type=\"bibr\" target=\"#b49\">50,<\/ref> <ref type=\"bibr\" target=\"#b50\">51<\/ref> In the current study, single muscle fibers were isolated from biopsies and pooled based on the presence of MHCI or MHCII."
+    },
+    {
+      "text": "Comparison of the abundance of HSPs in the specific fiber types by calibrated Westen blotting revealed greater amounts of HSP72, HSP27, and aB-crystallin in type I fibers isolated from young individuals, which was similar to fiber type-specific abundances of paB-crystallin in older adults, although no fiber type difference in HSP72 and HSP27 was seen in the older adults (Fig. 2).",
+      "text_id": 121,
+      "paragraph_id": 24,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Comparison of the abundance of HSPs in the specific fiber types by calibrated Westen blotting revealed greater amounts of HSP72, HSP27, and aB-crystallin in type I fibers isolated from young individuals, which was similar to fiber type-specific abundances of paB-crystallin in older adults, although no fiber type difference in HSP72 and HSP27 was seen in the older adults (Fig. <ref type=\"figure\" target=\"#fig_0\">2<\/ref>)."
+    },
+    {
+      "text": "Previous studies in young adults reported a higher abundance of both HSP27 and aBcrystallin 26, 52, 53 in type I compared to type II fibers in young adults, similar to the findings here.",
+      "text_id": 122,
+      "paragraph_id": 24,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": "Previous studies in young adults reported a higher abundance of both HSP27 and aBcrystallin <ref type=\"bibr\" target=\"#b25\">26,<\/ref> <ref type=\"bibr\" target=\"#b51\">52,<\/ref> <ref type=\"bibr\" target=\"#b52\">53<\/ref> in type I compared to type II fibers in young adults, similar to the findings here."
+    },
+    {
+      "text": "When the phosphorylated sHSPs were compared between the 2 cohorts, there was more pHSP27 Ser15 and paB-crystallin Ser59 in type I fibers from older adults, with no difference between type II fibers present in older and younger adults.",
+      "text_id": 123,
+      "paragraph_id": 25,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These results were broadly congruent with the whole muscle analyses; however, they revealed that differences in the whole muscle measurements for the phosphorylated sHSPs were specifically due to changes in type I fibers.",
+      "text_id": 124,
+      "paragraph_id": 25,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Interestingly, despite the consistent differences in the abundance of pHSP27 Ser15 and paB-crystallin Ser59 in whole muscle and pooled muscle fibers, pHSP27 at Ser82 was unchanged in specific fiber types between young and older adults or following HIT.",
+      "text_id": 125,
+      "paragraph_id": 25,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "This suggests that pHSP27 Ser82 phosphorylation is not a stress marker for age related cellular changes.",
+      "text_id": 126,
+      "paragraph_id": 25,
+      "section_id": 16,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Following 12 weeks of HIT in the older adults, total HSP72, HSP27, and aB-crystallin were not different in whole muscle homogenates.",
+      "text_id": 127,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "In the same samples, pHSP27 Ser15 and paBcrystallin Ser59, which were elevated when comparing older with young adults, were decreased in response to the HIT intervention and were no longer different from the levels seen in muscle from young adults.",
+      "text_id": 128,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These findings demonstrate that the muscle cells had not reached an irreversible level of hyperphosphorylation, suggesting that a »2À3-fold higher level of phosphorylation of pHSP27 Ser15 and paB-crystallin Ser59 in muscle is below the threshold for irrecoverable apoptotic events.",
+      "text_id": 129,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The decreases in total HSP27, total aB-crystallin, pHSP27 Ser15, and paB-crystallin Ser59 were seen in both type I and type II fibers, which is perhaps not surprising given the high-intensity nature of the training protocol that would likely have recruited both fiber types during the exercise bouts. 54 Despite this, type I but not type II muscle fibers resulted in an »1.2-fold increase in HSP72.",
+      "text_id": 130,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "The decreases in total HSP27, total aB-crystallin, pHSP27 Ser15, and paB-crystallin Ser59 were seen in both type I and type II fibers, which is perhaps not surprising given the high-intensity nature of the training protocol that would likely have recruited both fiber types during the exercise bouts. <ref type=\"bibr\" target=\"#b53\">54<\/ref> Despite this, type I but not type II muscle fibers resulted in an »1.2-fold increase in HSP72."
+    },
+    {
+      "text": "Both these findings indicate that cellular-specific changes that were not measurable at the level of whole muscle homogenates can provide insight into the cellular events that would otherwise not be discernible in whole muscle analyses.",
+      "text_id": 131,
+      "paragraph_id": 26,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "With respect to HSP72, previous research indicated that inhibiting HSP72 led to muscle atrophy, while overexpression of HSP72 promoted enhanced preservation of muscle function. 55, 56 Also, HSP72 maintains the correct protein folding of SR/ER Ca 2+ ATPases in the SR, 57 which is critical to muscle function in maintaining cellular Ca 2+ homeostasis.",
+      "text_id": 132,
+      "paragraph_id": 27,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "With respect to HSP72, previous research indicated that inhibiting HSP72 led to muscle atrophy, while overexpression of HSP72 promoted enhanced preservation of muscle function. <ref type=\"bibr\" target=\"#b54\">55,<\/ref> <ref type=\"bibr\" target=\"#b55\">56<\/ref> Also, HSP72 maintains the correct protein folding of SR/ER Ca 2+ ATPases in the SR, <ref type=\"bibr\" target=\"#b56\">57<\/ref> which is critical to muscle function in maintaining cellular Ca 2+ homeostasis."
+    },
+    {
+      "text": "This suggests that the 12-week HIT intervention, sufficient to increase HSP72 abundance at least in type I muscle fibers, confers a protective effect on muscle function. 34 Higher levels of pHSP27 Ser15 and paB-crystallin Ser59 in the muscle fibers of older adults compared with younger adults likely indicated a higher level of cellular stress in the older individuals.",
+      "text_id": 133,
+      "paragraph_id": 27,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "This suggests that the 12-week HIT intervention, sufficient to increase HSP72 abundance at least in type I muscle fibers, confers a protective effect on muscle function. <ref type=\"bibr\" target=\"#b33\">34<\/ref> Higher levels of pHSP27 Ser15 and paB-crystallin Ser59 in the muscle fibers of older adults compared with younger adults likely indicated a higher level of cellular stress in the older individuals."
+    },
+    {
+      "text": "The robust adaptation to the 12-week HIT intervention in whole muscle homogenate and both type I and type II muscle fibers in the older adults provides strong evidence of positive adaptation in cellular homeostasis from the exercise training intervention.",
+      "text_id": 134,
+      "paragraph_id": 27,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We have previously reported increased pHSP27 Ser15 and pHSP27 Ser82 abundances following acute eccentric exercise in young humans, 14 and while we have not measured the same in older individuals, it suggests that chronic exercise training does not promote a change in pHSP27 Ser82, yet it does for pHSP27 Ser15.",
+      "text_id": 135,
+      "paragraph_id": 27,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "We have previously reported increased pHSP27 Ser15 and pHSP27 Ser82 abundances following acute eccentric exercise in young humans, <ref type=\"bibr\" target=\"#b13\">14<\/ref> and while we have not measured the same in older individuals, it suggests that chronic exercise training does not promote a change in pHSP27 Ser82, yet it does for pHSP27 Ser15."
+    },
+    {
+      "text": "In a similar pattern to the phosphorylated sHSPs, we found higher abundance of mitochondrial dynamics proteins Mfn2 and MiD49 in the older compared to the young adults, 32 which decreased following HIT.",
+      "text_id": 136,
+      "paragraph_id": 28,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "In a similar pattern to the phosphorylated sHSPs, we found higher abundance of mitochondrial dynamics proteins Mfn2 and MiD49 in the older compared to the young adults, <ref type=\"bibr\" target=\"#b31\">32<\/ref> which decreased following HIT."
+    },
+    {
+      "text": "We also reported robust increases in mitochondrial content markers such as cytochrome c oxidase subunit IV and citrate synthase activity following HIT. 32 We interpreted those findings as the muscles needing to increase mitochondrial turnover and, therefore, adapting by increasing both fusion (with Mfn2 as the marker) and fission (with MiD49 as the marker) in the older adults, which, following the stabilizing exercise training, were no longer required. 32 Furthermore, in that earlier work, we found there was a type II fiber type-specific response to Mfn2.",
+      "text_id": 137,
+      "paragraph_id": 28,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "We also reported robust increases in mitochondrial content markers such as cytochrome c oxidase subunit IV and citrate synthase activity following HIT. <ref type=\"bibr\" target=\"#b31\">32<\/ref> We interpreted those findings as the muscles needing to increase mitochondrial turnover and, therefore, adapting by increasing both fusion (with Mfn2 as the marker) and fission (with MiD49 as the marker) in the older adults, which, following the stabilizing exercise training, were no longer required. <ref type=\"bibr\" target=\"#b31\">32<\/ref> Furthermore, in that earlier work, we found there was a type II fiber type-specific response to Mfn2."
+    },
+    {
+      "text": "Together with the changes reported here specific to type I fibers, we can conclude that the sHSP response plays an important cellular role in the type I oxidative fibers, which could indicate that a greater level of oxidative stress occurs in type 1 fibers, given their higher mitochondrial content. 32",
+      "text_id": 138,
+      "paragraph_id": 28,
+      "section_id": 17,
+      "page_number": null,
+      "formatted": "Together with the changes reported here specific to type I fibers, we can conclude that the sHSP response plays an important cellular role in the type I oxidative fibers, which could indicate that a greater level of oxidative stress occurs in type 1 fibers, given their higher mitochondrial content. <ref type=\"bibr\" target=\"#b31\">32<\/ref>"
+    },
+    {
+      "text": "This study shows that HIT is associated with altered phosphorylation of sHSPs in aged skeletal muscle, potentially reflecting improved cellular stress adaptation.",
+      "text_id": 139,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "While consistent with literature linking sHSPs to proteostasis and exercise benefits, our exploratory findings are associative and do not confirm causality, the underlying signaling event and their functional significance remain speculative and warrant mechanistic studies to further investigate.",
+      "text_id": 140,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "A limitation of the study is the absence of a non-training older control group.",
+      "text_id": 141,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Even so, it is unlikely that the higher HSP stress response seen in older individuals would reverse without intervention.",
+      "text_id": 142,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Another limitation is that the younger individuals did not undergo the 12-week HIT program; however, the younger group was used as a comparator for the older individuals before they underwent training, and we would hypothesize that an exercise training program would result in different HSP responses.",
+      "text_id": 143,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The baseline differences in VO₂ peak and heart rate between age groups may have influenced outcomes; however, it is difficult to match for these parameters when disparately aged humans are studied.",
+      "text_id": 144,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Finally, we did not measure phosphorylation at Ser45 on aB-crystallin due to the lack of a reliable antibody to enable calibrated Westen blotting, and hence, the development of quantitative measures.",
+      "text_id": 145,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "These constraints limit mechanistic interpretation, highlighting the need for future studies.",
+      "text_id": 146,
+      "paragraph_id": 29,
+      "section_id": 18,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Following a comparison between young and older adults matched for self-reported physical activity, we explored the impact of 12 weeks of HIT on HSP content and phosphorylation in muscle from older individuals.",
+      "text_id": 147,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "We found that the HIT resulted in a reduction of HSP27, aB-crystallin, paB-crystallin Ser59, and pHSP27 Ser15 levels.",
+      "text_id": 148,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Moreover, distinct protein abundance profiles were observed across different muscle fiber types, which was consistent across both young and older participants.",
+      "text_id": 149,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Collectively, our results signify a distinctive cellular response following 12 weeks of HIT in older adults, which may be indicative of a potential attenuated stress response as a consequence of the exercise training.",
+      "text_id": 150,
+      "paragraph_id": 30,
+      "section_id": 19,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The authors wish to thank Ms.",
+      "text_id": 151,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "The authors wish to thank <rs type=\"person\">Ms."
+    },
+    {
+      "text": "Heidy Latchman for assistance with laboratory procedures.",
+      "text_id": 152,
+      "paragraph_id": 31,
+      "section_id": 20,
+      "page_number": null,
+      "formatted": "Heidy Latchman<\/rs> for assistance with laboratory procedures."
+    },
+    {
+      "text": "The authors declare that they have no competing interests.",
+      "text_id": 153,
+      "paragraph_id": 32,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Given her role as board member, RMM had no involvement in the peer review of this article and had no access to information regarding its peer review.",
+      "text_id": 154,
+      "paragraph_id": 32,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Full responsibility for the editorial process for this article was delegated to another journal editor.",
+      "text_id": 155,
+      "paragraph_id": 32,
+      "section_id": 21,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Authors' contributions NTF, DE, VLW, and RMM were responsible for data collection and analysis.",
+      "text_id": 156,
+      "paragraph_id": 33,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All authors participated in the conception and design of the study, the interpretation of results, and manuscript writing.",
+      "text_id": 157,
+      "paragraph_id": 33,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All authors have read and approved the final version of the manuscript, and agree with the order of presentation of the authors.",
+      "text_id": 158,
+      "paragraph_id": 33,
+      "section_id": 22,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Supplementary materials associated with this article can be found in the online version at https://doi.org/10.1016/j.jshs.2025.101111.",
+      "text_id": 159,
+      "paragraph_id": 34,
+      "section_id": 23,
+      "page_number": null,
+      "formatted": "Supplementary materials associated with this article can be found in the online version at <ref type=\"url\" target=\"https://doi.org/10.1016/j.jshs.2025.101111\">doi:10.1016/j.jshs.2025.101111<\/ref>."
+    },
+    {
+      "text": "Compared to type II fibers, there were higher basal protein abundances in type I fibers for HSP72 (young only, Levene's test F(3, 22) = 3.4, p = 0.04, Univariate analysis F(3, 22) = 6.9, p = 0.02; Games-Horwell post hoc p = 0.032; 95%CI: 0.38À0.80; h 2 p = 0.48; Fig 2A and 2B), HSP27 (young only, Levene's test F(3, 22) = 0.15, p = 0.9, Univariate analysis F(3, 22) = 4.57, p = 0.01; Tukey post hoc p = 0.05; 95%CI: À0.03 to 0.55; h 2 p = 0.38; Fig 2C and 2D), aB-crystallin (young, Levene's test F(3, 22) = 4.7, p = 0.01, Univariate analysis F(3, 22) = 8.53, p < 0.01; Games-Horwell post hoc p = 0.04; 95%CI: 0.08À0.97; h 2 p = 0.54); and old, Games-Horwell post hoc p = 0.01; 95%CI: 0.08À0.60; Fig 2F and 2G), pHSP27 Ser15 (old only, Levene's test F(3, 22) = 1.3, p = 0.27, Univariate analysis F(3, 22) = 5.08, p < 0.01; Tukey post hoc p < 0.01; 95%CI: 0.12À0.92; h 2 p = 0.41; Fig 2C and 2E), and paB-crystallin Ser59 (old only, Levene's test F(3, 22) = 5.6, p = 0.03, Univariate analysis F(3, 22) = 6.18, p = 0.05; Games-Horwell post hoc p = 0.02; 95%CI: 0.11À1.25; h 2 p = 0.62; Fig.",
+      "text_id": 160,
+      "paragraph_id": 35,
+      "section_id": 24,
+      "page_number": null,
+      "formatted": "Compared to type II fibers, there were higher basal protein abundances in type I fibers for HSP72 (young only, Levene's test F(3, 22) = 3.4, p = 0.04, Univariate analysis F(3, 22) = 6.9, p = 0.02; Games-Horwell post hoc p = 0.032; 95%CI: 0.38À0.80; h 2 p = 0.48; Fig 2A and 2B), HSP27 (young only, Levene's test F(3, 22) = 0.15, p = 0.9, Univariate analysis F(3, 22) = 4.57, p = 0.01; Tukey post hoc p = 0.05; 95%CI: À0.03 to 0.55; h 2 p = 0.38; Fig 2C and 2D), aB-crystallin (young, Levene's test F(3, 22) = 4.7, p = 0.01, Univariate analysis F(3, 22) = 8.53, p &lt; 0.01; Games-Horwell post hoc p = 0.04; 95%CI: 0.08À0.97; h 2 p = 0.54); and old, Games-Horwell post hoc p = 0.01; 95%CI: 0.08À0.60; Fig 2F and 2G), pHSP27 Ser15 (old only, Levene's test F(3, 22) = 1.3, p = 0.27, Univariate analysis F(3, 22) = 5.08, p &lt; 0.01; Tukey post hoc p &lt; 0.01; 95%CI: 0.12À0.92; h 2 p = 0.41; Fig 2C and 2E), and paB-crystallin Ser59 (old only, Levene's test F(3, 22) = 5.6, p = 0.03, Univariate analysis F(3, 22) = 6.18, p = 0.05; Games-Horwell post hoc p = 0.02; 95%CI: 0.11À1.25; h 2 p = 0.62; Fig."
+    },
+    {
+      "text": "Fig 1.",
+      "text_id": 161,
+      "paragraph_id": 36,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relative HSP abundances in whole skeletal muscle homogenates from young adults and older adults pre and post HIT exercise.",
+      "text_id": 162,
+      "paragraph_id": 36,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Representative Westen blots of (A) HSP72, HSP27, and aB-crystallin and (B) phosphorylated HSP27 Ser15 (pHSP27 Ser15) and paB-crystallin Ser59 in whole muscle homogenates from the vastus lateralis of the same individuals.",
+      "text_id": 163,
+      "paragraph_id": 36,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Calibration curves of mixed muscle homogenates are indicated and were used to determine the relative number of given proteins (see Methods).",
+      "text_id": 164,
+      "paragraph_id": 36,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Stain-free gels are indicative of total protein loading, and molecular weights are indicated by markers collected under white light capture without moving the membrane between that and chemiluminescence detection.",
+      "text_id": 165,
+      "paragraph_id": 36,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relative abundances of (C) HSP72, (D) HSP27, (E) pHSP27 Ser15, (F) aB-crystallin, and (G) paB-crystallin Ser59 from young (circle) and older adults Pre (square) and older adults Post (triangle) HIT exercise are shown relative to average Old (pre) on a given gel (data are presented as mean § SD).",
+      "text_id": 166,
+      "paragraph_id": 36,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Individuals indicated by the number of symbols (n: 5À7), with the same color assigned to the same individual and consistent across all graphs. * p 0.05 indicates Brown-Forsye and Welch's and post hoc analysis using Games-Horwell.",
+      "text_id": 167,
+      "paragraph_id": 36,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "HIT = highintensity training; HSP = heat shock protein; paB-crystallin Ser59 = phospho-aB-crystallin at Serine59; pHSP27 Ser15 = phospho-HSP27 at Serine15.",
+      "text_id": 168,
+      "paragraph_id": 36,
+      "section_id": 25,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 2.",
+      "text_id": 169,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "HSP abundances in type I and II skeletal muscle fibers from young and older adults.",
+      "text_id": 170,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "(A, C, and F) The MHC isoform present was determined in individual muscle fiber segments from the vastus lateralis and, following pooling into type I and type II groups from a given biopsy, were analyzed by Westen blotting.",
+      "text_id": 171,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Westen blots of (A) HSP72, (C) HSP27 and pHSP27 Ser15, (F) aB-crystallin and paB-crystallin Ser59, with MHC isoforms in groups of fibers.",
+      "text_id": 172,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Stain-free gels are indicative of total protein loading, and molecular weights are indicated by markers collected under white light capture without moving the membrane between that and chemiluminescence detection.",
+      "text_id": 173,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Calibration curves of mixed muscle homogenates are indicated.",
+      "text_id": 174,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relative protein abundances of (B) HSP72, (D) HSP27, (E) pHSP27 Ser15, (G) aB-crystallin, and (H) paB-crystallin Ser59 in fibers from young (circle) and older adults (square) type I fibers (no outline) and type II fibers (outline).",
+      "text_id": 175,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All fibers are expressed relative to the average older adult's type I fibers.",
+      "text_id": 176,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The same color is assigned to the same individual and is consistent with Fig 1 (data are presented as mean § SD). * p < 0.05 and ** p < 0.01, mixed effect model Univariant using either Tukey's or Games-Horwell's multiple comparison test (see Methods).",
+      "text_id": 177,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": "The same color is assigned to the same individual and is consistent with Fig 1 (data are presented as mean § SD). * p &lt; 0.05 and ** p &lt; 0.01, mixed effect model Univariant using either Tukey's or Games-Horwell's multiple comparison test (see Methods)."
+    },
+    {
+      "text": "HIT = high-intensity training; HSP = heat shock protein; MHC = myosin heavy chain; paB-crystallin Ser59 = phospho-aB-crystallin at Serine59; pHSP27 Ser15 = phospho-HSP27 at Serine15.",
+      "text_id": 178,
+      "paragraph_id": 37,
+      "section_id": 26,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Fig 3.",
+      "text_id": 179,
+      "paragraph_id": 38,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "HSP abundances in type I and II skeletal fibers from older adults pre-and post HIT exercise.",
+      "text_id": 180,
+      "paragraph_id": 38,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Relative protein abundances of (A and B) HSP72, (C and D) HSP27, (E and F) pHSP27 Ser15, (G and H) aB-crystallin, and (I and J) paB-crystallin Ser59 in fibers from old pre and old post HIT exercise.",
+      "text_id": 181,
+      "paragraph_id": 38,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "All fibers are expressed relative to the average old pre type I fibers or relative pre type II depending on fiber type.",
+      "text_id": 182,
+      "paragraph_id": 38,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "The same color is assigned to the same Individual, consistent in both graphs and all figures. * p < 0.05 and ** p < 0.01 indicated significant difference in paired t-test (except pHSP27 Ser15 Wilcoxon match-pair rank test).",
+      "text_id": 183,
+      "paragraph_id": 38,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": "The same color is assigned to the same Individual, consistent in both graphs and all figures. * p &lt; 0.05 and ** p &lt; 0.01 indicated significant difference in paired t-test (except pHSP27 Ser15 Wilcoxon match-pair rank test)."
+    },
+    {
+      "text": "Representative blots are shown in Fig 2.",
+      "text_id": 184,
+      "paragraph_id": 38,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "HIT = high-intensity training; HSP = heat shock protein; paB-crystallin Ser59 = phospho-aB-crystallin at Serine59; pHSP27 Ser15 = phospho-HSP27 at Serine15.",
+      "text_id": 185,
+      "paragraph_id": 38,
+      "section_id": 27,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Participant characteristics (n = 14) (mean § SD).",
+      "text_id": 186,
+      "paragraph_id": 39,
+      "section_id": 28,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "J Sport Health Sci 2026;15:101111 N.T. Frankenberg et al.",
+      "text_id": 187,
+      "paragraph_id": 40,
+      "section_id": 29,
+      "page_number": null,
+      "formatted": "<note place=\"foot\" xml:id=\"foot_0\">   <p>J Sport Health Sci 2026;15:101111 N.T. Frankenberg et al.<\/p> <\/note>"
+    },
+    {
+      "text": "Hu C, Yang J, Qi Z, et al. Heat shock proteins: Biological functions, path- ological roles, and therapeutic opportunities. MedComm (2020) 2022;3: e161. doi:10.1002/mco2.161.",
+      "text_id": 188,
+      "paragraph_id": 41,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Noble EG, Milne KJ, Melling CW. Heat shock proteins and exercise: A primer. Appl Physiol Nutr Metab 2008;33:1050-65.",
+      "text_id": 189,
+      "paragraph_id": 42,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lavoie JN, Lambert H, Hickey E, Weber LA, Landry J. Modulation of cellular thermoresistance and actin filament stability accompanies phos- phorylation-induced changes in the oligomeric structure of heat shock protein 27. Mol Cell Biol 1995;15:505-16.",
+      "text_id": 190,
+      "paragraph_id": 43,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ito H, Kamei K, Iwamoto I, Inaguma Y, Nohara D, Kato K. Phosphoryla- tion-induced change of the oligomerization state of ɑb-crystallin. J Biol Chem 2001;276:5346-52.",
+      "text_id": 191,
+      "paragraph_id": 44,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Haslbeck M, Weinkauf S, Buchner J. Small heat shock proteins: Simplicity meets complexity. J Biol Chem 2019;294:2121-32.",
+      "text_id": 192,
+      "paragraph_id": 45,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ito H, Iwamoto I, Inaguma Y, et al. Endoplasmic reticulum stress induces the phosphorylation of small heat shock protein, Hsp27. J Cell Biochem 2005;95:932-41.",
+      "text_id": 193,
+      "paragraph_id": 46,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Boyd RA, Majumder S, Stiban J, et al. The heat shock protein Hsp27 controls mitochondrial function by modulating ceramide generation. Cell Rep 2023;42:113081. doi:10.1016/j.celrep.2023.113081.",
+      "text_id": 194,
+      "paragraph_id": 47,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Webster KA. Serine phosphorylation and suppression of apoptosis by the small heat shock protein alphaB-crystallin. Circ Res 2003;92:130-2.",
+      "text_id": 195,
+      "paragraph_id": 48,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Larkins NT, Murphy RM, Lamb GD. Influences of temperature, oxidative stress, and phosphorylation on binding of heat shock proteins in skeletal muscle fibers. Am J Physiol Cell Physiol 2012;303:C654-65.",
+      "text_id": 196,
+      "paragraph_id": 49,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Aggeli IK, Beis I, Gaitanaki C. Oxidative stress and calpain inhibition induce alpha B-crystallin phosphorylation via p38-MAPK and calcium signalling pathways in H9c2 cells. Cell Signal 2008;20:1292-302.",
+      "text_id": 197,
+      "paragraph_id": 50,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bulangalire N, Claeyssen C, Agbulut O, Cieniewski-Bernard C. Impact of MG132 induced-proteotoxic stress on alphaB-crystallin and desmin phos- phorylation and O-GlcNAcylation and their partition towards cytoskel- eton. Biochimie 2024;226:121-35.",
+      "text_id": 198,
+      "paragraph_id": 51,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Ronkina N, Gaestel M. MAPK-activated protein kinases: Servant or partner? Annu Rev Biochem 2022;91:505-40.",
+      "text_id": 199,
+      "paragraph_id": 52,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Launay N, Goudeau B, Kato K, Vicart P, Lilienbaum A. Cell signaling pathways to alphaB-crystallin following stresses of the cytoskeleton. Exp Cell Res 2006;312:3570-84.",
+      "text_id": 200,
+      "paragraph_id": 53,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Frankenberg NT, Lamb GD, Overgaard K, Murphy RM, Vissing K. Small heat shock proteins translocate to the cytoskeleton in human skeletal muscle following eccentric exercise independently of phosphorylation. J Appl Physiol (1985) 2014;116:1463-72.",
+      "text_id": 201,
+      "paragraph_id": 54,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Nilsen TS, Thorsen L, Kirkegaard C, Ugelstad I, Fossa SD, Raastad T. The effect of strength training on muscle cellular stress in prostate cancer patients on ADT. Endocr Connect 2016;5:74-82.",
+      "text_id": 202,
+      "paragraph_id": 55,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cumming KT, Kvamme NH, Schaad L, Ugelstad I, Raastad T. Muscular HSP70 content is higher in elderly compared to young, but is normalized after 12 weeks of strength training. Eur J Appl Physiol 2021;121:1689-99.",
+      "text_id": 203,
+      "paragraph_id": 56,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Escobedo J, Pucci AM, Koh TJ. HSP25 protects skeletal muscle cells against oxidative stress. Free Radic Biol Med 2004;37:1455-62.",
+      "text_id": 204,
+      "paragraph_id": 57,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wilkinson DJ, Piasecki M, Atherton PJ. The age-related loss of skeletal muscle mass and function: Measurement and physiology of muscle fibre atrophy and muscle fibre loss in humans. Ageing Res Rev 2018;47:123-32.",
+      "text_id": 205,
+      "paragraph_id": 58,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Cobley JN, Sakellariou GK, Owens DJ, et al. Lifelong training preserves some redox-regulated adaptive responses after an acute exercise stimulus in aged human skeletal muscle. Free Radic Biol Med 2014;70:23-32.",
+      "text_id": 206,
+      "paragraph_id": 59,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gueugneau M, Coudy-Gandilhon C, Gourbeyre O, et al. Proteomics of muscle chronological ageing in post-menopausal women. BMC Genomics 2014;15:1165. doi:10.1186/1471-2164-15-1165.",
+      "text_id": 207,
+      "paragraph_id": 60,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Thalacker-Mercer AE, Dell'Italia LJ, Cui X, Cross JM, Bamman MM. Differential genomic responses in old vs. young humans despite similar levels of modest muscle damage after resistance loading. Physiol Geno- mics 2010;40:141-9.",
+      "text_id": 208,
+      "paragraph_id": 61,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Beltran Valls MR, Wilkinson DJ, Narici MV, et al. Protein carbonylation and heat shock proteins in human skeletal muscle: Relationships to age and sarcopenia. J Gerontol A Biol Sci Med Sci 2015;70:174-81.",
+      "text_id": 209,
+      "paragraph_id": 62,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Yamaguchi T, Arai H, Katayama N, Ishikawa T, Kikumoto K, Atomi Y. Age-related increase of insoluble, phosphorylated small heat shock proteins in human skeletal muscle. J Gerontol A Biol Sci Med Sci 2007;62:481-9.",
+      "text_id": 210,
+      "paragraph_id": 63,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Beltran Valls MR, Dimauro I, Brunelli A, et al. Explosive type of moderate-resistance training induces functional, cardiovascular, and molecular adaptations in the elderly. Age (Dordr) 2014;36:759-72.",
+      "text_id": 211,
+      "paragraph_id": 64,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Morton JP, Holloway K, Woods P, et al. Exercise training-induced gender-specific heat shock protein adaptations in human skeletal muscle. Muscle Nerve 2009;39:230-3.",
+      "text_id": 212,
+      "paragraph_id": 65,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Golenhofen N, Perng MD, Quinlan RA, Drenckhahn D. Comparison of the small heat shock proteins alphaB-crystallin, MKBP, HSP25, HSP20, and cvHSP in heart and skeletal muscle. Histochem Cell Biol 2004;122:415-25.",
+      "text_id": 213,
+      "paragraph_id": 66,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Neufer PD, Benjamin IJ. Differential expression of B-crystallin and Hsp27 in skeletal muscle during continuous contractile activity. Relation- ship to myogenic regulatory factors. J Biol Chem 1996;271:24089-95.",
+      "text_id": 214,
+      "paragraph_id": 67,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Larkins NT, Murphy RM, Lamb GD. Absolute amounts and diffusibility of HSP72, HSP25, and alphaB-crystallin in fast-and slow-twitch skeletal muscle fibers of rat. Am J Physiol Cell Physiol 2012;302:C228-39.",
+      "text_id": 215,
+      "paragraph_id": 68,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tupling AR, Bombardier E, Stewart RD, Vigna C, Aqui AE. Muscle fiber type-specific response of Hsp70 expression in human quadriceps following acute isometric exercise. J Appl Physiol (1985) 2007; 103:2105-11.",
+      "text_id": 216,
+      "paragraph_id": 69,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Frankenberg NT, Lamb GD, Vissing K, Murphy RM. Subcellular frac- tionation reveals HSP72 does not associate with SERCA in human skel- etal muscle following damaging eccentric and concentric exercise. J Appl Physiol (1985) 2014;116:1503-11.",
+      "text_id": 217,
+      "paragraph_id": 70,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Paez HG, Pitzer CR, Alway SE. Age-related dysfunction in proteostasis and cellular quality control in the development of sarcopenia. Cells 2023;12:249. doi:10.3390/cells12020249.",
+      "text_id": 218,
+      "paragraph_id": 71,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wyckelsma VL, McKenna MJ, Levinger I, Petersen AC, Lamboley CR, Murphy RM. Cell specific differences in the protein abundances of GAPDH and Na + ,K + -ATPase in skeletal muscle from aged individuals. Exp Gerontol 2016;75:8-15.",
+      "text_id": 219,
+      "paragraph_id": 72,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wyckelsma VL, Levinger I, McKenna MJ, et al. Preservation of skeletal muscle mitochondrial content in older adults: Relationship between mito- chondria, fibre type and high-intensity exercise training. J Physiol 2017;595:3345-59.",
+      "text_id": 220,
+      "paragraph_id": 73,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wyckelsma VL, Levinger I, Murphy RM, et al. Intense interval training in healthy older adults increases skeletal muscle ( 3 H)ouabain-binding site content and elevates Na + ,K + -ATPase a 2 isoform abundance in type II fibers. Physiol Rep 2017;5:e13219. doi:10.14814/phy2.13219.",
+      "text_id": 221,
+      "paragraph_id": 74,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Wisløff U, Støylen A, Loennechen JP, et al. Superior cardiovascular effect of aerobic interval training versus moderate continuous training in heart failure patients: A randomized study. Circulation 2007; 115:3086-94.",
+      "text_id": 222,
+      "paragraph_id": 75,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Bergstrom J. Percutaneous needle biopsy of skeletal muscle in physiolog- ical and clinical research. Scand J Clin Lab Invest 1975;35:609-16.",
+      "text_id": 223,
+      "paragraph_id": 76,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Murphy RM, Snow RJ, Lamb GD. mu-Calpain and calpain-3 are not auto- lyzed with exhaustive exercise in humans. Am J Physiol Cell Physiol 2006;290:C116-22.",
+      "text_id": 224,
+      "paragraph_id": 77,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "MacInnis MJ, Zacharewicz E, Martin BJ, et al. Superior mitochondrial adaptations in human skeletal muscle after interval compared to contin- uous single-leg cycling matched for total work. J Physiol 2017;595:2955- 68.",
+      "text_id": 225,
+      "paragraph_id": 78,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Murphy RM. Enhanced technique to measure proteins in single segments of human skeletal muscle fibers: Fiber-type dependence of AMPK-alpha1 and -beta1. J Appl Physiol (1985) 2011;110:820-5.",
+      "text_id": 226,
+      "paragraph_id": 79,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Latchman HK, Wette SG, Ellul DJ, Murphy RM, Frankenberg NT. Fiber type identification of human skeletal muscle. J Vis Exp 2023;199:e65750. doi:10.3791/65750.",
+      "text_id": 227,
+      "paragraph_id": 80,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Christiansen D, MacInnis MJ, Zacharewicz E, Xu H, Frankish BP, Murphy RM. A fast, reliable and sample-sparing method to identify fibre types of single muscle fibres. Sci Rep 2019;9:6473. doi:10.1038/s41598-019-42168-z.",
+      "text_id": 228,
+      "paragraph_id": 81,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Murphy RM, Lamb GD. Important considerations for protein analyses using antibody based techniques: Down-sizing Westen blotting up-sizes outcomes. J Physiol 2013;591:5823-31.",
+      "text_id": 229,
+      "paragraph_id": 82,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Pautz N, Olivier B, Steyn F. The use of nonparametric effect sizes in single study musculoskeletal physiotherapy research: A practical primer. Phys Ther Sport 2018;33:117-24.",
+      "text_id": 230,
+      "paragraph_id": 83,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Murshid A, Eguchi T, Calderwood SK. Stress proteins in aging and life span. Int J Hyperthermia 2013;29:442-7.",
+      "text_id": 231,
+      "paragraph_id": 84,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gleixner AM, Pulugulla SH, Pant DB, Posimo JM, Crum TS, Leak RK. Impact of aging on heat shock protein expression in the substantia nigra and striatum of the female rat. Cell Tissue Res 2014;357:43-54.",
+      "text_id": 232,
+      "paragraph_id": 85,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Aas SN, Hamarsland H, Cumming KT, et al. The impact of age and frailty on skeletal muscle autophagy markers and specific strength: A cross- sectional comparison. Exp Gerontol 2019;125:110687. doi:10.1016/j.exger.2019.110687.",
+      "text_id": 233,
+      "paragraph_id": 86,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tower J. Hsps and aging. Trends Endocrinol Metab 2009;20:216-22.",
+      "text_id": 234,
+      "paragraph_id": 87,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Janowska MK, Baughman HE, Woods CN, Klevit RE. Mechanisms of small heat shock proteins. Cold Spring Harb Perspect Biol 2019;11: a034025. doi:10.1101/cshperspect.a034025.",
+      "text_id": 235,
+      "paragraph_id": 88,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "M€ uhlhofer M, Peters C, Kriehuber T, et al. Phosphorylation activates the yeast small heat shock protein Hsp26 by weakening domain contacts in the oligomer ensemble. Nat Commun 2021;12:6697. doi:10.1038/s41467-021-27036-7.",
+      "text_id": 236,
+      "paragraph_id": 89,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Lexell J. Human aging, muscle mass, and fiber type composition. J Gerontol A Biol Sci Med Sci 1995;50:11-6.",
+      "text_id": 237,
+      "paragraph_id": 90,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Grosicki GJ, Zepeda CS, Sundberg CW. Single muscle fibre contractile function with ageing. J Physiol 2022;600:5005-26.",
+      "text_id": 238,
+      "paragraph_id": 91,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Atomi Y, Toro K, Masuda T, Hatta H. Fiber-type-specific alphaB-crys- tallin distribution and its shifts with T 3 and PTU treatments in rat hindlimb muscles. J Appl Physiol (1985) 2000;88:1355-64.",
+      "text_id": 239,
+      "paragraph_id": 92,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Hernando R, Manso R. Muscle fibre stress in response to exercise: Synthesis, accumulation and isoform transitions of 70-kDa heat-shock proteins. Eur J Biochem 1997;243:460-7.",
+      "text_id": 240,
+      "paragraph_id": 93,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "MacInnis MJ, Gibala MJ. Physiological adaptations to interval training and the role of exercise intensity. J Physiol 2017;595:2915-30.",
+      "text_id": 241,
+      "paragraph_id": 94,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Gwag T, Park K, Park J, Lee JH, Nikawa T, Choi I. Celastrol overcomes HSP72 gene silencing-mediated muscle atrophy and induces myofiber preservation. J Physiol Pharmacol 2015;66:273-83.",
+      "text_id": 242,
+      "paragraph_id": 95,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Miyabara EH, Nascimento TL, Rodrigues DC, et al. Overexpression of inducible 70-kDa heat shock protein in mouse improves structural and functional recovery of skeletal muscles from atrophy. Pflugers Arch 2012;463:733-41.",
+      "text_id": 243,
+      "paragraph_id": 96,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    },
+    {
+      "text": "Tupling AR, Gramolini AO, Duhamel TA, et al. HSP70 binds to the fast- twitch skeletal muscle sarco(endo)plasmic reticulum Ca 2+ -ATPase (SERCA1a) and prevents thermal inactivation. J Biol Chem 2004; 279:52382-9.",
+      "text_id": 244,
+      "paragraph_id": 97,
+      "section_id": 30,
+      "page_number": null,
+      "formatted": null
+    }
+  ],
+  "section": [
+    {
+      "section_id": 0,
+      "header": "Abstract",
+      "parent_section_id": null,
+      "section_type": "abstract",
+      "classification_score": null
+    },
+    {
+      "section_id": 1,
+      "header": "1. Introduction",
+      "parent_section_id": null,
+      "section_type": "intro",
+      "classification_score": null
+    },
+    {
+      "section_id": 2,
+      "header": "2. Methods",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 3,
+      "header": "2.1. Participants",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 4,
+      "header": "2.2. Exercise protocol",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 5,
+      "header": "2.3. Muscle biopsy technique",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 6,
+      "header": "2.4. Whole muscle homogenate preparation",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 7,
+      "header": "2.5. Single fiber collection, fiber-typing, and pooling",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 8,
+      "header": "2.6. Westen blotting",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 9,
+      "header": "2.7. Data analysis and statistical tests",
+      "parent_section_id": null,
+      "section_type": "method",
+      "classification_score": null
+    },
+    {
+      "section_id": 10,
+      "header": "3. Results",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 11,
+      "header": "3.1. Whole muscle homogenates",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 12,
+      "header": "3.2. Pooled muscle fibers",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 13,
+      "header": "3.3. Effect of HIT on HSP abundances in pooled muscle fibers",
+      "parent_section_id": null,
+      "section_type": "results",
+      "classification_score": null
+    },
+    {
+      "section_id": 14,
+      "header": "4. Discussion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 15,
+      "header": "4.1. Effect of age on protein abundance of HSPs",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 16,
+      "header": "4.2. Fiber type specific protein abundance of HSPs in young and older individuals",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 17,
+      "header": "4.3. Effect of 12-week HIT in older adults on the fiber type specific protein abundance of HSPs",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 18,
+      "header": "4.4. Limitations",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 19,
+      "header": "5. Conclusion",
+      "parent_section_id": null,
+      "section_type": "discussion",
+      "classification_score": null
+    },
+    {
+      "section_id": 20,
+      "header": "Acknowledgment",
+      "parent_section_id": null,
+      "section_type": "acknowledgement",
+      "classification_score": null
+    },
+    {
+      "section_id": 21,
+      "header": "Declaration of competing interest",
+      "parent_section_id": null,
+      "section_type": "conflict",
+      "classification_score": null
+    },
+    {
+      "section_id": 22,
+      "header": null,
+      "parent_section_id": null,
+      "section_type": "contribution",
+      "classification_score": null
+    },
+    {
+      "section_id": 23,
+      "header": "Supplementary materials",
+      "parent_section_id": null,
+      "section_type": "annex",
+      "classification_score": null
+    },
+    {
+      "section_id": 24,
+      "header": "Fig 2.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 25,
+      "header": "Fig 1.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 26,
+      "header": "Fig 2.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 27,
+      "header": "Fig 3.",
+      "parent_section_id": null,
+      "section_type": "figure",
+      "classification_score": null
+    },
+    {
+      "section_id": 28,
+      "header": "Table 1",
+      "parent_section_id": null,
+      "section_type": "table",
+      "classification_score": null
+    },
+    {
+      "section_id": 29,
+      "header": "",
+      "parent_section_id": null,
+      "section_type": "foot",
+      "classification_score": null
+    },
+    {
+      "section_id": 30,
+      "header": "References",
+      "parent_section_id": null,
+      "section_type": "references",
+      "classification_score": null
+    }
+  ],
+  "url": [
+    {
+      "href": "https://doi.org/10.1016/j.jshs.2025.101111",
+      "link_text": "doi:10.1016/j.jshs.2025.101111",
+      "text_id": 159
+    }
+  ],
+  "bib": [
+    {
+      "bib_type": "article",
+      "doi": "10.1002/mco2.161",
+      "title": "Heat shock proteins: Biological functions, pathological roles, and therapeutic opportunities",
+      "authors": "Hu, C; Yang, J; Qi, Z",
+      "editors": "",
+      "publisher": "",
+      "year": 2020,
+      "volume": "3",
+      "issue": "",
+      "first_page": "161",
+      "container": "MedComm",
+      "last_page": null,
+      "bib_id": 0,
+      "year_suffix": "",
+      "text_id": 188
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Heat shock proteins and exercise: A primer",
+      "authors": "Noble, E G; Milne, K J; Melling, C W",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "33",
+      "issue": "",
+      "first_page": "1050",
+      "container": "Appl Physiol Nutr Metab",
+      "last_page": "1065",
+      "bib_id": 1,
+      "year_suffix": "",
+      "text_id": 189
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Modulation of cellular thermoresistance and actin filament stability accompanies phosphorylation-induced changes in the oligomeric structure of heat shock protein 27",
+      "authors": "Lavoie, J N; Lambert, H; Hickey, E; Weber, L A; Landry, J",
+      "editors": "",
+      "publisher": "",
+      "year": 1995,
+      "volume": "15",
+      "issue": "",
+      "first_page": "505",
+      "container": "Mol Cell Biol",
+      "last_page": "516",
+      "bib_id": 2,
+      "year_suffix": "",
+      "text_id": 190
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Phosphorylation-induced change of the oligomerization state of ɑb-crystallin",
+      "authors": "Ito, H; Kamei, K; Iwamoto, I; Inaguma, Y; Nohara, D; Kato, K",
+      "editors": "",
+      "publisher": "",
+      "year": 2001,
+      "volume": "276",
+      "issue": "",
+      "first_page": "5346",
+      "container": "J Biol Chem",
+      "last_page": "5352",
+      "bib_id": 3,
+      "year_suffix": "",
+      "text_id": 191
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Small heat shock proteins: Simplicity meets complexity",
+      "authors": "Haslbeck, M; Weinkauf, S; Buchner, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "294",
+      "issue": "",
+      "first_page": "2121",
+      "container": "J Biol Chem",
+      "last_page": "2132",
+      "bib_id": 4,
+      "year_suffix": "",
+      "text_id": 192
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Endoplasmic reticulum stress induces the phosphorylation of small heat shock protein, Hsp27",
+      "authors": "Ito, H; Iwamoto, I; Inaguma, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2005,
+      "volume": "95",
+      "issue": "",
+      "first_page": "932",
+      "container": "J Cell Biochem",
+      "last_page": "941",
+      "bib_id": 5,
+      "year_suffix": "",
+      "text_id": 193
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.celrep.2023.113081",
+      "title": "The heat shock protein Hsp27 controls mitochondrial function by modulating ceramide generation",
+      "authors": "Boyd, R A; Majumder, S; Stiban, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "42",
+      "issue": "",
+      "first_page": "113081",
+      "container": "Cell Rep",
+      "last_page": null,
+      "bib_id": 6,
+      "year_suffix": "",
+      "text_id": 194
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Serine phosphorylation and suppression of apoptosis by the small heat shock protein alphaB-crystallin",
+      "authors": "Webster, K A",
+      "editors": "",
+      "publisher": "",
+      "year": 2003,
+      "volume": "92",
+      "issue": "",
+      "first_page": "130",
+      "container": "Circ Res",
+      "last_page": "132",
+      "bib_id": 7,
+      "year_suffix": "",
+      "text_id": 195
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Influences of temperature, oxidative stress, and phosphorylation on binding of heat shock proteins in skeletal muscle fibers",
+      "authors": "Larkins, N T; Murphy, R M; Lamb, G D",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "303",
+      "issue": "",
+      "first_page": "654",
+      "container": "Am J Physiol Cell Physiol",
+      "last_page": "665",
+      "bib_id": 8,
+      "year_suffix": "",
+      "text_id": 196
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Oxidative stress and calpain inhibition induce alpha B-crystallin phosphorylation via p38-MAPK and calcium signalling pathways in H9c2 cells",
+      "authors": "Aggeli, I K; Beis, I; Gaitanaki, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2008,
+      "volume": "20",
+      "issue": "",
+      "first_page": "1292",
+      "container": "Cell Signal",
+      "last_page": "1302",
+      "bib_id": 9,
+      "year_suffix": "",
+      "text_id": 197
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Impact of MG132 induced-proteotoxic stress on alphaB-crystallin and desmin phosphorylation and O-GlcNAcylation and their partition towards cytoskeleton",
+      "authors": "Bulangalire, N; Claeyssen, C; Agbulut, O; Cieniewski-Bernard, C",
+      "editors": "",
+      "publisher": "",
+      "year": 2024,
+      "volume": "226",
+      "issue": "",
+      "first_page": "121",
+      "container": "Biochimie",
+      "last_page": "135",
+      "bib_id": 10,
+      "year_suffix": "",
+      "text_id": 198
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "MAPK-activated protein kinases: Servant or partner?",
+      "authors": "Ronkina, N; Gaestel, M",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "91",
+      "issue": "",
+      "first_page": "505",
+      "container": "Annu Rev Biochem",
+      "last_page": "540",
+      "bib_id": 11,
+      "year_suffix": "",
+      "text_id": 199
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Cell signaling pathways to alphaB-crystallin following stresses of the cytoskeleton",
+      "authors": "Launay, N; Goudeau, B; Kato, K; Vicart, P; Lilienbaum, A",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "312",
+      "issue": "",
+      "first_page": "3570",
+      "container": "Exp Cell Res",
+      "last_page": "3584",
+      "bib_id": 12,
+      "year_suffix": "",
+      "text_id": 200
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Small heat shock proteins translocate to the cytoskeleton in human skeletal muscle following eccentric exercise independently of phosphorylation",
+      "authors": "Frankenberg, N T; Lamb, G D; Overgaard, K; Murphy, R M; Vissing, K",
+      "editors": "",
+      "publisher": "",
+      "year": 1985,
+      "volume": "116",
+      "issue": "",
+      "first_page": "1463",
+      "container": "J Appl Physiol",
+      "last_page": "1472",
+      "bib_id": 13,
+      "year_suffix": "",
+      "text_id": 201
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The effect of strength training on muscle cellular stress in prostate cancer patients on ADT",
+      "authors": "Nilsen, T S; Thorsen, L; Kirkegaard, C; Ugelstad, I; Fossa, S D; Raastad, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "5",
+      "issue": "",
+      "first_page": "74",
+      "container": "Endocr Connect",
+      "last_page": "82",
+      "bib_id": 14,
+      "year_suffix": "",
+      "text_id": 202
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Muscular HSP70 content is higher in elderly compared to young, but is normalized after 12 weeks of strength training",
+      "authors": "Cumming, K T; Kvamme, N H; Schaad, L; Ugelstad, I; Raastad, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "121",
+      "issue": "",
+      "first_page": "1689",
+      "container": "Eur J Appl Physiol",
+      "last_page": "1699",
+      "bib_id": 15,
+      "year_suffix": "",
+      "text_id": 203
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "HSP25 protects skeletal muscle cells against oxidative stress",
+      "authors": "Escobedo, J; Pucci, A M; Koh, T J",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "37",
+      "issue": "",
+      "first_page": "1455",
+      "container": "Free Radic Biol Med",
+      "last_page": "1462",
+      "bib_id": 16,
+      "year_suffix": "",
+      "text_id": 204
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The age-related loss of skeletal muscle mass and function: Measurement and physiology of muscle fibre atrophy and muscle fibre loss in humans",
+      "authors": "Wilkinson, D J; Piasecki, M; Atherton, P J",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "47",
+      "issue": "",
+      "first_page": "123",
+      "container": "Ageing Res Rev",
+      "last_page": "132",
+      "bib_id": 17,
+      "year_suffix": "",
+      "text_id": 205
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Lifelong training preserves some redox-regulated adaptive responses after an acute exercise stimulus in aged human skeletal muscle",
+      "authors": "Cobley, J N; Sakellariou, G K; Owens, D J",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "70",
+      "issue": "",
+      "first_page": "23",
+      "container": "Free Radic Biol Med",
+      "last_page": "32",
+      "bib_id": 18,
+      "year_suffix": "",
+      "text_id": 206
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1186/1471-2164-15-1165",
+      "title": "Proteomics of muscle chronological ageing in post-menopausal women",
+      "authors": "Gueugneau, M; Coudy-Gandilhon, C; Gourbeyre, O",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "15",
+      "issue": "",
+      "first_page": "1165",
+      "container": "BMC Genomics",
+      "last_page": null,
+      "bib_id": 19,
+      "year_suffix": "",
+      "text_id": 207
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Differential genomic responses in old vs. young humans despite similar levels of modest muscle damage after resistance loading",
+      "authors": "Thalacker-Mercer, A E; Italia, Dell '; Cui, L J; Cross, X; Bamman, J M; , M M",
+      "editors": "",
+      "publisher": "",
+      "year": 2010,
+      "volume": "40",
+      "issue": "",
+      "first_page": "141",
+      "container": "Physiol Genomics",
+      "last_page": "149",
+      "bib_id": 20,
+      "year_suffix": "",
+      "text_id": 208
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Protein carbonylation and heat shock proteins in human skeletal muscle: Relationships to age and sarcopenia",
+      "authors": "Valls, Beltran; Wilkinson, M R; Narici, D J; , M V",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "70",
+      "issue": "",
+      "first_page": "174",
+      "container": "J Gerontol A Biol Sci Med Sci",
+      "last_page": "181",
+      "bib_id": 21,
+      "year_suffix": "",
+      "text_id": 209
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Age-related increase of insoluble, phosphorylated small heat shock proteins in human skeletal muscle",
+      "authors": "Yamaguchi, T; Arai, H; Katayama, N; Ishikawa, T; Kikumoto, K; Atomi, Y",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "62",
+      "issue": "",
+      "first_page": "481",
+      "container": "J Gerontol A Biol Sci Med Sci",
+      "last_page": "489",
+      "bib_id": 22,
+      "year_suffix": "",
+      "text_id": 210
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Explosive type of moderate-resistance training induces functional, cardiovascular, and molecular adaptations in the elderly",
+      "authors": "Valls, Beltran; Dimauro, M R; Brunelli, I; , A",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "36",
+      "issue": "",
+      "first_page": "759",
+      "container": "Age (Dordr)",
+      "last_page": "772",
+      "bib_id": 23,
+      "year_suffix": "",
+      "text_id": 211
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Exercise training-induced gender-specific heat shock protein adaptations in human skeletal muscle",
+      "authors": "Morton, J P; Holloway, K; Woods, P",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "39",
+      "issue": "",
+      "first_page": "230",
+      "container": "Muscle Nerve",
+      "last_page": "233",
+      "bib_id": 24,
+      "year_suffix": "",
+      "text_id": 212
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Comparison of the small heat shock proteins alphaB-crystallin, MKBP, HSP25, HSP20, and cvHSP in heart and skeletal muscle",
+      "authors": "Golenhofen, N; Perng, M D; Quinlan, R A; Drenckhahn, D",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "122",
+      "issue": "",
+      "first_page": "415",
+      "container": "Histochem Cell Biol",
+      "last_page": "425",
+      "bib_id": 25,
+      "year_suffix": "",
+      "text_id": 213
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Differential expression of B-crystallin and Hsp27 in skeletal muscle during continuous contractile activity. Relationship to myogenic regulatory factors",
+      "authors": "Neufer, P D; Benjamin, I J",
+      "editors": "",
+      "publisher": "",
+      "year": 1996,
+      "volume": "271",
+      "issue": "",
+      "first_page": "24089",
+      "container": "J Biol Chem",
+      "last_page": "24095",
+      "bib_id": 26,
+      "year_suffix": "",
+      "text_id": 214
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Absolute amounts and diffusibility of HSP72, HSP25, and alphaB-crystallin in fast-and slow-twitch skeletal muscle fibers of rat",
+      "authors": "Larkins, N T; Murphy, R M; Lamb, G D",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "302",
+      "issue": "",
+      "first_page": "228",
+      "container": "Am J Physiol Cell Physiol",
+      "last_page": "239",
+      "bib_id": 27,
+      "year_suffix": "",
+      "text_id": 215
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Muscle fiber type-specific response of Hsp70 expression in human quadriceps following acute isometric exercise",
+      "authors": "Tupling, A R; Bombardier, E; Stewart, R D; Vigna, C; Aqui, A E",
+      "editors": "",
+      "publisher": "",
+      "year": 1985,
+      "volume": "103",
+      "issue": "",
+      "first_page": "2105",
+      "container": "J Appl Physiol",
+      "last_page": "2111",
+      "bib_id": 28,
+      "year_suffix": "",
+      "text_id": 216
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Subcellular fractionation reveals HSP72 does not associate with SERCA in human skeletal muscle following damaging eccentric and concentric exercise",
+      "authors": "Frankenberg, N T; Lamb, G D; Vissing, K; Murphy, R M",
+      "editors": "",
+      "publisher": "",
+      "year": 1985,
+      "volume": "116",
+      "issue": "",
+      "first_page": "1503",
+      "container": "J Appl Physiol",
+      "last_page": "1511",
+      "bib_id": 29,
+      "year_suffix": "",
+      "text_id": 217
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3390/cells12020249",
+      "title": "Age-related dysfunction in proteostasis and cellular quality control in the development of sarcopenia",
+      "authors": "Paez, H G; Pitzer, C R; Alway, S E",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "12",
+      "issue": "",
+      "first_page": "249",
+      "container": "Cells",
+      "last_page": null,
+      "bib_id": 30,
+      "year_suffix": "",
+      "text_id": 218
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Cell specific differences in the protein abundances of GAPDH and Na + ,K + -ATPase in skeletal muscle from aged individuals",
+      "authors": "Wyckelsma, V L; Mckenna, M J; Levinger, I; Petersen, A C; Lamboley, C R; Murphy, R M",
+      "editors": "",
+      "publisher": "",
+      "year": 2016,
+      "volume": "75",
+      "issue": "",
+      "first_page": "8",
+      "container": "Exp Gerontol",
+      "last_page": "15",
+      "bib_id": 31,
+      "year_suffix": "",
+      "text_id": 219
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Preservation of skeletal muscle mitochondrial content in older adults: Relationship between mitochondria, fibre type and high-intensity exercise training",
+      "authors": "Wyckelsma, V L; Levinger, I; Mckenna, M J",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "595",
+      "issue": "",
+      "first_page": "3345",
+      "container": "J Physiol",
+      "last_page": "3359",
+      "bib_id": 32,
+      "year_suffix": "",
+      "text_id": 220
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.14814/phy2.13219",
+      "title": "Intense interval training in healthy older adults increases skeletal muscle ( 3 H)ouabain-binding site content and elevates Na + ,K + -ATPase a 2 isoform abundance in type II fibers",
+      "authors": "Wyckelsma, V L; Levinger, I; Murphy, R M",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "5",
+      "issue": "",
+      "first_page": "13219",
+      "container": "Physiol Rep",
+      "last_page": null,
+      "bib_id": 33,
+      "year_suffix": "",
+      "text_id": 221
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Superior cardiovascular effect of aerobic interval training versus moderate continuous training in heart failure patients: A randomized study",
+      "authors": "Wisløff, U; Støylen, A; Loennechen, J P",
+      "editors": "",
+      "publisher": "",
+      "year": 2007,
+      "volume": "115",
+      "issue": "",
+      "first_page": "3086",
+      "container": "Circulation",
+      "last_page": "3094",
+      "bib_id": 34,
+      "year_suffix": "",
+      "text_id": 222
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Percutaneous needle biopsy of skeletal muscle in physiological and clinical research",
+      "authors": "Bergstrom, J",
+      "editors": "",
+      "publisher": "",
+      "year": 1975,
+      "volume": "35",
+      "issue": "",
+      "first_page": "609",
+      "container": "Scand J Clin Lab Invest",
+      "last_page": "616",
+      "bib_id": 35,
+      "year_suffix": "",
+      "text_id": 223
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "mu-Calpain and calpain-3 are not autolyzed with exhaustive exercise in humans",
+      "authors": "Murphy, R M; Snow, R J; Lamb, G D",
+      "editors": "",
+      "publisher": "",
+      "year": 2006,
+      "volume": "290",
+      "issue": "",
+      "first_page": "116",
+      "container": "Am J Physiol Cell Physiol",
+      "last_page": "122",
+      "bib_id": 36,
+      "year_suffix": "",
+      "text_id": 224
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Superior mitochondrial adaptations in human skeletal muscle after interval compared to continuous single-leg cycling matched for total work",
+      "authors": "Macinnis, M J; Zacharewicz, E; Martin, B J",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "595",
+      "issue": "",
+      "first_page": "2955",
+      "container": "J Physiol",
+      "last_page": "2968",
+      "bib_id": 37,
+      "year_suffix": "",
+      "text_id": 225
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Enhanced technique to measure proteins in single segments of human skeletal muscle fibers: Fiber-type dependence of AMPK-alpha1 and -beta1",
+      "authors": "Murphy, R M",
+      "editors": "",
+      "publisher": "",
+      "year": 1985,
+      "volume": "110",
+      "issue": "",
+      "first_page": "820",
+      "container": "J Appl Physiol",
+      "last_page": "825",
+      "bib_id": 38,
+      "year_suffix": "",
+      "text_id": 226
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.3791/65750",
+      "title": "Fiber type identification of human skeletal muscle",
+      "authors": "Latchman, H K; Wette, S G; Ellul, D J; Murphy, R M; Frankenberg, N T",
+      "editors": "",
+      "publisher": "",
+      "year": 2023,
+      "volume": "199",
+      "issue": "",
+      "first_page": "65750",
+      "container": "J Vis Exp",
+      "last_page": null,
+      "bib_id": 39,
+      "year_suffix": "",
+      "text_id": 227
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1038/s41598-019-42168-z",
+      "title": "A fast, reliable and sample-sparing method to identify fibre types of single muscle fibres",
+      "authors": "Christiansen, D; Macinnis, M J; Zacharewicz, E; Xu, H; Frankish, B P; Murphy, R M",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "9",
+      "issue": "",
+      "first_page": "6473",
+      "container": "Sci Rep",
+      "last_page": null,
+      "bib_id": 40,
+      "year_suffix": "",
+      "text_id": 228
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Important considerations for protein analyses using antibody based techniques: Down-sizing Westen blotting up-sizes outcomes",
+      "authors": "Murphy, R M; Lamb, G D",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "591",
+      "issue": "",
+      "first_page": "5823",
+      "container": "J Physiol",
+      "last_page": "5831",
+      "bib_id": 41,
+      "year_suffix": "",
+      "text_id": 229
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "The use of nonparametric effect sizes in single study musculoskeletal physiotherapy research: A practical primer",
+      "authors": "Pautz, N; Olivier, B; Steyn, F",
+      "editors": "",
+      "publisher": "",
+      "year": 2018,
+      "volume": "33",
+      "issue": "",
+      "first_page": "117",
+      "container": "Phys Ther Sport",
+      "last_page": "124",
+      "bib_id": 42,
+      "year_suffix": "",
+      "text_id": 230
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Stress proteins in aging and life span",
+      "authors": "Murshid, A; Eguchi, T; Calderwood, S K",
+      "editors": "",
+      "publisher": "",
+      "year": 2013,
+      "volume": "29",
+      "issue": "",
+      "first_page": "442",
+      "container": "Int J Hyperthermia",
+      "last_page": "447",
+      "bib_id": 43,
+      "year_suffix": "",
+      "text_id": 231
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Impact of aging on heat shock protein expression in the substantia nigra and striatum of the female rat",
+      "authors": "Gleixner, A M; Pulugulla, S H; Pant, D B; Posimo, J M; Crum, T S; Leak, R K",
+      "editors": "",
+      "publisher": "",
+      "year": 2014,
+      "volume": "357",
+      "issue": "",
+      "first_page": "43",
+      "container": "Cell Tissue Res",
+      "last_page": "54",
+      "bib_id": 44,
+      "year_suffix": "",
+      "text_id": 232
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1016/j.exger.2019.110687",
+      "title": "The impact of age and frailty on skeletal muscle autophagy markers and specific strength: A crosssectional comparison",
+      "authors": "Aas, S N; Hamarsland, H; Cumming, K T",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "125",
+      "issue": "",
+      "first_page": "110687",
+      "container": "Exp Gerontol",
+      "last_page": null,
+      "bib_id": 45,
+      "year_suffix": "",
+      "text_id": 233
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Hsps and aging",
+      "authors": "Tower, J",
+      "editors": "",
+      "publisher": "",
+      "year": 2009,
+      "volume": "20",
+      "issue": "",
+      "first_page": "216",
+      "container": "Trends Endocrinol Metab",
+      "last_page": "222",
+      "bib_id": 46,
+      "year_suffix": "",
+      "text_id": 234
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1101/cshperspect.a034025",
+      "title": "Mechanisms of small heat shock proteins",
+      "authors": "Janowska, M K; Baughman, H E; Woods, C N; Klevit, R E",
+      "editors": "",
+      "publisher": "",
+      "year": 2019,
+      "volume": "11",
+      "issue": "",
+      "first_page": "34025",
+      "container": "Cold Spring Harb Perspect Biol",
+      "last_page": null,
+      "bib_id": 47,
+      "year_suffix": "",
+      "text_id": 235
+    },
+    {
+      "bib_type": "article",
+      "doi": "10.1038/s41467-021-27036-7",
+      "title": "Phosphorylation activates the yeast small heat shock protein Hsp26 by weakening domain contacts in the oligomer ensemble",
+      "authors": "M€ Uhlhofer, M; Peters, C; Kriehuber, T",
+      "editors": "",
+      "publisher": "",
+      "year": 2021,
+      "volume": "12",
+      "issue": "",
+      "first_page": "6697",
+      "container": "Nat Commun",
+      "last_page": null,
+      "bib_id": 48,
+      "year_suffix": "",
+      "text_id": 236
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Human aging, muscle mass, and fiber type composition",
+      "authors": "Lexell, J",
+      "editors": "",
+      "publisher": "",
+      "year": 1995,
+      "volume": "50",
+      "issue": "",
+      "first_page": "11",
+      "container": "J Gerontol A Biol Sci Med Sci",
+      "last_page": "16",
+      "bib_id": 49,
+      "year_suffix": "",
+      "text_id": 237
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Single muscle fibre contractile function with ageing",
+      "authors": "Grosicki, G J; Zepeda, C S; Sundberg, C W",
+      "editors": "",
+      "publisher": "",
+      "year": 2022,
+      "volume": "600",
+      "issue": "",
+      "first_page": "5005",
+      "container": "J Physiol",
+      "last_page": "5026",
+      "bib_id": 50,
+      "year_suffix": "",
+      "text_id": 238
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Fiber-type-specific alphaB-crystallin distribution and its shifts with T 3 and PTU treatments in rat hindlimb muscles",
+      "authors": "Atomi, Y; Toro, K; Masuda, T; Hatta, H",
+      "editors": "",
+      "publisher": "",
+      "year": 1985,
+      "volume": "88",
+      "issue": "",
+      "first_page": "1355",
+      "container": "J Appl Physiol",
+      "last_page": "1364",
+      "bib_id": 51,
+      "year_suffix": "",
+      "text_id": 239
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Muscle fibre stress in response to exercise: Synthesis, accumulation and isoform transitions of 70-kDa heat-shock proteins",
+      "authors": "Hernando, R; Manso, R",
+      "editors": "",
+      "publisher": "",
+      "year": 1997,
+      "volume": "243",
+      "issue": "",
+      "first_page": "460",
+      "container": "Eur J Biochem",
+      "last_page": "467",
+      "bib_id": 52,
+      "year_suffix": "",
+      "text_id": 240
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Physiological adaptations to interval training and the role of exercise intensity",
+      "authors": "Macinnis, M J; Gibala, M J",
+      "editors": "",
+      "publisher": "",
+      "year": 2017,
+      "volume": "595",
+      "issue": "",
+      "first_page": "2915",
+      "container": "J Physiol",
+      "last_page": "2930",
+      "bib_id": 53,
+      "year_suffix": "",
+      "text_id": 241
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Celastrol overcomes HSP72 gene silencing-mediated muscle atrophy and induces myofiber preservation",
+      "authors": "Gwag, T; Park, K; Park, J; Lee, J H; Nikawa, T; Choi, I",
+      "editors": "",
+      "publisher": "",
+      "year": 2015,
+      "volume": "66",
+      "issue": "",
+      "first_page": "273",
+      "container": "J Physiol Pharmacol",
+      "last_page": "283",
+      "bib_id": 54,
+      "year_suffix": "",
+      "text_id": 242
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "Overexpression of inducible 70-kDa heat shock protein in mouse improves structural and functional recovery of skeletal muscles from atrophy",
+      "authors": "Miyabara, E H; Nascimento, T L; Rodrigues, D C",
+      "editors": "",
+      "publisher": "",
+      "year": 2012,
+      "volume": "463",
+      "issue": "",
+      "first_page": "733",
+      "container": "Pflugers Arch",
+      "last_page": "741",
+      "bib_id": 55,
+      "year_suffix": "",
+      "text_id": 243
+    },
+    {
+      "bib_type": "article",
+      "doi": "",
+      "title": "HSP70 binds to the fasttwitch skeletal muscle sarco(endo)plasmic reticulum Ca 2+ -ATPase (SERCA1a) and prevents thermal inactivation",
+      "authors": "Tupling, A R; Gramolini, A O; Duhamel, T A",
+      "editors": "",
+      "publisher": "",
+      "year": 2004,
+      "volume": "279",
+      "issue": "",
+      "first_page": "52382",
+      "container": "J Biol Chem",
+      "last_page": "52389",
+      "bib_id": 56,
+      "year_suffix": "",
+      "text_id": 244
+    }
+  ],
+  "xref": [
+    {
+      "xref_id": 0,
+      "xref_type": "bibr",
+      "contents": "1",
+      "text_id": 14
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "bibr",
+      "contents": "2",
+      "text_id": 15
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "bibr",
+      "contents": "3,",
+      "text_id": 16
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "bibr",
+      "contents": "4",
+      "text_id": 16
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 16
+    },
+    {
+      "xref_id": 4,
+      "xref_type": "bibr",
+      "contents": "5",
+      "text_id": 16
+    },
+    {
+      "xref_id": 5,
+      "xref_type": "bibr",
+      "contents": "6",
+      "text_id": 16
+    },
+    {
+      "xref_id": 6,
+      "xref_type": "bibr",
+      "contents": "7",
+      "text_id": 16
+    },
+    {
+      "xref_id": 7,
+      "xref_type": "bibr",
+      "contents": "8",
+      "text_id": 16
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 16
+    },
+    {
+      "xref_id": 9,
+      "xref_type": "bibr",
+      "contents": "10",
+      "text_id": 16
+    },
+    {
+      "xref_id": 10,
+      "xref_type": "bibr",
+      "contents": "11",
+      "text_id": 16
+    },
+    {
+      "xref_id": 11,
+      "xref_type": "bibr",
+      "contents": "12",
+      "text_id": 17
+    },
+    {
+      "xref_id": 12,
+      "xref_type": "bibr",
+      "contents": "13",
+      "text_id": 17
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 20
+    },
+    {
+      "xref_id": 8,
+      "xref_type": "bibr",
+      "contents": "9",
+      "text_id": 20
+    },
+    {
+      "xref_id": 14,
+      "xref_type": "bibr",
+      "contents": "15,",
+      "text_id": 20
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 20
+    },
+    {
+      "xref_id": 16,
+      "xref_type": "bibr",
+      "contents": "17",
+      "text_id": 20
+    },
+    {
+      "xref_id": 17,
+      "xref_type": "bibr",
+      "contents": "18",
+      "text_id": 21
+    },
+    {
+      "xref_id": null,
+      "xref_type": "bibr",
+      "contents": "19À23",
+      "text_id": 21
+    },
+    {
+      "xref_id": 23,
+      "xref_type": "bibr",
+      "contents": "24,",
+      "text_id": 21
+    },
+    {
+      "xref_id": 24,
+      "xref_type": "bibr",
+      "contents": "25",
+      "text_id": 21
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 21
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26,",
+      "text_id": 23
+    },
+    {
+      "xref_id": 26,
+      "xref_type": "bibr",
+      "contents": "27",
+      "text_id": 23
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 23
+    },
+    {
+      "xref_id": 28,
+      "xref_type": "bibr",
+      "contents": "29,",
+      "text_id": 23
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 23
+    },
+    {
+      "xref_id": 30,
+      "xref_type": "bibr",
+      "contents": "31",
+      "text_id": 24
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 25
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "33",
+      "text_id": 34
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 35
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "table",
+      "contents": "1",
+      "text_id": 35
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 37
+    },
+    {
+      "xref_id": 34,
+      "xref_type": "bibr",
+      "contents": "35",
+      "text_id": 38
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 40
+    },
+    {
+      "xref_id": 35,
+      "xref_type": "bibr",
+      "contents": "36",
+      "text_id": 44
+    },
+    {
+      "xref_id": 36,
+      "xref_type": "bibr",
+      "contents": "37",
+      "text_id": 46
+    },
+    {
+      "xref_id": 32,
+      "xref_type": "bibr",
+      "contents": "33,",
+      "text_id": 56
+    },
+    {
+      "xref_id": 37,
+      "xref_type": "bibr",
+      "contents": "38,",
+      "text_id": 56
+    },
+    {
+      "xref_id": 38,
+      "xref_type": "bibr",
+      "contents": "39",
+      "text_id": 56
+    },
+    {
+      "xref_id": 39,
+      "xref_type": "bibr",
+      "contents": "40,",
+      "text_id": 58
+    },
+    {
+      "xref_id": 40,
+      "xref_type": "bibr",
+      "contents": "41",
+      "text_id": 58
+    },
+    {
+      "xref_id": 39,
+      "xref_type": "bibr",
+      "contents": "40",
+      "text_id": 60
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 68
+    },
+    {
+      "xref_id": 41,
+      "xref_type": "bibr",
+      "contents": "42",
+      "text_id": 68
+    },
+    {
+      "xref_id": 29,
+      "xref_type": "bibr",
+      "contents": "30",
+      "text_id": 82
+    },
+    {
+      "xref_id": 27,
+      "xref_type": "bibr",
+      "contents": "28",
+      "text_id": 82
+    },
+    {
+      "xref_id": 42,
+      "xref_type": "bibr",
+      "contents": "43",
+      "text_id": 97
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 100
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1C",
+      "text_id": 101
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1D",
+      "text_id": 101
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1F",
+      "text_id": 101
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1E",
+      "text_id": 102
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1G",
+      "text_id": 102
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1C",
+      "text_id": 103
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1D",
+      "text_id": 103
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1F",
+      "text_id": 103
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1E",
+      "text_id": 103
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1G",
+      "text_id": 103
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "2F",
+      "text_id": 104
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "2H",
+      "text_id": 104
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 105
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 105
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "2B",
+      "text_id": 106
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "2D",
+      "text_id": 106
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "2G",
+      "text_id": 106
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "2E",
+      "text_id": 107
+    },
+    {
+      "xref_id": 2,
+      "xref_type": "figure",
+      "contents": "2H",
+      "text_id": 107
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3A",
+      "text_id": 108
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3B",
+      "text_id": 108
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3C",
+      "text_id": 108
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3D",
+      "text_id": 108
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3E",
+      "text_id": 108
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3F",
+      "text_id": 108
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3G",
+      "text_id": 109
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3H",
+      "text_id": 109
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3I",
+      "text_id": 110
+    },
+    {
+      "xref_id": 3,
+      "xref_type": "figure",
+      "contents": "3J",
+      "text_id": 110
+    },
+    {
+      "xref_id": 1,
+      "xref_type": "figure",
+      "contents": "1",
+      "text_id": 111
+    },
+    {
+      "xref_id": 43,
+      "xref_type": "bibr",
+      "contents": "44",
+      "text_id": 114
+    },
+    {
+      "xref_id": 39,
+      "xref_type": "bibr",
+      "contents": "40,",
+      "text_id": 115
+    },
+    {
+      "xref_id": 41,
+      "xref_type": "bibr",
+      "contents": "42",
+      "text_id": 115
+    },
+    {
+      "xref_id": 15,
+      "xref_type": "bibr",
+      "contents": "16",
+      "text_id": 116
+    },
+    {
+      "xref_id": 22,
+      "xref_type": "bibr",
+      "contents": "23",
+      "text_id": 116
+    },
+    {
+      "xref_id": 44,
+      "xref_type": "bibr",
+      "contents": "45",
+      "text_id": 116
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 117
+    },
+    {
+      "xref_id": 45,
+      "xref_type": "bibr",
+      "contents": "46",
+      "text_id": 117
+    },
+    {
+      "xref_id": 46,
+      "xref_type": "bibr",
+      "contents": "47",
+      "text_id": 118
+    },
+    {
+      "xref_id": 47,
+      "xref_type": "bibr",
+      "contents": "48,",
+      "text_id": 119
+    },
+    {
+      "xref_id": 48,
+      "xref_type": "bibr",
+      "contents": "49",
+      "text_id": 119
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 119
+    },
+    {
+      "xref_id": 47,
+      "xref_type": "bibr",
+      "contents": "48",
+      "text_id": 119
+    },
+    {
+      "xref_id": 47,
+      "xref_type": "bibr",
+      "contents": "48",
+      "text_id": 119
+    },
+    {
+      "xref_id": 49,
+      "xref_type": "bibr",
+      "contents": "50,",
+      "text_id": 120
+    },
+    {
+      "xref_id": 50,
+      "xref_type": "bibr",
+      "contents": "51",
+      "text_id": 120
+    },
+    {
+      "xref_id": 0,
+      "xref_type": "figure",
+      "contents": "2",
+      "text_id": 121
+    },
+    {
+      "xref_id": 25,
+      "xref_type": "bibr",
+      "contents": "26,",
+      "text_id": 122
+    },
+    {
+      "xref_id": 51,
+      "xref_type": "bibr",
+      "contents": "52,",
+      "text_id": 122
+    },
+    {
+      "xref_id": 52,
+      "xref_type": "bibr",
+      "contents": "53",
+      "text_id": 122
+    },
+    {
+      "xref_id": 53,
+      "xref_type": "bibr",
+      "contents": "54",
+      "text_id": 130
+    },
+    {
+      "xref_id": 54,
+      "xref_type": "bibr",
+      "contents": "55,",
+      "text_id": 132
+    },
+    {
+      "xref_id": 55,
+      "xref_type": "bibr",
+      "contents": "56",
+      "text_id": 132
+    },
+    {
+      "xref_id": 56,
+      "xref_type": "bibr",
+      "contents": "57",
+      "text_id": 132
+    },
+    {
+      "xref_id": 33,
+      "xref_type": "bibr",
+      "contents": "34",
+      "text_id": 133
+    },
+    {
+      "xref_id": 13,
+      "xref_type": "bibr",
+      "contents": "14",
+      "text_id": 135
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 136
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 137
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 137
+    },
+    {
+      "xref_id": 31,
+      "xref_type": "bibr",
+      "contents": "32",
+      "text_id": 138
+    }
+  ],
+  "figure": [
+    {
+      "figure_id": 1,
+      "section_id": 24,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 2,
+      "section_id": 25,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 3,
+      "section_id": 26,
+      "image": null,
+      "page_number": null
+    },
+    {
+      "figure_id": 4,
+      "section_id": 27,
+      "image": null,
+      "page_number": null
+    }
+  ],
+  "table": [
+    {
+      "table_id": 1,
+      "section_id": 28,
+      "html": "<table>\n  <row>\n    <cell>Variable<\/cell>\n    <cell>Young adults<\/cell>\n    <cell>Older adults<\/cell>\n    <cell>p<\/cell>\n  <\/row>\n  <row>\n    <cell/>\n    <cell>(n = 7)<\/cell>\n    <cell>(n = 7)<\/cell>\n    <cell/>\n  <\/row>\n  <row>\n    <cell>Age (year)<\/cell>\n    <cell>25.0  § 3.7<\/cell>\n    <cell>70.0  § 4.1<\/cell>\n    <cell>&lt;0.0001*<\/cell>\n  <\/row>\n  <row>\n    <cell>Body mass (kg)<\/cell>\n    <cell>74.5  § 10.1<\/cell>\n    <cell>71.2  § 16.1<\/cell>\n    <cell>0.65<\/cell>\n  <\/row>\n  <row>\n    <cell>Height (m)<\/cell>\n    <cell>173.6  § 11.7<\/cell>\n    <cell>170.8  § 9.0<\/cell>\n    <cell>0.63<\/cell>\n  <\/row>\n  <row>\n    <cell>Body mass index (kg/m 2 )<\/cell>\n    <cell>20.3  § 3.4<\/cell>\n    <cell>21.8  § 2.4<\/cell>\n    <cell>0.38<\/cell>\n  <\/row>\n  <row>\n    <cell>VO 2peak (mL/kg/min)<\/cell>\n    <cell>35.9  § 7.8<\/cell>\n    <cell>26.2  § 5.0<\/cell>\n    <cell>0.02*<\/cell>\n  <\/row>\n  <row>\n    <cell>Peak heart rate (during VO 2max ;<\/cell>\n    <cell>169.3  § 13.2<\/cell>\n    <cell cols=\"2\">140.6  § 11.9 0.001*<\/cell>\n  <\/row>\n  <row>\n    <cell>beats/min)<\/cell>\n    <cell/>\n    <cell/>\n    <cell/>\n  <\/row>\n<\/table>",
+      "contents": [
+        ["Variable", "Young adults / (n = 7)", "Older adults / (n = 7)", "p"],
+        ["Age (year)", "25.0 § 3.7", "70.0 § 4.1", "<0.0001*"],
+        ["Body mass (kg)", "74.5 § 10.1", "71.2 § 16.1", "0.65"],
+        ["Height (m)", "173.6 § 11.7", "170.8 § 9.0", "0.63"],
+        ["Body mass index (kg/m 2 )", "20.3 § 3.4", "21.8 § 2.4", "0.38"],
+        ["VO 2peak (mL/kg/min)", "35.9 § 7.8", "26.2 § 5.0", "0.02*"],
+        ["Peak heart rate (during VO 2max ;", "169.3 § 13.2", "140.6 § 11.9 0.001*", "140.6 § 11.9 0.001*"],
+        ["beats/min)", "", "", ""]
+      ],
+      "page_number": null
+    }
+  ],
+  "eq": [
+    {
+      "text_id": 5,
+      "grp_id": 1,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "7"
+    },
+    {
+      "text_id": 34,
+      "grp_id": 2,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "7"
+    },
+    {
+      "text_id": 34,
+      "grp_id": 2,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "7"
+    },
+    {
+      "text_id": 40,
+      "grp_id": 3,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 40,
+      "grp_id": 3,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.057"
+    },
+    {
+      "text_id": 46,
+      "grp_id": 4,
+      "lhs": "volume",
+      "df": null,
+      "comp": "=",
+      "rhs": "1"
+    },
+    {
+      "text_id": 67,
+      "grp_id": 5,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "7"
+    },
+    {
+      "text_id": 67,
+      "grp_id": 5,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "7"
+    },
+    {
+      "text_id": 82,
+      "grp_id": 6,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 82,
+      "grp_id": 6,
+      "lhs": "f",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.7"
+    },
+    {
+      "text_id": 83,
+      "grp_id": 7,
+      "lhs": "Q",
+      "df": null,
+      "comp": "=",
+      "rhs": "1"
+    },
+    {
+      "text_id": 101,
+      "grp_id": 8,
+      "lhs": "p",
+      "df": null,
+      "comp": ">",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "F",
+      "df": "(2,16)",
+      "comp": "=",
+      "rhs": "6.782"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.007"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "F",
+      "df": "(2,8.391)",
+      "comp": "=",
+      "rhs": "7.082"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.015"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.43"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "F",
+      "df": "(2,16)",
+      "comp": "=",
+      "rhs": "35.2"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.001"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "F",
+      "df": "(2,8.391)",
+      "comp": "=",
+      "rhs": "3.9"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 102,
+      "grp_id": 9,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.06"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.43"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 103,
+      "grp_id": 10,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.46"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.04"
+    },
+    {
+      "text_id": 107,
+      "grp_id": 11,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.02"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.04"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "Cd",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.30"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "t",
+      "df": "(6)",
+      "comp": "=",
+      "rhs": "5.62"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "Cd",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.20"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.04"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "Cd",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.20"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "s",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.68"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 108,
+      "grp_id": 12,
+      "lhs": "s",
+      "df": null,
+      "comp": "=",
+      "rhs": "1.32"
+    },
+    {
+      "text_id": 109,
+      "grp_id": 13,
+      "lhs": "t",
+      "df": "(6)",
+      "comp": "=",
+      "rhs": "3.68"
+    },
+    {
+      "text_id": 109,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 109,
+      "grp_id": 13,
+      "lhs": "Cd",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.20"
+    },
+    {
+      "text_id": 109,
+      "grp_id": 13,
+      "lhs": "t",
+      "df": "(6)",
+      "comp": "=",
+      "rhs": "3.05"
+    },
+    {
+      "text_id": 109,
+      "grp_id": 13,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.02"
+    },
+    {
+      "text_id": 109,
+      "grp_id": 13,
+      "lhs": "Cd",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.50"
+    },
+    {
+      "text_id": 110,
+      "grp_id": 14,
+      "lhs": "t",
+      "df": "(6)",
+      "comp": "=",
+      "rhs": "3.47"
+    },
+    {
+      "text_id": 110,
+      "grp_id": 14,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 110,
+      "grp_id": 14,
+      "lhs": "Cd",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.40"
+    },
+    {
+      "text_id": 110,
+      "grp_id": 14,
+      "lhs": "t",
+      "df": "(6)",
+      "comp": "=",
+      "rhs": "3.65"
+    },
+    {
+      "text_id": 110,
+      "grp_id": 14,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 110,
+      "grp_id": 14,
+      "lhs": "Cd",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.30"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "3.4"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.04"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "6.9"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.02"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.032"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.48"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "0.15"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.9"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "4.57"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.38"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "4.7"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "8.53"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.04"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.54"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "1.3"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.27"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "5.08"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.41"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "5.6"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.03"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "F",
+      "df": "(3, 22)",
+      "comp": "=",
+      "rhs": "6.18"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.02"
+    },
+    {
+      "text_id": 160,
+      "grp_id": 15,
+      "lhs": "p",
+      "df": null,
+      "comp": "=",
+      "rhs": "0.62"
+    },
+    {
+      "text_id": 177,
+      "grp_id": 16,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 177,
+      "grp_id": 16,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 183,
+      "grp_id": 17,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.05"
+    },
+    {
+      "text_id": 183,
+      "grp_id": 17,
+      "lhs": "p",
+      "df": null,
+      "comp": "<",
+      "rhs": "0.01"
+    },
+    {
+      "text_id": 186,
+      "grp_id": 18,
+      "lhs": "n",
+      "df": null,
+      "comp": "=",
+      "rhs": "14"
+    }
+  ]
+}
