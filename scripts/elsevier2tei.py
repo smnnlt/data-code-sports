@@ -166,6 +166,49 @@ def add_section(sec, parent, idmap):
         add_section(s, parent, idmap)
 
 
+# ----------------------------------------------------------- back matter ---
+
+# Elsevier back-matter element -> (default TEI div type, default heading)
+BACK_ELEMENTS = {
+    "data-availability": ("availability", "Data availability"),
+    "acknowledgment": ("acknowledgement", "Acknowledgements"),
+    "conflict-of-interest": ("conflict", "Declaration of competing interest"),
+    "appendices": ("annex", "Appendix"),
+}
+# a sub-section's own title decides its type (e.g. "Availability of data and
+# materials" nested inside <ce:acknowledgment>)
+TITLE_TYPES = [
+    (r"availab|data\s+(and|&)\s+(code|materials?)|data\s+sharing|code\s+sharing", "availability"),
+    (r"compet|conflict|declaration\s+of\s+interest", "conflict"),
+    (r"fund", "funding"),
+    (r"acknowledg", "acknowledgement"),
+]
+
+
+def back_units(el, default_head):
+    """(heading, element) pairs: the element's own paragraphs plus every
+    nested section, flattened in document order"""
+    units = []
+    if kids(el, "para", "simple-para"):
+        units.append((text_of(first(el, "section-title")) or default_head, el))
+    for sec in kids(el, "section"):
+        units.extend(back_units(sec, text_of(first(sec, "section-title")) or default_head))
+    return units
+
+
+def add_back(el, back, outers, idmap, default_type, default_head):
+    for head, src in back_units(el, default_head):
+        typ = next((t for pat, t in TITLE_TYPES if re.search(pat, head, re.I)), default_type)
+        div = ET.Element("div")
+        sub(div, "head", head)
+        paragraphs(src, div, idmap)
+        if len(div) < 2:  # heading only, no text
+            continue
+        if typ not in outers:
+            outers[typ] = sub(back, "div", type=typ)
+        outers[typ].append(div)
+
+
 # ------------------------------------------------------ figures & tables ---
 
 def add_figure(fig, body, new_id, idmap):
@@ -458,22 +501,10 @@ def convert(in_path, out_path):
 
     # ---- back matter
     back = sub(text, "back")
-    for name, typ in (("acknowledgment", "acknowledgement"),
-                      ("data-availability", "availability"),
-                      ("appendices", "annex")):
-        found = find_all(art, name)
-        if not found:
-            continue
-        outer = sub(back, "div", type=typ)
-        for el in found:
-            if name == "appendices":
-                add_sections(el, outer, idmap)
-            else:
-                div = sub(outer, "div")
-                sub(div, "head", text_of(first(el, "section-title")) or
-                    {"acknowledgement": "Acknowledgements",
-                     "availability": "Data availability"}[typ])
-                paragraphs(el, div, idmap)
+    outers = {}
+    for name in BACK_ELEMENTS:
+        for el in find_all(art, name):
+            add_back(el, back, outers, idmap, *BACK_ELEMENTS[name])
     refs = sub(back, "div", type="references")
     lb = sub(refs, "listBibl")
     for i, b in enumerate(bibrefs):
