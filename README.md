@@ -4,7 +4,7 @@
 
 Mapping data and code sharing practices among Q1 sport science journals over the past ten years.
 
-Read the preprint on MetaArXiv: <https://doi.org/10.31222/osf.io/et5fw_v1>
+Read the preprint on MetaArXiv: <https://doi.org/10.31222/osf.io/et5fw_v2>
 
 ## Repository Structure
 

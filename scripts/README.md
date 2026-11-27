@@ -7,5 +7,6 @@ This folder contains the R scripts used for this project.
 - `02.2-pilot-retrieval.R`: Assesses pilot full-text retrieval using Zotero and manual downloads.
 - `02.3-pilot-extraction.R`: Loads manual results and performs automated pilot extraction using `metacheck`.
 - `02.4-pilot-analysis.R`: Analyzes agreement between manual and automated extraction results.
-- `functions.R`: Defines helper functions for detecting availability statements, repositories, and statistical software.
+- `functions.R`: Defines helper functions for detecting availability statements, and reported statistical software.
+- `elsevier2tei.py`: Helper function to convert Elsevier XML to TEI XML.
 
